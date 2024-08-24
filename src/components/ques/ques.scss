@@ -1,0 +1,89 @@
+.question-container{
+    width: 60%;
+    height: 60%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .question-text{
+        margin-top: 10px;
+        border: 1px solid rgb(168, 167, 167);
+        border-radius: 10px;
+        padding: 10px;
+        font-size: 20px;
+        font-weight: 400;
+        margin-bottom: 35px;
+        color: rgb(109, 109, 4);
+    }
+    .answers-container{
+
+
+        .answer{
+            cursor: pointer;
+            margin-top: 10px;
+            border: 1px solid rgb(168, 167, 167);
+            border-radius: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+
+            &:hover{
+                background-color: rgb(235, 238, 74);
+            }
+        }
+        
+    }
+}
+
+/* Media query for small screens */
+@media only screen and (max-width:  600px) {
+    .question-container{
+        width: 60%;
+        height: 60%;
+        background-color: white;
+        border-radius: 20px;
+        padding: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    
+        .question-text{
+            margin-top: 10px;
+            border: 1px solid rgb(168, 167, 167);
+            border-radius: 10px;
+            padding: 10px;
+            font-size: 20px;
+            font-weight: 400;
+            margin-bottom: 35px;
+            color: rgb(109, 109, 4);
+        }
+        .answers-container{
+    
+    
+            .answer{
+                cursor: pointer;
+                margin-top: 10px;
+                border: 1px solid rgb(168, 167, 167);
+                border-radius: 10px;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 5px;
+                padding-bottom: 5px;
+
+                &:hover{
+                    background-color: white;
+                }
+            }
+            
+        }
+    }
+
+
+
+}

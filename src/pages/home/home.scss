@@ -1,0 +1,222 @@
+.container-home {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+    .header {
+        width: 100%;
+        display: flex;
+        flex-direction: row; /* Adjust for smaller screens */
+        margin-top: 5px;
+
+        .img {
+            width: 200px; /* Reduced size for smaller screens */
+            margin-left: 40px;
+            align-self: center; /* Center the image on small screens */
+            margin-top: 5pxm;
+            
+        }
+
+        .span {
+            width: 100%;
+            font-size: 60px; /* Reduced font size */
+            font-weight: 800;
+            color: rgb(163, 2, 2);
+            margin-left: 0; /* Removed margin for better centering */
+            display: flex;
+            align-items: center;
+            justify-content: end;
+            padding-right: 100px;
+            font-family: serif;
+            text-align: center; /* Center text for smaller screens */
+            margin-top: 10px;
+            
+        }
+    }
+
+    .intro {
+        width: 90%;
+        height: 25%; /* Adjust height automatically */
+        margin: 0 auto;
+        display: flex;
+        align-items: center; /* Centered vertically */
+        justify-content: center;
+
+        .p {
+            width: 100%;
+            text-align: center;
+            color: rgba(192, 191, 191, 0.705);
+            font-size: 14px; /* Adjust font size for readability */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+
+    .container-main {
+        width: 90%;
+        height: auto; /* Adjust height automatically */
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 25px;
+
+        .ques-list {
+            width: 100%; /* Adjust width to fit container */
+            justify-content: center;
+            display: flex;
+            flex-wrap: wrap; /* Allow list items to wrap on smaller screens */
+
+            .list {
+                width: 90%; /* Reduce width for smaller screens */
+                list-style: none;
+                margin: 10px;
+                border: 2px solid gray;
+                border-radius: 10px;
+                padding: 10px;
+                font-size: 16px; /* Adjust font size for readability */
+                color: rgb(61, 61, 243);
+
+                .link {
+                    font-size: 12px; /* Smaller font size for links */
+                }
+            }
+        }
+    }
+
+    .footer {
+        width: 100%;
+        background-color: rgb(240, 238, 238);
+        color: white;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 0; /* Add padding for better spacing */
+        position: absolute;
+        bottom: 0;
+        display: flex;
+        flex-direction: column;
+
+        .h6{
+            text-align: center;
+            color: black;
+        }
+    }
+}
+
+/* Media query for small screens */
+@media only screen and (max-width:  600px) {
+    .container-home {
+        width: 100vw;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    
+        .header {
+            width: 100%;
+            display: flex;
+            flex-direction: row; /* Adjust for smaller screens */
+            margin-top: 5px;
+    
+            .img {
+                width: 150px; /* Reduced size for smaller screens */
+                margin-left: 10px;
+                align-self: center; /* Center the image on small screens */
+                margin-top: 5px;
+            }
+    
+            .span {
+                width: 100%;
+                font-size: 50px; /* Reduced font size */
+                font-weight: 800;
+                color: rgb(163, 2, 2);
+                margin-left: 0; /* Removed margin for better centering */
+                display: flex;
+                align-items: center;
+                justify-content: end;
+                font-family: serif;
+                text-align: center; /* Center text for smaller screens */
+                margin-top: 10px;
+                padding-right: 20px;
+            }
+        }
+    
+        .intro {
+            width: 90%;
+            height: auto; /* Adjust height automatically */
+            margin: 20px auto;
+            display: flex;
+            align-items: center; /* Centered vertically */
+            justify-content: center;
+    
+            .p {
+                width: 100%;
+                text-align: justify;
+                color: rgba(192, 191, 191, 0.705);
+                font-size: 14px; /* Adjust font size for readability */
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+        }
+    
+        .container-main {
+            width: 90%;
+            height: auto; /* Adjust height automatically */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            margin-top: 25px;
+    
+            .ques-list {
+                width: 100%; /* Adjust width to fit container */
+                justify-content: center;
+                display: flex;
+                flex-wrap: wrap; /* Allow list items to wrap on smaller screens */
+    
+                .list {
+                    width: 90%; /* Reduce width for smaller screens */
+                    list-style: none;
+                    margin: 10px;
+                    border: 2px solid gray;
+                    border-radius: 10px;
+                    padding: 10px;
+                    font-size: 16px; /* Adjust font size for readability */
+                    color: rgb(61, 61, 243);
+    
+                    .link {
+                        font-size: 12px; /* Smaller font size for links */
+                    }
+                }
+            }
+        }
+    
+        .footer {
+            width: 100%;
+            background-color: rgb(240, 238, 238);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 0; /* Add padding for better spacing */
+            position: absolute;
+            bottom: 0;
+            display: flex;
+            flex-direction: column;
+
+        }
+    }
+    
+
+
+
+
+
+
+
+}

@@ -1,454 +1,318 @@
 export const dataQues = [
     {
         id:1,
-        question: "EVOKASI = ",
+        question: "REKOGNISI = ",
         answer:[
             {
-                text: "Penggugah rasa",
+                text: "Pengembalian",
+                correct: false
+            },
+            {
+                text: "Pemberitahuan",
+                correct: false
+            },
+            {
+                text: "Pengakuan",
                 correct: true
             },
             {
-                text: "Penilaian",
-                correct: false
-            },
-            {
                 text: "Perubahan",
-                correct: false
-            },
-            {
-                text: "Pengusian",
                 correct: false
             },
         ]
     },
     {
         id:2,
-        question: "BAKU = ",
+        question: "SABAN = ",
         answer:[
             {
-                text: "Perkiraan",
-                correct: false
-            },
-            {
-                text: "Standar",
+                text: "Tiap-tiap",
                 correct: true
             },
             {
-                text: "Umum",
+                text: "Jarang",
                 correct: false
             },
             {
-                text: "Normal",
+                text: "Sekali",
+                correct: false
+            },
+            {
+                text: "Sering",
                 correct: false
             },
         ]
     },
     {
         id:3,
-        question: "PROTESIS",
+        question: "ANGOT = ",
         answer:[
             {
-                text: "Hipotesis",
+                text: "Atau",
                 correct: false
             },
             {
-                text: "Buatan",
+                text: "Kumat",
                 correct: true
             },
             {
-                text: "Praduga",
+                text: "Andai",
                 correct: false
             },
             {
-                text: "Tesis ",
+                text: "Kacau ",
                 correct: false
             },
         ]
     },
     {
         id:4,
-        question: "HIPOTESIS = ",
+        question: "AGITATOR = ",
         answer:[
             {
-                text: "Tujuan",
-                correct: false
-            },
-            {
-                text: "Hasil",
-                correct: false
-            },
-            {
-                text: "Penelitian",
-                correct: false
-            },
-            {
-                text: "Praduga",
+                text: "Penghasut",
                 correct: true
+            },
+            {
+                text: "Pembela",
+                correct: false
+            },
+            {
+                text: "Pemerhati",
+                correct: false
+            },
+            {
+                text: "Ahli pidato",
+                correct: false
             },
         ]
     },
     {
         id:5,
-        question: "DIKOTOMI",
+        question: "AFIRMASI = ",
         answer:[
             {
-                text: "Dibagi dua",
+                text: "Penegasan",
                 correct: true
             },
             {
-                text: "Sila kedua",
+                text: "Penekanan",
                 correct: false
             },
             {
-                text: "Kembar dua",
+                text: "Penentuan",
                 correct: false
             },
             {
-                text: "Dua Kepala",
+                text: "Penerbitan",
                 correct: false
             },
         ]
     },
     {
         id:6,
-        question: "SINE QUA NON",
+        question: "LEGISTIMASI = ",
         answer:[
             {
-                text: "Air Mineral",
+                text: "Penghubung",
                 correct: false
             },
             {
-                text: "Harus Ada",
+                text: "Pengendalian",
+                correct: false
+            },
+            {
+                text: "Pengesahan",
                 correct: true
             },
             {
-                text: "Kelengkapan",
-                correct: false
-            },
-            {
-                text: "Tidak berpihak",
+                text: "Penikat",
                 correct: false
             },
         ]
     },
     {
         id:7,
-        question: "ANDAL = ",
+        question: "GANCU = ",
         answer:[
             {
-                text: "Dampak",
+                text: "Serokan",
                 correct: false
             },
             {
-                text: "Lingkungan",
+                text: "karung",
                 correct: false
             },
             {
-                text: "Tangguh",
+                text: "Timbangan",
+                correct: false
+            },
+            {
+                text: "Pengait",
                 correct: true
-            },
-            {
-                text: "Terbelakang",
-                correct: false
             },
         ]
     },
     {
         id:8,
-        question: "NARATIF = ",
+        question: "ENTITAS = ",
         answer:[
             {
-                text: "Prosa",
+                text: "Jumlah",
                 correct: false
             },
             {
-                text: "Puisi",
-                correct: false
-            },
-            {
-                text: "Deskriptif",
+                text: "Wujud",
                 correct: true
             },
             {
-                text: "Terinci",
+                text: "Tak terbatas",
+                correct: false
+            },
+            {
+                text: "Kualitas",
                 correct: false
             },
         ]
     },
     {
         id:9,
-        question: "KISI-KISI",
+        question: "BABUT = ",
         answer:[
             {
-                text: "Alat hitung",
+                text: "Tikar",
                 correct: false
             },
             {
-                text: "tabel",
+                text: "Sprei",
                 correct: false
             },
             {
-                text: "Trali",
+                text: "Karpet",
+                correct: false
+            },
+            {
+                text: "Permadani",
                 correct: true
-            },
-            {
-                text: "Pola kerja",
-                correct: false
             },
         ]
     },
     {
         id:10,
-        question: "MUDUN",
+        question: "EKAMATRA = ",
         answer:[
             {
-                text: "Problema",
-                correct: false
-            },
-            {
-                text: "Beradab",
+                text: "Prinsip tunggal",
                 correct: true
             },
             {
-                text: "Referensi",
+                text: "Hitungan",
                 correct: false
             },
             {
-                text: "Setuju",
+                text: "Numerikal",
+                correct: false
+            },
+            {
+                text: "Fisika ",
                 correct: false
             },
         ]
     },
     {
         id:11,
-        question: "RABAT = ",
+        question: "PERKASA = ",
         answer:[
             {
-                text: "Tambahan gaji",
+                text: "Gajah",
                 correct: false
             },
             {
-                text: "Potongan",
+                text: "Besar",
+                correct: false
+            },
+            {
+                text: "Tegap",
+                correct: false
+            },
+            {
+                text: "Bertenaga",
                 correct: true
-            },
-            {
-                text: "Keuntungan",
-                correct: false
-            },
-            {
-                text: "Jera mengulangi",
-                correct: false
             },
         ]
     },
     {
         id:12,
-        question: "BOGA = ",
+        question: "SIKLUS = ",
         answer:[
             {
-                text: "Pakaian kebesaran",
+                text: "Melingkar",
                 correct: false
             },
             {
-                text: "Makanan kenikmatan",
+                text: "Daur",
                 correct: true
             },
             {
-                text: "Dekorasi tataruang",
+                text: "Kembali",
                 correct: false
             },
             {
-                text: "Rumah tinggal",
+                text: "Balik",
                 correct: false
             },
         ]
     },
     {
         id:13,
-        question: " CITRA = ",
+        question: " RENOVASI = ",
         answer:[
             {
-                text: "Gambaran",
+                text: "Perbaikan",
                 correct: true
             },
             {
-                text: "Dandi",
+                text: "Pemugaran",
                 correct: false
             },
             {
-                text: "Anggapan",
+                text: "Pelestarian",
                 correct: false
             },
             {
-                text: "Imaginasi",
+                text: "Pemeliharaan",
                 correct: false
             },
         ]
     },
     {
         id:14,
-        question: "BALA = ",
+        question: "ACUAN = ",
         answer:[
             {
-                text: "Bencana",
+                text: "Pacuan",
+                correct: false
+            },
+            {
+                text: "Pemacu",
+                correct: false
+            },
+            {
+                text: "Rujukan",
                 correct: true
             },
             {
-                text: "Bantuan",
-                correct: false
-            },
-            {
-                text: "Merasakan",
-                correct: false
-            },
-            {
-                text: "Pedas",
+                text: "Pedoman",
                 correct: false
             },
         ]
     },
     {
         id:15,
-        question: "AKBAR = ",
-        answer:[
-            {
-                text: "Luas",
-                correct: false
-            },
-            {
-                text: "Tinggi",
-                correct: false
-            },
-            {
-                text: "Besar",
-                correct: true
-            },
-            {
-                text: "Dekat",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:16,
-        question: "TANUR = ",
-        answer:[
-            {
-                text: "Jamur",
-                correct: false
-            },
-            {
-                text: "Perkakas tukang",
-                correct: false
-            },
-            {
-                text: "Perapian",
-                correct: true
-            },
-            {
-                text: "Daun muda",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:17,
-        question: "WAHANA = ",
-        answer:[
-            {
-                text: "Kebesaran Tuhan",
-                correct: false
-            },
-            {
-                text: "Ruang angkasa",
-                correct: false
-            },
-            {
-                text: "Lawan dunia fana",
-                correct: false
-            },
-            {
-                text: "Sarana transportasi",
-                correct: true
-            },
-        ]
-    },
-    {
-        id:18,
-        question: "IMBASAN = ",
-        answer:[
-            {
-                text: "Imaginasi",
-                correct: false
-            },
-            {
-                text: "Ikatan",
-                correct: false
-            },
-            {
-                text: "Ilusi isapan",
-                correct: false
-            },
-            {
-                text: "Dorongan",
-                correct: true
-            },
-        ]
-    },
-    {
-        id:19,
-        question: "KEDAP = ",
-        answer:[
-            {
-                text: "Keragu-raguan",
-                correct: false
-            },
-            {
-                text: "Rapat",
-                correct: true
-            },
-            {
-                text: "Tembus",
-                correct: false
-            },
-            {
-                text: "Kelambatan",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:20,
-        question: "CANGGIH = ",
-        answer:[
-            {
-                text: "Sukar",
-                correct: false
-            },
-            {
-                text: "Mutakhir",
-                correct: false
-            },
-            {
-                text: "Complex",
-                correct: true
-            },
-            {
-                text: "Sulit",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:21,
         question: "PROTEKSI = ",
         answer:[
             {
-                text: "Pengawasan",
-                correct: false
-            },
-            {
-                text: "Pengaman",
+                text: "Dilindungi",
                 correct: false
             },
             {
@@ -456,74 +320,210 @@ export const dataQues = [
                 correct: true
             },
             {
-                text: "Bantuan",
+                text: "Melindungi",
+                correct: false
+            },
+            {
+                text: "Terlindung",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:16,
+        question: "BAGAK = ",
+        answer:[
+            {
+                text: "Galak",
+                correct: false
+            },
+            {
+                text: "Tidak tepat",
+                correct: false
+            },
+            {
+                text: "Pemberani",
+                correct: true
+            },
+            {
+                text: "Kosong",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:17,
+        question: "TRANSEDENTAL = ",
+        answer:[
+            {
+                text: "Bergerak",
+                correct: false
+            },
+            {
+                text: "Tembus pandang",
+                correct: false
+            },
+            {
+                text: "Berpindah",
+                correct: false
+            },
+            {
+                text: "Abstrak",
+                correct: true
+            },
+        ]
+    },
+    {
+        id:18,
+        question: "DELIK = ",
+        answer:[
+            {
+                text: "Sembunyi",
+                correct: false
+            },
+            {
+                text: "Pelanggaran hukum",
+                correct: true
+            },
+            {
+                text: "Tindak asusila",
+                correct: false
+            },
+            {
+                text: "Duplik",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:19,
+        question: "DISTORSI = ",
+        answer:[
+            {
+                text: "Nondeskripsi",
+                correct: false
+            },
+            {
+                text: "Kesalahpahaman",
+                correct: false
+            },
+            {
+                text: "Penyimpangan",
+                correct: true
+            },
+            {
+                text: "Penyalahgunaan",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:20,
+        question: "HUKUMAN = ",
+        answer:[
+            {
+                text: "Denda",
+                correct: true
+            },
+            {
+                text: "Ketentuan",
+                correct: false
+            },
+            {
+                text: "Hasil",
+                correct: false
+            },
+            {
+                text: "Pernyataan",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:21,
+        question: "HIBRIDA = ",
+        answer:[
+            {
+                text: "Tanaman",
+                correct: false
+            },
+            {
+                text: "Bibit ungul",
+                correct: false
+            },
+            {
+                text: "Sambungan",
+                correct: true
+            },
+            {
+                text: "Rerumputan",
                 correct: false
             },
         ]
     },
     {
         id:22,
-        question: "INTERASI = ",
+        question: "Tangkal = ",
         answer:[
             {
-                text: "Perulangan",
+                text: "Ujung",
+                correct: false
+            },
+            {
+                text: "Ketercapaian",
+                correct: false
+            },
+            {
+                text: "Tersinggung",
+                correct: false
+            },
+            {
+                text: "Cegah",
                 correct: true
-            },
-            {
-                text: "Hubungan",
-                correct: false
-            },
-            {
-                text: "Indikasi",
-                correct: false
-            },
-            {
-                text: "Interaksi",
-                correct: false
             },
         ]
     },
     {
         id:23,
-        question: "DAUR = ",
+        question: "VIRTUAL = ",
         answer:[
             {
-                text: "Baur",
+                text: "CD drive",
                 correct: false
             },
             {
-                text: "Produk",
-                correct: false
-            },
-            {
-                text: "Siklus",
+                text: "Impian",
                 correct: true
             },
             {
-                text: "Proses",
+                text: "Tempur",
+                correct: false
+            },
+            {
+                text: "Peperangan",
                 correct: false
             },
         ]
     },
     {
         id:24,
-        question: "MOTILITAS = ",
+        question: "DEDIKASI = ",
         answer:[
             {
-                text: "Angka kematian",
+                text: "Track record",
                 correct: false
             },
             {
-                text: "Sebangsa hewan",
+                text: "Pengampunan",
                 correct: false
             },
             {
-                text: "Gerak",
+                text: "Pekerjaan",
+                correct: false
+            },
+            {
+                text: "Pengabdian",
                 correct: true
-            },
-            {
-                text: "Dorongan",
-                correct: false
             },
         ]
     },
@@ -551,208 +551,322 @@ export const dataQues = [
     },
     {
         id:26,
-        question: "NABATI = ",
+        question: "ZENIT = ",
         answer:[
             {
-                text: "Hewani",
+                text: "Bintang",
                 correct: false
             },
             {
-                text: "Hayati",
+                text: "Batu",
                 correct: false
             },
             {
-                text: "Botani",
+                text: "Puncak",
                 correct: true
             },
             {
-                text: "Insani",
+                text: "Langit",
                 correct: false
             },
         ]
     },
     {
         id:27,
-        question: "INSOMNIA = ",
+        question: "BONAZA = ",
         answer:[
             {
-                text: "Tidur",
-                correct: false
-            },
-            {
-                text: "Cemas",
-                correct: false
-            },
-            {
-                text: "Tak bisa tidur",
+                text: "Sumber kesenangan",
                 correct: true
             },
             {
-                text: "Sedih",
+                text: "Peternakan",
+                correct: false
+            },
+            {
+                text: "Perayaan",
+                correct: false
+            },
+            {
+                text: "Judul sinetron",
                 correct: false
             },
         ]
     },
     {
         id:28,
-        question: "KESAHIHAN = ",
+        question: "KORDINATOR = ",
         answer:[
             {
-                text: "Keberlakuan",
-                correct: false
-            },
-            {
-                text: "Kesalahan",
-                correct: false
-            },
-            {
-                text: "Kematangan",
-                correct: false
-            },
-            {
-                text: "Kebenaran",
+                text: "Ketua",
                 correct: true
+            },
+            {
+                text: "Kepala",
+                correct: false
+            },
+            {
+                text: "bos",
+                correct: false
+            },
+            {
+                text: "Manager",
+                correct: false
             },
         ]
     },
     {
         id:29,
-        question: "TRANSENDENTAL = ",
+        question: "EXTRAVAGANZA = ",
         answer:[
             {
-                text: "Abstrak",
+                text: "Bermewah-mewahan",
                 correct: true
             },
             {
-                text: "Tembus pandang",
+                text: "Bertukar-tukaran",
                 correct: false
             },
             {
-                text: "Kesinambungan",
+                text: "Pertunjukan",
                 correct: false
             },
             {
-                text: "Berpindah",
+                text: "Drama",
                 correct: false
             },
         ]
     },
     {
         id:30,
-        question: "ASUMSI = ",
+        question: "DESKRIPTIF = ",
         answer:[
             {
-                text: "Kesimpulan",
+                text: "Bergambar",
                 correct: false
             },
             {
-                text: "Ramalan",
+                text: "Menggambar",
                 correct: false
             },
             {
-                text: "Anggapan",
+                text: "Rincian ",
+                correct: false
+            },
+            {
+                text: "Gambaran",
                 correct: true
-            },
-            {
-                text: "Perbandingan",
-                correct: false
             },
         ]
     },
     {
         id:31,
-        question: "MENGECOH = ",
+        question: "ENTERPRENEUR = ",
         answer:[
             {
-                text: "Mengaduk",
-                correct: false
-            },
-            {
-                text: "Mengakali",
+                text: "Pelaku usaha",
                 correct: true
             },
             {
-                text: "Berbuat curang",
+                text: "Bisnis",
                 correct: false
             },
             {
-                text: "Membuat kacau ",
+                text: "Kewirausahaan",
+                correct: false
+            },
+            {
+                text: "Perusahaan",
                 correct: false
             },
         ]
     },
     {
         id:32,
-        question: "DITENGGAK = ",
+        question: "AKURAT = ",
         answer:[
             {
-                text: "Ditendang ke atas",
+                text: "Siap",
                 correct: false
             },
             {
-                text: "Ditelan bulat-bulat",
+                text: "Pas",
+                correct: false
+            },
+            {
+                text: "Kemauan",
+                correct: false
+            },
+            {
+                text: "Seksama",
                 correct: true
-            },
-            {
-                text: "Dipotong melintang",
-                correct: false
-            },
-            {
-                text: "Diminum sedikit-sedikit",
-                correct: false
             },
         ]
     },
     {
         id:33,
-        question: "SUTRADARA = ",
+        question: "TANUR = ",
         answer:[
             {
-                text: "Pemimpin acara",
-                correct: false
-            },
-            {
-                text: "Penulis naskah",
-                correct: false
-            },
-            {
-                text: "Penulis skenario",
-                correct: false
-            },
-            {
-                text: "Pengarah adegan",
+                text: "Perapian",
                 correct: true
+            },
+            {
+                text: "Mahkota",
+                correct: false
+            },
+            {
+                text: "Benteng",
+                correct: false
+            },
+            {
+                text: "Panci",
+                correct: false
             },
         ]
     },
     {
         id:34,
-        question: "PEMUGARAN = ",
+        question: "KEDAIFAN = ",
         answer:[
             {
-                text: "Pemeliharaan",
+                text: "Kekuatan",
                 correct: false
             },
             {
-                text: "Pembongkaran",
+                text: "Perpecahan",
                 correct: false
             },
             {
-                text: "Pembangunan",
+                text: "Kekerasan",
                 correct: false
             },
             {
-                text: "Perbaikan",
+                text: "Kelemahan",
                 correct: true
             },
         ]
     },
     {
         id:35,
-        question: "RANCU = ",
+        question: "NARATIF = ",
         answer:[
             {
-                text: "Canggung",
+                text: "Prosa",
+                correct: false
+            },
+            {
+                text: "Deskriptif",
+                correct: true
+            },
+            {
+                text: "Terici",
+                correct: false
+            },
+            {
+                text: "Puisi",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:36,
+        question: "PERBENA = ",
+        answer:[
+            {
+                text: "Taman hias",
+                correct: true
+            },
+            {
+                text: "Rapat",
+                correct: false
+            },
+            {
+                text: "Menyerupai hamparan",
+                correct: false
+            },
+            {
+                text: "Menjalar",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:37,
+        question: "ENDEMI = ",
+        answer:[
+            {
+                text: "Persamaan",
+                correct: false
+            },
+            {
+                text: "Perkumpulan",
+                correct: false
+            },
+            {
+                text: "Penyebaran penyakit",
+                correct: true
+            },
+            {
+                text: "Siklus hama",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:38,
+        question: "EMINEN = ",
+        answer:[
+            {
+                text: "Semangat",
+                correct: false
+            },
+            {
+                text: "Setara",
+                correct: false
+            },
+            {
+                text: "Hebat",
+                correct: false
+            },
+            {
+                text: "Unggul",
+                correct: true
+            },
+        ]
+    },
+    {
+        id:39,
+        question: "EGALITER = ",
+        answer:[
+            {
+                text: "Murni",
+                correct: false
+            },
+            {
+                text: "pencipta",
+                correct: false
+            },
+            {
+                text: "sederajat",
+                correct: true
+            },
+            {
+                text: "Mendominasi",
+                correct: false
+            },
+        ]
+    },
+    {
+        id:40,
+        question: "CHAOS = ",
+        answer:[
+            {
+                text: "Normal",
+                correct: false
+            },
+            {
+                text: "Tingi",
                 correct: false
             },
             {
@@ -760,341 +874,227 @@ export const dataQues = [
                 correct: true
             },
             {
-                text: "Tidak wajar",
-                correct: false
-            },
-            {
-                text: "Semu",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:36,
-        question: "KONTRADIKSI = ",
-        answer:[
-            {
-                text: "Perjanjian",
-                correct: false
-            },
-            {
-                text: "Diskusi",
-                correct: false
-            },
-            {
-                text: "Penanda-tanda kontrak",
-                correct: false
-            },
-            {
-                text: "Pertentangan ",
-                correct: true
-            },
-        ]
-    },
-    {
-        id:37,
-        question: "GRASI = ",
-        answer:[
-            {
-                text: "Tempat parkir mobil",
-                correct: false
-            },
-            {
-                text: "Tidak usah bayar",
-                correct: false
-            },
-            {
-                text: "Pengampunan hukum dari presiden",
-                correct: true
-            },
-            {
-                text: "Percetakan",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:38,
-        question: "KULMINASI = ",
-        answer:[
-            {
-                text: "Tingkat yang tertingi",
-                correct: true
-            },
-            {
-                text: "Keadaan emosi seseorang",
-                correct: false
-            },
-            {
-                text: "Panas terik matahari",
-                correct: false
-            },
-            {
-                text: "Sumbu Bumi",
-                correct: false
-            },
-        ]
-    },
-    {
-        id:39,
-        question: "RESIDU = ",
-        answer:[
-            {
-                text: "Gangguan",
-                correct: false
-            },
-            {
-                text: "Alat penyaringan",
-                correct: false
-            },
-            {
-                text: "Gelisa",
-                correct: false
-            },
-            {
-                text: "Sisa ",
-                correct: true
-            },
-        ]
-    },
-    {
-        id:40,
-        question: "NUANSA = ",
-        answer:[
-            {
-                text: "Irama",
-                correct: false
-            },
-            {
-                text: "Perbedaan unsur makna",
-                correct: true
-            },
-            {
-                text: "Kelangsungan",
-                correct: false
-            },
-            {
-                text: "Keseimbangan",
+                text: "Pewarna",
                 correct: false
             },
         ]
     },
     {
         id:41,
-        question: "KUNYUK = ",
+        question: "KOLUSI = ",
         answer:[
             {
-                text: "Sial",
+                text: "Kekerabatan",
                 correct: false
             },
             {
-                text: "Macan",
-                correct: false
-            },
-            {
-                text: "Gorila",
-                correct: false
-            },
-            {
-                text: "Kera kecil",
+                text: "Kongkalikong",
                 correct: true
+            },
+            {
+                text: "Sahabat",
+                correct: false
+            },
+            {
+                text: "Penarikan",
+                correct: false
             },
         ]
     },
     {
         id:42,
-        question: "CURUK = ",
+        question: "CLASS = ",
         answer:[
             {
-                text: "Pusat",
+                text: "Group",
                 correct: false
             },
             {
-                text: "Lekuk",
+                text: "Kumpulan",
+                correct: false
+            },
+            {
+                text: "Kesatuan",
+                correct: false
+            },
+            {
+                text: "Peringkat",
                 correct: true
-            },
-            {
-                text: "Simpang",
-                correct: false
-            },
-            {
-                text: "Tanda",
-                correct: false
             },
         ]
     },
     {
         id:43,
-        question: "HOSTES = ",
+        question: "CANGGIH = ",
         answer:[
             {
-                text: "Pramuria",
+                text: "Sophisticated",
                 correct: true
             },
             {
-                text: "Pramusaji",
+                text: "Hebat",
                 correct: false
             },
             {
-                text: "Pramugari",
+                text: "Sempurna",
                 correct: false
             },
             {
-                text: "Pramuniaga",
+                text: "Dasyat",
                 correct: false
             },
         ]
     },
     {
         id:44,
-        question: "HIBRIDASI = ",
+        question: "OTODIDAK = ",
         answer:[
             {
-                text: "Penyilangan",
+                text: "Berjalan sendiri",
+                correct: false
+            },
+            {
+                text: "Belajar sendiri",
                 correct: true
             },
             {
-                text: "Penjaringan",
+                text: "Tidak bergantung",
                 correct: false
             },
             {
-                text: "Periatirahatan",
-                correct: false
-            },
-            {
-                text: "Ungulan",
+                text: "Bertindak sendiri",
                 correct: false
             },
         ]
     },
     {
         id:45,
-        question: "JENGGALA = ",
+        question: "LATIF = ",
         answer:[
             {
-                text: "Lebat",
+                text: "Antik",
                 correct: false
             },
             {
-                text: "Bukit",
+                text: "Menari",
                 correct: false
             },
             {
-                text: "Sabana",
-                correct: false
-            },
-            {
-                text: "Hutan",
+                text: "Indah",
                 correct: true
+            },
+            {
+                text: "Baik",
+                correct: false
             },
         ]
     },
     {
         id:46,
-        question: "TASIK = ",
+        question: "GAJI = ",
         answer:[
             {
-                text: "Sungai",
+                text: "Pendapatan",
                 correct: false
             },
             {
-                text: "Rawa",
-                correct: false
-            },
-            {
-                text: "Danau",
+                text: "Honor",
                 correct: true
             },
             {
-                text: "Lembah",
+                text: "Upah",
+                correct: false
+            },
+            {
+                text: "Bayaran",
                 correct: false
             },
         ]
     },
     {
         id:47,
-        question: "NANAR = ",
+        question: "REGISTRASI = ",
         answer:[
             {
-                text: "Kosong",
+                text: "Terdaftar",
                 correct: false
             },
             {
-                text: "Bingung",
+                text: "Pendaftaran",
                 correct: true
             },
             {
-                text: "Berani",
+                text: "Mendaftar",
                 correct: false
             },
             {
-                text: "Tajam",
+                text: "Pendaftar",
                 correct: false
             },
         ]
     },
     {
         id:48,
-        question: "KLARIFIKASI = ",
+        question: "EKLIPS = ",
         answer:[
             {
-                text: "Pengaturan",
-                correct: false
-            },
-            {
-                text: "Penentuan",
-                correct: false
-            },
-            {
-                text: "Penegasan",
-                correct: false
-            },
-            {
-                text: "Penjelasan",
+                text: "Gerhana",
                 correct: true
+            },
+            {
+                text: "Bulat",
+                correct: false
+            },
+            {
+                text: "Lonjong",
+                correct: false
+            },
+            {
+                text: "Perputaran bumi",
+                correct: false
             },
         ]
     },
     {
         id:49,
-        question: "RANAH = ",
+        question: "MUKZIZAT = ",
         answer:[
             {
-                text: "Asal",
+                text: "Keramah",
                 correct: false
             },
             {
-                text: "Tanah",
+                text: "Kekuatan",
                 correct: false
             },
             {
-                text: "Kampung",
-                correct: false
-            },
-            {
-                text: "Domain",
+                text: "Karomah",
                 correct: true
+            },
+            {
+                text: "Ilmu gaib",
+                correct: false
             },
         ]
     },
     {
         id:50,
-        question: "DEPEDENSI = ",
+        question: "AMBIJGUITAS = ",
         answer:[
             {
-                text: "Mandiri",
+                text: "Batas ambang",
                 correct: false
             },
             {
-                text: "Tidak peduli",
+                text: "Ketidakcocokan",
                 correct: false
             },
             {
-                text: "Mengharapkan",
+                text: "Salah",
                 correct: false
             },
             {
-                text: "Tergantung",
+                text: "Makna ganda",
                 correct: true
             },
         ]

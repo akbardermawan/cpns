@@ -2,7 +2,7 @@
   "name": "bank-soal",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://akbardermawan.github.io/akbar.github.io",
+  "homepage": "https://akbardermawan.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",

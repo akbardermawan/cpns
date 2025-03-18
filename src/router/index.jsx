@@ -9,6 +9,9 @@ import Tpa1 from "../components/tpa1/Tpa1";
 import Que from "../components/ques/Que";
 import Twk2 from "../components/twk2/Twk2";
 import Twk3 from "../components/twk3/Twk3";
+import Twk4 from "../components/twk4/Twk4";
+import Pp from "../pages/pp/Pp";
+import Pp1 from "../components/pp1/Pp1";
 
 
 
@@ -34,6 +37,10 @@ const router = createBrowserRouter([
         element: <Twk3/>
     },
     {
+        path:"/twk4",
+        element: <Twk4/>
+    },
+    {
         path:"/tiu",
         element: <Tiu/>
     },
@@ -52,6 +59,14 @@ const router = createBrowserRouter([
     {
         path:"/tpa1",       // Rute untuk halaman TPA
         element: <Tpa1/>
+    },
+    {
+        path:"/pp",   //Rute Penyuluh Pertanian
+        element: <Pp/>
+    },
+    {
+        path:"/pp1",   //Rute Penyuluh Pertanian
+        element: <Pp1/>
     }
 ]);
 

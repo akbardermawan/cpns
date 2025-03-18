@@ -22,19 +22,19 @@ export default function Twk() {
             <Link to="/twk1" className='link'>go twk 1</Link>
           </li>
           <li className="li">
-            <img src="/images/1.JPG" alt="" className='img'/>
+            <img src="/images/9.JPG" alt="" className='img'/>
             <h4 className="h4">TWK 2</h4>
             <Link to="/twk2" className='link'>go twk 2</Link>
           </li>
           <li className="li">
-            <img src="/images/2.JPG" alt="" className='img'/>
+            <img src="/images/10.JPG" alt="" className='img'/>
             <h4 className="h4">TWK 3</h4>
             <Link to="/twk3" className='link'>go twk 3</Link>
           </li>
           <li className="li">
             <img src="/images/2.JPG" alt="" className='img'/>
             <h4 className="h4">TWK 3</h4>
-            <Link to="/twk4" className='link'>go twk 3</Link>
+            <Link to="/twk4" className='link'>go twk 4</Link>
           </li>
           
         </ul>

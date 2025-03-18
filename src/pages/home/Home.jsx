@@ -30,6 +30,10 @@ export default function Home() {
               <h2 className='h2'>Tes Potensi Akademik</h2>
             <Link to="/tpa" className='link'>Go to TPA </Link> 
             </li>
+            <li className="list">
+              <h2 className='h2'>SKD Penyuluh Pertanian</h2>
+            <Link to="/pp" className='link'>Go to PP </Link> 
+            </li>
             
         </ul>
       </div>

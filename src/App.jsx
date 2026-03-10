@@ -1,8 +1,16 @@
-import { RouterProvider } from "react-router-dom";
-import router from "./router";
+import { ToastContainer } from "react-toastify";
+import { Outlet } from "react-router-dom";
+import "./App.scss";
 
 function App() {
-  return <RouterProvider router={router} />;
+  return (
+    <>
+      <ToastContainer />
+      <main className="">
+        <Outlet />
+      </main>
+    </>
+  );
 }
 
 export default App;

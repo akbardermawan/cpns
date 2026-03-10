@@ -1,29 +1,29 @@
 export const dataQues = [
   {
     id: 1,
-    question: "REKOGNISI = ",
+    question: "Nilai dari 999% dari 0,738738",
     answer: [
       {
-        text: "Pengembalian",
+        text: "0,74",
         correct: false,
       },
       {
-        text: "Pemberitahuan",
-        correct: false,
-      },
-      {
-        text: "Pengakuan",
+        text: "7,39",
         correct: true,
       },
       {
-        text: "Perubahan",
+        text: "73,9",
+        correct: false,
+      },
+      {
+        text: "75",
         correct: false,
       },
     ],
   },
   {
     id: 2,
-    question: "SABAN = ",
+    question: "Berapakah deret angka ",
     answer: [
       {
         text: "Tiap-tiap",

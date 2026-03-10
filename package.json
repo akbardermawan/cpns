@@ -13,10 +13,13 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.26.1",
-    "sass": "^1.77.8"
+    "react-toastify": "^11.0.5",
+    "sass": "^1.77.8",
+    "tailwindcss": "^4.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",

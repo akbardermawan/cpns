@@ -1,13 +1,13 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
-export default function Tiu() {
+export default function Tkp() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <div className=" mx-auto">
         {/* Title */}
         <h1 className="text-3xl font-bold text-center bg-blue-300 py-3 rounded-lg shadow">
-          Tes Intelegensi Umum
+          Tes Karakteristik Pribadi
         </h1>
 
         {/* Home Button */}

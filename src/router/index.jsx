@@ -21,6 +21,10 @@ import Pp from "../pages/pp/Pp";
 import Pp1 from "../components/pp1/Pp1";
 import Cpns from "../pages/cpns/Cpns";
 
+import LoginCpns1 from "../components/cpns1/LoginCpns1";
+import RoomCpns1 from "../components/cpns1/RoomCpns1";
+import ResultCpns1 from "../components/cpns1/ResultCpns1";
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
@@ -44,6 +48,10 @@ const router = createBrowserRouter(
       <Route path="/pp1" element={<Pp1 />} />
 
       <Route path="/cpns" element={<Cpns />} />
+
+      <Route path="/cpns1" element={<LoginCpns1 />} />
+      <Route path="/roomcpns1" element={<RoomCpns1 />} />
+      <Route path="/resultcpns1" element={<ResultCpns1 />} />
     </Route>,
   ),
 );

@@ -29,7 +29,7 @@ const Cpns = () => {
         <div className="flex flex-col">
           <div className="py-2">
             <Link
-              to="/cpns"
+              to="/cpns1"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">CPNS 1</h2>
@@ -37,7 +37,7 @@ const Cpns = () => {
           </div>
           <div className="py-2">
             <Link
-              to="/cpns"
+              to="/cpns2"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">CPNS 2</h2>
@@ -45,7 +45,7 @@ const Cpns = () => {
           </div>
           <div className="py-2">
             <Link
-              to="/cpns"
+              to="/cpns3"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">CPNS 3</h2>

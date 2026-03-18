@@ -5,6 +5,7 @@ import QuestCpns1 from "./QuestCpns1";
 
 import { dataQues } from "../../database/cpns1/quest";
 import { toast } from "react-toastify";
+import TimerCpns1 from "./TimerCpns1";
 
 const RoomCpns1 = () => {
   const [answers, setAnswers] = useState({}); // simpan semua jawaban
@@ -51,7 +52,9 @@ const RoomCpns1 = () => {
   return (
     <div className="flex flex-col md:flex-row justify-center items-center h-screen">
       <div className="flex flex-col w-full h-[70%] md:w-[70%] md:h-[65%] justify-center items-center">
-        <h3 className="absolute top-0 left-0 m-2">Semoga sukses</h3>
+        <div className="absolute top-5 right-5 m-2">
+          <TimerCpns1 />
+        </div>
 
         <h1 className="text-black m-5 text-xl md:text-4xl font-semibold">
           Quiz Application

@@ -23,1079 +23,1113 @@ export const dataQues = [
   },
   {
     id: 2,
-    question: "Berapakah deret angka ",
+    question:
+      "Diketahui X = 0,75 + 1/4 - 25%  dan Y = 75% , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
     answer: [
       {
-        text: "Tiap-tiap",
+        text: "X > Y",
+        correct: false,
+      },
+      {
+        text: "X < Y",
+        correct: false,
+      },
+      {
+        text: "X = Y",
         correct: true,
       },
       {
-        text: "Jarang",
-        correct: false,
-      },
-      {
-        text: "Sekali",
-        correct: false,
-      },
-      {
-        text: "Sering",
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 3,
-    question: "ANGOT = ",
+    question:
+      "Diketahui X = (16 : 1/2) x 7/5  dan Y = 25/2 + (48 x 3/2) - 7/2 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
     answer: [
       {
-        text: "Atau",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Kumat",
+        text: "X < Y",
         correct: true,
       },
       {
-        text: "Andai",
+        text: "X = Y",
         correct: false,
       },
       {
-        text: "Kacau ",
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 4,
-    question: "AGITATOR = ",
+    question: "Hasil dari 5/2 x 2 - 2,25 : 5/2 adalah ",
     answer: [
       {
-        text: "Penghasut",
+        text: "0,1",
+        correct: false,
+      },
+      {
+        text: "1,1",
+        correct: false,
+      },
+      {
+        text: "3,1",
+        correct: false,
+      },
+      {
+        text: "4,1",
         correct: true,
-      },
-      {
-        text: "Pembela",
-        correct: false,
-      },
-      {
-        text: "Pemerhati",
-        correct: false,
-      },
-      {
-        text: "Ahli pidato",
-        correct: false,
       },
     ],
   },
   {
     id: 5,
-    question: "AFIRMASI = ",
+    question: "Hasil dari 2,5 - 0,8 + 2/5 x 1,5 : 2 adalah ...",
     answer: [
       {
-        text: "Penegasan",
+        text: "1",
+        correct: false,
+      },
+      {
+        text: "2",
         correct: true,
       },
       {
-        text: "Penekanan",
+        text: "4",
         correct: false,
       },
       {
-        text: "Penentuan",
-        correct: false,
-      },
-      {
-        text: "Penerbitan",
+        text: "6",
         correct: false,
       },
     ],
   },
   {
     id: 6,
-    question: "LEGISTIMASI = ",
+    question:
+      "Diketahui X = 100/3 % dari 11  dan Y = 1/3 dari 12 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
     answer: [
       {
-        text: "Penghubung",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Pengendalian",
-        correct: false,
-      },
-      {
-        text: "Pengesahan",
+        text: "X < Y",
         correct: true,
       },
       {
-        text: "Penikat",
+        text: "X = Y",
+        correct: false,
+      },
+      {
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 7,
-    question: "GANCU = ",
+    question:
+      "Diketahui Bima memiliki gandum sebanyak 10 kantong plastik, berat setiap kantong 10 kg. Nilai X = 1  dan Y = Berat seluruh gandum Bima dalam kuintal , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
     answer: [
       {
-        text: "Serokan",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "karung",
+        text: "X < Y",
         correct: false,
       },
       {
-        text: "Timbangan",
-        correct: false,
-      },
-      {
-        text: "Pengait",
+        text: "X = Y",
         correct: true,
+      },
+      {
+        text: "hubungan X dan Y tidak dapat ditentukan",
+        correct: false,
       },
     ],
   },
   {
     id: 8,
-    question: "ENTITAS = ",
+    question:
+      "Apabila suatu pekerjaan diselesaikan oleh 64 orang dalam waktu 1/2 hari. Nilai X = 8 dan Y = banyak orang yang dibutuhkan untuk menyelesaikan pekerjaan tersebut dalam waktu 4 hari. Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
     answer: [
       {
-        text: "Jumlah",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Wujud",
+        text: "X < Y",
+        correct: false,
+      },
+      {
+        text: "X = Y",
         correct: true,
       },
       {
-        text: "Tak terbatas",
-        correct: false,
-      },
-      {
-        text: "Kualitas",
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 9,
-    question: "BABUT = ",
+    question:
+      "Sebuah mobil milik HJ Akbar memerlukan bensin 30 liter untuk menempuh jarak 450 km, jika mobil tersebut menghabiskan bensin 3 liter, jarak yang dapat ditempuh adalah ... km",
     answer: [
       {
-        text: "Tikar",
+        text: "15",
         correct: false,
       },
       {
-        text: "Sprei",
+        text: "25",
         correct: false,
       },
       {
-        text: "Karpet",
+        text: "30",
         correct: false,
       },
       {
-        text: "Permadani",
+        text: "45",
         correct: true,
       },
     ],
   },
   {
     id: 10,
-    question: "EKAMATRA = ",
+    question:
+      "Setiap hari ada 6 truc yang melewati jalan raya depan rumah Mas Agung. Setiap truck memuat 15 kuintal semangka. Berapa ton jumlah semangka yang melewati rumah Mas Agung dalam satu minggu ...",
     answer: [
       {
-        text: "Prinsip tunggal",
+        text: "36",
+        correct: false,
+      },
+      {
+        text: "57",
+        correct: false,
+      },
+      {
+        text: "63",
         correct: true,
       },
       {
-        text: "Hitungan",
-        correct: false,
-      },
-      {
-        text: "Numerikal",
-        correct: false,
-      },
-      {
-        text: "Fisika ",
+        text: "72",
         correct: false,
       },
     ],
   },
   {
     id: 11,
-    question: "PERKASA = ",
+    question:
+      "Suatu pekerjaan diselesaikan oleh 8 orang dalam wakktu 4 hari. Berapa orang yang di butuhkan untuk menyelesaikan pekerjaan tersebut dalam waktu 2 hari? ",
     answer: [
       {
-        text: "Gajah",
+        text: "12",
         correct: false,
       },
       {
-        text: "Besar",
-        correct: false,
-      },
-      {
-        text: "Tegap",
-        correct: false,
-      },
-      {
-        text: "Bertenaga",
+        text: "16",
         correct: true,
+      },
+      {
+        text: "20",
+        correct: false,
+      },
+      {
+        text: "24",
+        correct: false,
       },
     ],
   },
   {
     id: 12,
-    question: "SIKLUS = ",
+    question: "..., ..., ..., 426, 1.278, 1.290, 3.870",
     answer: [
       {
-        text: "Melingkar",
+        text: "122, 136, 408",
         correct: false,
       },
       {
-        text: "Daur",
+        text: "124, 137, 412",
+        correct: false,
+      },
+      {
+        text: "126, 138, 414",
         correct: true,
       },
       {
-        text: "Kembali",
-        correct: false,
-      },
-      {
-        text: "Balik",
+        text: "128, 139, 416",
         correct: false,
       },
     ],
   },
   {
     id: 13,
-    question: " RENOVASI = ",
+    question: "..., ..., ..., 422, 1.266, 1.280, 3.840 ",
     answer: [
       {
-        text: "Perbaikan",
+        text: "122, 136, 408",
         correct: true,
       },
       {
-        text: "Pemugaran",
+        text: "124, 137, 412",
         correct: false,
       },
       {
-        text: "Pelestarian",
+        text: "126, 138, 414",
         correct: false,
       },
       {
-        text: "Pemeliharaan",
+        text: "128, 139, 416",
         correct: false,
       },
     ],
   },
   {
     id: 14,
-    question: "ACUAN = ",
+    question: "50, 40, 100, 90, ..., 140, 200, 190",
     answer: [
       {
-        text: "Pacuan",
+        text: "120",
         correct: false,
       },
       {
-        text: "Pemacu",
+        text: "130",
         correct: false,
       },
       {
-        text: "Rujukan",
+        text: "150",
         correct: true,
       },
       {
-        text: "Pedoman",
+        text: "170",
         correct: false,
       },
     ],
   },
   {
     id: 15,
-    question: "PROTEKSI = ",
+    question:
+      "Nilai X = 0,135 + 6,025 + 7,381 dan Y = 14 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
     answer: [
       {
-        text: "Dilindungi",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Perlindungan",
+        text: "X < Y",
         correct: true,
       },
       {
-        text: "Melindungi",
+        text: "X = Y",
         correct: false,
       },
       {
-        text: "Terlindung",
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 16,
-    question: "BAGAK = ",
+    question: "2,20 x 0,75 + 3/5 : 1/8 = ...",
     answer: [
       {
-        text: "Galak",
+        text: "1,69",
         correct: false,
       },
       {
-        text: "Tidak tepat",
+        text: "9,8",
         correct: false,
       },
       {
-        text: "Pemberani",
+        text: "6,45",
         correct: true,
       },
       {
-        text: "Kosong",
+        text: "4,9",
         correct: false,
       },
     ],
   },
   {
     id: 17,
-    question: "TRANSEDENTAL = ",
+    question:
+      "Nilai X = 666/777 dan Y = 777/888 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
     answer: [
       {
-        text: "Bergerak",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Tembus pandang",
-        correct: false,
-      },
-      {
-        text: "Berpindah",
-        correct: false,
-      },
-      {
-        text: "Abstrak",
+        text: "X < Y",
         correct: true,
+      },
+      {
+        text: "X = Y",
+        correct: false,
+      },
+      {
+        text: "hubungan X dan Y tidak dapat ditentukan",
+        correct: false,
       },
     ],
   },
   {
     id: 18,
-    question: "DELIK = ",
+    question:
+      "Mahexsa membutuhkan bensin sebanyak 4 liter untuk menempuh jarak 52 km. Dengan asumsi medan yang dilalui sama, berapa liter bensin yang diperlukan untuk menempuh jarak 260 km?",
     answer: [
       {
-        text: "Sembunyi",
+        text: "13",
         correct: false,
       },
       {
-        text: "Pelanggaran hukum",
+        text: "18",
+        correct: false,
+      },
+      {
+        text: "20",
         correct: true,
       },
       {
-        text: "Tindak asusila",
-        correct: false,
-      },
-      {
-        text: "Duplik",
+        text: "25",
         correct: false,
       },
     ],
   },
   {
     id: 19,
-    question: "DISTORSI = ",
+    question:
+      "Ulum membutuhkan bensin sebanyak 6 liter untuk menempuh jarak 66 km. Diketahui nilai X = jumlah bensin (liter) yang diperlukan untuk menempuh jarak 275 km dan nilai Y = 25. Dengan asumsi medan yang dilalui sama, manakah hubungan yang benar antara kuantitas P dan Q berikut berdasarkan informasi yang diberikkan ?",
     answer: [
       {
-        text: "Nondeskripsi",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Kesalahpahaman",
+        text: "X < Y",
         correct: false,
       },
       {
-        text: "Penyimpangan",
+        text: "X = Y",
         correct: true,
       },
       {
-        text: "Penyalahgunaan",
+        text: "hubungan X dan Y tidak dapat ditentukan",
         correct: false,
       },
     ],
   },
   {
     id: 20,
-    question: "HUKUMAN = ",
+    question:
+      "Mobil Agung memerlukan bensin 50 liter untuk menempuh jarak 700 km, jika mobil tersebut menghabiskan bensin 4 liter, jarak yang dapat ditempuh adalah ... km ",
     answer: [
       {
-        text: "Denda",
+        text: "30",
+        correct: false,
+      },
+      {
+        text: "45",
+        correct: false,
+      },
+      {
+        text: "50",
+        correct: false,
+      },
+      {
+        text: "56",
         correct: true,
-      },
-      {
-        text: "Ketentuan",
-        correct: false,
-      },
-      {
-        text: "Hasil",
-        correct: false,
-      },
-      {
-        text: "Pernyataan",
-        correct: false,
       },
     ],
   },
   {
     id: 21,
-    question: "HIBRIDA = ",
+    question:
+      "Agung berangkat dari kota A ke kota B dengan kecepatan 100 km/jam selama 2 jam. Yahya berangkat dari kota B ke kota A selama 150 menit. Berapakah kecepatan Yahya",
     answer: [
       {
-        text: "Tanaman",
+        text: "95",
         correct: false,
       },
       {
-        text: "Bibit ungul",
+        text: "90",
         correct: false,
       },
       {
-        text: "Sambungan",
+        text: "80",
         correct: true,
       },
       {
-        text: "Rerumputan",
+        text: "75",
         correct: false,
       },
     ],
   },
   {
     id: 22,
-    question: "Tangkal = ",
+    question:
+      "Bus pertama berangkat dari kota A pukul 07.35 WIB dengan kecepatan 80 km/jam dan tiba di kota B pukul 10.05 WIB. Diketahui nilai X = kecepatan Bus kedua melaju dari kota B ke kota A selama 120 menit  dan  nilai Y = 75 km/jam. Manakah yang benar antara kuantitas X dan Y ?",
     answer: [
       {
-        text: "Ujung",
-        correct: false,
-      },
-      {
-        text: "Ketercapaian",
-        correct: false,
-      },
-      {
-        text: "Tersinggung",
-        correct: false,
-      },
-      {
-        text: "Cegah",
+        text: "X > Y",
         correct: true,
+      },
+      {
+        text: "X < Y",
+        correct: false,
+      },
+      {
+        text: "X = Y",
+        correct: false,
+      },
+      {
+        text: "hubungan X dan Y tidak dapat ditentukan",
+        correct: false,
       },
     ],
   },
   {
     id: 23,
-    question: "VIRTUAL = ",
+    question: "Hasil dari 15/2 : 5 + 3/4 x 8 - 20% = ...",
     answer: [
       {
-        text: "CD drive",
+        text: "7,1",
         correct: false,
       },
       {
-        text: "Impian",
+        text: "7,2",
+        correct: false,
+      },
+      {
+        text: "7,3",
         correct: true,
       },
       {
-        text: "Tempur",
-        correct: false,
-      },
-      {
-        text: "Peperangan",
+        text: "8,1",
         correct: false,
       },
     ],
   },
   {
     id: 24,
-    question: "DEDIKASI = ",
+    question:
+      "Nilai X = 2,5 - 1 + 1/5 dan Y = 2/5 x 2 + 1. Manakah hubungan yang benar berdasarkan informasi yang diberikan?",
     answer: [
       {
-        text: "Track record",
+        text: "X > Y",
         correct: false,
       },
       {
-        text: "Pengampunan",
-        correct: false,
-      },
-      {
-        text: "Pekerjaan",
-        correct: false,
-      },
-      {
-        text: "Pengabdian",
+        text: "X < Y",
         correct: true,
+      },
+      {
+        text: "X = Y",
+        correct: false,
+      },
+      {
+        text: "hubungan X dan Y tidak dapat ditentukan",
+        correct: false,
       },
     ],
   },
   {
     id: 25,
-    question: "FRIKSI = ",
+    question:
+      "Jika hari minggu cerah, maka saya akan bersepedah. Jika jalan kering, maka saya masuk kehutan. Hari minggu cerah atau jalanan kering ",
     answer: [
       {
-        text: "Perpecahan",
+        text: "Saya akan bersepedah dan masuk kehutan",
+        correct: false,
+      },
+      {
+        text: "Jika saya bersepedah, maka saya masuk ke hutan",
+        correct: false,
+      },
+      {
+        text: "Saya akan bersepedah atau masuk ke hutan",
         correct: true,
       },
       {
-        text: "Tidak berdaya",
-        correct: false,
-      },
-      {
-        text: "Frustasi",
-        correct: false,
-      },
-      {
-        text: "Sedih",
+        text: "Saya akan bersepedah atau tidak masuk ke hutan",
         correct: false,
       },
     ],
   },
   {
     id: 26,
-    question: "ZENIT = ",
+    question:
+      "Semua musim di Indonesia berlangsung selama 6 bulan. Sebagian terasa panas. Kesimpulannya adalah ...",
     answer: [
       {
-        text: "Bintang",
+        text: "Semua musim di Indonesia berlangsung selama 6 bulan dan terasa panas",
         correct: false,
       },
       {
-        text: "Batu",
+        text: "Ada musim di Indonesia berlangsung selama 6 bulan",
         correct: false,
       },
       {
-        text: "Puncak",
+        text: "Sebagian musim di Indonesia berlangsung selama 6 bulan dan terasa panas",
         correct: true,
       },
       {
-        text: "Langit",
+        text: "Ada musim di Indonesia berlangsung tidak selama 6 bulan",
         correct: false,
       },
     ],
   },
   {
     id: 27,
-    question: "BONAZA = ",
+    question:
+      "Pada saat mendaftarkan anaknya sekolah, para wali murid berbincang dengan sangat antusias. Kalimat di atas memiliki pola yang sama dengan kalimat ...",
     answer: [
       {
-        text: "Sumber kesenangan",
+        text: "Di taman bermain, anak SD sedang menggambar sawah dengan indahnya",
+        correct: false,
+      },
+      {
+        text: "Di siang hari, ada penjual bakso berkeliling depan rumahku",
+        correct: false,
+      },
+      {
+        text: "saat sore hari, petani pulang dari sawah",
+        correct: false,
+      },
+      {
+        text: "Saat malam hari, aku dan temanku berkendara dengan hati-hati",
         correct: true,
-      },
-      {
-        text: "Peternakan",
-        correct: false,
-      },
-      {
-        text: "Perayaan",
-        correct: false,
-      },
-      {
-        text: "Judul sinetron",
-        correct: false,
       },
     ],
   },
   {
     id: 28,
-    question: "KORDINATOR = ",
+    question: "2, 10, 60, 420, 3360, 30240, 302400, ..., ... ",
     answer: [
       {
-        text: "Ketua",
+        text: "3326400, 39916800",
         correct: true,
       },
       {
-        text: "Kepala",
+        text: "3326400, 39916802",
         correct: false,
       },
       {
-        text: "bos",
+        text: "3326402, 39916804",
         correct: false,
       },
       {
-        text: "Manager",
+        text: "3326404, 39916806",
         correct: false,
       },
     ],
   },
   {
     id: 29,
-    question: "EXTRAVAGANZA = ",
+    question: "Hasil dari 5/2 x 2 - 2,25 : 5/2 ",
     answer: [
       {
-        text: "Bermewah-mewahan",
+        text: "0,1",
+        correct: false,
+      },
+      {
+        text: "1,1",
+        correct: false,
+      },
+      {
+        text: "3,1",
+        correct: false,
+      },
+      {
+        text: "4,1",
         correct: true,
-      },
-      {
-        text: "Bertukar-tukaran",
-        correct: false,
-      },
-      {
-        text: "Pertunjukan",
-        correct: false,
-      },
-      {
-        text: "Drama",
-        correct: false,
       },
     ],
   },
   {
     id: 30,
-    question: "DESKRIPTIF = ",
+    question: "Hasil dari  2,5 - 0,8 + 2/5 x 1,5 : 2 adalah ... ",
     answer: [
       {
-        text: "Bergambar",
+        text: "1",
         correct: false,
       },
       {
-        text: "Menggambar",
-        correct: false,
-      },
-      {
-        text: "Rincian ",
-        correct: false,
-      },
-      {
-        text: "Gambaran",
+        text: "2",
         correct: true,
+      },
+      {
+        text: "4",
+        correct: false,
+      },
+      {
+        text: "6",
+        correct: false,
       },
     ],
   },
   {
     id: 31,
-    question: "ENTERPRENEUR = ",
+    question:
+      "Jika bahan baku langka, maka produksi barang menurun. Penurunan produksi barang menyebabkan keuntungan berkurang",
     answer: [
       {
-        text: "Pelaku usaha",
+        text: "Keuntungan berkurang menimbulkan produksi barang menurun",
+        correct: false,
+      },
+      {
+        text: "Penurunan produksi barang menimbulkan bahan baku langka",
+        correct: false,
+      },
+      {
+        text: "Kelangkaan bahan baku menyebakan keuntungan berkurang",
         correct: true,
       },
       {
-        text: "Bisnis",
-        correct: false,
-      },
-      {
-        text: "Kewirausahaan",
-        correct: false,
-      },
-      {
-        text: "Perusahaan",
+        text: "Kelangkaan bahan baku menyebakan tidak keuntungan berkurang",
         correct: false,
       },
     ],
   },
   {
     id: 32,
-    question: "AKURAT = ",
+    question:
+      "Semua hutan di Indonesia ditanami pohon. Sebagaian pohon adalah pohon Jati",
     answer: [
       {
-        text: "Siap",
+        text: "Semua hutan di Indonesia ditanami pohon Jati",
         correct: false,
       },
       {
-        text: "Pas",
+        text: "Sebagian hutan di Indonesia tidak di tanami pohon Jati",
         correct: false,
       },
       {
-        text: "Kemauan",
+        text: "Sebagian hutan di Indonesia ditanami pohon Sawit",
         correct: false,
       },
       {
-        text: "Seksama",
+        text: "Sebagian hutan di Indonesia ditanami pohon Jati",
         correct: true,
       },
     ],
   },
   {
     id: 33,
-    question: "TANUR = ",
+    question:
+      "DPR yang korupsi ditangkap KPK. DPR yang ditangkap KPK akan dimasukan penjara ",
     answer: [
       {
-        text: "Perapian",
+        text: "Semua DPR korupsi harus di adili",
+        correct: false,
+      },
+      {
+        text: "DPR yang korupsi menyuap KPK",
+        correct: false,
+      },
+      {
+        text: "DPR yang korupsi akan dimasukan penjara",
         correct: true,
       },
       {
-        text: "Mahkota",
-        correct: false,
-      },
-      {
-        text: "Benteng",
-        correct: false,
-      },
-      {
-        text: "Panci",
+        text: "DPR yang tidak korupsi tidak akan dimasukan penjara",
         correct: false,
       },
     ],
   },
   {
+    //setiap == semua
     id: 34,
-    question: "KEDAIFAN = ",
+    question:
+      "Setiap pemain sepak bola klub Totenham, dapat berlari dengan sangat cepat. Setiap pemain yang dapat berlari dengan cepat dapat menggiring bola dengan baik",
     answer: [
       {
-        text: "Kekuatan",
+        text: "Beberapa pemain sepak bola klub Totenham dapat berlari dengan sangat cepat",
         correct: false,
       },
       {
-        text: "Perpecahan",
+        text: "Beberapa pemain sepak bola klub Totenham dapat berlari dengan sangat cepat dan menggiring bola dengan baik",
         correct: false,
       },
       {
-        text: "Kekerasan",
-        correct: false,
-      },
-      {
-        text: "Kelemahan",
+        text: "Semua pemain sepak bola klub Totenham dapat berlari dengan sangat cepat dan menggiring bola dengan baik",
         correct: true,
+      },
+      {
+        text: "Semua pemain sepak bola dapat berlari dengan sangat cepat dan menggiring bola dengan baik",
+        correct: false,
       },
     ],
   },
   {
     id: 35,
-    question: "NARATIF = ",
+    question:
+      "Semua pesawat adalah kendaraan. Sebagian kendaraan tidak komersial ",
     answer: [
       {
-        text: "Prosa",
-        correct: false,
-      },
-      {
-        text: "Deskriptif",
+        text: "Sebagian pesawat tidak komersial",
         correct: true,
       },
       {
-        text: "Terici",
+        text: "Semua yang komersial bukan pesawat",
         correct: false,
       },
       {
-        text: "Puisi",
+        text: "Sebagian yang komersial adalah kendaraan",
+        correct: false,
+      },
+      {
+        text: "Semua kendaraan tidak komersial",
         correct: false,
       },
     ],
   },
   {
     id: 36,
-    question: "PERBENA = ",
+    question: "Sebaian intan bersifat kuat. Semua yang kuat tidak mudah patah",
     answer: [
       {
-        text: "Taman hias",
+        text: "Kekuatan berasal dari intan",
+        correct: false,
+      },
+      {
+        text: "Hanya intan yang tidak mudah patah",
+        correct: false,
+      },
+      {
+        text: "Semua intan tidak mudah patah",
+        correct: false,
+      },
+      {
+        text: "Sebagian intan tidak mudah patah",
         correct: true,
-      },
-      {
-        text: "Rapat",
-        correct: false,
-      },
-      {
-        text: "Menyerupai hamparan",
-        correct: false,
-      },
-      {
-        text: "Menjalar",
-        correct: false,
       },
     ],
   },
   {
     id: 37,
-    question: "ENDEMI = ",
+    question:
+      "Semua apel dari kota Malang berwarna hijau. Sebagian apel yang berwarna hijau memiliki rasa asam manis",
     answer: [
       {
-        text: "Persamaan",
+        text: "Semua apel dari kota Malang memiliki rasa asam manis",
         correct: false,
       },
       {
-        text: "Perkumpulan",
+        text: "Sebagian apel ada yang berwarna merah dan manis",
         correct: false,
       },
       {
-        text: "Penyebaran penyakit",
+        text: "Sebagian apel dari kota Malang memiliki rasa asam manis",
         correct: true,
       },
       {
-        text: "Siklus hama",
+        text: "Sebagian apel dari kota Malang tidak memiliki rasa asam manis",
         correct: false,
       },
     ],
   },
   {
     id: 38,
-    question: "EMINEN = ",
+    question: "Pari : Ikan = ... : ...",
     answer: [
       {
-        text: "Semangat",
+        text: "Gandum : Teri",
         correct: false,
       },
       {
-        text: "Setara",
+        text: "Jambu : Biji",
         correct: false,
       },
       {
-        text: "Hebat",
-        correct: false,
-      },
-      {
-        text: "Unggul",
+        text: "Bayam : Sayur",
         correct: true,
+      },
+      {
+        text: "Burung : Ayam",
+        correct: false,
       },
     ],
   },
   {
     id: 39,
-    question: "EGALITER = ",
+    question: "Pizza : GAndum = ... : ...",
     answer: [
       {
-        text: "Murni",
+        text: "Rumah : Tukang",
         correct: false,
       },
       {
-        text: "pencipta",
-        correct: false,
-      },
-      {
-        text: "sederajat",
+        text: "Genteng : Tanah liat",
         correct: true,
       },
       {
-        text: "Mendominasi",
+        text: "Patung : Pemahat",
+        correct: false,
+      },
+      {
+        text: "Gambar : Pelukis",
         correct: false,
       },
     ],
   },
   {
     id: 40,
-    question: "CHAOS = ",
+    question:
+      "Ulum memiliki 3 mobil, 2 sepeda motor dan 2 sepeda. Berapa cara Ulum dapat berangkat dari rumah ke kantor menggunakan kendaraanya ?",
     answer: [
       {
-        text: "Normal",
+        text: "3",
         correct: false,
       },
       {
-        text: "Tingi",
-        correct: false,
-      },
-      {
-        text: "Kacau",
+        text: "7",
         correct: true,
       },
       {
-        text: "Pewarna",
+        text: "12",
+        correct: false,
+      },
+      {
+        text: "36",
         correct: false,
       },
     ],
   },
   {
     id: 41,
-    question: "KOLUSI = ",
+    question:
+      "Aldi mempunyai 3 baju yang berwarna merah, hijau, dan kuning. Ia memiliki 2 celana yang berwarna biru dan hitam. Banyak cara berpakaian Aldi dengan penampilan yang berbeda adalah ...",
     answer: [
       {
-        text: "Kekerabatan",
-        correct: false,
-      },
-      {
-        text: "Kongkalikong",
+        text: "6",
         correct: true,
       },
       {
-        text: "Sahabat",
+        text: "12",
         correct: false,
       },
       {
-        text: "Penarikan",
+        text: "16",
+        correct: false,
+      },
+      {
+        text: "24",
         correct: false,
       },
     ],
   },
   {
     id: 42,
-    question: "CLASS = ",
+    question:
+      "Rio akan pergi ke rumah neneknya yang berda di desa Jabung, melalui desa Jetis. Jika dari desa Ngasinan ke Jetis terdapat 2 jalan dan dari Jetis ke Jabugn terdapata 3 jalan, maka berapa carakah perjalanan Rio dari berangkat hingga pulang kembali, jika rio boleh melewati jalan yang sama ketika  pulang?",
     answer: [
       {
-        text: "Group",
+        text: "6",
         correct: false,
       },
       {
-        text: "Kumpulan",
+        text: "8",
         correct: false,
       },
       {
-        text: "Kesatuan",
+        text: "32",
         correct: false,
       },
       {
-        text: "Peringkat",
+        text: "36",
         correct: true,
       },
     ],
   },
   {
     id: 43,
-    question: "CANGGIH = ",
+    question: "Hasil 20 : 4 + 4/5 x 11/5 adalah ...",
     answer: [
       {
-        text: "Sophisticated",
+        text: "165/44",
+        correct: false,
+      },
+      {
+        text: "169/25",
         correct: true,
       },
       {
-        text: "Hebat",
+        text: "174/25",
         correct: false,
       },
       {
-        text: "Sempurna",
-        correct: false,
-      },
-      {
-        text: "Dasyat",
+        text: "169/165",
         correct: false,
       },
     ],
   },
   {
     id: 44,
-    question: "OTODIDAK = ",
+    question: "Hasil dari 27/4 + 2 - 43/8 adalah",
     answer: [
       {
-        text: "Berjalan sendiri",
+        text: "15/4",
         correct: false,
       },
       {
-        text: "Belajar sendiri",
+        text: "27/8",
         correct: true,
       },
       {
-        text: "Tidak bergantung",
+        text: "19/4",
         correct: false,
       },
       {
-        text: "Bertindak sendiri",
+        text: "35/8",
         correct: false,
       },
     ],
   },
   {
     id: 45,
-    question: "LATIF = ",
+    question: "..., ...,  ..., 18, 72, 360, 2160 ",
     answer: [
       {
-        text: "Antik",
+        text: "2, 2, 4",
         correct: false,
       },
       {
-        text: "Menari",
-        correct: false,
-      },
-      {
-        text: "Indah",
+        text: "3, 3, 6",
         correct: true,
       },
       {
-        text: "Baik",
+        text: "3, 4, 6",
+        correct: false,
+      },
+      {
+        text: "3, 3, 9",
         correct: false,
       },
     ],
   },
   {
     id: 46,
-    question: "GAJI = ",
+    question:
+      "Jika Lina rajin belajar, maka ia menjadi juara kelas. Jika Lina menjadi juara kelas, maka ia disayang guru. Lina tidak disayang guru. Kesimpulan yang sah adalah ... ",
     answer: [
       {
-        text: "Pendapatan",
+        text: "Lina rajin belarjar tetapi tidak juara kelas",
         correct: false,
       },
       {
-        text: "Honor",
+        text: "Lina rajin belajar dan juara kelas",
+        correct: false,
+      },
+      {
+        text: "Lina tidak rajin belajar",
         correct: true,
       },
       {
-        text: "Upah",
-        correct: false,
-      },
-      {
-        text: "Bayaran",
+        text: "Lina tidak rajin belajar tetapi juara kelas",
         correct: false,
       },
     ],
   },
   {
     id: 47,
-    question: "REGISTRASI = ",
+    question:
+      "Jika harga BBM naik, maka harga bahan pokok naik. Jika harga bahan pokok naik maka semua orang tidak senang. Semua orang merasa senang. Kesimpulan yang sah adalah ...",
     answer: [
       {
-        text: "Terdaftar",
+        text: "Jika harga BBM naik, maka semua orang tidak senang",
         correct: false,
       },
       {
-        text: "Pendaftaran",
+        text: "Harga bahan pokok naik",
+        correct: false,
+      },
+      {
+        text: "Harga BBM naik",
+        correct: false,
+      },
+      {
+        text: "Harga BBM tidak naik",
         correct: true,
-      },
-      {
-        text: "Mendaftar",
-        correct: false,
-      },
-      {
-        text: "Pendaftar",
-        correct: false,
       },
     ],
   },
   {
     id: 48,
-    question: "EKLIPS = ",
+    question:
+      "Jika suatu sarana merupakan sarana yang up to date maka sarana itu harus dioprasikan dengan sistem yang moderen. Jika sistem itu moderen maka sistem itu harus terkomputerisasi. Sarana Y masih dioprasikan secara manual dan belum terkomputerisasi.",
     answer: [
       {
-        text: "Gerhana",
+        text: "Jika suatu sarana dikatakan menggunakan sistem yang modern maka belum tentu sarana terkomputerisasi",
+        correct: false,
+      },
+      {
+        text: "Sarana Y merupakan sistem yang modern",
+        correct: false,
+      },
+      {
+        text: "Sarana Y adalah sarana yang up to date",
+        correct: false,
+      },
+      {
+        text: "Sarana Y bukan sarana yang up to date",
         correct: true,
-      },
-      {
-        text: "Bulat",
-        correct: false,
-      },
-      {
-        text: "Lonjong",
-        correct: false,
-      },
-      {
-        text: "Perputaran bumi",
-        correct: false,
       },
     ],
   },
   {
     id: 49,
-    question: "MUKZIZAT = ",
+    question:
+      "Jika kabut asap maka pilot membatalkan penerbangan. Jika debu semakin tebal maka keluarga memakai masker. Kabut asap meningkat atau debu semakin tebal",
     answer: [
       {
-        text: "Keramah",
-        correct: false,
-      },
-      {
-        text: "Kekuatan",
-        correct: false,
-      },
-      {
-        text: "Karomah",
+        text: "Pilot membatalkan penerbangan atau keluarga memakai masker",
         correct: true,
       },
       {
-        text: "Ilmu gaib",
+        text: "Pilot membatalkan penerbangan dan sebagaian keluarga memakai masker",
+        correct: false,
+      },
+      {
+        text: "Pilot tidak membatalkan penerbangan atau keluarga tidak memakai masker",
+        correct: false,
+      },
+      {
+        text: "Debu semakin tebal atau pilot membatalakan penerbangan",
         correct: false,
       },
     ],
   },
   {
     id: 50,
-    question: "AMBIJGUITAS = ",
+    question:
+      "Jika bensin mobil penuh maka pergi ke pantai. Jika cuaca cerah maka harga seafood lebih murah. Tidak pergi ke pantai atau harga seafood tidak lebih murah",
     answer: [
       {
-        text: "Batas ambang",
+        text: "Bensin mobil penuh dan cuaca tidak cerah",
         correct: false,
       },
       {
-        text: "Ketidakcocokan",
-        correct: false,
-      },
-      {
-        text: "Salah",
-        correct: false,
-      },
-      {
-        text: "Makna ganda",
+        text: "Bensin mobil tidak penuh atau cuaca tidak cerah",
         correct: true,
+      },
+      {
+        text: "Pergi ke pantai atau harga seafood lebih murah",
+        correct: false,
+      },
+      {
+        text: "Jika cuaca cerah maka pergi ke pantai",
+        correct: false,
       },
     ],
   },

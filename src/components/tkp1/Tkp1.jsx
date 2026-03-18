@@ -1,10 +1,11 @@
 import React from "react";
+
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate
-import { dataQues } from "../../database/tiu3";
+import { dataQues } from "../../database/tkp1";
 import { toast } from "react-toastify";
 
-export default function Tiu3() {
+export default function Tkp1() {
   const [quesNumber, setQuesNumber] = useState(1);
 
   const [ques, setQues] = useState(null);
@@ -41,7 +42,7 @@ export default function Tiu3() {
           setTimeout(() => {
             setSelectedAnswer(null);
             setClassName("");
-            navigate("/tiu");
+            navigate("/tkp");
           }, 1500);
         }
       } else {
@@ -59,11 +60,11 @@ export default function Tiu3() {
         </div>
 
         {/* Answers */}
-        <div className="flex flex-col mt-2">
+        <div className="space-y-4 pt-5">
           {ques?.answer.map((a, index) => (
             <div className="pt-2" key={index} onClick={() => handleClick(a)}>
               <div
-                className={`cursor-pointer border rounded-lg p-4 transition mt-2
+                className={`cursor-pointer border rounded-lg p-4 transition 
                 hover:bg-blue-50 hover:border-blue-400
                 ${
                   selectedAnswer === a

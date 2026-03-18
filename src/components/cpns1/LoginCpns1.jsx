@@ -46,7 +46,7 @@ const LoginCpns1 = () => {
           <li>The result will be declared at the end of the quiz.</li>
         </ol>
 
-        <form className="pt-8 pb-4">
+        <form className="pt-8 pb-4" onSubmit={startQuiz}>
           <input
             type="text"
             value={userName}
@@ -54,16 +54,16 @@ const LoginCpns1 = () => {
             className="w-full px-4 py-2 text-black rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 border-blue-800 border"
             onChange={(e) => setUserName(e.target.value)}
           />
-        </form>
 
-        <div className="mt-6 flex justify-center">
-          <button
-            className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg transition"
-            onClick={startQuiz}
-          >
-            Start Quiz
-          </button>
-        </div>
+          <div className="pt-6 flex justify-center">
+            <button
+              type="submit"
+              className="bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-6 rounded-lg transition"
+            >
+              Start Quiz
+            </button>
+          </div>
+        </form>
       </div>
     </div>
   );

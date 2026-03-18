@@ -6,7 +6,7 @@ export default function Tkp() {
     <div className="min-h-screen bg-gray-100 p-6">
       <div className=" mx-auto">
         {/* Title */}
-        <h1 className="text-3xl font-bold text-center bg-blue-300 py-3 rounded-lg shadow">
+        <h1 className="text-3xl font-bold text-center bg-yellow-200 py-3 rounded-lg shadow">
           Tes Karakteristik Pribadi
         </h1>
 
@@ -21,78 +21,78 @@ export default function Tkp() {
           </Link>
         </div>
 
-        {/* List TIU */}
-        <div className="mt-10">
+        {/* List TKP */}
+        <div className="pt-5">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
             <Link
-              to="/tiu1"
+              to="/tkp1"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/3.JPG"
-                alt="TIU 1"
+                src="/images/12.jpg"
+                alt="TKP 1"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 1</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 1</h4>
             </Link>
 
             <Link
-              to="/tiu2"
+              to="/tkp2"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/3.JPG"
-                alt="TIU 2"
+                src="/images/12.jpg"
+                alt="TKP 2"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 2</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 2</h4>
             </Link>
 
             <Link
-              to="/tiu3"
+              to="/tkp3"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/4.JPG"
-                alt="TIU 3"
+                src="/images/12.jpg"
+                alt="TKP 3"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 3</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 3</h4>
             </Link>
 
             <Link
-              to="/tiu4"
+              to="/tkp4"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/4.JPG"
-                alt="TIU 5"
+                src="/images/12.jpg"
+                alt="TKP 5"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 4</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 4</h4>
             </Link>
 
             <Link
-              to="/tiu5"
+              to="/tkp5"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/4.JPG"
-                alt="TIU 6"
+                src="/images/12.jpg"
+                alt="TKP 6"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 5</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 5</h4>
             </Link>
             <Link
-              to="/tpa1"
+              to="/tkp1"
               className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center"
             >
               <img
-                src="/images/6.png"
-                alt="TIU 4"
+                src="/images/12.jpg"
+                alt="TKP 4"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TPA 1</h4>
+              <h4 className="mt-3 text-lg font-semibold">TKP 6</h4>
             </Link>
           </div>
         </div>

@@ -11,6 +11,7 @@ import Tiu1 from "../components/tiu1/Tiu1";
 import Tiu2 from "../components/tiu2/Tiu2";
 import Tiu3 from "../components/tiu3/Tiu3";
 import Tkp from "../pages/tkp/Tkp";
+import Tkp1 from "../components/tkp1/Tkp1";
 import Tpa1 from "../components/tpa1/Tpa1";
 import Que from "../components/ques/Que";
 import Twk0 from "../components/twk0/Twk0";
@@ -43,6 +44,7 @@ const router = createBrowserRouter(
       <Route path="/tpa1" element={<Tpa1 />} />
 
       <Route path="/tkp" element={<Tkp />} />
+      <Route path="/tkp1" element={<Tkp1 />} />
 
       <Route path="/pp" element={<Pp />} />
       <Route path="/pp1" element={<Pp1 />} />

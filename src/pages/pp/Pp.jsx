@@ -46,22 +46,20 @@ export default function Tiu() {
           <h2 className="text-2xl font-semibold mb-4">Soal PP</h2>
 
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-            <div className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center">
-              <img
-                src="/images/8.JPG"
-                alt="PP 1"
-                className="w-full h-40 object-cover rounded-md"
-              />
+            <Link
+              to="/pp1"
+              className="inline-block mt-3 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition"
+            >
+              <div className="bg-white rounded-xl shadow hover:shadow-lg transition transform hover:-translate-y-1 p-4 text-center">
+                <img
+                  src="/images/8.JPG"
+                  alt="PP 1"
+                  className="w-full h-40 object-cover rounded-md"
+                />
 
-              <h4 className="mt-3 text-lg font-semibold">PP 1</h4>
-
-              <Link
-                to="/pp1"
-                className="inline-block mt-3 bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition"
-              >
-                Mulai
-              </Link>
-            </div>
+                <h4 className="mt-3 text-lg font-semibold text-black">PP 1</h4>
+              </div>
+            </Link>
           </div>
         </div>
       </div>

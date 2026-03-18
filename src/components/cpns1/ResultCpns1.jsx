@@ -1,11 +1,14 @@
 import React, { useEffect, useState } from "react";
 import { correctAnswer } from "../../database/cpns1/correctAnswer";
 import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const ResultCpns1 = () => {
   const [userName, setUserName] = useState("");
   const [quizAnswer, setQuizAnswer] = useState([]);
   const [score, setScore] = useState(0);
+
+  const navigate = useNavigate();
 
   //ambil username dari localstorage
   useEffect(() => {
@@ -36,6 +39,17 @@ const ResultCpns1 = () => {
 
     setScore(total);
   }, [quizAnswer]);
+
+  //menghapu  quizTimer, username, dan quizAnswer dari localstorage
+  function OnReturn() {
+    // hapus data dari localStorage
+    localStorage.removeItem("quizTimer");
+    localStorage.removeItem("username");
+    localStorage.removeItem("quizAnswers");
+
+    // redirect
+    navigate("/cpns");
+  }
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-start p-8 bg-gray-100">
@@ -69,12 +83,12 @@ const ResultCpns1 = () => {
       </div>
       {/* Home Button */}
       <div className="pt-10">
-        <Link
-          to="/cpns"
+        <button
           className="inline-flex items-center gap-2 bg-white px-4 py-2 rounded-lg shadow hover:bg-gray-200 transition"
+          onClick={OnReturn}
         >
-          <span className="font-medium">Return CPNS</span>
-        </Link>
+          Return CPNS
+        </button>
       </div>
     </div>
   );

@@ -315,36 +315,33 @@ export const dataQues = [
     ],
   },
   {
+    //3
     id: 33,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pensil memiliki ujung pensil dan penghapus. Hubungan ini sama dengan ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Buku memiliki sampul dan halaman",
+      "Lampu memiliki bohlam dan sakelar",
+      "Sepatu memiliki tali dan sol",
+      "Kunci memiliki gagang dan gigi",
     ],
   },
   {
+    //2
     id: 34,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Diketahui nilai X = 3/4 dan Y = 5. nilai A = 4X - 1/5 Y dan B = 1/3 X + Y. Manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...",
+    options: ["3A = B", "A = 2B", "A < B", "A > B"],
   },
   {
+    //0
     id: 35,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Sebuah proyek dikerjakan oleh 40 pekerja dengan target selesai dalam 90 hari. Setelah berjalan selama 50 hari, 15 pekerja mengambil libur selama 4 hari. Agar proyek tetap selasai tepat waktu, berapa pekerja tambahan yang perlu ditambahkan? ",
+    options: ["2", "4", "6", "8"],
   },
   {
+    //1
     id: 36,
     question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
     options: [
@@ -355,63 +352,75 @@ export const dataQues = [
     ],
   },
   {
+    //2
     id: 37,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Keberagaman menjadi pisau bermata dua bagi Indonesia. Jika masyarakat menganggap hal itu positif, maka keberagaman akan mengakibatkan bersatunya seluruh komponen masnyarakat Indonesia. Jika masyarakat menganggap hal itu negatif maka akan berakibat pada perpecahan karena perbedaan budaya antara satu wilayah dengan wilayah lainnya. Peran nasionalisme yang diwujudkan melalui hal ini contohnya ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Teman-teman Nia yang tertawa ketika Nia menari tarian daerahnya",
+      "Fardi tidak keberatan unutk berkumpul bersama temannya yang berbeda agama",
+      "Mika tidak memilih-milih dalam berteman meskipun berbeda suku",
+      "Dreaken selalu memberikan yang terbaik walaupun atasannya berbeda keyakinan",
     ],
   },
   {
+    //3
     id: 38,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Salah satu tantangan besar nasionalisme di era globalisasi adalah ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meningkatkanya partisipasi warga dalam kegiatan politik",
+      "Meningkatnya kerjasama antara negara",
+      "Berkembangnya teknologi informasi dan komunikasi",
+      "Tergerusnya identitas nasional oleh budaya asing",
     ],
   },
   {
+    //3
     id: 39,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Kesadaran keanggotaan dalam susatu bangsa yang secara potensial atau aktual bersama-sama mencapai, mempertahankan, dan mengabdikan identitas, integritas, kemakmuran, dan kekuatan bangsanya merupakan pengertian dari ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Bela Negara",
+      "Integritas Nasional",
+      "Patriotisme",
+      "Nasionalisme",
     ],
   },
   {
+    //3
     id: 40,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Berikut ini merupakan pengamalan praktis dari Pancasila sila ke-4 dan HAM yang dapat dilakukan oleh setiap warga negara Indonesia dalam kehidupan bertetangga adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengutamakan kepentingan negara dan masyarakat",
+      "Mengutamakan suara mayoritas dalam mengambil keputusan",
+      "Tidak memaksakan kehendak pada orang lain",
+      "Rela bekerja keras dan bergotong royong",
     ],
   },
   {
+    //0
     id: 41,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Presiden Soeharto memegang jabatan lebih dari 30 tahun melalui pemilihan presiden yang dilakukan oleh MPRl. Setelah amandemen UUD 1945, MPR tidak lagi melakukan pemilihan presiden sejak tahun 2004 dan pada tahun itu Indonesia pertama kali memiliki presiden berdasarkan pilihan rakyat. Perubahan kewenangan MPR disebabkan karena ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Kedaulatan berada di tangan rakyat",
+      "Kedaulatan sepenuhnya dilakkukan melalui pilpres langsung",
+      "Kedaulatan berada di ditangan legisatif dan presiden/wapres yang dilakukan melalui mekanisme pemilihan langsung",
+      "Kedaulatan dilaksanakan oleh presiden sebagai Mandate MPR",
     ],
   },
   {
+    //0
     id: 42,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Indonesia sebagai sebuah negara kesatuan yang berbentuk republik memiliki landasan konstitusional yang kuat, yang dijelaskan dalam Pasal 1 Ayat (1) UUD 1945. Dalam konteks ini, Negara Indonesia yang merupakan bentuk kesatuan memiliki arti sebagai ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Indonesia memiliki suatu pemerintahan pusat yang mengatur seluruh wilayahnya",
+      "Indonesia terdiri dari beberapa negara bagian yang saling berdiri sendiri",
+      "Indonesia memiliki beberapa pemerintahan pusat yang saling bekerja sama",
+      "Indonesia terdiri dari beberapa wilayah yang memiliki otonomi khusus",
     ],
   },
   {
@@ -435,13 +444,15 @@ export const dataQues = [
     ],
   },
   {
+    //1
     id: 45,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang karyawan yang bekerja di sebauh perusahaan selalu menyelesaikan pekerjaanya tepat waktu dan dengan kualitas yang sangat baik. Namun, suatu saat dia mengalami masalah pribadi yang membuatnya tidak bisa fokus pada pekerjaannya. Apa yang seharusnya dilakukan karyawan tersebut untuk mempertahankan komitmen dan integritasnya di tempat kerja?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menyelesaikan pekerjaannya setelah masalah pribadinya selesai, tanpa memberi tahu rekan kerjanya tentang masalah tersebut",
+      "Meminta cuti atau izin untuk menyelesaikan masalah pribadinya agar bisa fokus pada pekerjaanya di kemudian hari",
+      "Menyelesaikan pekerjaan dengan kualitas yang kurang baik karena dia tidak bisa fokus pada pekerjaannya",
+      "Menyelesaikan pekerjaannya dengan bantuan rekan kerjanya agar bisa memenuhi standar kualitas yang diharapkan",
     ],
   },
   {
@@ -455,13 +466,15 @@ export const dataQues = [
     ],
   },
   {
+    //0
     id: 47,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam suatu organisasi, terdapat seorang karyawan yang menemukan adanya kecurangan dalam pengelolaan keuangan. Apa yang seharusnya dilakukan oleh karyawan tersebut? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melaporakan kecurangan tersebut kepada atasan langsunya",
+      "Menutup mata dan tidak melaporkan kecurangan tersebut",
+      "Mencoba mengatasi sendiri tanpa melaporkan kepada siapa pun",
+      "Meminta saran dari teman sejawat sebelum melaporkan kecurangan tersebut",
     ],
   },
   {
@@ -475,13 +488,15 @@ export const dataQues = [
     ],
   },
   {
+    //3
     id: 49,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang menager di sebuah perusahaan memiliki reputasi yang baik derena selalu memenuhi janji-janjinya. Namun, suatu saat dia berjanji memberikan kenaikan gaji salah satu karyawanya yang telah bekerja keras, tetapi kemudian dia memutuskan untuk tidak memberikan kenaikan gaji tersebut. Apa yang seharusnya dilakukan oleh menajer tersebut untuk mempertahankan konsistensi dan integritasnya? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memberikan kenaikan gaji pada karyawan tersebut agar tidak kehilangan reputasi baik yang telah dibangunnya",
+      "Menjelaskan kepada karyawan tersebut bahwa kebijakan perusahaan berubah dan kenaikan gaji tidak lagi bisa diberikan",
+      "Mengalihkan perhatian karyawan dengan memberikan bonus lain, seperti tunjangan kesehatan atau cuti tambahan",
+      "Meminta maaf kepada karyawan tersebut dan berjanji untuk memberikan kompensasi di masa depan jika ada kesempatan",
     ],
   },
   {
@@ -495,13 +510,15 @@ export const dataQues = [
     ],
   },
   {
+    //1
     id: 51,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Cinta tanah air adalah bangga dan juga memiliki sebuah wilayah tertentu. Rasa cinta tanah air sangat penting untuk dimiliki sejak kecil, oleh karena itu banyak diadakan kegiatan dalam menunjang persatuan. Kegiatan yang dapat diselenggarakan untuk mempertemukan beberapa kebudayaan daerah yang ada di Indonesia melauli bentuk pentas dan seni adalah dengan ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengadakan konser musik secar rutin untuk dapat dinikmati oleh masyarakat",
+      "Mengadakan kegiatan festifal kebudayaan yang melibatkan elemen masyarakat",
+      "Melakukan pameran fotografi dari berbagai daerah yang ada di Indonesia",
+      "Menggiatkan pameran edukasi di berbagai daerah untuk kemajuan daerah",
     ],
   },
   {
@@ -515,13 +532,15 @@ export const dataQues = [
     ],
   },
   {
+    //2
     id: 53,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pancasila berfungsi sebagai dasar negara dan landasan dalam penyelnggaraan kehidupan berbangsa. Salah satu peran utamanya adalah memperkuat persatuan bangsa yang multikultural. Dalam konteks ini bagaimana Pancasila sebagai dasar negara mewujudkan persatuan dalam keberagaman? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membangun kesadaran tentang pengtingnya toleransi melalui nilai-nilai luhur kebangsaan",
+      "Memberikan pedoman bagi perilaku masyarakat untuk menghormati perbedaan",
+      "Menjadi acuan dalam pembentukan kebijakan yang mengatur kehidupan bernegara berdasarkan nilai keadilan dan persatuan",
+      "Menanamkan nilai moral dalam perilaku warga negara untuk menciptakan harmoni sosial",
     ],
   },
   {
@@ -535,13 +554,15 @@ export const dataQues = [
     ],
   },
   {
+    //3 baru
     id: 55,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Indonesia merupakan negara kesatuan yang berdaulat. Indonesia memiliki wilayah dari Sabang sampai Merauke yang diproklamasikan pada tanggal 17 Agustus 1945. Sebagai negara besar dengan berbagai macam perbedaan di dalam masyarakat, seperti suku, ras nasional. Pancasila adalah ideologi dan salah satu sarana pemersatu bangsa dan negara dengan alasan ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mampu menyesuaikan diri dengan masa kemerdekaan dan era pembangunan",
+      "Digali oleh Bung Karno dari sejarah perkembangan kehidupan masyarakat",
+      "Disepakati setelah terjadi perdebatan dalam sidang PPKI tahun 1945",
+      "Sebagai kesepakan atau perjanjian luhur bangsa yang menaungi kebinaekaaan",
     ],
   },
   {
@@ -555,93 +576,111 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru
     id: 57,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Bela negara tidak hanya dilakukan dengan mengangkat senjata tapi juga bisa dilakukan dengan hal lainya. Upaya negara dalam melindungi warga negara dengan cara pencegahan peredaran makanan kadaluarsa merupakan tugas dan tanggung jawab negara dalam hal ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mensejehterakan seluruh rakyat Indonesia",
+      "Memenuhi kebutuhan hidup sehari-hari",
+      "Menjaga agar bahan pokok tetap stabil",
+      "Membela dan melindungi warga negara",
     ],
   },
   {
+    //2
     id: 58,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Fenomena konten mengemis di siaran langsung atau live TikTok belakangan tengah heboh dilakukan oleh para ibu-ibu, dari paruh baya hingga lanjut usia. Konten mengemisa tersebut dilakukan tentu untuk meraup cuan. Konten live TikTok itu memperlihatkan wanita dari usia paruh baya hingga nenek-nenek yang mandi lumpur sembari mengharapkan gift dari penonton, diangap sebagai bentuk mengemis gaya baru. Untuk diketahui, live TikTok merupakan fitur TikTok yang memungkinkan pengguna dapat menerima gift atau hadiah virtual dari penontonnya. Gift itulah yang nantinya dapat ditukar menjadi uang. Fenomena yang terjadi seperti hal tersebut menunjukan kurangnya sikap ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Kurang tanggung jawab dalam diri pribadi seseorang sehingga tidak menggunakan logika",
+      "Rendahnya rasa sikap kerja keras yang dimiliki sehingga menumbuhkan sikap pemalas",
+      "Kurangnya integritas diri dalam diri seseorang sehingga melakukan hal-hal yang bersifat menguntaungkan untuk diri sendiri tanpa memikirkan akibatnya ",
+      "Rasa tidak puas terhadap kemampuan yang dimiliki sehingga melakukan hal-hal yang tidak baik",
     ],
   },
   {
+    //0
     id: 59,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Bangsa Indonesia baru saja melewati pemilihan umum 2019 untuk memilik persiden dan legislatif. Dasar hukum penyelnggaraan terdapat dalam pokok pikiran ketiga pembukaan UUD 1945 Pasal 22E ayat 1 yang berbunyi bahwa pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil. Maksud dari pelaksanaan pemilu yang bebas adalah pemilih ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Bebas menentukan pilihanya tanpa paksaan dari pihak manapun",
+      "Harus menjaga kerahasiann yang dipilihnya",
+      "Bebas mau memilih atau tidak",
+      "Bebas menentukan peran dalam pemilu baik sebagai pemilih maupun kontestan dalam pesta demokrasi tersebut",
     ],
   },
   {
+    //2
     id: 60,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Bela negara dapat dilakukan dengan berbagai cara yang sesuai dengan Ideologi Pancasila dan UUD 1945. Berikut merupakan upaya bela negara yang dapat kita lakukan, kecuali ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Berjuang dengan mengangkat senjata ketika ada negara asing yang mengganggu kedaulatan negara",
+      "Menciptakan susasana rukun, damai dan harmonis dalam lingkungan keluarga",
+      "Memiliki komitmen yang teguh dan bertanggung jawab pada amanah yang diberikan",
+      "Menjaga keamanan tempat tinggal dengan ikut kegiatan ronda malam",
     ],
   },
   {
+    //2
     id: 61,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Radikalisme merupakan salah satu ancaman serius terhadap nilai-nilai luhur pancasila. Ancaman radikalisme ini bisa diminimalisir salah satunya dalam bidang Pendidikan yaitu dengan cara ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Penambahan jam pelajaran pendidikan pancasila",
+      "Pendidikan pancasila dijadikan tanggung jawab guru dan siswa",
+      "Pendidikan pancasila sebagai saran untuk membentuk wawasan bangsa dan karakter",
+      "Pendidikan pancasila dijadikan dasar dan sumber pembelajaran",
     ],
   },
   {
+    //3
     id: 62,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Nasionalisme dalam beberapa dapat menjadi alat untuk mempersatukan orang-orang dari berbagai latar belakang budaya, agama, dan etnis dalam suatu negara. Hal ini terjadi ketika seseorang merasa bangga dengan negaranya, mereka cenderung berusaha untuk mempertahankan integritas dan keamanan negara tersebut. Namun, nasionalisme juga dapat memperburuk konflik dan perbedaan diantara orang-orang. Di bawah ini yang tidak termasuk bentuk yang memperburuk nasionalisme adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Ketakutan atau kebencian terhadap orang asing atau orang yang berbeda latar belakang budaya dan etnisnya",
+      "Nasionalisme yang berlebihan dapat digunakan sebagai alat untuk membenarkan diskriminasi terhadap kelompok minoritas",
+      "Nasionalisme yang berlebihan dapat mendorong pemikiran bahwa negara atau kelompok tertentu lebih superior dibandingkan kelompok lainnya",
+      "Nasionalisme yang bersifat inklusif cenderung menghindarkan dari peluang untuk perpecahan",
     ],
   },
   {
+    //3
     id: 63,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pasal 28 UUD 1945 ayat(2) yang berbunyi Negara menjamin kemerdekaaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadah  menurut agama dan kepercayaanya itu. Oleh karena itu, kebebasan beragama diartikan sebagai ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Kebeasan untuk menentukan dan memilih agama yang dianut serta berpindah-pindah",
+      "Kebebasan dalam menjalankan ibadah kapan saja dan di mana saja",
+      "Kebebasan memeluk atau tidak memeluk salah satu agama resmi",
+      "Kebebasan yang bersumber pada martabat manusia sebagai mahluk ciptaan Tuhan",
     ],
   },
   {
+    //1
     id: 64,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sekarang ini perkembangan ilmu pengetahan dan teknologi berkembang pesat sehingga dapat mempengaruhi mentalitas bangasa Indonesia. Dalam hal ini yang harus dilakukan warga Negara Indonesia untuk mengembalikan kualitas mora bangsa Indonesia adalah ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meningkatkan hukum dan aturan yang di Indonesia",
+      "Menumbuhkan kesadaran berbangsa dan bernegara berdasarkan Pancasila",
+      "Mencari informasi perkembangan yang ada di Indonesia",
+      "Memperkenalkan budaya yang ada di Indonesia",
     ],
   },
   {
+    //2
     id: 65,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Nasionalisme tidak bisa kita artikan hanya sebatas rasa cinta kepada bangsa dan negara, tapi nasionalisme adalah kesadaran individu masyarakat suatu bangsa akan tanggung jawabnya dalam kemakmuran dan pertahanan yang dilandasi rasa cinta kepada tanah airnya. Senada dengan perkataan Bung Karno, bahwa nasionalisme ialah suatu itikad, keinsyafan rakyat, bahwa rakyat adalah satu golongan, satu bangsa. Rasa nasionalistis itu menimbulkan ketetapan hati dalam perjuangan menuju Indonesia merdeka. Artinya, nasionalisme itu dimulai dari adanya kesadaran, dari kesadaran itu tumbuhlah yang namanya cinta. Kesadaran akan tanggung jawab sebagai bagian dari masnyarakat diiringi cinta yang tumbuh kepada bangsa inilah yang membawa masyarakat kepada perjuangan yang tidak setengah-setengah. Perilaku yang dapat dilakukan para generasi muda yang memupuk jiwa nasionalisme yaitu ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Aktif dalam mempromosikan budaya daerah masing-masing",
+      "Ikut serta dalam upacara adat kedaerahan",
+      "Aktif dalam mempromosikan kebudayaan Indonesia di sosial media",
+      "Mengikuti upacara bendera sebagai kewajiban agar tidak dihukum",
     ],
   },
   {

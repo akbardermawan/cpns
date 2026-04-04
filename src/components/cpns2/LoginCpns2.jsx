@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 
-const LoginCpns1 = () => {
+const LoginCpns2 = () => {
   const [userName, setUserName] = useState("");
 
   const navigate = useNavigate();
@@ -30,7 +30,7 @@ const LoginCpns1 = () => {
       localStorage.setItem("username", userName);
 
       // redirect ke halaman home
-      navigate("/roomcpns1");
+      navigate("/roomcpns2");
     } catch (error) {
       toast.error("Error login Please try again.");
     }
@@ -75,4 +75,4 @@ const LoginCpns1 = () => {
   );
 };
 
-export default LoginCpns1;
+export default LoginCpns2;

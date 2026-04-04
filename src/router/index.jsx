@@ -26,6 +26,10 @@ import LoginCpns1 from "../components/cpns1/LoginCpns1";
 import RoomCpns1 from "../components/cpns1/RoomCpns1";
 import ResultCpns1 from "../components/cpns1/ResultCpns1";
 
+import LoginCpns2 from "../components/cpns2/LoginCpns2";
+import RoomCpns2 from "../components/cpns2/RoomCpns2";
+import ResultCpns2 from "../components/cpns2/ResultCpns2";
+
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
@@ -54,6 +58,10 @@ const router = createBrowserRouter(
       <Route path="/cpns1" element={<LoginCpns1 />} />
       <Route path="/roomcpns1" element={<RoomCpns1 />} />
       <Route path="/resultcpns1" element={<ResultCpns1 />} />
+
+      <Route path="/cpns2" element={<LoginCpns2 />} />
+      <Route path="/roomcpns2" element={<RoomCpns2 />} />
+      <Route path="/resultcpns2" element={<ResultCpns2 />} />
     </Route>,
   ),
 );

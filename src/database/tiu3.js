@@ -1177,4 +1177,231 @@ export const dataQues = [
       },
     ],
   },
+  {
+    id: 52,
+    question: "Sebuah pohon memiliki akar dan daun. Hubungan ini sama dengan?",
+    answer: [
+      {
+        text: "Rumah memiliki atap dan taman",
+        correct: false,
+      },
+      {
+        text: "Tas memiliki tali bahu dan resleting",
+        correct: true,
+      },
+      {
+        text: "Sepeda memiliki lampu dan klakson",
+        correct: false,
+      },
+      {
+        text: "Buku memiliki mesin dan ban",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 53,
+    question: "Pengarang : Penerbit : Buku = ...: ...: ...",
+    answer: [
+      {
+        text: "Pelukis : Lukisan : Narator",
+        correct: false,
+      },
+      {
+        text: "Montir : Sepeda Motor : Bengkel",
+        correct: false,
+      },
+      {
+        text: "Pemahat : Batu : Candi",
+        correct: false,
+      },
+      {
+        text: "Penyanyi : Dapur Rekaman : Kaset",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 54,
+    question: "Pemburu : Senjata : Burung = ...: ...: ...",
+    answer: [
+      {
+        text: "Dokter : Stetoskop : Suntik",
+        correct: false,
+      },
+      {
+        text: "Sopir : Bus : Darat",
+        correct: false,
+      },
+      {
+        text: "Polisi : Borgol : Penjahat",
+        correct: true,
+      },
+      {
+        text: "Tenda : Kemah : Api Unggun",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 55,
+    question:
+      "Akar terdiri dari serabut dan tunggang. Memiliki analogi dengan ...",
+    answer: [
+      {
+        text: "Pohon terdiri dari ranting dan daun",
+        correct: false,
+      },
+      {
+        text: "Sepeda terdiri dari pedal dan roda",
+        correct: false,
+      },
+      {
+        text: "Mobil terdiri dari matic dan manual",
+        correct: true,
+      },
+      {
+        text: "Manusia terdiri dari hidung dan mata",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 56,
+    question:
+      "Diketahui nilai X = 10 dan Y = 8. nilai A = 2/5 X - Y dan B = X + 3/4 Y. Manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...",
+    answer: [
+      {
+        text: "4A = B",
+        correct: false,
+      },
+      {
+        text: "A = 4B",
+        correct: false,
+      },
+      {
+        text: "A > B",
+        correct: true,
+      },
+      {
+        text: "A < B",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 57,
+    question:
+      "Diketahui nilai X = - 3/2 + 11/2 + 8 x 4 dan Y = - 9/2 + 3/2 + 3 x 8. Manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...",
+    answer: [
+      {
+        text: "2X = Y",
+        correct: false,
+      },
+      {
+        text: "3X = 2Y",
+        correct: false,
+      },
+      {
+        text: "3X < 2Y",
+        correct: true,
+      },
+      {
+        text: "X > Y",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 58,
+    question:
+      "Diketahui nilai X = - 2/3 + 8 + 8/3  dan Y = - 5/6 x 12 + 24 : 1/2 . Manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...",
+    answer: [
+      {
+        text: "3X = 2Y",
+        correct: false,
+      },
+      {
+        text: "3X = Y",
+        correct: false,
+      },
+      {
+        text: "2X < Y",
+        correct: false,
+      },
+      {
+        text: "2X > Y",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 59,
+    question:
+      "Jika seekor ayam rata-rata bertelur sebanyak 20 butir perbulan, berapakah jumlah minimal ayam harus dipelihara untuk mendapatkan 110 butir telur setiap bulannya?",
+    answer: [
+      {
+        text: "5",
+        correct: false,
+      },
+      {
+        text: "5,5",
+        correct: false,
+      },
+      {
+        text: "6",
+        correct: true,
+      },
+      {
+        text: "6,5",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 60,
+    question:
+      "Jika seekor bebek rata-rata bertelur sebanyak 20 butir perbulan, berapakah jumlah minimal ayam harus dipelihara untuk mendapatkan 105 butir telur setiap bulannya?",
+    answer: [
+      {
+        text: "5",
+        correct: false,
+      },
+      {
+        text: "5,25",
+        correct: false,
+      },
+      {
+        text: "5,5",
+        correct: false,
+      },
+      {
+        text: "6",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 61,
+    question:
+      "Suatu pekerjaan dapat diselesaikan oleh 10 orang pekerja dalam waktu 10 hari. Berapa jumlah pekerja minimal agar pekerjaan tersebut dapat selesai dalam 3 hari?",
+    answer: [
+      {
+        text: "34",
+        correct: true,
+      },
+      {
+        text: "33",
+        correct: false,
+      },
+      {
+        text: "24",
+        correct: false,
+      },
+      {
+        text: "15",
+        correct: false,
+      },
+    ],
+  },
 ];

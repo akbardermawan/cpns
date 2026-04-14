@@ -42,7 +42,6 @@
 .container-home .intro .p {
   width: 100%;
   text-align: center;
-  color: rgba(192, 191, 191, 0.705);
   font-size: 14px; /* Adjust font size for readability */
   display: flex;
   align-items: center;
@@ -187,4 +186,4 @@
     display: flex;
     flex-direction: column;
   }
-}/*# sourceMappingURL=home.css.map */
+} /*# sourceMappingURL=home.css.map */

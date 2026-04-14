@@ -25,7 +25,7 @@ export default function Twk() {
         <div className="mt-10">
           <h2 className="text-2xl font-semibold mb-4">Materi TWK</h2>
 
-          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 pt-5">
             <Link
               to="/twk0"
               className="bg-white rounded-xl shadow hover:shadow-lg transition p-4 text-center"
@@ -35,9 +35,20 @@ export default function Twk() {
                 alt="TWK 1"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 font-semibold text-lg">
-                Materi CPNS Kewarganegaraan
-              </h4>
+              <h4 className="mt-3 font-semibold text-lg">Pancasila</h4>
+            </Link>
+          </div>
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 pt-5">
+            <Link
+              to="/twk0"
+              className="bg-white rounded-xl shadow hover:shadow-lg transition p-4 text-center"
+            >
+              <img
+                src="/images/11.jpg"
+                alt="TWK 1"
+                className="w-full h-40 object-cover rounded-md"
+              />
+              <h4 className="mt-3 font-semibold text-lg">UUD 1945</h4>
             </Link>
           </div>
         </div>

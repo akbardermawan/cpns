@@ -274,7 +274,7 @@ export const dataQues = [
     options: [
       "Maheksa menangis dengan keras",
       "Krisan membaca komik yang lucu",
-      "Siswa kelas 12 meranykan kelulusan secara meriah",
+      "Siswa kelas 12 meranyakan kelulusan secara meriah",
       "Yahya bekerja dengan giat",
     ],
   },
@@ -424,23 +424,27 @@ export const dataQues = [
     ],
   },
   {
+    //3
     id: 43,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Salah satu perlunya transparansi kinerja yaitu agar terhindar dari konflik kepentingan dan terhindar dari tindakan penyuapan. Hal ini perlu dilakukan untuk membentuk ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Sistem Antikorupsi",
+      "Pengelolahan Sumberdaya Manusia",
+      "Karakter Pengawas Instansi",
+      "Budaya Organisasi",
     ],
   },
   {
+    //0
     id: 44,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Makna yang terkandung Pancasila sebagai philsophie grondslag adalah ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Pancasila sebagai dasar filsafat negara",
+      "Pancasila sebagai alat pemersatu",
+      "Pancasila sebagai ideologi bangsa indonesia",
+      "Pancasila sebagai perjanjian luhur bangsa indonesia",
     ],
   },
   {
@@ -456,14 +460,11 @@ export const dataQues = [
     ],
   },
   {
+    //2
     id: 46,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Mahkamah Agung berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang, dan mempunyai wewenang lainnya yang diberikan oleh undang-undang. Merupakan bunyi UUD 1945 pasal ...",
+    options: ["24 ayat 1", "24 ayat 2", "24A ayat 1", "24A ayat 2"],
   },
   {
     //0
@@ -478,14 +479,11 @@ export const dataQues = [
     ],
   },
   {
+    //2
     id: 48,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Apabila Dewan Perwakilan Rakyat tidak menyetujui rancangan anggaran pendapatan dan belanja negara yang diusulkan oleh Presiden, Pemerintah menjalankan Anggaran Pendapatan dan Belanja Negara tahun yang lalu. Merupakan bunyi UUD 1945 pasal ...",
+    options: ["23 ayat 1", "23 ayat 2", "23 ayat 3", "23 ayat 4"],
   },
   {
     //3
@@ -500,13 +498,15 @@ export const dataQues = [
     ],
   },
   {
+    //0
     id: 50,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Menurut Undang-Undang Dasar 1945 pasal 13 President memiliki hak sebagai berikut ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengangkat duta dan konsul dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
+      "Memberi grasi dan rehabilitasi dengan memperhatikan Mahkamah Agung",
+      "Memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
+      "Menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain",
     ],
   },
   {
@@ -522,13 +522,15 @@ export const dataQues = [
     ],
   },
   {
+    //3
     id: 52,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Menurut Undang-Undang Dasar 1945 pasal 24A ayat 3, calon Hakim Agung diusulkan ..... kepada ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mahkamah Konstitusi kepada Dewan Perwakilan Rakyat",
+      "Kehakiman kepada Dewan Perwakilan Rakyat",
+      "Dewan Perwakilan Rakyat kepada Majelis Permusyawaratan Rakyat",
+      "Komisi Yudisial kepada Dewan Perwakilan Rakyat",
     ],
   },
   {
@@ -544,14 +546,11 @@ export const dataQues = [
     ],
   },
   {
+    //0
     id: 54,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Dalam batang tubuh UUD 1945 yang mengatur tentang Warga Negara dan Penduduk adalah pada bab?",
+    options: ["10", "11", "12", "13"],
   },
   {
     //3 baru
@@ -566,13 +565,15 @@ export const dataQues = [
     ],
   },
   {
+    //0
     id: 56,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Penyimpangan pertama terhadap Undang-Undang Dasar 1945 adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Sistem presidensial berubah menjadi parlementer",
+      "Sistem parlementer berubah menjadi presidensial",
+      "Munculnya Tritura",
+      "Lembaga-lembga negara seperti MPR, DPR, DPA dan BPK belum dibentuk berdasar UUD 1945 dan masih bersifat sementara",
     ],
   },
   {
@@ -684,453 +685,543 @@ export const dataQues = [
     ],
   },
   {
+    //2
     id: 66,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Zayan adalah seorang pelayan publik. Suatu hari datang seorang ibu yang marah-marah kare pelayanan yang tidak sesuai. Sampai akhirnya ibu tersebut menyakiti perasaan Zayyan yang mana adalah rekan anda. Sikap anda ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Diam saja karena bukan urusan anda",
+      "Menenangkan ibu tersebut kemudian mengarahkanya kebagian pelayanan yang lain",
+      "Menenangi ibu tersebut",
+      "Menenangi ibu tersebut sambil memberitahu bahwa apa yang dia ucapkan telah menyakiti rekannya",
     ],
   },
   {
+    //2
     id: 67,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya perawat. Ketika sedang melayani seorang pasien, tiba-tiba datang seorang keluaarga pasien lain dengan nada marah bahkan sampai mencaci saya. Ia menjelaskan bahwa pelayanan perawat dalam memasang infus pada keluarganya kurang hati-hati sehingga menyebabkan pasien kesakitan. Padahal infus tersebut bukan saya yang pasang melainkan oleh rekan kerja yang lain. Sikap saya ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Dengan tenang mendengarkan keluhannya",
+      "Menasehati agar tidak boleh berkata kasar",
+      "Meminta maaf dan mendengarkan keluhanya",
+      "Berusaha tidak marah meskipun dicaci dan tetap melayani keluhanya",
     ],
   },
   {
+    //2
     id: 68,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang penlanggan ingin mengurus sesuatu dengan waktu yang cepat, teman anda kelelahan dan butuh istirihat. Sementara anda masih ada tugas yang belum selesai dan harus segera diselesaikan, sikap anda ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menggantikan teman anda, dengan mengurusi kepentingan pelanggan tersebut",
+      "Melanjutkan tugas teman yang kelelahan supaya kantor tidak terbengkalai",
+      "Melapor kepada atasan untuk meminta petunjuk",
+      "Menyelesaikan tugas anda sampai selesai baru membantu teman yang kelelahan",
     ],
   },
   {
+    //2
     id: 69,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Rini adalah seorang manajer di sebuah perusahaan teknologi yang sedang menghadapi tantangan dalam meningkatkan kolaborasi dan kerjasama antara tim. Untuk mengatasi masalah ini, Rini perlu memilih strategi dan alat yagn tepat untuk meningkatkan kolaborasi dalam jaringan kerja. Dalam konteks ini, tindakan yang sebaiknya dilakukan oleh Rini adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membentuk tim kerja lintas departemen yang terdiri dari anggota yang memiliki keahlian dan pengetahuan yang berbeda-beda, untuk mendorong kerjasama dan pertukanran ide yang lebih baik",
+      "Mengadakan pelatihan reguler tentang keterampilan kerjasama tim dan komunikasi efektig, sehingga tim dapat meningkatkan kemampuan kolaborasi mereka.",
+      "Mengimplementasikan platform online yang memungkinkan anggota tim berbagi file, berkomunikasi secara real time, dan berkolaborasi dalam proyek-proyek bersama",
+      "Menggunakan alat menejemen proyek yang terintegrasi dengan fitur seperti pemantauan kemajuan tugas, alokasi sumber daya, komunikasi yang efisien",
     ],
   },
   {
+    //2
     id: 70,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam sebuah proyek kolaborasi di tempat kerja, tim terdiri dari anggota yang memiliki latar belakang agaman suku, dan budaya yang beragam. Selama proses kerja, terjadi perbedaan pendapat dan kecernderungan untuk mengutamakan perpestif fan kepentingan kelompok masing-masing. Apa sikap terbaik yang seharusnya diambil oleh tim dalam menghaddapi perbedaan agama, suku, dan budaya untuk mencapai hasil kerja yang harmonis? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memilih ide dan pendapat yang mewakili mayoritas anggota tim tanpa mempertimbangkan pandanganyang berbeda",
+      "Mendiskrimainasi atau mengucilkan anggota tim yang memiliki perbedaan agama, suku, atau budaya",
+      "Membuka ruang dialog dan diskusi terbuka untuk memahami dan menghargai perbedaan agama, suku, dan budaya diantara anggota tim",
+      "Mengikuti kehendak dan dominasi anggota tim yang memiliki agama, suku, atau budaya meyoritas dalam pengambilan keputusan",
     ],
   },
   {
+    //2
     id: 71,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Rina adalah seorang profesional muda yang ingin mencari mentor yang dapat membimbingnya dalam pengembangan karier. Dia ingin mencari informasi dan sumber daya yang dapat membantu dalam membangun dan membina jejaringan kerja yang akan membawanya mendapatankan nasihat berharga dan arahan dari orang-orang yang telah berpengalaman. Dalam situasi ini, langkah apa yang sebaiknya diambil oleh Rina?  ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengikuti acara konferensi atau acara bisnis yang melibatkan pemimpin dan profesional berpengalaman di bidangnya",
+      "Menghubungi dan meminta bantuan dari kolega yang telah memilikai mentor dan meminta rekomendasi atau pengenalan",
+      "Menghubngi lembaga pendidikan, organisasi profesional, atau komunitaas industri yang mediakan program mentoring",
+      "Mengikuti grup diskusi atau forum online yang membahas topik seputar pengembangan karier dan mencari mentor melalui jaringan tersebut",
     ],
   },
   {
+    //2
     id: 72,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di lingkungan kerja yang multikultural, konflik antara budaya dapat terjadi karena perbedaan norma, nilai, atau praktik dalam berbagai budaya yang beririntraksi. Konflik semacam ini dapat mengggangu kolaborasi dan produktifitas tim. Dalam situasi ini, sikap apa yang sebaiknya diambikl oleh individu dalam menghadapi konflik antarbudaya? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menghindari konflik dengan mengabaikan perbedaan budaya dan berfokus pada tugas-tugas kerja",
+      "Menggunakn pendekatan yang menghargai keberagaman dan mencari pemahaman bersama untuk menyelsaikan konflik",
+      "Mencoba mengubah budaya atau nilai anggota tim lain agar sesuai dengan budaya yang lebih dominan",
+      "Mengabaikan perbedaan budaya dan meminta bantuan dari menajemen untuk menylesaikan konflik antarbudaya",
     ],
   },
   {
+    //3
     id: 73,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sebuah perusahaan teknologi sedang mengembangkan aplikasi baru yang akan mengumpulkan data sensitif pelanggan. Mereak menyadari pentingnya menjaga keamanan data dan privasi pelanggan, namun juga ingin memastikan aplikasi tersebut berfungsi dengan baik dan memberikan pengalaman pengguna yang optimal. Dalam situasi ini, sikap apa yang sebaiknya diambil oleh perusahaaan teknologi?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melakukan audit keamanan terkait aplikasi dan memastikan bahwa protokol keamanan yang tepat telah diterapkan untuk melindungi data pelanggang",
+      "Melibatkan tim ahli keamanan dalam setiap tahap pengembangan aplikasii untuk memastikan behwa aspek keamanan diintegrasikan dengan baik",
+      "Melakukan pengujian penetrasi untuk mengidentifikasi celah keamanan dalam aplikasi dan memperbaikinya sebelum peluncuran",
+      "Mengikuti standart dan regulasi keamanan data yang berlaku serta menjalin kemitraan dengan perusahaan keamanan data terpercaya untuk mendapatkan penilaian independen terhadap keamanan aplikasi mereka",
     ],
   },
   {
+    //3
     id: 74,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda akan ditugaskan oleh atasan Anda untuk menjadi panitia pameran yang akan memperkenalkan produk-produk perusahaan, termasuk menjual beberapa produk untuk melihat respon pembeli. Pameran tersebut akan diikuti oleh banyak perusahaan yang juga memperkenalkan produk mereka ada yang setipe dengan Anda dan ada juga yang berbeda, untuk menarik pengunjung apa yang Anda lakukan...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memperagakan produk yang berkualitas di etalase agar banyak yang tertarik",
+      "Membuat pengunjung nyaman dengan stand Anda dengan menyediakan fasilitas seperti kursi dan lainnya",
+      "Selalu bersikap ramah terhadap pengunjung yang lewat dan mempersilahkan untuk mampir",
+      "Membuat konsep stand pameran yang menarik",
     ],
   },
   {
+    //3
     id: 75,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di dalam perusahaan tempat kamu bekerja diadakan pelatihan tentang teknologi yang baru rilis. Kamu mengetahui bahwa teknologi itu tidak ada hubungannya dengan pekerjaan yang kamu emban sedangkan atasanmu memerintahkanmu untuk ikut maka tindakanmu ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menerimanya dengan senang hati dan ambisius mengikutinya karena atasan akan memuji",
+      "Menerima dan mengikuti pelatihan namun tidak mendengarkan apa materi pelatihan",
+      "Menerima dan menunjukkan kepada atasan bahwa diri Anda patuh dan taat kepada atasan",
+      "Menerima dan mengikuti pelatihan karena berfikir mungkin dapat berguna untuk kedepannya",
     ],
   },
   {
+    //1
     id: 76,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Karena terjadinya beberapa permasalahan di perusahaan anda yang mengakibatkan terjadinya penurunan finansial. Hal ini tentu saja berdampak bagi kelangsungan seluruh komponen perusahaan termasuk karyawan, apa yang akan anda lakukan…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Tetap bekerja dengan baik seperti hari-hari sebelumnya",
+      "Membuat strategi baru untuk meningkatkan hasil kinerja",
+      "Mempelajari hal yang mungkin jadi penyebab penurunan tersebut",
+      "Sebagai karyawan saya akan mengikuti arahan dari atasan dan kebijakan perusahaan",
     ],
   },
   {
+    //1
     id: 77,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Darmayuda adalah seorang ASN.Tahun ini dia berkeinginan mengajukan diri sebagai caleg yang mewakili dapilnya …",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengambil cuti di luar tanggungan negara sebagai ASN sampai terpilih menjadi anggota legislatif",
+      "Mengundurkan diri dari ASN dengan menerima risiko apabila tidak terpilih sebagai anggota legislatif",
+      "Tetap mengajukan diri sebagai caleg demi kebaikan yang lebih besar sesuai dengan pengamalan sila ke 4",
+      "Batal mengajukan diri sebagai caleg karena saya masih dalam masa ikatan dinas yang harus diselesaikan",
     ],
   },
   {
+    //3
     id: 78,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sedekah Laut merupakan bentuk perwujudan rasa syukur para nelayan setempat kepada Tuhan Yang Maha Pemurah.upacara ini dilakukan biasanya di daerah pesisir pantai Jawa, tetapi bagi beberapa kelompok masyarakat ritual ini dianggap sebagai kesesatan atau menyimpang dari ajaran agama. Tanggapan anda terhadap kearifan budaya lokal yang bertentangan dengan pemahaman terhadap agama tertentu adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menganggap bahwa budaya ini harus dihentikan karena bertentangan dengan nilai-nilai agama tertentu",
+      "Ikut serta meramaikan kegiatan ritual sedekah Laut karena hal ini adalah kearifan lokal.",
+      "memberitahukan ke masyarakat disana untuk tidak melakukan ritual tersebut karena bertentangan dengan keyakinan saya",
+      "Menganggap bahwa kearifan lokal budaya masyarakat setempat dan agama dapat diharmonisasikan dengan baik sehingga budaya lokal dapat dilestarikan.",
     ],
   },
   {
+    //2
     id: 79,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Terhadap aliran keagamaan yang dituduh sesat oleh kelompok lain. Bagaimana seharusnya pemerintah Indonesia bersikap menurut anda…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Pemerintah sebaiknya membiarkan keberadaan aliran keagamaan yang dianggap sesat, namun tidak perlu memberikan fasilitas",
+      "Pemerintah dapat memberikan perlindungan dan pelayanan kepada aliran keagamaan yang dianggap sesat, selama belum ada aturan yang melarang",
+      "Pemerintah tidak boleh mendiskriminasi aliran keagamaan yang diklaim sesat, karena setiap warga negara memiliki hak yang sama untuk memperoleh perlindungan dan pelayanan",
+      "Pemerintah seharusnya mengusir dan melarang warga negaranya berada di Indonesia yang menganut aliran keagamaan yang diklaim sesat",
     ],
   },
   {
+    //0
     id: 80,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda barusan mempunyai anak dan kemudian pindah rumah hal tersebut sangatlah merepotkan karena tidak ada yang membantu, Di lingkungan anda yang baru ada tradisi setiap tetanga baru harus membagikan makanan khas daerahnya. Apa yg akan anda lakukan…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membagikan makanan lain yang mudah untuk dipesan.",
+      "Tidak mengikuti tradisi itu",
+      "Memberi makanan hanya kepada tetangga dekat saja",
+      "Membagi-bagikan makanan khas daerahnya kepada seluruh anggota komplek tersebut",
     ],
   },
   {
+    //0
     id: 81,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Atasan anda memanggil anda ke ruangannya, kemudian atasan anda menyampaikan pendapat yang sangat anda tidak setujui, apa yang anda lakukan…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Anda akan menyatakan pendapat anda dengan sejujurnya",
+      "Anda akan menyatakan pendapat anda secara tersirat",
+      "Anda jarang berani mengungkapkan opini yang bertentangan",
+      "Anda akan menyetujui walaupun bertentangan opini karena beliau adalah atasan yang harus anda hormati",
     ],
   },
   {
+    //1
     id: 82,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Beberapa minggu yang lalu atasan anda pernah memberitahu anda bahwa dia mempunyai jadwal untuk bisa menandatangani kontrak dengan beberapa orang klien baru dalam beberapa minggu ke depan untuk pengembangan perusahaan, namun tampaknya atasan anda lupa akan hal tersebut karena terlalu sibuk mengurusi banyak hal dan sering tidak berada dikantor karena pergi ke luar kota, sebagai seorang asisten yang akan anda lakukan adalah…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengingatkan atasan bahwa bahwa punya rencana untuk bertemu klien",
+      "Membuat rencana pertemuan dan memberitahu atasan untuk disetujui",
+      "Membuat rencana pertemuan dengan klien atasan dan memberitahukannya",
+      "Memberitahu atasan bahwa dia harus bertemu klien untuk urusan bisnis",
     ],
   },
   {
+    //1
     id: 83,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Perusahaan tempat saya bekerja melaksanakan lomba dalam rangka HUT dan melibatkan seluruh kolega karyawan, sikap saya sebagai peserta lomba...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Tak cukup berpartisipasi saja, saya harus menjadi juara",
+      "Paling penting tingkatkan kebersamaan antara tim & kolega",
+      "Kompetisi menjadi juara itu utama, agar menjaga nama baik perusahaan",
+      "Apapun yang saya lakukan untuk menjaga nama baik perusahaan",
     ],
   },
   {
+    //2
     id: 84,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dosen anda meminta anda untuk ikut dalam sebuah perlombaan yang dalam waktu dekat akan diselenggarakan oleh universitas tempat anda berkuliah. Dosen anda melihat bahwa anda memiliki talenta sesuai dengan diskripsi dari perlombaan, akan tetapi anda tidak menyadarinya, sikap anda…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Berterimakasih kepada dosen tersebut karena telah memuji anda sebagai seseorang yang bertalenta",
+      "Menerima dan mengembangkan lebih dalam talenta yang anda miliki",
+      "Bersedia mengikuti perlombaan tersebut dan meminta bantuan dosen untuk membantu dan membimbing anda",
+      "Bersedia asalkan dosen anda selalu mau memberikan bimbingan",
     ],
   },
   {
+    //2
     id: 85,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Rekan kerja Anda dimarahi oleh atasan pada saat mengumpulkan tugas tim karena sudah telat beberapa jam mengumpulkan tugasnya. Hal ini disebabkan karena rekan Anda tersebut harus mengkompilasi pekerjaan tersebut terlebih dahulu sebelum dikumpulkan ditambah lagi semua rekan anggota tim mengumpulkan tugas pribadi mereka juga terlambat, sehingga rekan Anda yang bertugas untuk mengkompilasi setiap pekerjaan jadi tidak menyelesaikan pekerjaannya tepat waktu, sikap Anda ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mendengarkan rekan Anda dimarahi setelah itu memberikan semangat untuk tidak dimasukkan kehati ucapan atasan",
+      "Minta maaf kepada teman karena keterlambatan yang disebabkan oleh anggota tim yang lain",
+      "Mengakui kesalahan kepada atasan jika Anda juga turut berkontribusi pada masalah tersebut",
+      "Mengakui kesalahan kepada teman dan berjanji tidak akan mengulanginya lagi",
     ],
   },
   {
+    //2
     id: 86,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bekerja di perusahaan jasa yang bergerak di bidang transportasi. Siang ini pimpinan perusahaan akan mengadakan diskusi singkat dengan karyawan dan meminta usulan terkait peningkatan kualitas pelayanan terhadap pelanggan kedepannya agar banyak dari customer yang memakai jasa perusahaan anda, sikap anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memberikan usulan jika ingin meningkatkan pelayanan, perusahaan harus memenuhi semua hal yang diinginkan oleh pelanggan tanpa terkecuali",
+      "Mengusulkan adanya jalur khusus untuk ibu hamil dan menyusui dan para lansia",
+      "Memberikan usulan agar perusahaan menyediakan fasilitas khusus bagi ibu hamil, menyusui dan lansia",
+      "Mengusulkan agar alat transportasi yang digunakan selalu bersih dengan cara merekrut karyawan baru dengan gaji tinggi.",
     ],
   },
   {
+    //1
     id: 87,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda ditugaskan menjadi ketua pelaksana sebuah acara yang menyangkut orang banyak. Para anggota panitia yang anda miliki bekerja sangat santai dan kurang bersemangat. Sikap anda…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meningkatkan ketertiban dan keteraturan dengan pengawasan yang ketat",
+      "Mengumpulkan anggota dan menanamkan pemahaman bahwa kesuksesan didapatkan dari kerja keras dan kesolidan anggota tim",
+      "Membuat rencana kerja dan mengharuskan anggota tim mematuhinya",
+      "Memberikan contoh sikap yang bertanggung jawab agar dapat dicontoh oleh anggota",
     ],
   },
   {
+    //2
     id: 88,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dampak korupsi tidak hanya sekedar menimbulkan kerusakan-kerusakan jangka panjang. Dari pilihan di bawah manakah yang seharusnya menjadi pola pikir seorang ASN…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mempelajari delik dan modus korupsi secara detail akan menjauhkan dari tindak pidana korupsi",
+      "Mendapatkan contoh nyata delik dan modus tindak pidana korupsi akan memudahkan menjauhkan diri dari korupsi",
+      "Memastikan kesadaran anti korupsi sehingga muncul niat memberantas lalu kemudian mempelajari delik dan modusnya",
+      "Mempelajari dampak tindak pidana korupsi akan meningkatkan pengetahuan dan menjauhkan diri dari praktik korupsi",
     ],
   },
   {
+    //2
     id: 89,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Yura bekerja di bagian marketing. Manajer menyarankan Yura untuk mempromosikan produk terbaru melalui aplikasi perluasan jejaring secara digital di kalangan anak muda. Akan tetapi, hingga kini ia belum pernah mencobanya. Hal yang harus dilakukan Yura adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mendalami manfaat aplikasi tersebut agar efektivitas promosi meningkat dibandingkan sebelumnya",
+      "Mencoba satu per satu fitur aplikasi dimulai dari yang mudah pengoperasiannya terlebih dahulu",
+      "Memperdalam kegunaan aplikasi jejaring digital itu untuk mengembangkan relasi pada berbagai kesempatan",
+      "Mempelajari cara kerja aplikasi tersebut agar target promosi produk bisa segera tercapai",
     ],
   },
   {
+    //3
     id: 90,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya terkenal sebagai karyawan yang sering memberikan bantuan terhadap sesama rekan kerja dalam berbagai permasalahan di kantor tempat saya bekerja. Sikap saya ketika ada teman membutuhkan bantuan adalah…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Saya akan membantu mereka, tetapi biasanya saya menyelesaikan pekerjaan saya terlebih dahulu",
+      "Saya bertanya dahulu mengenai permasalahan yang mereka hadapi jika memungkinkan saya akan membantu",
+      "Saya akan membantu terlebih dahulu saya akan berfikir cukup lama untuk mencarikan solusi yang tepat atas permasalahan mereka",
+      "Saya bertanya dahulu jika saya mampu saya akan membantu tentunya setelah mengerjakan pekerjaan saya",
     ],
   },
   {
+    //2
     id: 91,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Kadang saya bingung dengan perubahan perasaan yang terjadi di dalam diri saya… ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Dalam setiap kehidupan, seseorang sering mengalami perubahan emosi",
+      "Perubahan perasaan merupakan hal biasa",
+      "Setiap perubahan perasaan menuntut adanya pengelolaan",
+      "Emosi seseorang perlu dikelola",
     ],
   },
   {
+    //2
     id: 92,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda seorang karyawan yang memiliki dedikasi yang tinggi terhadap pekerjaan. Suatu hari anda dihadapkan dengan pekerjaan yang sangat banyak dan semuanya memiliki deadline yang sama. Sebagai karyawan yang profesional apa yang anda lakukan…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menyelesaikan pekerjaan sesuai deadline dengan hasil sebisanya",
+      "Memilih lembur dengan harapan mendapat tambahan gaji berupa uang lembur",
+      "Melapor pada atasan bahwa anda butuh bantuan karyawan lain dalam menyelesaikan tugas yang banyak",
+      "Membawa tugas tersebut ke rumah dan mengerjakannya dirumah sampai larut malam",
     ],
   },
   {
+    //2
     id: 93,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Teman dekat anda melakukan pelanggaran berat di perusahaan yang anda pimpin berkaitan dengan keuangan, sikap anda adalah ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memecatnya karena telah melakukan pelanggaran berat",
+      "Mencari informasi tentang pelanggaran yang dilakukannya kemudian mengambil tindakan",
+      "Mencari informasi tentang pelanggaran yang dilakukan kemudian menentukan langkah selanjutnya",
+      "Mengumpulkan seluruh pimpinan divisi untuk menentukan sikap",
     ],
   },
   {
+    //3
     id: 94,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Siang ini anda sedang melayani banyak nasabah di kantor, antrian cukup panjang. Kemudian ada seorang kakek umur 70 tahun juga ikut mengantri. Karena terlalu lama dan antrian panjang, kakek tersebut meminta untuk dilayani terlebih dahulu, sikap anda…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Minta maaf. Meminta untuk tetap antri karena pelayanan didasarkan kepada jadwal kedatangan",
+      "Langsung melayani kakek tersebut karena dia sudah tua",
+      "Melayani kakek tersebut kemudian memberikan pengertian kepada pelanggan yang lain",
+      "Memberikan pengertian kepada yang lain dan melayani kakek tersebut",
     ],
   },
   {
+    //1
     id: 95,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sebagai seorang calon ASN kita dituntut untuk cermat dalam bermedia sosial. Di era milenial sekarang ini marak berita dan informasi hoax di mdia sosial yang isebarkan oleh orang yang tidak brtanggung jawab, sikap anda mengatasi hal ini…",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membatasi penggunaan media sosial yang penting-penting saja",
+      "Mengenali sumber berita akurat atau tidaknya",
+      "Mengenali dari judul berita terkadang terkesan provokatif",
+      "Membaca keseluruhan informasi secara lengkap",
     ],
   },
   {
+    //2
     id: 96,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya ditugaskan untuk memimpin tim dengan waktu kerja yang sangat terbatas. Saat saya mensosialisasikan mengenai hal ini ke anggota tim kerja yang terbentuk, mereka menunjukkan sikap tidak peduli dengan tugas yang diberikan. Sikap saya adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Bekerja sendiri asalkan tugas selesai",
+      "Mudah sekali, tinggal melaporkan ke atasan saya agar orang tersebut diberi sanksi yang pantas",
+      "Membagi tugas dengan adil, mengarahkan, mendampingi, dan memotivasi. Jika ada kekeliruan diberi teguran",
+      "Menasehatinya agar anggota tim segera sadar akan penyelesaian tugas yang diberikan",
     ],
   },
   {
+    //2
     id: 97,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pada sebuah diskusi dengan tim kerja yang terdiri dari rekan-rekan kerja anda dikantor biasanya saya adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Lebih banyak mendengar dan berbicara sekedarnya",
+      "Jika perlu bicara maka saya utarakan, jika tidak maka saya cukup mendengar",
+      "Mengamati sejenak lalu aktif berpendapat",
+      "Selalu aktif berpendapat dan mengarahkan teman-teman untuk berpendapat juga",
     ],
   },
   {
+    //2
     id: 98,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Apabila tiba-tiba saya ditempatkan di lingkungan kerja baru, maka saya akan ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Perlu waktu untuk mengenal rekan-rekan kerja yang baru",
+      "Berkenalan dengan rekan kerja hanya jika suah membutuhkan bantuan mereka",
+      "Langsung mampu akrab dengan rekan kerja baru saya",
+      "Senang sekali jika ada rekan kerja yang ingin berkenalan dengan saya",
     ],
   },
   {
+    //1
     id: 99,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam kegiatan kantor yang sedang saya koordinir, ternyata ada rekan kerja saya yang saya tunjuk melakukan tugas yang saya berikan kepadanya sangat baik. Sikap saya adalah ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Puas, namun tidak perlu memuji karena hal itu akan membuatnya sombong",
+      "Memuji secara proporsional",
+      "Mengumumkan ke semua orang bahwa dialah yang terbaik yang pernah ada",
+      "Biasa saja dan berpura-pura tidak tahu akan keberhasilannya melakukan tugas",
     ],
   },
   {
+    //3
     id: 100,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya bertugas di bagian pelayanan, ditempatkan di pengaduan lantai satu. Datang konsumen difabel, minta bantuan untuk dibantu proses administrasi. Tempat mengurus administrasi tersebut berada di lantai dua. Sikap saya adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengarahkan konsumen ke satpam karena satpam lebih mudah dimintai bantuan",
+      "Mengarahkan konsumen ke loket seharusnya. Semua itu sudah sesuai dengan aturan yang berlaku",
+      "Memberi saran ke konsumen sebaiknya dia membawa rekan atau saudara yang bisa membantu keperluannya",
+      "Mencari rekan pengganti untuk loket yang saya jaga, kemudian mengantar konsumen menuju lantai dua",
     ],
   },
   {
+    //1
     id: 101,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Karena suatu permasalahan, kantor saya mengalami keterlambatan pembayaran gaji karyawan. Padahal anak saya sangat membutuhkan uang untuk membayar biaya sekolah. Yang saya lakukan ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Bekerja di luar kantor untuk mendapatkan uang itu",
+      "Meminta bantuan atasan",
+      "Mencari pinjaman kepada teman",
+      "Mendesak kantor untuk segera mengeluarkan gaji saya",
     ],
   },
   {
+    //1
     id: 102,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Ketika sedang melaksanakan presentasi, saya menrima kabar bahwa anak saya mengalami kecelekaan dan sekarang dirawat di rumah sakit. Saya akan ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Tetap melanjutkan presentasi",
+      "Mencari tahu kondisi anak saya dan kemudian memutuskan apakah tetap presentasi atau ke rumah sakit",
+      "Menghentikan presentasi dan langsung pergi ke rumah sakit",
+      "Menelfon istri menanyakan kondisi anak saya dan tetap melanjutkan presentasi",
     ],
   },
   {
+    //1
     id: 103,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Istri teman saya baru saja melahirkan. Saya ingin mengunjunginya, tetapi sedang tidak punya uang untuk membeli kado. Saya akan ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengunjunginya jika sudah punya uang untuk membeli kado",
+      "Tetap mengunjunginya tanpa membawa kado",
+      "Mengunjungi dan menyusulkan kadonya di lain waktu",
+      "Meminjam uang untuk membeli kado",
     ],
   },
   {
+    //1
     id: 104,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Disebuah komonitas kecil, ada seorang tokoh yang sering kali menyampaikan pandangan yang intoleran terhadap kelopok minoritas. Banyak penduduk merasa khawatir bahwa pandangan ini bisa memicu ketegangan dan konflik di antara warga. Bupati setempat ingin mengambila langkah-langkah  yang tepat untuk mengatasi masalah ini dengan melakukan indentifikasi dini terhadap individu atau kelompok yang cenderung radikal. Apa tindakan yang sebaiknya diambil oleh bupati? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengundang tokoh tersebut untuk berbicara didepan publik dan meminta klarifikasi pandanganya",
+      "Membentuk tim dialog yang terdiri berbagai pemangku kepentingan",
+      "Menjalin hubungan dengan organisasi masyarakat sipil yang bergerak di bidang penylesaian konflik",
+      "Mengadakan pertemuan dengan tokoh agama setempat untuk membahas nilai-nilai toleransi",
     ],
   },
   {
+    //1
     id: 105,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Atasan Anda melakukan rekayasa laporan keuangan kantor, maka anda ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Dalam hati tidak menyetujui hal tersebut",
+      "Mengingatkan dan melaporkan kepada yang berwenang",
+      "Tidak ingin terlibat dengan proses rekayasa tersebut",
+      "Hal semacam itu sudah menjadi tradisi yang tidak baik di Indonesia",
     ],
   },
   {
+    //3
     id: 106,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Hampir semua pegawai di kantor instansi saya meminta uang tanda terimakasih atas pengurusan surat ijin tertentu. Namun menurut peraturan kantor, hal itu tidaklah diperbolehkan, maka saya ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Berusaha semampunya untuk tidak melakukanya",
+      "Melakukannya hanya jika terpaksa membutuhkan uang tambahan untuk keperluan keluarga, sebab gaji kantor memang kecil",
+      "Terkadang saja melakukan hal tersebut",
+      "Tidak ingin melakukannya sama sekali",
     ],
   },
   {
+    //3
     id: 107,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda adalah seorang orang tua baru dengan seorang anak yang masih belia. Di tengah perkembanagan zaaman dimana aliran informasi menyebar dengan cepat melalui platform-platform media sosial, upaya Anda untuk membentengi anak dari paham-paham radikalisme sejak dini adalah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menanamkan semangat kebangsaan dan toleransi",
+      "Selektif dalam memilih teman bermain kepada anak anda",
+      "Membatasi fitur smartphone anak Anda agar tidak mengakses konten radikalisme",
+      "Memberikan pemahaman agama yang terbaik dan benar secara moderat dan damai",
     ],
   },
   {
+    //3
     id: 108,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di era milenium ketiga ini perubahan dunia terjadi dengan cepet. Perubahan tersebut merambat dalam kehidupan sehari hari. Karena itu saya ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengikuti perkembangan teknologi dari media masa",
+      "Mempelajari cara pengoprasian komputer",
+      "Berusaha mempelajari bukku pengetahuan yang terbaru",
+      "Berusaha menguasai keterampilan di bidang teknologi informasi mutakhir",
     ],
   },
   {
+    //2
     id: 109,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bekerja sebagai konsultan pendidikan, banyak siswa dan orang tua yang bingung untuk menentukan jurusan. Sebagai konsultan yang handal yang akan Anda lakukan ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memberikan beberapa alternatife jurusan yang sangat dibutuhkan di dunia kerja",
+      "Menentukan jurusan yang akan memberikan keuntungan masa depan anak",
+      "Memberikan alternatif jurusan sesui dengan kemapuan siswan dan kemampuan finansial orang tua",
+      "Menyarankan agar melanjutkan pendidikan ke luar negeri",
     ],
   },
   {
+    //0
     id: 110,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang teman Anda bertugas di loket pelayanan tiba-tiba pingsan karena kelelahan akibat menerima banyak masyarakat yang datang. Anda yang sedang bekerja diminta menggantikan di loket karena menurut penilaian atasan tugas yang anda kerjakan tengggang waktunya masih lama. Apa yang akan sebaiknya anda lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menuju loket dan melayanu masyarakat",
+      "Melayanu di loket dan sambul juga menyelesaikan tugas sendiri",
+      "Mengerjaakan tugas secepat mungkin agar bisa bertugas di loket",
+      "Mencari teman lain yang bebanya lebih ringan untuk membantu",
     ],
   },
 ];

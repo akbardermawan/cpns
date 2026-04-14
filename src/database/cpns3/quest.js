@@ -1,9 +1,9 @@
 export const dataQues = [
   {
-    //2 baru
+    //3 baru2
     id: 1,
-    question: "2, 8, 5, 20, 14, 56, 47, ...",
-    options: ["180", "184", "188", "192"],
+    question: "B, E, I, N, ...",
+    options: ["Q", "R", "S", "T"],
   },
   {
     //2 baru
@@ -26,10 +26,16 @@ export const dataQues = [
     options: ["A/2 = B", "2A < B", "A > 3B", "A = 5/2 B"],
   },
   {
-    //3 baru
+    //1
     id: 5,
-    question: " -306, -51, -45, -9, -4, -1, ..., ..., 4, 2, 4, 4, 5 ",
-    options: ["-1, 1", "-1, 0", "-2, 1", " 3, 1"],
+    question:
+      " Nilai X = 555/666 dan Y = 444/555 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
+    options: [
+      "X = Y ",
+      "X > Y",
+      "X < Y ",
+      "Hubungan X dan Y tidak dapat ditentukan",
+    ],
   },
   {
     //2 baru
@@ -148,25 +154,30 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru
+    //0 baru2
     id: 23,
     question:
-      "Seorang pedagang menjual barang dagangan dengan harga Rp 10.000 dan mendapat keuntungan 150% dari harga belinya. Berapa harga beli dari barang tersebut?",
-    options: ["Rp 3.000", "Rp 4.000", "Rp 4.500", "Rp 5.000"],
+      "Sekelompok siswa mempunyai hobi olahraga renang, badminton dan tenis. Olahraga renang diikuti 15 siswa, badminton 17 siswa dan tenis 20 siswa. Olahraga renang dan badminton di ikuti 17 orang. badminton dan tenis diikuti oleh 12 orang. Siswa yang  mempunyai hobi renang dan tenis berjumlah 5 orang. Banyak siswa dalam kelompok tersebut adalah ...",
+    options: ["31 siswa", "32 siswa", "37 siswa", "40 siswa"],
   },
   {
-    //1 baru
+    //3 baru2
     id: 24,
     question:
-      "Seorang karyawan mendapatkan upah Rp. 8.000/Jam. Dia bekerja dari pukul 08.00 hingga 16.00 dan dia akan memperolah upah tambahan 50% /jam jika lembur. Suatu hari dia membawa pulang upah Rp 80.000 maka jam berapa dia pulang ?",
-    options: ["17.00", "17.20", "17.40", "18.00"],
+      "Ida ke supermarket setiap 4 hari sekali, Dyah setiap 5 hari sekali, Firza 8 hari sekali. jika pada tanggal 1 Agustus 2004 meraka bersama-sama pergi ke supermarket, maka pada tanggal berapa mereka akan pergi bersama-sama lagi ke super market?",
+    options: [
+      "13 September 2004",
+      "12 September 2004",
+      "11 September 2004",
+      "10 September 2004",
+    ],
   },
   {
-    //3 baru
+    //2 baru2
     id: 25,
     question:
-      "Suatu segitiga ABC, diketahui sudut A = 150 derjat, sisi B adalah 12 cm dan sisi C adalah 5 cm. Maka luas segitiga ABC adalah ...",
-    options: ["12 cm", "13 cm", "14 cm", "15 cm"],
+      "Ayah Amir hendak berpergian ke Solo dengan menggunakan mobil, sedangkan amir akan menggunakan sepeda motor. Jarak rumah Amir ke kota Solo sejauh 120 km. Ayah Amir berencana berangkat jam 07.00 dengan kecepatan rata-rata 60 km/jam. Jika kecepatan Amir rata-rata 90 km/jam. Maksimal jam berapa Amir harus berangkat agar bersamaan dengan Ayahnya tiba di Solo? ",
+    options: ["07.30", "07.35", "07.40", "07.45"],
   },
   {
     //2 baru
@@ -223,14 +234,15 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //2
     id: 31,
-    question: "Buku : Membaca : Pengetahuan = ...",
+    question:
+      "Jika hari panas, maka Nissa memakai topi. Nissa tidak memakai topi atau ia memakai payung. Nissa tidak memaki payung. Kesimpulan yang sah adalah ...",
     options: [
-      "Pensil : Menulis : Gambar",
-      "Kertas : Melukis : Seni",
-      "Radio : Mendengarkan : Musik",
-      "Komputer : Mengetik : Data",
+      "Hari panas",
+      "Nissa memakai topi",
+      "Hari tidak panas",
+      "Hari panas dan Nissa memakai topi",
     ],
   },
   {
@@ -282,22 +294,27 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //2 baru2
     id: 36,
     question:
-      "Pembagian kekuasaan menjadi salah satu fondasi penting untuk menjaga keseimbangan negara. Munurut UUD 1945, pasal berapakah yang secara eksplisit mengatur tentang kekuasaan pemerintah?",
-    options: ["Pasal 1", "Pasal 2", "Pasal 3", "Pasal 4"],
+      "Segala usaha untuk mempertahankan kedaulatan negara, keutuhan wilayah Negara Kesatuan Republik Indonesia dan keselamatan segenap bangsa dari ancaman dan gangguan terhadap keutuhan bangsa dan negara, adalah pengertian dari ...",
+    options: [
+      "Sistem pertahanan negara",
+      "Kedaulatan negara",
+      "Pertahanan negara",
+      "Komponen pertahanan",
+    ],
   },
   {
-    //2 baru
+    //3 baru2
     id: 37,
     question:
-      "Dari pilihan berikut manakah yang paling efektif sebagai langkah jangka panjang untuk memperkuat rasa nasionalisme dan mencegah dampak negatif globalisasi?",
+      "Wujud membangun kesadaran bela negara tetap harus memperhatikan tata kelola pertahanan negara yang ...",
     options: [
-      "Mewujudkan supremasi hukum untuk menegakkan keadilan",
-      "Menggalakkan penggunaan produk lokal yang berkualitas tinggi",
-      "Menanamkan dan mengamalkan nilai-nilai pancasila secara berkesinambungan",
-      "Menjadi selektif terhadap pengaruh asing dalam ideologi dan sosial budaya",
+      "Menjunjung prinsip keadilan",
+      "Menghormati HAM",
+      "Memperhatikan lingkungan hidup",
+      "Semua benar",
     ],
   },
   {
@@ -494,11 +511,14 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
     id: 55,
-    question:
-      "Dalam konteks hak asasi manusia, UUD 1945 mengatur hak warga negara atas perlindungan hukum dan keadilan. Hak ini tercantum dalam pasal berapa pada UUD 1045? ",
-    options: ["Pasal 25", "Pasal 26A", "Pasal 27", "Pasal 28D"],
+    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    options: [
+      "6 Agustus 1945",
+      "9 Agustus 1945",
+      "17 Agustus 1945",
+      "27 Agustus 1945",
+    ],
   },
   {
     //1 baru
@@ -621,26 +641,23 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
     id: 66,
-    question:
-      "Anda adalah seorang administrator di sebuah lembaga yang bertanggung jawab atas peningkatan keterampilan dan pengetahuan guru-guru baru. Anda menyadari bahwa persiapan yang baik dan pengetahuan yang relevan dapat memberikan dasar yang kuat bagi mereka dalam menjalankan tugas mereka sebagai pendidik. Dalam upaya mendukung pelatihan keterampilan dan pengetahuan guru-guru baru, pilihan tindakan yang tepat ...",
+    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
     options: [
-      "Mewajibkan guru-guru baru untuk mengikuti pelatihan sebagai syarat untuk tetap bekerja di lembaga tersebut",
-      "Melakukan evaluasi kinerja secara berkala untuk mengidentifikasi area di mana guru-guru baru membutuhkan pelatihan tambahan",
-      "Mengurangi durasi pelatihaan untuk mempercepat pelatihan proses penempatan guru-guru baru di sekolah-sekolah",
-      "Menyediakan program mentoring yang melibatkna guru-guru berpengalaman untuk mendampingi guru-guru baru dalam menghadapi tantangan di kelas",
+      "6 Agustus 1945",
+      "9 Agustus 1945",
+      "17 Agustus 1945",
+      "27 Agustus 1945",
     ],
   },
   {
     id: 67,
-    question:
-      "Anda adalah seorang manajer proyek yang ingin meningkatkan profesionalisme tim Anda menjalankan proyek-proyek. Anda berencana mengunjungi sebuah perusahaan kontruksi yang dikenal dengan budaya profesional yang kuat. Pilihlah tindakan yang tepat untuk Anda lakukan selama kunjungan tersebut ...",
+    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
     options: [
-      "Mengamati bagaimana perusahaan kontruksi tersebut menjaga standart keselamatan yang tinggi dan memprioritaskan profesionalisme dalam setiap tahap proyek",
-      "Berdiskusi dengan manajer proyek perusahaan kontruksi tentang bagaimana merak mengelola risiko dan komunikasi antar tim dalam proyek",
-      "Melibatkan tim Anda dalam diskusi setelah kunjungan untuk membahas hal-hal yang mereka pelajari dan bagaimana dapat mengimplementasikan dalam proyek yang sedang dikerjakan",
-      "Mengamati bagaimana perusahaan kontruksi tersebut menghadapi tantangan dan konflik dalam proyek dengan pendekatan yang profesional dan efektif",
+      "6 Agustus 1945",
+      "9 Agustus 1945",
+      "17 Agustus 1945",
+      "27 Agustus 1945",
     ],
   },
   {

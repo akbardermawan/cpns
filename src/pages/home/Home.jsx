@@ -10,28 +10,23 @@ export default function Home() {
         <span className="span"> ADM </span>
       </div>
       <div className="intro">
-        <p className="p">
-          Mudah-mudahan dengan mengerjakan soal-soal berikut dapat membatu
-          teman-teman lolos seleksi cpns, semoga cita-cita tergapai. Mohon juga
-          bantuan do'anya supaya saya juga dapat lolos tes cpns seperti
-          teman-teman. terimaksih......
-        </p>
+        <p className="p text-white">Mohon do'anya terimaksih......</p>
       </div>
       <div className="container-main">
         <ul className="ques-list">
           <li className="list">
             <Link to="/tiu" className="link">
-              <h2 className="text-2xl font-bold">Tes Intelegensi Umum</h2>
+              <h2 className="text-2xl font-bold">TIU</h2>
             </Link>
           </li>
           <li className="list">
             <Link to="/twk" className="link">
-              <h2 className="text-2xl font-bold">Tes Wawasan Kebangsaan</h2>
+              <h2 className="text-2xl font-bold">TWK</h2>
             </Link>
           </li>
           <li className="list">
             <Link to="/tkp" className="link">
-              <h2 className="text-2xl font-bold">Tes Karakteristik Pribadi</h2>
+              <h2 className="text-2xl font-bold">TKP</h2>
             </Link>
           </li>
           <li className="list">
@@ -46,12 +41,8 @@ export default function Home() {
           </li>
         </ul>
       </div>
-      <div className="footer">
-        <h6 className="h6">
-          Dalam gelapnya malam, saya ingin menjadi bagian dari bintang bintang
-          yang menerangi malam
-        </h6>
-        <span className="span">akbardermawan@1998.gmail.com</span>
+      <div className=" text-center">
+        <span className="span text-black">akbardermawan27@gmail.com</span>
       </div>
     </div>
   );

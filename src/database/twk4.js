@@ -1673,7 +1673,7 @@ export const dataQues = [
         correct: true,
       },
       {
-        text: "Fapat ditafsirkan menjadi satu pengertian yang kabur",
+        text: "Dapat ditafsirkan menjadi satu pengertian yang kabur",
         correct: false,
       },
       {

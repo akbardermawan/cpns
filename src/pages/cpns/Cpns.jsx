@@ -26,13 +26,13 @@ const Cpns = () => {
 
       {/* Main Content */}
       <div className="w-full max-w-xl mt-10 p-4 ">
-        <div className="flex flex-col">
+        <div className="flex flex-col pb-5">
           <div className="py-2">
             <Link
               to="/cpns1"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
-              <h2 className="text-2xl font-bold text-gray-800">CPNS 1</h2>
+              <h2 className="text-2xl font-bold text-gray-800">SKD 1</h2>
             </Link>
           </div>
           <div className="py-2">
@@ -40,7 +40,7 @@ const Cpns = () => {
               to="/cpns2"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
-              <h2 className="text-2xl font-bold text-gray-800">CPNS 2</h2>
+              <h2 className="text-2xl font-bold text-gray-800">SKD 2</h2>
             </Link>
           </div>
           <div className="py-2">
@@ -48,7 +48,54 @@ const Cpns = () => {
               to="/cpns3"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
-              <h2 className="text-2xl font-bold text-gray-800">CPNS 3</h2>
+              <h2 className="text-2xl font-bold text-gray-800">SKD 3</h2>
+            </Link>
+          </div>
+          <div className="py-2">
+            <Link
+              to="/cpns3"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">SKD 4</h2>
+            </Link>
+          </div>
+          <div className="py-2">
+            <Link
+              to="/cpns3"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">SKD 5</h2>
+            </Link>
+          </div>
+          {/* SKB */}
+          <div className="py-2">
+            <Link
+              to="/cpns3"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">
+                SKB (penyluh pertanian) 1
+              </h2>
+            </Link>
+          </div>
+          <div className="py-2">
+            <Link
+              to="/cpns3"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">
+                SKB (penyluh pertanian) 2
+              </h2>
+            </Link>
+          </div>
+          <div className="py-2">
+            <Link
+              to="/cpns3"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">
+                SKB (penyluh pertanian) 2
+              </h2>
             </Link>
           </div>
         </div>

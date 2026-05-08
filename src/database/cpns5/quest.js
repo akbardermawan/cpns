@@ -74,7 +74,7 @@ export const dataQues = [
     //2
     id: 9,
     question:
-      "Diketahui jarak kota A dan B adalah 100 km. Aldi berangkat dari kota A ke kota B dengan kecepatan 40 km/jam, disaat beersamaan slatem berangkat dari kota B ke kota A dengan kecepatan 50 km/jam. kira kira Aldi dan Slatem akan bertemu di mana?",
+      "Aldi berangkat dari kota a ke b dengan kecepatan 40 km/jam, disaat beersamaan slatem berangkat dari kota b ke a dengan kecepatan 50 km/jam. kira kira aldi dan slatem akan bertemu di mana?",
     options: [
       "60 km dari kota A",
       "60 km dari kota B",

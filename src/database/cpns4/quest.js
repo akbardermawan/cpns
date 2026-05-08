@@ -1,14 +1,9 @@
 export const dataQues = [
   {
-    //1
+    //2 baru4
     id: 1,
-    question: "21, 42, 126, 504, 2520, 15120, 105840, ..., ...",
-    options: [
-      "740880, 6828804",
-      "846720, 7620480",
-      "864720, 7782480",
-      "886420, 7620480",
-    ],
+    question: "50, 40, 100, 90, ..., 140, 200, 190",
+    options: ["120", "130", "150", "170"],
   },
   {
     //2
@@ -17,16 +12,11 @@ export const dataQues = [
     options: ["0,620", "0,530", "0,063", "0,056"],
   },
   {
-    //0
+    //2 baru4
     id: 3,
     question:
-      "Diketahui X = 19,95 % dari 77  dan Y =  77 % dari 19,95 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
-    options: [
-      "X dan Y nilainya sama",
-      "Y > X",
-      "X - Y = bilangan negatife",
-      "X/Y = 1/77",
-    ],
+      "Tabungan Ayu Rp 2.000,00 lebih banyak dari pada tabungan Bagus. Tabungan Cinta sebanyak tiga kali tabungan Bagus ditambah dengan tabungan Ayu. Jika jumlah tabungan mereka bertiga adalah Rp 70.000,00 , beberapa rupiah tabungan cinta?",
+    options: ["Rp 11.000,00", "Rp 26.000,00", "Rp 46.000,00", "Rp 52.000,00"],
   },
   {
     //2
@@ -53,10 +43,15 @@ export const dataQues = [
     ],
   },
   {
-    //2
+    //0 baru4
     id: 6,
-    question: "6, 9, 54, 51, ..., ..., 321, 324, 1.944",
-    options: ["52, 324", "54, 321", "54, 324", "52, 321"],
+    question: "..., ..., ..., 422, 1.266, 1.280, 3.840",
+    options: [
+      "122, 136, 408",
+      "124, 137, 412",
+      "126, 138, 414",
+      "128, 139, 416",
+    ],
   },
   {
     //2
@@ -71,16 +66,11 @@ export const dataQues = [
     options: ["7/3", "9/6", "5/3", "7/6"],
   },
   {
-    //2
+    //1 baru4
     id: 9,
     question:
-      "Diketahui jarak kota A dan B adalah 100 km. Aldi berangkat dari kota A ke kota B dengan kecepatan 40 km/jam, disaat beersamaan slatem berangkat dari kota B ke kota A dengan kecepatan 50 km/jam. kira kira Aldi dan Slatem akan bertemu di mana?",
-    options: [
-      "60 km dari kota A",
-      "60 km dari kota B",
-      "40 km dari kota A",
-      "40 km dari kota B",
-    ],
+      "Tiga perenang dalam suatu lomba lari mempunyai catatan waktu yang berbeda. Jumlah catatan waktu perenang paling cepat dan paling lambat adalah 23,6 detik. Selisih waktu dua perenang tersebut dengan perenang kedua adalah 2,6 detik. Dari ketiga perenang tersebut, berapa detik catatan waktu tercepat?",
+    options: ["8,0", "9,2", "11,8", "14,4"],
   },
   {
     //2

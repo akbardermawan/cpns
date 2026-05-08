@@ -6,103 +6,111 @@ export const dataQues = [
     options: ["Q", "R", "S", "T"],
   },
   {
-    //2 baru
+    //0 baru2
     id: 2,
-    question: "z, x, u, q, l, ...",
-    options: ["g", "h", "f", "e"],
+    question: "y + 34y = 42y - 21. Berapakah nilai y?",
+    options: ["7", "8", "9", "10"],
   },
   {
-    //3 baru
+    //1 baru2
     id: 3,
     question:
-      "Diketahui X = - 2/16 + 9/8 + 20 x 0,7  dan Y =  - 66/24 + 9/12 + 0,5 x 16 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
-    options: ["1/2 X = 1/5 Y", "5X = 2Y", "3X < 4Y", "1/2 X > Y"],
+      "Aldi dan Yahya akan pergi dari Banyuwangi ke Kediri. Aldi pada pukul 07.00 dengan kecepatan rata-rata 40 km/jam, sedangkan yahya  berangka  08.00 dengan rata-rata kecepatan 60 km/jam. kira-kira pada pukul berapa Yahya dapat menyusul aldi dalam perjalanan?",
+    options: ["09.30", "10.00", "10.30", "11.00"],
   },
   {
-    //1 baru
+    //1 baru2
     id: 4,
     question:
-      "Diketahui X = 2  dan Y = 4. Nilai A = 5X - 3/2 Y dan B = 5/2 X + 3/2 Y , manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...  ",
-    options: ["A/2 = B", "2A < B", "A > 3B", "A = 5/2 B"],
+      "Jarak Banyuwangi ke Kediri 400 km. Sandika berangkat dari Banyuwangi ke kediri  pukul 07.00 dengan kecepatan rata-rata 60 km/jam, sedangkan Agung akan berangkat dari Kediri ke Banyuwangi pukul 07.30 dengan kecepatan rata-rata 80 km/jam. jika jalur yang mereka lalui sama pada pukul berpa mereka akan berpapasan?",
+    options: ["09.48", "10.08", "10.58", "11.18"],
   },
   {
-    //1
+    //3 baru2
     id: 5,
     question:
-      " Nilai X = 555/666 dan Y = 444/555 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
+      "Bangkit dan Krisna akan pergi dari Jember ke Kediri. Bangkit pada pukul 08.00 dengan kecepatan rata-rata 50 km/jam, sedangkan Krisna  berangka  08.30 dengan rata-rata kecepatan 60 km/jam. Kira-kira pada jarak berapa km  dari Jember, Krisna mampu menyusul Bangkit ?",
+    options: ["130 km", "135 km", "140 km", "150 km"],
+  },
+  {
+    //3 baru2
+    id: 6,
+    question:
+      "Nilai rata-rata ulangan Matematika Nungky, Dila, Ima, Dina, Mia, dan Rifa adalah 79. Jika nilai Nia ditambahkan, rata-rata akan menjadi 81, berapa nilai Matematika Nina?",
+    options: ["85", "87", "90", "93"],
+  },
+  {
+    //2 baru2
+    id: 7,
+    question:
+      "Dina menyimpan uang di sebuah bank swasta sebesar Rp500.000,00. Setelah satu tahun, tabungan Dina menjadi Rp540.000,00. Berapa persenkah bunga bank yang diperoleh Dina?",
+    options: ["4%", "6%", "8%", "10%"],
+  },
+  {
+    //3 baru2
+    id: 8,
+    question:
+      "Budi meminjam uang di bank sebesar Rp10.000.000,00 dengan bunga 12% per tahun (bunga efektif).Pinjaman tersebut akan dilunasi dalam waktu 1 tahun (12 bulan). Berapa total uang yang dibayarkan budi pada bank?",
     options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
+      "Rp12.750.000,00",
+      "Rp11.200.000,00",
+      "Rp11.050.000,00",
+      "Rp10.650.000,00",
     ],
   },
   {
-    //2 baru
-    id: 6,
-    question: "A, B, C, F, E, D, G, H, I, L, ..., ...",
-    options: ["M, N", "N, M", "K, J", "J, K"],
-  },
-  {
-    //2
-    id: 7,
-    question: "1/2, 2/8, 3/26, 4/80, ...",
-    options: ["5/241", "5/242", "5/243", "5/244"],
-  },
-  {
-    //3 baru
-    id: 8,
-    question: "B, M, N, D, O, P, ...",
-    options: ["G", "Q", "R", "F"],
-  },
-  {
-    //2 baru
+    //1 baru2
     id: 9,
     question:
-      "Agung berangkat dari kota A pukul 07.35 WIB dengan kecepatan 80 km/jam dan tiba di kota B pukul 10.05 WIB. Diketahui P = kecepatan Bus kedua melaju dari kota B ke kota A selama 120 menit dan Q = 75 km/jam. Manakah hubungan yang benar antara kuantitas P dan Q berdasarkan data tersebut?",
-    options: ["1/2 P > 1/2 Q ", "2Q > 2P", "3/2 P = 2 Q", "3/4 p = 1/3 Q"],
+      "Agung menyimpan uang dibank menggunakan sistem deposito. Uang yang ditabung sebanyak Rp 1.000.000,00 dengan bunga 6% p.a selama 1 tahun. Agung terkena potongan pajak negara sebesar 20% dari bunga keuntungan.  Berapa uang yang akan diterima Agung setelah satu tahun? ",
+    options: [
+      "Rp 1.032.000,00",
+      "Rp 1.048.000,00",
+      "Rp 1.060.000,00",
+      "Rp 1.100.000,00",
+    ],
   },
   {
-    //1 baru
+    //2 baru2
     id: 10,
     question:
-      "5 orang pekerja dapat menyelesaikan suatu pekerjaan selama 4 jam dan dapat selesai 40%. Berapa tambahan pekerja minimal jika pekerjaan tersebut harus dikerjakan selama 6 jam? ",
-    options: ["3", "4", "5", "6"],
+      "Jika x = (22 + 4 + 7 - 3) : 2 dan y = 8 : 4 - 2 x 1 + 5, maka ...",
+    options: ["x = y ", "x < y", "x > y", "Jawaban tidak bisa ditentukan"],
   },
   {
-    //3 baru
+    //2 baru2
     id: 11,
     question:
-      "Suatu pekerjaan di targetkan selesai dalam waktu 25 hari dengan 10 orang pekerja. Jika di hari ke-6 ada penambahan pekerja sebanyak 5 orang salam 4 hari, maka sisa pekerjaan akan selesai dalam waktu? ",
-    options: ["11", "12", "13", "14"],
+      "Sebuah toko sedang memberikan diskon besar-besaran kepada para pelanggan. Fira membeli sepatu seharga Rp350.000,00 dengan diskon 25%, baju seharga Rp200.000,00 dengan diskon 15%, dan tas dengan dikson 20%. Jika Fira membayar harga keseluruhan barang sebesar Rp600.000,00, berapa harga tas tanpa dipotong diskon?",
+    options: ["Rp209.000,00", "Rp206.750,00", "Rp209.375,00", "Rp200.000,00"],
   },
   {
-    //1 baru
+    //0 baru2
     id: 12,
     question:
-      "Sebuah tim terdiri dari 10 pekerja mampu menyelesaikan pembangunan 1 rumah dalam 120 hari. jika terdapat 4 rumah yang harus diselesaikan dalam waktu 240 hari, berpa banyak pekerja yang diperlukan agar pekerjaan tersebut selesai tepat waktu?",
-    options: ["18", "20", "22", "24"],
+      "Ibu mampu membuat kue donat sebanyak 250 buah dalam waktu lima hari. Jika Ibu membuat kue donat dalam waktu 23 hari, berapa kue donat yang dihasilkan?",
+    options: ["1150", "1250", "2250", "2350"],
   },
   {
-    //2 baru
+    //1 baru2
     id: 13,
     question:
-      "Suatu proyek ditargetkan selesai dalam 90 hari dengan 60 orang pekerja. Setelah 30 hari pelaksanaan, proyek tersebut dihentikan selama 15 hari. Jika kemampuan bekerja setiap orang sama dan agar proyek dapat diselesaikan tepat waktu maka pekerja tambahan yang dibutuhkan adalah ...",
-    options: ["40", "30", "20", "10"],
+      "Seorang pedagang di pasar menjual sebuah baju dengan harga Rp77.000,00. Setiap penjualan satu baju memberikan keuntungan 10% dari harga belinya. Berapa keuntungan yang diperoleh jika baju yang terjual sebanyak 9 baju?",
+    options: ["Rp58.000,00", "Rp63.000,00", "Rp65.000,00", "Rp77.000,00"],
   },
   {
-    //2 baru
+    //2 baru2
     id: 14,
     question:
       "Sebuah pembangunan masjid selesai oleh 40 orang pekerja dalam waktu 60 hari. Setelah dikerjakan selama 20 hari, pekerjaan dihentikan selama 10 hari karena suatu hal. Agar pembangunan masjid selesain tepat waktu, berapa banyak pekerja tambahan yang diperlukan?",
     options: ["12", "13", "14", "15"],
   },
   {
-    //3 baru
+    //3 baru2
     id: 15,
     question:
-      "Jika 2 ekor sapi mampu menghabiskan 1 karung rumput dalam waktu 3 hari, maka 6 ekor sapu mampu menghabiskan 10 karung dalam waktu ...",
-    options: ["48", "24", "12", "10"],
+      "Jika Indah menempuh perjalanan dari rumah ke sekolah dalam waktu 10 menit, sedangkan Nina menempuh perjalanan itu dalam waktu 15 menit. Rumah mereka bersebelahan di suatu daerah dengan jarak 10 km dari sekolah. Berapa perbandingan kecepatan Indah dan Nina?",
+    options: ["2: 3", "4: 3", "1 : 2", "3: 2"],
   },
   {
     //2 baru

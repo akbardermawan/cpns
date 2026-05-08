@@ -81,7 +81,9 @@ export default function Tiu() {
                 alt="TIU 6"
                 className="w-full h-40 object-cover rounded-md"
               />
-              <h4 className="mt-3 text-lg font-semibold">TIU 5</h4>
+              <h4 className="mt-3 text-lg font-semibold">
+                TIU (Uji Kecepatan Berhitung)
+              </h4>
             </Link>
             <Link
               to="/tpa1"

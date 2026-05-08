@@ -633,94 +633,111 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru
     id: 67,
     question:
       "Anda adalah seorang manajer proyek yang ingin meningkatkan profesionalisme tim Anda menjalankan proyek-proyek. Anda berencana mengunjungi sebuah perusahaan kontruksi yang dikenal dengan budaya profesional yang kuat. Pilihlah tindakan yang tepat untuk Anda lakukan selama kunjungan tersebut ...",
     options: [
       "Mengamati bagaimana perusahaan kontruksi tersebut menjaga standart keselamatan yang tinggi dan memprioritaskan profesionalisme dalam setiap tahap proyek",
-      "Berdiskusi dengan manajer proyek perusahaan kontruksi tentang bagaimana merak mengelola risiko dan komunikasi antar tim dalam proyek",
+      "Berdiskusi dengan manajer proyek perusahaan kontruksi tentang bagaimana meraka mengelola risiko dan komunikasi antar tim dalam proyek",
       "Melibatkan tim Anda dalam diskusi setelah kunjungan untuk membahas hal-hal yang mereka pelajari dan bagaimana dapat mengimplementasikan dalam proyek yang sedang dikerjakan",
       "Mengamati bagaimana perusahaan kontruksi tersebut menghadapi tantangan dan konflik dalam proyek dengan pendekatan yang profesional dan efektif",
     ],
   },
   {
+    //3 baru
     id: 68,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda adalah seorang karyawan yang bekerja pada perusahaan yang berkaitan dengan pelayanan masyarakat dan Anda sadar bahwa setiap individu memiliki kemampuan yang yang berbeda dalam memahami regualsi dan kebijakan pelayanan yang perudahaan Anda tetapkan sehingga seringkali terjadi miskomunikasi ditambah lagi hal-hal teknis yang sering kali dikeluhkan masyarakat karean mengganggu proses pelayanan perusahaan Anda. Oleh karena itu untuk lebih meningkatkan maka ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Perlu dibuatkan call center yang siap 24 jam untuk menerima semua pengaduan masyarakat",
+      "Email korespondensi dibutuhkan agar operator bisa melayani seluruh pertanyaaan yang masuk dari masyarakat seputar pelayanan",
+      "Menempatkan kotak saran di loket pelayanan untuk mengakomodir semua keluhan masyarakat",
+      "Mendirikan loket customer service sebagai tempat masyarakat memperoleh informasi secara langsung",
     ],
   },
   {
+    //2 baru
     id: 69,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pada saat Anda melayani pelanggan dalam antrian panjang, tiba-tiba seorang ibu tua menerobos antrian dan marah-marah tentang tidak adanya pemberitahuan perubahan jadwal sehingga membuat dirinya mengantri padahal informasi sudah diumumkan di sosial media. Bagaimana sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Tidak menghiraukan",
+      "Meminta maaf dan menjelaskan tentang adanya perubahan jadwal",
+      "Menenangkannya kemudian menjelaskan adanya perubahan jadwal",
+      "Menjelaskan tentang perubahan jadwal yang sudah ada di media sosial",
     ],
   },
   {
+    //3 baru
     id: 70,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda meminta bantuan teman Anda untuk mengerjakan sebuah proyek, namun di tengah proses kelihatan teman Anda kurang bersemangat mengerjakannya, apa yang Anda lakukan? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menanyakan hal yang membuatnya tidak bersemangat",
+      "Menyemangati teman untuk mengerjakanya",
+      "Mengorol dan mengingatkan teman akan target pengerjaan seharusnya",
+      "Mencari cara agar proyek tersebut dapat diselesaikan tepat waktu",
     ],
   },
   {
+    //2 baru
     id: 71,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam upaya meningkatkan kualitas game online, Riza adalah seorang manajer layanan pelanggang yang ingin memahami kebutuhan dan keinginan pemain. Riza ingin mengetahui prefensi pemain terkait mede permainan yang diinginkan. Dalam situasi ini, tindakan mana yang paling tepat untuk Riza lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengendalikan data statistik dari game untuk menentukan mode permainan yang paling populer",
+      "Mengirimkan email kepada para pemain dengan pertanyaan terkait mode permainan yang mereka sukai",
+      "Mengatur pertemuan dengan kelompok pemain terpilih untuk mendiskusikan preferensi terkait mode permainan",
+      "Mengadakan voting di media sosial untuk memungkinkan pemain memilih mode permainan faforit mereka",
     ],
   },
   {
+    //0 baru
     id: 72,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dian telah pindah ke perusahaan F setelah meninggalakan pekerjaannya di perusahaan G. Meskipun sudah tidak bekerja di perusahaan G lagi, Dian ingin menjaga hubungan baik dengan mantan rekan kerja dan tetap terhubung dengan mereka. Dalam situasi ini, tindakan mana yang paling tepat untuk Dian lakukan? ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengajak mantan rekan kerja di perusahaan G untuk bertemu secara teratur untuk menjaga hubungan sosial",
+      "Membatasi hubungan dengan mantan rekan kerja di perusahaan G hanya melalui pesan teks atau email",
+      "Menghubungi mantan rekan kerja di perusahaan G hanya saat ada kebutuhan atau pertukaran informasi yang penting",
+      "Menjalin hubungan di media sosial dengan mantan rekan kerja di perusahaan G untuk tetap up-to-date tentang kehidupan masing-masing",
     ],
   },
   {
+    //1 baru
     id: 73,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Nina adalah seorang supervisor yang bertanggung jawab atas tim yang terdiri dari anggota yang memiliki latar belakang yang berbeda. Nina ingin meningkatkan kemampuan timnya dalam bekerja dengan berbagai macam orang dan memperkuat  kerja sama antar kelompok. Dalam situasi ini, tindakan mana yang paling tepat untuk Nina lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengabaikan kebutuhan dan prespektif anggota tim yang memiliki latar belakang yang berbeda dan fokus pada tugas-tugas individu",
+      "Mengadakan sesi pelatihan atau workshop untuk membahas keanekaragaman budaya dan mengatasi hambatan dalam kerja sama tim",
+      "Memilih bekerja hanya dengan anggota tim yang memiliki latar belakang budaya yang serupa dengannya",
+      "Memisahkan anggota tim berdasarkan latar belakang mereka agar mereka lebih nyaman dan mudah bekerja",
     ],
   },
   {
+    //1 baru
     id: 74,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah proyek IT, terdapat seorang programer bernama Maya, yang ingin menciptakan kolaborasi yang saling mendukung dan memberikan bantuan kepada mitra bisnis saat diperlukan, sikap apa yang sebaiknya diambil oleh Maya?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menjaga batasan profesional dan tidak terlibat dalam masalah mitra bisnis",
+      "Mendorong komunikasi terbuka dan kolaborasi aktif antara tim proyek dan mitra bisnis",
+      "Menunggu permintaan langsung dari mitra bisnis sebelum memberikan bantuan",
+      "Fokus pada tugas programing sendiri tanpa melibatkan diri dalam masalah mitra bisnis",
     ],
   },
   {
+    //1 baru
     id: 75,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah desa wisata, terdapt seorang pengusaha bernama Budi, yang diundang untuk menghadiri festival budaya yang diadakan oleh masyarakat lokal. Dalam menghadiri festifal budaya yang diadakan oleh masyarakat lokal, sikap apa yang sebaiknya diambil oleh Budi?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Datang ke festival hanya untuk mencari peluang bisnis tanpa memperhatikan nilai budaya dan tradisi yang ada",
+      "Membuka diri untuk belajar dan berinteraksi dengan masyarakat lokal, serta mendukung kegiatan festival yang mempromosikan kebudayaan mereka",
+      "Memilih untuk hanya melihat dari kejauhan tanpa benar-benar terlibat dalam aktifitas yang disajikan dalam festival",
+      "Menjauhkan diri dari festival dan tidak berpartisipasi dalam kegiatan apa pun yang ditawarkan",
     ],
   },
   {
@@ -754,13 +771,15 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru
     id: 79,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Tina adalah seorang guru yang ingin tetap proaktif dalam mencari informasi teknologi informasi dan komunikasi terbaru. Dia ingin menggunakan teknologi terkini untuk meningkatkan pengalman belajar siswa-siswanya. Dalam situasi ini, tindakan mana yang paling tepat untuk Tania lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengandalkan pelatihan dan workshop yang disediakan oleh sekolah untuk mendapatkan informasi teknologi informasi dan komunikasi terbaru",
+      "Mencari materi oline yang berkaitan dengan perkembangan terbaru dalam teknologi informasi dan komunikasi untuk diterapkan dalam pembelajaran",
+      "Bergabung dengan grup diskusi guru  yang membahas penggunan teknologi informasi dan komunikasi dalam  pembelajaran",
+      "Mengajarkan materi teknologi informasi dan komunikasi yang selama ini sudah di kuasai",
     ],
   },
   {
@@ -794,13 +813,15 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru
     id: 83,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah lembaga pendidikan, terdapat seorang guru bernama David, yang ingin menciptakan kelas yang inklusif dan menghargai perbedaan siswa. Dalam menciptakan lingkungan belajar yang menghargai perbedaan dan keberagaman, tindakan apa yang sebaiknya diambil oleh David?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memisahkan siswa berdasarkan kemampuan akademik mereka untuk meningkatkan efesiensi pengajaran",
+      "Menghindari topik-topik  sensitif yang berpotensi memunculkan perbedaan pandangan di kelas",
+      "Mendorong diskusi terbuka dan saling menghormati antara siswa dengan latar belakang yang beragam",
+      "Menegakan aturan ketat untuk mengontrol perilaku siswa dan mencegah konflik",
     ],
   },
   {
@@ -814,23 +835,27 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru
     id: 85,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Andre adalah seorang pemilik usaha kecil dalam bidang manufaktru. Dia ingin memastikan usahanya selalu mengikuti perkembangan terbaru dalam teknologi informasi dan komunikasi untuk meningkatkan efisiensi produksi dan kepuasan pelanggan. Dalam konteks ini, sikap atau tindakan mana yang paling tepat dilakukan oleh Andre untuk memantau perkembangan teknologi informasi dan komunikasi terbaru dan mempertimbangkan penerapanya dalam organisasi?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melakukan riset sendiri tentang teknologi baru dan mencoba menerapkannya secara mandiri tanpa konsultasi",
+      "Mengikuti pelatihan dan seminar terkait teknologi informasi dan komunikasi untuk mendapatkan wawasan tentang tren terbaru",
+      "Menolak penerapan teknologi baru karena menganggapnya mengganggu proses produksi yang sudah berjalan",
+      "Mengendalikan vendor atau pemasok untuk memperkenalakan teknologi baru tanpa melakukan evaluasi independen",
     ],
   },
   {
+    //2 baru
     id: 86,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah lembaga keuangan, Sarah bekerja sebagai analis risiko. Dalam pekerjaannya, Sarah dituntut untuk menunjukkan sikap integritas dan tanggung jawab yang tinggi dalam mengelola risiko yang terkait dengan kegiatan perusahaan. Berikut adalah beberapa opsi tindakan yang dapat diambil oleh Sarah ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Sarah melaporkan temuan resiko yang signifikan kepada manejemen eksekutif perusahaan tanpa memperhatikan implikasi negatif yang mungkin terjadi",
+      "Sarah mengabaikan temuan resiko yang ditemukan dalam analisisnya untuk menghindari konfrontasi dengan manejemen perusahaan",
+      "Sarah secara aktif berpartisipasi dalam diskusi dengan tim manejemen untuk mengidentifikasi dan mengelola risiko secara efektif",
+      "Sarah menyembunyikan informasi tentang risiko yang berpotensi merugiakn perusahaan untuk menghindari tanggung jawab yang lebih besar",
     ],
   },
   {
@@ -894,13 +919,15 @@ export const dataQues = [
     ],
   },
   {
+    //3 baru
     id: 93,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah negara yang terkena dampak radikalisme, terdapat seorang tokoh bernama Maya, seorang wartawan yang berdedikasi tinggi. Maya menyadari media memainkan peran penting dalam membentuk persepsi masyarakat tentang gerakan radikal. Dia ingin memastikan bahwa peliputan media tentang radikalisme dilakukan dengan cermat dan bertanggung jawab. Dalam upaya meningkatkan kerjasama antara instansi dan masyarakat dalam memerangi radikalisme, tindakan apa yang sebaiknya diambil oleh Maya?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menulis artikel yang memberikan gambaran umum tentang semua kelompok radikal tanpa memberikan penekanan pada kelompok tertentu",
+      "Menerbitkan semua informasi rahasia yang dikumpulkan tentang kelompok radikal tanpa memberikan peringatan pada pihak berwenang",
+      "Melakukan wawancara dengan anggota kelompok radikal dan menyiarkan informasi mereka secara langsung tanpa menyaringnya",
+      "Melakukan penelitian mendalam dan menulis artikel yang memberikan konteks dan pemahaman yang lebih baik tentang akar penyebab radikalisme serta upaya pencegahannya",
     ],
   },
   {
@@ -954,13 +981,15 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru
     id: 99,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah sekolah dasar, terdapat seorang kepala sekolah bernaman Bapak Adi, yang menghadapi tentang kurangnya anggaran yang memadai untuk meningkatkan kualitas pendidikan bagi siswa-siswanya. Bapak Adi ingin mencari solusi yang dapat membarikan dampak positif bagi para siswa-siswi tersebut. Dalam menghadapi masalah kurangnya anggaran untuk meningkatkan kualitas pendidikan, tindakan apa yang sebaiknya diambil oleh Bapak Adi?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengurangi jumlah jam pelajaran dan kegiatan ekstrakulikuler demi menghemat anggaran",
+      "Membatasi akses siswa terhadap fasilitas sekolah, seperti perpustakaan dan laboratorium, untuk menghemat anggaran",
+      "Mengorganisir kerjasama dengan perusahaan dan lembaga lain untuk menyediakan sponsor dan donasi dalam bentuk bantuan pendidikan",
+      "Mangabaikan masalah kurangnya anggaran dan tetap menjalankan pendidikan seperti biasa",
     ],
   },
   {
@@ -994,13 +1023,15 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru
     id: 103,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di sebuah perusahaan telekomunikasi, terdapat seorang manajer layanan pelanggang bernama Sarah, yang berusaha membangun sistem pengaduan dan penanganan keluhan yang cepat dan tepat. Dalam membangun sistem pengaduan dan penanganan keluhan yang cepat dan tepat, tindakan apa yang sebaiknya diambil oleh Sara?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengurangi jumlah personel yang bertanggung jawab atas penangan keluhan agar dapat menghemat biaya operasional perusahaan",
+      "Melakukan survei kepuasan pelanggang secara teratur dan menggunakan masukan tersebut untuk memperbaiki sistem pengaduan yang ada",
+      "Menunda penangan keluahan yang dianggap kurang penting untuk fokus pada peningkatan penjualan produk",
+      "Mengabaikan keluhan yang masuk dan fokus pada upaya meningkatkan keuntungan perusahaan",
     ],
   },
   {

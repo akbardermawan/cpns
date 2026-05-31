@@ -899,13 +899,15 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru2
     id: 91,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam suatu kelompok keraj, biasanya anggota kelompok terdiri dari berbagai latar belakang budaya, dan saya merasa... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Sebagian orang menerima saya jika saya dapat mengikuti aturan dalam kelompok",
+      "Perlu berhati-hati akan apa yang bisa saya katakan atau saya perbuat didalam kelompok kerja",
+      "Benar-benar aman menjadi diri sendiri, dan saya tidak pernah berkonflik dengan anggota kerja yang lain",
+      "Tidak cukup berani untuk menjadi diri sendiri dalam kelompok kerja",
     ],
   },
   {
@@ -939,13 +941,15 @@ export const dataQues = [
     ],
   },
   {
+    //0 baru2
     id: 95,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Draft laporan yang saya buat ditolak pimpinan karena dianggap kurang visibel.",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Segera melakukan perbaikan atas draft laporan dan mengajukannya kembali",
+      "Menerima penolakan dan berusaha memperbaiki",
+      "Berusaha mencari alasan seperti sedikitnya waktu untuk mengerjakannya",
+      "Menerima penolakan tetapi tidak melakukan tindak lanjut",
     ],
   },
   {
@@ -969,13 +973,15 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru2
     id: 98,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya ditawarkan oleh pimpinan untuk mempelajari studi di provinsi lain atas biaya kantor. Saat ini saya baru saja dikaruniai bayi kembar yang masih membutuhkan perhatian. Keputusan saya adalah ... ",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menolak tawaran tersebut",
+      "Menerima tawaran tersebut dengan konsekuensi mengikutkan keluarga merupakan tanggung jawab saya",
+      "Menerima tawaran tersebut dan berat hati meninggalkan keluarga",
+      "Menolak tawaran tersebut namun mohon kebijakan pimpinan jika ada kesempatan lagi saya dapat diikutkan",
     ],
   },
   {
@@ -1009,13 +1015,15 @@ export const dataQues = [
     ],
   },
   {
+    //0 baru2
     id: 102,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saya sedang menghadapi ujian akhir, namun saya tidak bisa hadir dalam ujian tersebut karena sakit dan dosen saya menawarkan untuk mengukuti ujian susulan.",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Saya mengahadap dosen saya untuk meminta ujian susulan",
+      "Saya menyadari bahwa jika saya tidak mengikuti ujian mungkin saya tidak akan lulus",
+      "Seharusnya dosen tahu bahwa saya sedang sakit sehingga tidak dapat mengikuti ujian.",
+      "Saya mungkin akan mengikuti susulan kalau diadakan.",
     ],
   },
   {
@@ -1029,10 +1037,15 @@ export const dataQues = [
     ],
   },
   {
-    //0 baru
+    //1 baru2
     id: 104,
-    question: "Bagi saya, bekerja adalah ...",
-    options: ["Beribadah", "Tugas", "Kewajiban", "Kebutuhan"],
+    question: "Bila ada rekan kerja yang salah memanggil saya, maka saya ...",
+    options: [
+      "Saya tidak tersinggung",
+      "Saya mengingatkan kekeliruannya dengan baik-baik",
+      "Saya mengingatkan dengan tegas",
+      "Hal itu menjadi masalah bagi saya",
+    ],
   },
   {
     //3 baru
@@ -1059,19 +1072,19 @@ export const dataQues = [
     ],
   },
   {
-    //2 baru
+    //2 baru2
     id: 107,
     question:
-      "Anda menerima perintah tugas ke luar kota. Kebetulan pekerjaan anda dikantor menumpuk dan harus diselesaikan. Maka tindakan yang akan anda lakukan adalah ...",
+      "Karena ruang kantor sempit, maka penambahan sekat untuk karyawan baru terpaksa mempersempit seluruh sekat yang sudah ada termasuk sekat anda ...",
     options: [
-      "Meminta atasan untuk memberikan perpanjangan waktu menylesaikan tugas tersebut",
-      "meminta atasan untuk keluar kota setelah anda menyelesaikan pekerjaan anda",
-      "Membawa pekerjaan tersebut ke luar kota. Sehingga dapat menyelesaikanya tepat waktu",
-      "Mengkordinasikan tugas yang dapat dipercayakan kepada rekan kerja, selain tidak menyalahi prosedur pekerjaaan dapat diselesaikan tepat waktu",
+      "Saya perlu waktu beberapa bulan untuk penyesuaian diri terhadap sempitnya sekat saya ini.",
+      "Apa mau dikata, saya harus menerima kondisi ini.",
+      "Saya menerima perubahan ini",
+      "Seharusnya tak perlu ada karyawan baru, karena hanya mempersempit ruang sekat yang sudah sempit",
     ],
   },
   {
-    //1 baru
+    //1
     id: 108,
     question:
       "Saya akan menghadiri pernikahan seorang kerabat dari luar kota, bersamaan dengan itu ada tugas ulangan sedangkan minggu lalu saya sudah membolos. Yang akan saya lakukan ...",
@@ -1083,27 +1096,27 @@ export const dataQues = [
     ],
   },
   {
-    //0 baru
+    //2 baru2
     id: 109,
     question:
-      "Anda adalah seorang karyawna yang bekerja pada perusahaan yang bekerja pada perusahaa yang berkaitan dengan pelayanan masyarakat dan Anda sadar bahwa setiap individu memiliki kemampuan yang berbeda dalam memahami regulasi dan kebijakan pelayanan yang perusahaan Anda tetapkan sehinggga seringkali terjadi miskomunikasi ditambah lagi hal-hal teknis yang sering kali dikeluhkkan masyarakat karena mengganggu proses pelayanan perusahaan Anda. Olehkarena itu untuk lebih meningkatkan pelayanan maka ...",
+      "Setelah melaksanakan tugas tertentu yang diberika atasan, ternyata ada instruksi yang salah dari atasan sehingga anda harus mengulangi tugas tersebut. Bagaimana sikap anda ...",
     options: [
-      "Perlu dibuatkan sebuah call center yang siap 24 jam untuk menerima semua pengaduan masyarakat",
-      "Email koresponden dibutuhkan agar operator bisa melayani seluruh pertanyaan yang masuk dari masyarakat seputar pelayanan",
-      "Menampatkan kotak saran di loket pelayanan untuk mengakomodir semua keluhan masyarakat",
-      "Mendirikan loket customer sevice sebagai tempaat masyarakat memperoleh informasi secara langsung",
+      "Meskipun dia atasan saya, saya menegurnya dengan keras atas kesalah yang merugikan orang lain tersebut",
+      "Saya tidak bersedia mengulanginya karena kesalahan bukan dari pihak saya",
+      "Saya bersedia mengulanginya dan saya juga memintanya untuk lebih berhati-hati dalam memberikan instruksi di kemudian hari",
+      "Saya mengulangi pekertjaan saya tanpa banyak komentar",
     ],
   },
   {
-    //3 baru
+    //1 baru2
     id: 110,
     question:
-      "Andi, teman karib Anda, melakukan kecurangan absensi. Maka Anda ...",
+      "Seorang kawan di kantor sering meminta untuk diajari hal-hal seputar pekerjaan yang belum diketahuinya, maka saya ...",
     options: [
-      "Mentoklelir sebab baru pertama kali ini melakukanya ",
-      "Rekan kerja yang lain juga melakukannya, jadi tidak masalah",
-      "Mengingatkan dan menegur",
-      "Menegur dan melaporkan apa adanya kepada atasan",
+      "Mengajarinya cukup sekali saja",
+      "Mengajari dan menyarankannya membaca buku yang dapat membantu peningkatan profesional pekerjaan",
+      "Mengajari kalau memeang saya memiliki waktu yang sangat longgar",
+      "Memintanya dengan tegas agar belajar sendiri, karena itulah inti tanggung jawab",
     ],
   },
 ];

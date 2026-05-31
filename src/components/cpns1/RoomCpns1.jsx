@@ -51,15 +51,10 @@ const RoomCpns1 = () => {
 
   return (
     <div className="flex flex-col md:flex-row justify-center items-center h-screen">
-      <div className="flex flex-col w-full h-[70%] md:w-[70%] md:h-[65%] justify-center items-center">
+      <div className="flex flex-col w-full h-full justify-center items-center">
         <div className="absolute top-5 right-5 m-2">
           <TimerCpns1 />
         </div>
-
-        <h1 className="text-black m-5 text-xl md:text-4xl font-semibold">
-          Quiz Application
-        </h1>
-
         {/* kirim data soal */}
         <QuestCpns1
           question={dataQues[trace]}

@@ -7,8 +7,8 @@ const QuestCpns1 = ({ question, onChecked, check }) => {
   if (!question) return <div>No Question</div>;
 
   return (
-    <div className="w-full max-w-xl bg-white p-6 rounded-xl shadow">
-      <h2 className="text-xl font-semibold mb-4">
+    <div className="w-full h-full max-w-xl  bg-white p-6 rounded-xl shadow flex flex-col justify-center">
+      <h2 className="text-sm md:text-xl font-semibold mb-4">
         {question.id}. {question.question}
       </h2>
 
@@ -16,7 +16,7 @@ const QuestCpns1 = ({ question, onChecked, check }) => {
         {question.options.map((option, index) => (
           <label
             key={index}
-            className="flex items-center gap-2 border p-2 rounded cursor-pointer"
+            className="flex items-center gap-2 border p-2 rounded cursor-pointer text-sm md:text-xl"
           >
             <input
               type="radio"
@@ -25,6 +25,7 @@ const QuestCpns1 = ({ question, onChecked, check }) => {
               id={`q${index}-option`}
               onChange={() => onSelect(index)}
               checked={check === index}
+              className=""
             />
             {option}
           </label>

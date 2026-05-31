@@ -291,349 +291,295 @@ export const dataQues = [
     ],
   },
   {
-    //1
+    //0 baru8
     id: 28,
     question:
-      "Kegiatan ekstrakurikuler di luar ruangan jika diadakan pada hari Minggu. Jika kegiatanekstrakulikuler dilakukan di luar ruangan, siswa mengenakan pakaian dinas lapangan. Simpulan yang tepat adalah ...",
-    options: [
-      "Jika kegiatan tidak diadakan pada hari Minggu, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa tidak mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler tidak diadakan pada hari Minggu",
-      "Jika kegiatan ekstrakurikuler tidak dilakukan di luar ruangan, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler diadakan pada hari Minggu",
-    ],
+      "Persyaratan tindakan pengendalian OPT harus memenuhi beberapa aspek, kecuali ...",
+    options: ["Aspek fisik", "Aspek sosial", "Aspek ekonomis", "Aspek ekologi"],
   },
   {
-    //2
+    //1 baru8
     id: 29,
     question:
-      "Agung mengerjakan soal SKD dengan teliti. Kalimat yang mempunyai pola sama dengan pola tersebut adalah ... ",
+      "Ekstrak minyak selasih dapat digunakan sebagai pestisida nabati untuk ...",
     options: [
-      "Maheksa menangis dengan keras",
-      "Krisan membaca komik yang lucu",
-      "Siswa kelas 12 meranyakan kelulusan secara meriah",
-      "Yahya bekerja dengan giat",
+      "Membunuh belalang",
+      "Menarik lalat buah",
+      "Mengendalikan Wereng Batang Coklat",
+      "Membunuh tungau",
     ],
   },
   {
-    //3
+    //2 baru8
     id: 30,
     question:
-      "Kucing-kucing itu bertengger di atas dahan-dahan pohon. Kalimat yang mempunyai pola yang sama dengan pola tersebut adalah ",
-    options: [
-      "Mereka berdua saling berpeganagan tangan",
-      "Karya seni itu bertemakan nasionalisme",
-      "Ibu membeli sayur di pasar",
-      "Anak-anak sedang bermain di stadion",
-    ],
+      "Lepidoptera berasal dari bahsa Yunani yang tersusun dari Lepidos yang berarti sisik dan Pteron/Ptera berarti ...",
+    options: ["Kaki", "Tangan", "Sayap", "Kepala"],
   },
   {
-    //2
+    //1 baru8
     id: 31,
-    question:
-      "Jika hari panas, maka Nissa memakai topi. Nissa tidak memakai topi atau ia memakai payung. Nissa tidak memaki payung. Kesimpulan yang sah adalah ...",
+    question: "Siklus hidup lepidoptera yang benar adalah ...",
     options: [
-      "Hari panas",
-      "Nissa memakai topi",
-      "Hari tidak panas",
-      "Hari panas dan Nissa memakai topi",
+      "Telur, Larva atau Ulat, Pupa atau kepompong",
+      "Telur, Larva atau Ulat, Pupa atau kepompong, Imagok atau kupu-kupu atau ngengat dewasa",
+      "Larva atau Ulat, Telur, Pupa atau kepompong, Imagok atau kupu-kupu atau ngengat dewasa",
+      "Telur, Pupa atau kepompong, Imagok atau kupu-kupu atau ngengat dewasa",
     ],
   },
   {
-    //2
+    //2 baru8
     id: 32,
     question:
-      "Kita mengetahui bahwa mobil memiliki kursi penumpang dan bagasi. Hubungan ini sama dengan ... ",
-    options: [
-      "Pohon memerlukan air dan cahaya",
-      "Dalam pesawat ada pilot dan pramugari",
-      "Sepeda memiliki pedal dan roda",
-      "CPU memerlukan listrik dan monitor",
-    ],
+      "Lalat bibit (Ophiomyia phaseoli), ulat grayak (Spodoptera litura F.), penggulung daun (Lamprosema indicata F.), penggerek polong (Etiella zinckenella Tr.), ulat jengkal (Chrysodexis chalcites Esp), dan tikus (Rattus argentiventer). Nama-nama diatas merupakan OPT utama pada tanaman ...",
+    options: ["Jagung", "Tomat", "Kedelai", "Padi"],
   },
   {
-    //3
+    //0 baru8
     id: 33,
     question:
-      "Pensil memiliki ujung pensil dan penghapus. Hubungan ini sama dengan ... ",
+      "Organisme Pengganggu Tanamaan (OPT) dibagi menjadi tiga kelompok berdasarkan jenis serangannya, yaitu ...",
     options: [
-      "Buku memiliki sampul dan halaman",
-      "Lampu memiliki bohlam dan sakelar",
-      "Sepatu memiliki tali dan sol",
-      "Kunci memiliki gagang dan gigi",
+      "Hama, penyakit, dan Gulma",
+      "Insektisida, fungisida, dan herbisida",
+      "Serangga, bakteri, dan jamur",
+      "Virus, Bbkteri, dan jamur",
     ],
   },
   {
-    //2
+    //1 baru8
     id: 34,
     question:
-      "Diketahui nilai X = 3/4 dan Y = 5. nilai A = 4X - 1/5 Y dan B = 1/3 X + Y. Manakah hubungan yang benar antara kuantitas A dan B berikut berdasarkan informasi yang diberikan ...",
-    options: ["3A = B", "A = 2B", "A < B", "A > B"],
+      "Helopeltis merupakan jenis hama yang menyerang tanaman dengan cara ...",
+    options: [
+      "Mengunyah dan menggigit",
+      "Menusuk  dan menghisap",
+      "Memarut dan menghisap",
+      "Menempel dan menghisap",
+    ],
   },
   {
-    //0
+    //2 baru8
     id: 35,
     question:
-      "Sebuah proyek dikerjakan oleh 40 pekerja dengan target selesai dalam 90 hari. Setelah berjalan selama 50 hari, 15 pekerja mengambil libur selama 4 hari. Agar proyek tetap selasai tepat waktu, berapa pekerja tambahan yang perlu ditambahkan? ",
-    options: ["2", "4", "6", "8"],
+      "Bagian tanaman yang diserang bercak coklat kehitaman, dan awalnya tembus pandang, kemudian kehitaman dan bagian daun yang terserang akan menjadi kering dan mengeriting, merupakan gejala Helopeltis pada tanaman ...",
+    options: ["Kakao", "Kangkung", "Teh", "Karet"],
   },
   {
-    //1
+    //3 baru8
     id: 36,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question: "Rigidoporus microporus merupakan nama lain dari ...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Cacar daun teh",
+      "Antraknosa",
+      "Wereng padi",
+      "Jamur akar putih",
     ],
   },
   {
-    //2
+    //0 baru8
     id: 37,
     question:
-      "Keberagaman menjadi pisau bermata dua bagi Indonesia. Jika masyarakat menganggap hal itu positif, maka keberagaman akan mengakibatkan bersatunya seluruh komponen masnyarakat Indonesia. Jika masyarakat menganggap hal itu negatif maka akan berakibat pada perpecahan karena perbedaan budaya antara satu wilayah dengan wilayah lainnya. Peran nasionalisme yang diwujudkan melalui hal ini contohnya ...",
-    options: [
-      "Teman-teman Nia yang tertawa ketika Nia menari tarian daerahnya",
-      "Fardi tidak keberatan unutk berkumpul bersama temannya yang berbeda agama",
-      "Mika tidak memilih-milih dalam berteman meskipun berbeda suku",
-      "Dreaken selalu memberikan yang terbaik walaupun atasannya berbeda keyakinan",
-    ],
+      "Coleoptera dalam Bahasa yunani, berasal dari Coleo, yang artinya ... dan Pteron/Ptera, yang artinya bersayap",
+    options: ["Perisai", "Panjang", "Tandung", "Sisik"],
   },
   {
-    //3
+    //0 baru8
     id: 38,
     question:
-      "Salah satu tantangan besar nasionalisme di era globalisasi adalah ... ",
+      "Tubuh ordo Coleoptera terbagi menjadi tiga bagian utama, yaitu ...",
     options: [
-      "Meningkatkanya partisipasi warga dalam kegiatan politik",
-      "Meningkatnya kerjasama antara negara",
-      "Berkembangnya teknologi informasi dan komunikasi",
-      "Tergerusnya identitas nasional oleh budaya asing",
+      "Caput (kepala), thorax (dada), dan abdomen (perut)",
+      "Caput (kepala), abdomen (perut) dan thorax (kaki)",
+      "thorax (kepala), Caput (dada), dan abdomen (perut)",
+      "abdomen (kepala), Caput (dada), dan thorax (perut) ",
     ],
   },
   {
-    //3
+    //1 baru8
     id: 39,
-    question:
-      "Kesadaran keanggotaan dalam susatu bangsa yang secara potensial atau aktual bersama-sama mencapai, mempertahankan, dan mengabdikan identitas, integritas, kemakmuran, dan kekuatan bangsanya merupakan pengertian dari ...",
-    options: [
-      "Bela Negara",
-      "Integritas Nasional",
-      "Patriotisme",
-      "Nasionalisme",
-    ],
+    question: "Lepidiota stigma atau urat termasuk dalam ordo ...",
+    options: ["Lepidoptera", "Coleoptera", "Diptera", "Orthoptera"],
   },
   {
-    //3
+    //2 baru8
     id: 40,
-    question:
-      "Berikut ini merupakan pengamalan praktis dari Pancasila sila ke-4 dan HAM yang dapat dilakukan oleh setiap warga negara Indonesia dalam kehidupan bertetangga adalah ...",
+    question: "Penyakit karat pada tanaman jagugn disebabkan oleh cendawan ...",
     options: [
-      "Mengutamakan kepentingan negara dan masyarakat",
-      "Mengutamakan suara mayoritas dalam mengambil keputusan",
-      "Tidak memaksakan kehendak pada orang lain",
-      "Rela bekerja keras dan bergotong royong",
+      "Mycovellosiella fulva",
+      "Ulat Grayak",
+      "Puccinia polysora dan Puccinia sorghi",
+      "phakopsora pachyrhizi",
     ],
   },
   {
-    //0
+    //3 baru8
     id: 41,
     question:
-      "Presiden Soeharto memegang jabatan lebih dari 30 tahun melalui pemilihan presiden yang dilakukan oleh MPRl. Setelah amandemen UUD 1945, MPR tidak lagi melakukan pemilihan presiden sejak tahun 2004 dan pada tahun itu Indonesia pertama kali memiliki presiden berdasarkan pilihan rakyat. Perubahan kewenangan MPR disebabkan karena ...",
-    options: [
-      "Kedaulatan berada di tangan rakyat",
-      "Kedaulatan sepenuhnya dilakkukan melalui pilpres langsung",
-      "Kedaulatan berada di ditangan legisatif dan presiden/wapres yang dilakukan melalui mekanisme pemilihan langsung",
-      "Kedaulatan dilaksanakan oleh presiden sebagai Mandate MPR",
-    ],
+      "POPT yang mempunyai kualifikasi perofesional yang pelakasanaan tugas dan fungsinya mensyaratkan penguasaan pengetahuan, metodologi, dan teknis analisis di bidang pengendalian OPT adalah ...",
+    options: ["POPT Penyelia", "POPT Terampil", "POPT Mahir", "POPT Ahli"],
   },
   {
-    //0
+    //2 baru8
     id: 42,
     question:
-      "Indonesia sebagai sebuah negara kesatuan yang berbentuk republik memiliki landasan konstitusional yang kuat, yang dijelaskan dalam Pasal 1 Ayat (1) UUD 1945. Dalam konteks ini, Negara Indonesia yang merupakan bentuk kesatuan memiliki arti sebagai ... ",
-    options: [
-      "Indonesia memiliki suatu pemerintahan pusat yang mengatur seluruh wilayahnya",
-      "Indonesia terdiri dari beberapa negara bagian yang saling berdiri sendiri",
-      "Indonesia memiliki beberapa pemerintahan pusat yang saling bekerja sama",
-      "Indonesia terdiri dari beberapa wilayah yang memiliki otonomi khusus",
-    ],
+      "Penyakit Citrus Vein Pholoem Degeneration (CVPD) menyerang pada tanaman ...",
+    options: ["Padi", "Kopi", "Jeruk", "Jagung"],
   },
   {
-    //3
+    //3 baru8
     id: 43,
     question:
-      "Salah satu perlunya transparansi kinerja yaitu agar terhindar dari konflik kepentingan dan terhindar dari tindakan penyuapan. Hal ini perlu dilakukan untuk membentuk ... ",
+      "Gejala tanaman jeruk yang terserang CVPD, diantaranya adalah ... kecuali",
     options: [
-      "Sistem Antikorupsi",
-      "Pengelolahan Sumberdaya Manusia",
-      "Karakter Pengawas Instansi",
-      "Budaya Organisasi",
+      "Daun menguning atau klorosis",
+      "Warna tulang daun menjadi hijau tua",
+      "Daun lebih tebal, kaku dan ukuranya menjadi lebih kecil",
+      "Akar membusuk",
     ],
   },
   {
-    //0
+    //0 baru8
     id: 44,
     question:
-      "Makna yang terkandung Pancasila sebagai philsophie grondslag adalah ",
+      "Penularan CVPD terjadi melalui beberapa cara yaitu, Serangga vektor, Benih, Tunas mata tempel atau batang bawah, dan Tanaman sela. Serangga Vektor CVPD adalah ...",
     options: [
-      "Pancasila sebagai dasar filsafat negara",
-      "Pancasila sebagai alat pemersatu",
-      "Pancasila sebagai ideologi bangsa indonesia",
-      "Pancasila sebagai perjanjian luhur bangsa indonesia",
+      "Diaphorina citri",
+      "Bamisia tabaci",
+      "Nilaparvata",
+      "Siphanta acuta",
     ],
   },
   {
-    //1
+    //2 baru8
     id: 45,
     question:
-      "Seorang karyawan yang bekerja di sebauh perusahaan selalu menyelesaikan pekerjaanya tepat waktu dan dengan kualitas yang sangat baik. Namun, suatu saat dia mengalami masalah pribadi yang membuatnya tidak bisa fokus pada pekerjaannya. Apa yang seharusnya dilakukan karyawan tersebut untuk mempertahankan komitmen dan integritasnya di tempat kerja?",
-    options: [
-      "Menyelesaikan pekerjaannya setelah masalah pribadinya selesai, tanpa memberi tahu rekan kerjanya tentang masalah tersebut",
-      "Meminta cuti atau izin untuk menyelesaikan masalah pribadinya agar bisa fokus pada pekerjaanya di kemudian hari",
-      "Menyelesaikan pekerjaan dengan kualitas yang kurang baik karena dia tidak bisa fokus pada pekerjaannya",
-      "Menyelesaikan pekerjaannya dengan bantuan rekan kerjanya agar bisa memenuhi standar kualitas yang diharapkan",
-    ],
+      "Kegiatan untuk memprediksi atau mendeteksi populasi, serangan, dan kemungkinan penyebaran Organisme Pengganggu Tumbuhan (OPT) disebut...",
+    options: ["Pengamatan", "Survelliance", "Peramalan", "Pengendalian"],
   },
   {
-    //2
+    //3 baru8
     id: 46,
     question:
-      "Mahkamah Agung berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang, dan mempunyai wewenang lainnya yang diberikan oleh undang-undang. Merupakan bunyi UUD 1945 pasal ...",
-    options: ["24 ayat 1", "24 ayat 2", "24A ayat 1", "24A ayat 2"],
+      "Ada dua jenis pengamatan Organisme Pengganggu Tumbuhan (OPT), yaitu pengamatan tetap dan pengamatan keliling. Sedangkan berdasarkan teknik pengamatan, ada 3 jenis pengmatan, yaitu ...",
+    options: [
+      "Pengamatan dampak, Pengamatan intensitas dan Pengamatan kerusakan",
+      "Pengamatan jumlah, Pengamatan serangan dan Pengamatan kerusakan",
+      "Pengamatan populasi, Pengamatan intensitas serangan dan Pengamatan kerusakan mutlak",
+      "Pengamatan populasi, Pengamatan intensitas serangan dan Pengamatan kerusakan tidak mutlak",
+    ],
   },
   {
-    //0
+    //1 baru8
     id: 47,
     question:
-      "Dalam suatu organisasi, terdapat seorang karyawan yang menemukan adanya kecurangan dalam pengelolaan keuangan. Apa yang seharusnya dilakukan oleh karyawan tersebut? ",
+      "Menghitung tunas, anakan, rumpun, atau bagian tanaman lainya yang terserang OPT merupakan bagian dari teknik pengamatan OPT ...",
     options: [
-      "Melaporakan kecurangan tersebut kepada atasan langsunya",
-      "Menutup mata dan tidak melaporkan kecurangan tersebut",
-      "Mencoba mengatasi sendiri tanpa melaporkan kepada siapa pun",
-      "Meminta saran dari teman sejawat sebelum melaporkan kecurangan tersebut",
+      "Pengamatan Populasi",
+      "Pengamatan Intensitas Serangan",
+      "Pengamatan Kerusakan tidak mutlak",
+      "Pengamatan tetap",
     ],
   },
   {
-    //2
+    //1 baru8
     id: 48,
     question:
-      "Apabila Dewan Perwakilan Rakyat tidak menyetujui rancangan anggaran pendapatan dan belanja negara yang diusulkan oleh Presiden, Pemerintah menjalankan Anggaran Pendapatan dan Belanja Negara tahun yang lalu. Merupakan bunyi UUD 1945 pasal ...",
-    options: ["23 ayat 1", "23 ayat 2", "23 ayat 3", "23 ayat 4"],
+      "POPT yang mempunyai kualifikasi teknis atau penunjang profesional yang pelaksanaan tugas dan fungsinya mensyaratkan penguasaan pengetahuan teknis di bidang pengendalian OPT adalah ...",
+    options: ["POPT Pemula", "POPT Terampil", "POPT Mahir", "POPT Penyelia"],
   },
   {
-    //3
+    //2 baru8
     id: 49,
     question:
-      "Seorang menager di sebuah perusahaan memiliki reputasi yang baik derena selalu memenuhi janji-janjinya. Namun, suatu saat dia berjanji memberikan kenaikan gaji salah satu karyawanya yang telah bekerja keras, tetapi kemudian dia memutuskan untuk tidak memberikan kenaikan gaji tersebut. Apa yang seharusnya dilakukan oleh menajer tersebut untuk mempertahankan konsistensi dan integritasnya? ",
+      "Yang tidak termasuk bagian dari Penanggulangan Dampak Perubahan Iklim (DPI) adalah...",
     options: [
-      "Memberikan kenaikan gaji pada karyawan tersebut agar tidak kehilangan reputasi baik yang telah dibangunnya",
-      "Menjelaskan kepada karyawan tersebut bahwa kebijakan perusahaan berubah dan kenaikan gaji tidak lagi bisa diberikan",
-      "Mengalihkan perhatian karyawan dengan memberikan bonus lain, seperti tunjangan kesehatan atau cuti tambahan",
-      "Meminta maaf kepada karyawan tersebut dan berjanji untuk memberikan kompensasi di masa depan jika ada kesempatan",
+      "Mengantisipasi kekeringan",
+      "Mengantisipasi kebanjiran",
+      "Meningkatkann intensitas serangan OPT",
+      "Mempertahankan dan meningkatkan produksi padi",
     ],
   },
   {
-    //0
+    //1 baru8
     id: 50,
     question:
-      "Menurut Undang-Undang Dasar 1945 pasal 13 President memiliki hak sebagai berikut ... ",
+      "Kerusakan tanaman atau bagian tanaman yang ditimbulakan OPT sehingga menyebabkan tanaman/bagian tanaman tersebut tidak menghasilaka, atau rusak adalah ...",
     options: [
-      "Mengangkat duta dan konsul dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Memberi grasi dan rehabilitasi dengan memperhatikan Mahkamah Agung",
-      "Memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain",
+      "Kerusakan mutlak",
+      "Kerusakan tidak mutlak",
+      "Kerusakan produktif",
+      "Kerusakan hasil",
     ],
   },
   {
-    //1
+    //0 baru8
     id: 51,
     question:
-      "Cinta tanah air adalah bangga dan juga memiliki sebuah wilayah tertentu. Rasa cinta tanah air sangat penting untuk dimiliki sejak kecil, oleh karena itu banyak diadakan kegiatan dalam menunjang persatuan. Kegiatan yang dapat diselenggarakan untuk mempertemukan beberapa kebudayaan daerah yang ada di Indonesia melauli bentuk pentas dan seni adalah dengan ...",
-    options: [
-      "Mengadakan konser musik secar rutin untuk dapat dinikmati oleh masyarakat",
-      "Mengadakan kegiatan festifal kebudayaan yang melibatkan elemen masyarakat",
-      "Melakukan pameran fotografi dari berbagai daerah yang ada di Indonesia",
-      "Menggiatkan pameran edukasi di berbagai daerah untuk kemajuan daerah",
-    ],
+      "Pola pengambilan contoh pengamatan Organisme Pengganggu Tanamaan (OPT) dapat dilakukan dengan metode Diagonal dan/ atau Acak, tergantung pada jenis tanaman dan ukuran perkebunan. Pola diagonal digunakan untuk jenis tanaman ...",
+    options: ["Pangan", "Hortikultura", "Tahunan", "Perkebunan"],
   },
   {
-    //3
+    //1 baru8
     id: 52,
     question:
-      "Menurut Undang-Undang Dasar 1945 pasal 24A ayat 3, calon Hakim Agung diusulkan ..... kepada ... ",
-    options: [
-      "Mahkamah Konstitusi kepada Dewan Perwakilan Rakyat",
-      "Kehakiman kepada Dewan Perwakilan Rakyat",
-      "Dewan Perwakilan Rakyat kepada Majelis Permusyawaratan Rakyat",
-      "Komisi Yudisial kepada Dewan Perwakilan Rakyat",
-    ],
+      "POPT yang mempunyai kualifikasi teknis atau penunjang profesional yang pelaksanaan tugas dan fungsinya mensyaratkan penguasaan pengetahuan teknis di bidang pengendalian OPT adalah ...",
+    options: ["POPT Pemula", "POPT Terampil", "POPT Mahir", "POPT Penyelia"],
   },
   {
-    //2
+    //0 baru8
     id: 53,
     question:
-      "Pancasila berfungsi sebagai dasar negara dan landasan dalam penyelnggaraan kehidupan berbangsa. Salah satu peran utamanya adalah memperkuat persatuan bangsa yang multikultural. Dalam konteks ini bagaimana Pancasila sebagai dasar negara mewujudkan persatuan dalam keberagaman? ",
-    options: [
-      "Membangun kesadaran tentang pengtingnya toleransi melalui nilai-nilai luhur kebangsaan",
-      "Memberikan pedoman bagi perilaku masyarakat untuk menghormati perbedaan",
-      "Menjadi acuan dalam pembentukan kebijakan yang mengatur kehidupan bernegara berdasarkan nilai keadilan dan persatuan",
-      "Menanamkan nilai moral dalam perilaku warga negara untuk menciptakan harmoni sosial",
-    ],
+      "Hama boleng, bercak daun coklat, tikus dan babi hutan merupakan hama utama pada komoditas tanaman pangan ... ",
+    options: ["Ubi Jalar", "Ubi Kayu", "Kacang Tanah", "Jagung"],
   },
   {
-    //0
+    //1 baru8
     id: 54,
     question:
-      "Dalam batang tubuh UUD 1945 yang mengatur tentang Warga Negara dan Penduduk adalah pada bab?",
-    options: ["10", "11", "12", "13"],
+      "Ambang pengendalian untuk hama wereng hijau dilakukan jika populasi dalam satu rumpun tanaman padi sudah sebanyak ... Ekor/rumpun",
+    options: [
+      "4 ekor/rumpun",
+      "5 ekor/rumpun",
+      "6 ekor/rumpun",
+      "7 ekor/rumpun",
+    ],
   },
   {
-    //3 baru
+    //0 baru8
     id: 55,
     question:
-      "Indonesia merupakan negara kesatuan yang berdaulat. Indonesia memiliki wilayah dari Sabang sampai Merauke yang diproklamasikan pada tanggal 17 Agustus 1945. Sebagai negara besar dengan berbagai macam perbedaan di dalam masyarakat, seperti suku, ras nasional. Pancasila adalah ideologi dan salah satu sarana pemersatu bangsa dan negara dengan alasan ...",
+      "Penyakit tungro merupakan salah satu penyakit penting padi yang ditularkan oleh ...",
     options: [
-      "Mampu menyesuaikan diri dengan masa kemerdekaan dan era pembangunan",
-      "Digali oleh Bung Karno dari sejarah perkembangan kehidupan masyarakat",
-      "Disepakati setelah terjadi perdebatan dalam sidang PPKI tahun 1945",
-      "Sebagai kesepakan atau perjanjian luhur bangsa yang menaungi kebinaekaaan",
+      "Wereng Daun Hijau (WDH)",
+      "Wereng Batang Coklat (WBC)",
+      "Tikus",
+      "Penggerek Batang Padi (PBP)",
     ],
   },
   {
-    //0
+    //3 baru8
     id: 56,
-    question:
-      "Penyimpangan pertama terhadap Undang-Undang Dasar 1945 adalah...",
-    options: [
-      "Sistem presidensial berubah menjadi parlementer",
-      "Sistem parlementer berubah menjadi presidensial",
-      "Munculnya Tritura",
-      "Lembaga-lembga negara seperti MPR, DPR, DPA dan BPK belum dibentuk berdasar UUD 1945 dan masih bersifat sementara",
-    ],
+    question: "Nephotettix virescens adalah nama latin dari ...",
+    options: ["Hama Putih", "Ulat Grayak", "Wereng Coklat", "Wereng Hijau"],
   },
   {
-    //2 baru
+    //3 baru8
     id: 57,
     question:
-      "Bela negara tidak hanya dilakukan dengan mengangkat senjata tapi juga bisa dilakukan dengan hal lainya. Upaya negara dalam melindungi warga negara dengan cara pencegahan peredaran makanan kadaluarsa merupakan tugas dan tanggung jawab negara dalam hal ... ",
-    options: [
-      "Mensejehterakan seluruh rakyat Indonesia",
-      "Memenuhi kebutuhan hidup sehari-hari",
-      "Menjaga agar bahan pokok tetap stabil",
-      "Membela dan melindungi warga negara",
-    ],
+      "Dalam kaetegori Penilaian Intensitas Serangan Hama, bila tingkat serangan > 85% maka masuk dalam kategori ...",
+    options: ["Ringan", "Sedang", "Berat", "Puso"],
   },
   {
-    //2
+    //2 baru8
     id: 58,
     question:
-      "Fenomena konten mengemis di siaran langsung atau live TikTok belakangan tengah heboh dilakukan oleh para ibu-ibu, dari paruh baya hingga lanjut usia. Konten mengemisa tersebut dilakukan tentu untuk meraup cuan. Konten live TikTok itu memperlihatkan wanita dari usia paruh baya hingga nenek-nenek yang mandi lumpur sembari mengharapkan gift dari penonton, diangap sebagai bentuk mengemis gaya baru. Untuk diketahui, live TikTok merupakan fitur TikTok yang memungkinkan pengguna dapat menerima gift atau hadiah virtual dari penontonnya. Gift itulah yang nantinya dapat ditukar menjadi uang. Fenomena yang terjadi seperti hal tersebut menunjukan kurangnya sikap ...",
+      "Kerasukan tanaman/bagian tanaman yang ditimbulakan oleh Serangan OPT tetapi masih dapat menghasilkan disebut ...",
     options: [
-      "Kurang tanggung jawab dalam diri pribadi seseorang sehingga tidak menggunakan logika",
-      "Rendahnya rasa sikap kerja keras yang dimiliki sehingga menumbuhkan sikap pemalas",
-      "Kurangnya integritas diri dalam diri seseorang sehingga melakukan hal-hal yang bersifat menguntaungkan untuk diri sendiri tanpa memikirkan akibatnya ",
-      "Rasa tidak puas terhadap kemampuan yang dimiliki sehingga melakukan hal-hal yang tidak baik",
+      "Kerusakan Permanen",
+      "Tanah terserang",
+      "Kerusakan mutlak",
+      "Kerusakan tidak mutlak",
     ],
   },
   {
@@ -831,411 +777,320 @@ export const dataQues = [
     ],
   },
   {
-    //1
+    //1 baru8
     id: 77,
     question:
-      "Darmayuda adalah seorang ASN.Tahun ini dia berkeinginan mengajukan diri sebagai caleg yang mewakili dapilnya …",
-    options: [
-      "Mengambil cuti di luar tanggungan negara sebagai ASN sampai terpilih menjadi anggota legislatif",
-      "Mengundurkan diri dari ASN dengan menerima risiko apabila tidak terpilih sebagai anggota legislatif",
-      "Tetap mengajukan diri sebagai caleg demi kebaikan yang lebih besar sesuai dengan pengamalan sila ke 4",
-      "Batal mengajukan diri sebagai caleg karena saya masih dalam masa ikatan dinas yang harus diselesaikan",
-    ],
+      "Dalam Kategori Penilaian Intesitas Serangan Hama, bila tingkat serangan > 25 - < 50% maka masuk dalam kategori ...",
+    options: ["Ringan", "Sedang", "Berat", "Puso"],
   },
   {
-    //3
+    //0 baru8
     id: 78,
     question:
-      "Sedekah Laut merupakan bentuk perwujudan rasa syukur para nelayan setempat kepada Tuhan Yang Maha Pemurah.upacara ini dilakukan biasanya di daerah pesisir pantai Jawa, tetapi bagi beberapa kelompok masyarakat ritual ini dianggap sebagai kesesatan atau menyimpang dari ajaran agama. Tanggapan anda terhadap kearifan budaya lokal yang bertentangan dengan pemahaman terhadap agama tertentu adalah...",
-    options: [
-      "Menganggap bahwa budaya ini harus dihentikan karena bertentangan dengan nilai-nilai agama tertentu",
-      "Ikut serta meramaikan kegiatan ritual sedekah Laut karena hal ini adalah kearifan lokal.",
-      "memberitahukan ke masyarakat disana untuk tidak melakukan ritual tersebut karena bertentangan dengan keyakinan saya",
-      "Menganggap bahwa kearifan lokal budaya masyarakat setempat dan agama dapat diharmonisasikan dengan baik sehingga budaya lokal dapat dilestarikan.",
-    ],
+      "Dalam Kategori Penilaian Intesitas Serangan Hama, bila tingkat serangan > 11 - < 25% maka masuk dalam kategori ...",
+    options: ["Ringan", "Sedang", "Berat", "Puso"],
   },
   {
-    //2
+    //2 baru8
     id: 79,
     question:
-      "Terhadap aliran keagamaan yang dituduh sesat oleh kelompok lain. Bagaimana seharusnya pemerintah Indonesia bersikap menurut anda…",
-    options: [
-      "Pemerintah sebaiknya membiarkan keberadaan aliran keagamaan yang dianggap sesat, namun tidak perlu memberikan fasilitas",
-      "Pemerintah dapat memberikan perlindungan dan pelayanan kepada aliran keagamaan yang dianggap sesat, selama belum ada aturan yang melarang",
-      "Pemerintah tidak boleh mendiskriminasi aliran keagamaan yang diklaim sesat, karena setiap warga negara memiliki hak yang sama untuk memperoleh perlindungan dan pelayanan",
-      "Pemerintah seharusnya mengusir dan melarang warga negaranya berada di Indonesia yang menganut aliran keagamaan yang diklaim sesat",
-    ],
+      "Dalam Kategori Penilaian Intesitas Serangan Hama, bila tingkat serangan > 50 - < 85% maka masuk dalam kategori ...",
+    options: ["Ringan", "Sedang", "Berat", "Puso"],
   },
   {
-    //0
+    //0 baru8
     id: 80,
     question:
-      "Anda barusan mempunyai anak dan kemudian pindah rumah hal tersebut sangatlah merepotkan karena tidak ada yang membantu, Di lingkungan anda yang baru ada tradisi setiap tetanga baru harus membagikan makanan khas daerahnya. Apa yg akan anda lakukan…",
-    options: [
-      "Membagikan makanan lain yang mudah untuk dipesan.",
-      "Tidak mengikuti tradisi itu",
-      "Memberi makanan hanya kepada tetangga dekat saja",
-      "Membagi-bagikan makanan khas daerahnya kepada seluruh anggota komplek tersebut",
-    ],
+      "Semua organisme yang dapat merusak, mengganggu kehidupan atau menyebabkan kematian tumbuhan disebut ...",
+    options: ["OPT", "Hama", "Penyakit", "Mikro Organisme"],
   },
   {
-    //0
+    //3 baru8
     id: 81,
-    question:
-      "Atasan anda memanggil anda ke ruangannya, kemudian atasan anda menyampaikan pendapat yang sangat anda tidak setujui, apa yang anda lakukan…",
+    question: "Berikut Beberapa contoh penerapan PHT antara lain .... Kecuali",
     options: [
-      "Anda akan menyatakan pendapat anda dengan sejujurnya",
-      "Anda akan menyatakan pendapat anda secara tersirat",
-      "Anda jarang berani mengungkapkan opini yang bertentangan",
-      "Anda akan menyetujui walaupun bertentangan opini karena beliau adalah atasan yang harus anda hormati",
+      "Membongkar timbunan kotoran dan sampah",
+      "Membinasakan larva dan kepompongnya",
+      "Membakar timbunan sampah atau sanitasi kebun",
+      "Membasmi musuh alami",
     ],
   },
   {
-    //1
+    //3 baru
     id: 82,
     question:
-      "Beberapa minggu yang lalu atasan anda pernah memberitahu anda bahwa dia mempunyai jadwal untuk bisa menandatangani kontrak dengan beberapa orang klien baru dalam beberapa minggu ke depan untuk pengembangan perusahaan, namun tampaknya atasan anda lupa akan hal tersebut karena terlalu sibuk mengurusi banyak hal dan sering tidak berada dikantor karena pergi ke luar kota, sebagai seorang asisten yang akan anda lakukan adalah…",
+      "Merupakan predator wereng batang coklat, wereng punggung putih, wereng hijau, wereng zig-zag, aphis, hama putih putih palsu dan penggerek batang padi. Larva predator ini aktif memangsa secara berkelompok. Predator tersebut adalah ...",
     options: [
-      "Mengingatkan atasan bahwa bahwa punya rencana untuk bertemu klien",
-      "Membuat rencana pertemuan dan memberitahu atasan untuk disetujui",
-      "Membuat rencana pertemuan dengan klien atasan dan memberitahukannya",
-      "Memberitahu atasan bahwa dia harus bertemu klien untuk urusan bisnis",
+      "Kumbang Stacfilinea (Paederus fuscipes)",
+      "Kumbang Karabid (Ophionea nigrofasciata)",
+      "Capung Jarum (Agriocnemis spp)",
+      "Kumbang Koksinelid (Synharmonia octomaculata)",
     ],
   },
   {
-    //1
+    //3 baru8
     id: 83,
     question:
-      "Perusahaan tempat saya bekerja melaksanakan lomba dalam rangka HUT dan melibatkan seluruh kolega karyawan, sikap saya sebagai peserta lomba...",
+      "Aspek sosial dalam persyratan tindakana pengendalian OPT antara lain ... Kecuali",
     options: [
-      "Tak cukup berpartisipasi saja, saya harus menjadi juara",
-      "Paling penting tingkatkan kebersamaan antara tim & kolega",
-      "Kompetisi menjadi juara itu utama, agar menjaga nama baik perusahaan",
-      "Apapun yang saya lakukan untuk menjaga nama baik perusahaan",
+      "Mudah dilaksakan",
+      "Dapat diterima dan atau dikembangkan masyarakat setempat",
+      "Sesuai kemampuan masyarakat setempat",
+      "Tidak menimbulakan residu yang berbahaya pada hasil tanaman",
     ],
   },
   {
-    //2
+    //0 baru8
     id: 84,
     question:
-      "Dosen anda meminta anda untuk ikut dalam sebuah perlombaan yang dalam waktu dekat akan diselenggarakan oleh universitas tempat anda berkuliah. Dosen anda melihat bahwa anda memiliki talenta sesuai dengan diskripsi dari perlombaan, akan tetapi anda tidak menyadarinya, sikap anda…",
+      "Pengendalian OPT dilakukan dalam rangka pencegahan dan atau penanggulangan OPT sebagaimana dimaksud  dilakukan pada masa ...",
     options: [
-      "Berterimakasih kepada dosen tersebut karena telah memuji anda sebagai seseorang yang bertalenta",
-      "Menerima dan mengembangkan lebih dalam talenta yang anda miliki",
-      "Bersedia mengikuti perlombaan tersebut dan meminta bantuan dosen untuk membantu dan membimbing anda",
-      "Bersedia asalkan dosen anda selalu mau memberikan bimbingan",
+      "Pra tanam, masa pertumbuhan dan masa pasca panen",
+      "Masa pertumbuhan, panen dan masa pasca panen",
+      "Pra tanam, panen dan masa pasca panen",
+      "Tanam, masa pertumbuhan dan masa panen",
     ],
   },
   {
-    //2
+    //3 baru8
     id: 85,
     question:
-      "Rekan kerja Anda dimarahi oleh atasan pada saat mengumpulkan tugas tim karena sudah telat beberapa jam mengumpulkan tugasnya. Hal ini disebabkan karena rekan Anda tersebut harus mengkompilasi pekerjaan tersebut terlebih dahulu sebelum dikumpulkan ditambah lagi semua rekan anggota tim mengumpulkan tugas pribadi mereka juga terlambat, sehingga rekan Anda yang bertugas untuk mengkompilasi setiap pekerjaan jadi tidak menyelesaikan pekerjaannya tepat waktu, sikap Anda ...",
+      "Pelaksanaan penanggulangan OPT pada masa pra tanam yaitu ... Kecuali",
     options: [
-      "Mendengarkan rekan Anda dimarahi setelah itu memberikan semangat untuk tidak dimasukkan kehati ucapan atasan",
-      "Minta maaf kepada teman karena keterlambatan yang disebabkan oleh anggota tim yang lain",
-      "Mengakui kesalahan kepada atasan jika Anda juga turut berkontribusi pada masalah tersebut",
-      "Mengakui kesalahan kepada teman dan berjanji tidak akan mengulanginya lagi",
+      "Perlakuan benih yang baik",
+      "Santiasi lahan yang baik",
+      "Pengendalian sumber serangan yang tepat",
+      "Pemupukan yang tepat",
     ],
   },
   {
-    //2
+    //3 baru8
     id: 86,
     question:
-      "Anda bekerja di perusahaan jasa yang bergerak di bidang transportasi. Siang ini pimpinan perusahaan akan mengadakan diskusi singkat dengan karyawan dan meminta usulan terkait peningkatan kualitas pelayanan terhadap pelanggan kedepannya agar banyak dari customer yang memakai jasa perusahaan anda, sikap anda...",
+      "Yang bukan bagian dari Pelaksanaan pencegahan OPt pada masa pra tanam, yaitu ...",
     options: [
-      "Memberikan usulan jika ingin meningkatkan pelayanan, perusahaan harus memenuhi semua hal yang diinginkan oleh pelanggan tanpa terkecuali",
-      "Mengusulkan adanya jalur khusus untuk ibu hamil dan menyusui dan para lansia",
-      "Memberikan usulan agar perusahaan menyediakan fasilitas khusus bagi ibu hamil, menyusui dan lansia",
-      "Mengusulkan agar alat transportasi yang digunakan selalu bersih dengan cara merekrut karyawan baru dengan gaji tinggi.",
+      "Pengelolahan tanah yang baik dan benar",
+      "Penggunaan benih dari varietas tahan OPT, bermutu dan sehat",
+      "Sanitasi lingkungan yang baik",
+      "Pengaturan drainase atau air sesuai kebutuhan",
     ],
   },
   {
-    //1
+    //3 baru8
     id: 87,
-    question:
-      "Anda ditugaskan menjadi ketua pelaksana sebuah acara yang menyangkut orang banyak. Para anggota panitia yang anda miliki bekerja sangat santai dan kurang bersemangat. Sikap anda…",
-    options: [
-      "Meningkatkan ketertiban dan keteraturan dengan pengawasan yang ketat",
-      "Mengumpulkan anggota dan menanamkan pemahaman bahwa kesuksesan didapatkan dari kerja keras dan kesolidan anggota tim",
-      "Membuat rencana kerja dan mengharuskan anggota tim mematuhinya",
-      "Memberikan contoh sikap yang bertanggung jawab agar dapat dicontoh oleh anggota",
-    ],
+    question: "Pengendalian OPT dilakukan dengan sistem ...",
+    options: ["Organik", "Ramah Lingkungan", "Kimiawi", "PHT"],
   },
   {
-    //2
+    //0 baru8
     id: 88,
     question:
-      "Dampak korupsi tidak hanya sekedar menimbulkan kerusakan-kerusakan jangka panjang. Dari pilihan di bawah manakah yang seharusnya menjadi pola pikir seorang ASN…",
+      "Sistem PHT dilaksanakan melalui kegiatan pemantauan dan pengamatan, pengambilan keputusan, dan tindakan pengendalian dengan memperhatikan keamanan bagi manusia serta lingkungan hidup secara berkesinambungan. Kegiatan pemantauan dan pengamatan dilakukan terhadap perkembangan OPT dan ...",
     options: [
-      "Mempelajari delik dan modus korupsi secara detail akan menjauhkan dari tindak pidana korupsi",
-      "Mendapatkan contoh nyata delik dan modus tindak pidana korupsi akan memudahkan menjauhkan diri dari korupsi",
-      "Memastikan kesadaran anti korupsi sehingga muncul niat memberantas lalu kemudian mempelajari delik dan modusnya",
-      "Mempelajari dampak tindak pidana korupsi akan meningkatkan pengetahuan dan menjauhkan diri dari praktik korupsi",
+      "Faktor lingkungan yang mempengaruhinya",
+      "Musim",
+      "Tingkat Serangan",
+      "Besarnya kerugian yang mendekati ambang ekonomi",
     ],
   },
   {
-    //2
+    //3 baru8
     id: 89,
-    question:
-      "Yura bekerja di bagian marketing. Manajer menyarankan Yura untuk mempromosikan produk terbaru melalui aplikasi perluasan jejaring secara digital di kalangan anak muda. Akan tetapi, hingga kini ia belum pernah mencobanya. Hal yang harus dilakukan Yura adalah ...",
+    question: "Pengendalian OPT dilakukan dalam rangka ...",
     options: [
-      "Mendalami manfaat aplikasi tersebut agar efektivitas promosi meningkat dibandingkan sebelumnya",
-      "Mencoba satu per satu fitur aplikasi dimulai dari yang mudah pengoperasiannya terlebih dahulu",
-      "Memperdalam kegunaan aplikasi jejaring digital itu untuk mengembangkan relasi pada berbagai kesempatan",
-      "Mempelajari cara kerja aplikasi tersebut agar target promosi produk bisa segera tercapai",
+      "Pencegahan dan atau penanganan",
+      "Pencegahan dan atau pemanfaatan",
+      "Pencegahan dan atau pemusnahan",
+      "Pencegahan dan atau penanggulangan",
     ],
   },
   {
-    //3
+    //2 baru8
     id: 90,
     question:
-      "Saya terkenal sebagai karyawan yang sering memberikan bantuan terhadap sesama rekan kerja dalam berbagai permasalahan di kantor tempat saya bekerja. Sikap saya ketika ada teman membutuhkan bantuan adalah…",
-    options: [
-      "Saya akan membantu mereka, tetapi biasanya saya menyelesaikan pekerjaan saya terlebih dahulu",
-      "Saya bertanya dahulu mengenai permasalahan yang mereka hadapi jika memungkinkan saya akan membantu",
-      "Saya akan membantu terlebih dahulu saya akan berfikir cukup lama untuk mencarikan solusi yang tepat atas permasalahan mereka",
-      "Saya bertanya dahulu jika saya mampu saya akan membantu tentunya setelah mengerjakan pekerjaan saya",
-    ],
+      "Pelaksanaan pencegahan dan atau penanggulangan OPT dilakukan pada masa ... kecuali",
+    options: ["Pra tanam", "Pertumbuhan", "Pasca panen", "Pemasaran"],
   },
   {
-    //2
+    //3 baru8
     id: 91,
-    question:
-      "Kadang saya bingung dengan perubahan perasaan yang terjadi di dalam diri saya… ",
+    question: "Pengaturan Perdagangan Pangan bertujuan untuk ... Kecuali ",
     options: [
-      "Dalam setiap kehidupan, seseorang sering mengalami perubahan emosi",
-      "Perubahan perasaan merupakan hal biasa",
-      "Setiap perubahan perasaan menuntut adanya pengelolaan",
-      "Emosi seseorang perlu dikelola",
+      "Stabilisasi pasokan dan harga Pangan, terutama Pangan Pokok",
+      "Manajemen Cadangan Pangan",
+      "Penciptaan iklim usaha Pangan yang sehat",
+      "Ketidak stabilan ekonomi",
     ],
   },
   {
-    //2
+    //0 baru8
     id: 92,
     question:
-      "Anda seorang karyawan yang memiliki dedikasi yang tinggi terhadap pekerjaan. Suatu hari anda dihadapkan dengan pekerjaan yang sangat banyak dan semuanya memiliki deadline yang sama. Sebagai karyawan yang profesional apa yang anda lakukan…",
+      "Pelaku Usaha Pangan dilarang menimbun atau menyimpan Pangan Pokok melebihi jumlah maksimal yang telah ditentukan. Sanksi administratif bagi pelaku penimbunan pangan adalah ...",
     options: [
-      "Menyelesaikan pekerjaan sesuai deadline dengan hasil sebisanya",
-      "Memilih lembur dengan harapan mendapat tambahan gaji berupa uang lembur",
-      "Melapor pada atasan bahwa anda butuh bantuan karyawan lain dalam menyelesaikan tugas yang banyak",
-      "Membawa tugas tersebut ke rumah dan mengerjakannya dirumah sampai larut malam",
+      "Denda, Penghentian  kegiatan sementara dan Pencabutan izin",
+      "Pencabutan izin seumur hidup dan Denda",
+      "Larangan Pelaksanaan Kegiatan dan Pencabutan Izin",
+      "Pencabutan izin saja",
     ],
   },
   {
-    //2
+    //2 baru8
     id: 93,
     question:
-      "Teman dekat anda melakukan pelanggaran berat di perusahaan yang anda pimpin berkaitan dengan keuangan, sikap anda adalah ... ",
-    options: [
-      "Memecatnya karena telah melakukan pelanggaran berat",
-      "Mencari informasi tentang pelanggaran yang dilakukannya kemudian mengambil tindakan",
-      "Mencari informasi tentang pelanggaran yang dilakukan kemudian menentukan langkah selanjutnya",
-      "Mengumpulkan seluruh pimpinan divisi untuk menentukan sikap",
-    ],
+      "Banyaknya jumlah barang yang diminta pada suatu pasar tertentu dengan tingkat harga dan pendapatan tertentu dan dalam periode tertentu disebut ...",
+    options: ["Transaksi", "Penawaran", "Permintaan", "Supplay"],
   },
   {
-    //3
+    //1 baru8
     id: 94,
     question:
-      "Siang ini anda sedang melayani banyak nasabah di kantor, antrian cukup panjang. Kemudian ada seorang kakek umur 70 tahun juga ikut mengantri. Karena terlalu lama dan antrian panjang, kakek tersebut meminta untuk dilayani terlebih dahulu, sikap anda…",
-    options: [
-      "Minta maaf. Meminta untuk tetap antri karena pelayanan didasarkan kepada jadwal kedatangan",
-      "Langsung melayani kakek tersebut karena dia sudah tua",
-      "Melayani kakek tersebut kemudian memberikan pengertian kepada pelanggan yang lain",
-      "Memberikan pengertian kepada yang lain dan melayani kakek tersebut",
-    ],
+      "Jika supplay (penawaran) meningkat sementara demand (permintaan) tetap maka harga suatu produk akan ...",
+    options: ["Meningkat", "Menurun", "Stabil", "Tidak stabil"],
   },
   {
-    //1
+    //0 baru8
     id: 95,
     question:
-      "Sebagai seorang calon ASN kita dituntut untuk cermat dalam bermedia sosial. Di era milenial sekarang ini marak berita dan informasi hoax di mdia sosial yang isebarkan oleh orang yang tidak brtanggung jawab, sikap anda mengatasi hal ini…",
+      "Upaya yang dilakukan Pemerintah untuk menjaga ketersediaan Pangan Pokok, antara lain, melalui Candangan Pemerintah adalah ...",
     options: [
-      "Membatasi penggunaan media sosial yang penting-penting saja",
-      "Mengenali sumber berita akurat atau tidaknya",
-      "Mengenali dari judul berita terkadang terkesan provokatif",
-      "Membaca keseluruhan informasi secara lengkap",
+      "Stabilisasi pasokan Pangan Pokok",
+      "Stabilisasi harga Pangan Pokok",
+      "Stabilisasi Pasar",
+      "Stabilisasi harga Bahan dasar Pokok",
     ],
   },
   {
-    //2
+    //0 baru8
     id: 96,
-    question:
-      "Saya ditugaskan untuk memimpin tim dengan waktu kerja yang sangat terbatas. Saat saya mensosialisasikan mengenai hal ini ke anggota tim kerja yang terbentuk, mereka menunjukkan sikap tidak peduli dengan tugas yang diberikan. Sikap saya adalah ...",
+    question: "Behavior Teori adalah ...",
     options: [
-      "Bekerja sendiri asalkan tugas selesai",
-      "Mudah sekali, tinggal melaporkan ke atasan saya agar orang tersebut diberi sanksi yang pantas",
-      "Membagi tugas dengan adil, mengarahkan, mendampingi, dan memotivasi. Jika ada kekeliruan diberi teguran",
-      "Menasehatinya agar anggota tim segera sadar akan penyelesaian tugas yang diberikan",
+      "Teori Tentang Tingkah Laku",
+      "Teori Tentang Sikap",
+      "Teori Tentang Ilmu Hayati",
+      "Teori Tentang Kasus",
     ],
   },
   {
-    //2
+    //0 baru8
     id: 97,
-    question:
-      "Pada sebuah diskusi dengan tim kerja yang terdiri dari rekan-rekan kerja anda dikantor biasanya saya adalah ...",
-    options: [
-      "Lebih banyak mendengar dan berbicara sekedarnya",
-      "Jika perlu bicara maka saya utarakan, jika tidak maka saya cukup mendengar",
-      "Mengamati sejenak lalu aktif berpendapat",
-      "Selalu aktif berpendapat dan mengarahkan teman-teman untuk berpendapat juga",
-    ],
+    question: "Media Tercetak Berupa Lipatan adalah ...",
+    options: ["Brosur", "Folder", "Poster", "audio"],
   },
   {
-    //2
+    //3 baru8
     id: 98,
-    question:
-      "Apabila tiba-tiba saya ditempatkan di lingkungan kerja baru, maka saya akan ...",
-    options: [
-      "Perlu waktu untuk mengenal rekan-rekan kerja yang baru",
-      "Berkenalan dengan rekan kerja hanya jika suah membutuhkan bantuan mereka",
-      "Langsung mampu akrab dengan rekan kerja baru saya",
-      "Senang sekali jika ada rekan kerja yang ingin berkenalan dengan saya",
-    ],
+    question: "Pesan Dari Penyuluh adalah ...",
+    options: ["Pesan", "Kesan", "Data", "Informasi"],
   },
   {
-    //1
+    //2 baru8
     id: 99,
     question:
-      "Dalam kegiatan kantor yang sedang saya koordinir, ternyata ada rekan kerja saya yang saya tunjuk melakukan tugas yang saya berikan kepadanya sangat baik. Sikap saya adalah ... ",
-    options: [
-      "Puas, namun tidak perlu memuji karena hal itu akan membuatnya sombong",
-      "Memuji secara proporsional",
-      "Mengumumkan ke semua orang bahwa dialah yang terbaik yang pernah ada",
-      "Biasa saja dan berpura-pura tidak tahu akan keberhasilannya melakukan tugas",
-    ],
+      "Kegiatan berkunjung ke rumah petani adalah teknik yang biasa disebut sebagai ...",
+    options: ["Demonstrasi", "Anjungan", "Anjangsana", "Temu tani"],
   },
   {
-    //3
+    //1 baru8
     id: 100,
     question:
-      "Saya bertugas di bagian pelayanan, ditempatkan di pengaduan lantai satu. Datang konsumen difabel, minta bantuan untuk dibantu proses administrasi. Tempat mengurus administrasi tersebut berada di lantai dua. Sikap saya adalah ...",
-    options: [
-      "Mengarahkan konsumen ke satpam karena satpam lebih mudah dimintai bantuan",
-      "Mengarahkan konsumen ke loket seharusnya. Semua itu sudah sesuai dengan aturan yang berlaku",
-      "Memberi saran ke konsumen sebaiknya dia membawa rekan atau saudara yang bisa membantu keperluannya",
-      "Mencari rekan pengganti untuk loket yang saya jaga, kemudian mengantar konsumen menuju lantai dua",
-    ],
+      "Kegiatan penyuluhan yang dilakukan dengan alat peragaan merupakan teknik ...",
+    options: ["Diskusi", "Demonstrasi", "Praktek", "Orasi"],
   },
   {
-    //1
+    //3 baru8
     id: 101,
     question:
-      "Karena suatu permasalahan, kantor saya mengalami keterlambatan pembayaran gaji karyawan. Padahal anak saya sangat membutuhkan uang untuk membayar biaya sekolah. Yang saya lakukan ... ",
+      "Sistem Penyuluhalln Pertanian, Perikanan dan Kehutanan/SP3K diatur dalam ...",
     options: [
-      "Bekerja di luar kantor untuk mendapatkan uang itu",
-      "Meminta bantuan atasan",
-      "Mencari pinjaman kepada teman",
-      "Mendesak kantor untuk segera mengeluarkan gaji saya",
+      "Permentan no 16 Tahun 2006",
+      "Undang-undang no 26 Tahun 2016",
+      "Permenpan RB no 16 Tahun 2005",
+      "Undang-undang no 16 Tahun 2006",
     ],
   },
   {
-    //1
+    //0 baru8
     id: 102,
-    question:
-      "Ketika sedang melaksanakan presentasi, saya menrima kabar bahwa anak saya mengalami kecelekaan dan sekarang dirawat di rumah sakit. Saya akan ...",
+    question: "Degree adalah...",
     options: [
-      "Tetap melanjutkan presentasi",
-      "Mencari tahu kondisi anak saya dan kemudian memutuskan apakah tetap presentasi atau ke rumah sakit",
-      "Menghentikan presentasi dan langsung pergi ke rumah sakit",
-      "Menelfon istri menanyakan kondisi anak saya dan tetap melanjutkan presentasi",
+      "Hal yang harus dipertimbangkan/derajat kondisi yang akan dicapai",
+      "Perubahn prilaku yang dikehendaki",
+      "Kondisi yang akan dicapai",
+      "Khalayak sasaran yang ingin dicapai",
     ],
   },
   {
-    //1
+    //2 baru8
     id: 103,
-    question:
-      "Istri teman saya baru saja melahirkan. Saya ingin mengunjunginya, tetapi sedang tidak punya uang untuk membeli kado. Saya akan ... ",
-    options: [
-      "Mengunjunginya jika sudah punya uang untuk membeli kado",
-      "Tetap mengunjunginya tanpa membawa kado",
-      "Mengunjungi dan menyusulkan kadonya di lain waktu",
-      "Meminjam uang untuk membeli kado",
-    ],
+    question: "Pentani disebut juga ...",
+    options: ["Pelaku Tani", "Sejawat", "Pelaku Utama", "Plaku Usaha"],
   },
   {
-    //1
+    //2 baru8
     id: 104,
     question:
-      "Disebuah komonitas kecil, ada seorang tokoh yang sering kali menyampaikan pandangan yang intoleran terhadap kelopok minoritas. Banyak penduduk merasa khawatir bahwa pandangan ini bisa memicu ketegangan dan konflik di antara warga. Bupati setempat ingin mengambila langkah-langkah  yang tepat untuk mengatasi masalah ini dengan melakukan indentifikasi dini terhadap individu atau kelompok yang cenderung radikal. Apa tindakan yang sebaiknya diambil oleh bupati? ",
-    options: [
-      "Mengundang tokoh tersebut untuk berbicara didepan publik dan meminta klarifikasi pandanganya",
-      "Membentuk tim dialog yang terdiri berbagai pemangku kepentingan",
-      "Menjalin hubungan dengan organisasi masyarakat sipil yang bergerak di bidang penylesaian konflik",
-      "Mengadakan pertemuan dengan tokoh agama setempat untuk membahas nilai-nilai toleransi",
-    ],
+      "Administrasi Penyuluhan Sebagai total sistem harus dapat bergerak menuju sasaran dan tujuan yang mempunyai kesatuan ...",
+    options: ["Kelompok", "Pola Pikir", "Lembaga", "Kesatuan"],
   },
   {
-    //1
+    //2 baru8
     id: 105,
     question:
-      "Atasan Anda melakukan rekayasa laporan keuangan kantor, maka anda ...",
+      "Suatu lembaga yang beranggotakan Asosiasi Komoditas Pertanian untuk memperjuangkan kepentingan petani adalah ...",
     options: [
-      "Dalam hati tidak menyetujui hal tersebut",
-      "Mengingatkan dan melaporkan kepada yang berwenang",
-      "Tidak ingin terlibat dengan proses rekayasa tersebut",
-      "Hal semacam itu sudah menjadi tradisi yang tidak baik di Indonesia",
+      "Asosiasi Komoditas Pertanian",
+      "Dewan Komoditas Petani",
+      "Dewan Komoditas Pertanian",
+      "Gabungan Kelompok Tani",
     ],
   },
   {
-    //3
+    //2 baru8
     id: 106,
     question:
-      "Hampir semua pegawai di kantor instansi saya meminta uang tanda terimakasih atas pengurusan surat ijin tertentu. Namun menurut peraturan kantor, hal itu tidaklah diperbolehkan, maka saya ...",
-    options: [
-      "Berusaha semampunya untuk tidak melakukanya",
-      "Melakukannya hanya jika terpaksa membutuhkan uang tambahan untuk keperluan keluarga, sebab gaji kantor memang kecil",
-      "Terkadang saja melakukan hal tersebut",
-      "Tidak ingin melakukannya sama sekali",
-    ],
+      "Koprasi Unit Desa (KUD) menyalurkan sarana produksi pertanian (saprotan) dari Kredit Usaha Tani (KUT) maupun non KUT ke petani melalui ...",
+    options: ["Kepala Desa", "Dinas Pertanian", "PPL", "Koprasi"],
   },
   {
-    //3
+    //1 baru8
     id: 107,
-    question:
-      "Anda adalah seorang orang tua baru dengan seorang anak yang masih belia. Di tengah perkembanagan zaaman dimana aliran informasi menyebar dengan cepat melalui platform-platform media sosial, upaya Anda untuk membentengi anak dari paham-paham radikalisme sejak dini adalah ...",
+    question: "PRA adalah...",
     options: [
-      "Menanamkan semangat kebangsaan dan toleransi",
-      "Selektif dalam memilih teman bermain kepada anak anda",
-      "Membatasi fitur smartphone anak Anda agar tidak mengakses konten radikalisme",
-      "Memberikan pemahaman agama yang terbaik dan benar secara moderat dan damai",
+      "Participan Rural Appraisal",
+      "Participatory Rural Appraisal",
+      "Participcy Rural Appraisal",
+      "Participan Rural Aplication",
     ],
   },
   {
-    //3
+    //0 baru8
     id: 108,
     question:
-      "Di era milenium ketiga ini perubahan dunia terjadi dengan cepet. Perubahan tersebut merambat dalam kehidupan sehari hari. Karena itu saya ...",
-    options: [
-      "Mengikuti perkembangan teknologi dari media masa",
-      "Mempelajari cara pengoprasian komputer",
-      "Berusaha mempelajari bukku pengetahuan yang terbaru",
-      "Berusaha menguasai keterampilan di bidang teknologi informasi mutakhir",
-    ],
+      "Pendekatan efektif (mengajak masyarkat) mendukung penerapan penyuluhan secara partisipatif dalam upaya perepatan pembangunan pertanian adalah bentuk dari ...",
+    options: ["PRA", "Programa", "Rembuk Tani", "Rembung Utama"],
   },
   {
-    //2
+    //2 baru8
     id: 109,
     question:
-      "Anda bekerja sebagai konsultan pendidikan, banyak siswa dan orang tua yang bingung untuk menentukan jurusan. Sebagai konsultan yang handal yang akan Anda lakukan ...",
+      "Berikut merupakan fungsi subsistem penyuluh pertanian, kecuali ...",
     options: [
-      "Memberikan beberapa alternatife jurusan yang sangat dibutuhkan di dunia kerja",
-      "Menentukan jurusan yang akan memberikan keuntungan masa depan anak",
-      "Memberikan alternatif jurusan sesui dengan kemapuan siswan dan kemampuan finansial orang tua",
-      "Menyarankan agar melanjutkan pendidikan ke luar negeri",
+      "Memfasilitasi proses pembelajaran petani",
+      "Memfasilitasi umpan balik dari petani",
+      "Mengmebangkan organisasi petani sebagai wadah kesejahteraan yang tangguh",
+      "Mendorong dan memprakarsai kerjasama petani",
     ],
   },
   {
-    //0
+    //0 baru8
     id: 110,
-    question:
-      "Seorang teman Anda bertugas di loket pelayanan tiba-tiba pingsan karena kelelahan akibat menerima banyak masyarakat yang datang. Anda yang sedang bekerja diminta menggantikan di loket karena menurut penilaian atasan tugas yang anda kerjakan tengggang waktunya masih lama. Apa yang akan sebaiknya anda lakukan?",
+    question: "Bahan Utama dalam pembuatan Biosaka adalah ...",
     options: [
-      "Menuju loket dan melayanu masyarakat",
-      "Melayanu di loket dan sambul juga menyelesaikan tugas sendiri",
-      "Mengerjaakan tugas secepat mungkin agar bisa bertugas di loket",
-      "Mencari teman lain yang bebanya lebih ringan untuk membantu",
+      "Dedaunan tanaman",
+      "Akar tanaman",
+      "Kotoran hewan ternak",
+      "Batang atas tanaman",
     ],
   },
 ];

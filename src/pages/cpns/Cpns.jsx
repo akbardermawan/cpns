@@ -44,33 +44,24 @@ const Cpns = () => {
             </Link>
           </div>
           <div className="py-2">
-            <Link
-              to="/cpns3"
-              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
-            >
-              <h2 className="text-2xl font-bold text-gray-800">SKD 3</h2>
+            <Link className="block bg-gray-100  shadow-md rounded-xl p-6  transition m-5">
+              <h2 className="text-2xl font-bold text-gray-300">SKD 3</h2>
             </Link>
           </div>
           <div className="py-2">
-            <Link
-              to="/cpns3"
-              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
-            >
-              <h2 className="text-2xl font-bold text-gray-800">SKD 4</h2>
+            <Link className="block  bg-gray-100shadow-md rounded-xl p-6  transition m-5">
+              <h2 className="text-2xl font-bold text-gray-300">SKD 4</h2>
             </Link>
           </div>
           <div className="py-2">
-            <Link
-              to="/cpns3"
-              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
-            >
-              <h2 className="text-2xl font-bold text-gray-800">SKD 5</h2>
+            <Link className="block bg-gray-100 shadow-md rounded-xl p-6  transition m-5">
+              <h2 className="text-2xl font-bold text-gray-300">SKD 5</h2>
             </Link>
           </div>
           {/* SKB */}
           <div className="py-2">
             <Link
-              to="/cpns3"
+              to="/cpns6"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">
@@ -80,7 +71,7 @@ const Cpns = () => {
           </div>
           <div className="py-2">
             <Link
-              to="/cpns3"
+              to="/cpns7"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">
@@ -90,11 +81,21 @@ const Cpns = () => {
           </div>
           <div className="py-2">
             <Link
-              to="/cpns3"
+              to="/cpns8"
               className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
             >
               <h2 className="text-2xl font-bold text-gray-800">
-                SKB (penyluh pertanian) 2
+                SKB (penyluh pertanian) 3
+              </h2>
+            </Link>
+          </div>
+          <div className="py-2">
+            <Link
+              to="/cpns9"
+              className="block bg-white shadow-md rounded-xl p-6 hover:bg-blue-50 hover:shadow-lg transition m-5"
+            >
+              <h2 className="text-2xl font-bold text-gray-800">
+                SKB (penyluh pertanian) 4
               </h2>
             </Link>
           </div>

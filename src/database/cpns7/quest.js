@@ -515,406 +515,374 @@ export const dataQues = [
     options: ["Kebebasan", "Keterbukaan", "Partisipatif", "Keswadayaan"],
   },
   {
-    //0
+    //1 baru7
     id: 50,
     question:
-      "Menurut Undang-Undang Dasar 1945 pasal 13 President memiliki hak sebagai berikut ... ",
+      "Berdasarkan UU No. 16 Tahun 2006, sistem penyuluhan yang benar adalah yang bersifat...",
     options: [
-      "Mengangkat duta dan konsul dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Memberi grasi dan rehabilitasi dengan memperhatikan Mahkamah Agung",
-      "Memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain",
+      "Top-down dan instruktif",
+      "Partisipatif dan berkelanjutan",
+      "Sentralistik dan kaku",
+      "Profit oriented saja",
     ],
-  },
-  {
-    //1
-    id: 51,
-    question:
-      "Cinta tanah air adalah bangga dan juga memiliki sebuah wilayah tertentu. Rasa cinta tanah air sangat penting untuk dimiliki sejak kecil, oleh karena itu banyak diadakan kegiatan dalam menunjang persatuan. Kegiatan yang dapat diselenggarakan untuk mempertemukan beberapa kebudayaan daerah yang ada di Indonesia melauli bentuk pentas dan seni adalah dengan ...",
-    options: [
-      "Mengadakan konser musik secar rutin untuk dapat dinikmati oleh masyarakat",
-      "Mengadakan kegiatan festifal kebudayaan yang melibatkan elemen masyarakat",
-      "Melakukan pameran fotografi dari berbagai daerah yang ada di Indonesia",
-      "Menggiatkan pameran edukasi di berbagai daerah untuk kemajuan daerah",
-    ],
-  },
-  {
-    //3
-    id: 52,
-    question:
-      "Menurut Undang-Undang Dasar 1945 pasal 24A ayat 3, calon Hakim Agung diusulkan ..... kepada ... ",
-    options: [
-      "Mahkamah Konstitusi kepada Dewan Perwakilan Rakyat",
-      "Kehakiman kepada Dewan Perwakilan Rakyat",
-      "Dewan Perwakilan Rakyat kepada Majelis Permusyawaratan Rakyat",
-      "Komisi Yudisial kepada Dewan Perwakilan Rakyat",
-    ],
-  },
-  {
-    //2
-    id: 53,
-    question:
-      "Pancasila berfungsi sebagai dasar negara dan landasan dalam penyelnggaraan kehidupan berbangsa. Salah satu peran utamanya adalah memperkuat persatuan bangsa yang multikultural. Dalam konteks ini bagaimana Pancasila sebagai dasar negara mewujudkan persatuan dalam keberagaman? ",
-    options: [
-      "Membangun kesadaran tentang pengtingnya toleransi melalui nilai-nilai luhur kebangsaan",
-      "Memberikan pedoman bagi perilaku masyarakat untuk menghormati perbedaan",
-      "Menjadi acuan dalam pembentukan kebijakan yang mengatur kehidupan bernegara berdasarkan nilai keadilan dan persatuan",
-      "Menanamkan nilai moral dalam perilaku warga negara untuk menciptakan harmoni sosial",
-    ],
-  },
-  {
-    //0
-    id: 54,
-    question:
-      "Dalam batang tubuh UUD 1945 yang mengatur tentang Warga Negara dan Penduduk adalah pada bab?",
-    options: ["10", "11", "12", "13"],
   },
   {
     //3 baru
+    id: 51,
+    question:
+      "Apa yang dimaksud dengan Programa Penyuluhan Pertanian menurut regulasi terbaru?",
+    options: [
+      "Daftar hadir petani dalam penyuluhan",
+      "Kumpulan data statistik luas lahan",
+      "Laporan pertanggungjawaban dana desa",
+      "Rencana tertulis yang disusun secara sistematis untuk memberikan arah dan pedoman penyuluhan",
+    ],
+  },
+  {
+    //0 baru7
+    id: 52,
+    question:
+      "Metode penyuluhan yang melibatkan pertemuan antara penyuluh dengan sejumlah pelaku utama (8-15 orang) untuk bertukar informasi dan memecahkan masalah teknis secara bersama disebut...",
+    options: [
+      "Diskusi kelompok",
+      "Pameran pertanian",
+      "Ceramah satu arah",
+      "Pemaparan materi",
+    ],
+  },
+  {
+    //0 baru7
+    id: 53,
+    question:
+      "Kelembagaan Petani yang dibentuk oleh petani, dari petani, dan untuk petani untuk meningkatkan skala ekonomi disebut...",
+    options: [
+      "Kelompok Tani (Poktan)",
+      "Koperasi Unit Desa",
+      "Badan Usaha Milik Desa",
+      "Lembaga Swadaya Masyarakat",
+    ],
+  },
+  {
+    //3 baru7
+    id: 54,
+    question:
+      "Berikut ini yang termasuk dalam sarana produksi pertanian (Saprodi) utama adalah...",
+    options: [
+      "Kantor penyuluhan dan gudang",
+      "Jaringan irigasi primer",
+      "Telepon genggam dan laptop",
+      "Benih, pupuk, dan pestisida",
+    ],
+  },
+  {
+    //2 baru7
     id: 55,
     question:
-      "Indonesia merupakan negara kesatuan yang berdaulat. Indonesia memiliki wilayah dari Sabang sampai Merauke yang diproklamasikan pada tanggal 17 Agustus 1945. Sebagai negara besar dengan berbagai macam perbedaan di dalam masyarakat, seperti suku, ras nasional. Pancasila adalah ideologi dan salah satu sarana pemersatu bangsa dan negara dengan alasan ...",
+      "Sebuah desa memiliki potensi sumber daya air yang melimpah dan lahan yang subur. Namun, petani di desa tersebut masih mengandalkan sistem irigasi tradisional yang kerang efisien. Sebagai seorang penyuluh pertanian, langkah strategis apa yang harus Anda ambil untuk meningkatkan produktivitas pertanian di desa tersebut?",
     options: [
-      "Mampu menyesuaikan diri dengan masa kemerdekaan dan era pembangunan",
-      "Digali oleh Bung Karno dari sejarah perkembangan kehidupan masyarakat",
-      "Disepakati setelah terjadi perdebatan dalam sidang PPKI tahun 1945",
-      "Sebagai kesepakan atau perjanjian luhur bangsa yang menaungi kebinaekaaan",
+      "Memperkenalakan varietas tanaman unggul yang tahan terhadap kekeringan",
+      "memfasilitasi pembuatan kelompok tani untuk meningkatkan efisiensi produksi",
+      "Mengadakan demonstrasi penggunaan teknologi irigasi modern yang hemat air",
+      "Memberikan bantuan bibit unggul kepada petani secara gratis",
     ],
   },
   {
-    //0
+    //0 baru7
     id: 56,
     question:
-      "Penyimpangan pertama terhadap Undang-Undang Dasar 1945 adalah...",
+      "Metodologi evaluasi penyuluhan yang dilakukan pada saat kegiatan penyuluhan sedang berlangsung disebut...",
     options: [
-      "Sistem presidensial berubah menjadi parlementer",
-      "Sistem parlementer berubah menjadi presidensial",
-      "Munculnya Tritura",
-      "Lembaga-lembga negara seperti MPR, DPR, DPA dan BPK belum dibentuk berdasar UUD 1945 dan masih bersifat sementara",
+      "Evaluasi formatif",
+      "Evaluasi ex-post",
+      "Evaluasi hasil akhir",
+      "Evaluasi sumatif",
     ],
   },
   {
-    //2 baru
+    //0 baru7
     id: 57,
-    question:
-      "Bela negara tidak hanya dilakukan dengan mengangkat senjata tapi juga bisa dilakukan dengan hal lainya. Upaya negara dalam melindungi warga negara dengan cara pencegahan peredaran makanan kadaluarsa merupakan tugas dan tanggung jawab negara dalam hal ... ",
+    question: "Salah satu ciri utama dari pertanian berkelanjutan adalah...",
     options: [
-      "Mensejehterakan seluruh rakyat Indonesia",
-      "Memenuhi kebutuhan hidup sehari-hari",
-      "Menjaga agar bahan pokok tetap stabil",
-      "Membela dan melindungi warga negara",
+      "Menjaga kelestarian sumber daya alam dan ekosistem",
+      "Penggunaan air secara efektif",
+      "Penggunaan pestisida kimia dan pupuk kimia agar hasil maksimal",
+      "Sistem monokultur secara terus-menerus",
     ],
   },
   {
-    //2
+    //1 baru7
     id: 58,
     question:
-      "Fenomena konten mengemis di siaran langsung atau live TikTok belakangan tengah heboh dilakukan oleh para ibu-ibu, dari paruh baya hingga lanjut usia. Konten mengemisa tersebut dilakukan tentu untuk meraup cuan. Konten live TikTok itu memperlihatkan wanita dari usia paruh baya hingga nenek-nenek yang mandi lumpur sembari mengharapkan gift dari penonton, diangap sebagai bentuk mengemis gaya baru. Untuk diketahui, live TikTok merupakan fitur TikTok yang memungkinkan pengguna dapat menerima gift atau hadiah virtual dari penontonnya. Gift itulah yang nantinya dapat ditukar menjadi uang. Fenomena yang terjadi seperti hal tersebut menunjukan kurangnya sikap ...",
+      "Dalam siklus kebijakan kesejahteraan sosial, tahapan yang bertujuan untuk menentukan prioritas masalah yang akan diselesaikan disebut..",
     options: [
-      "Kurang tanggung jawab dalam diri pribadi seseorang sehingga tidak menggunakan logika",
-      "Rendahnya rasa sikap kerja keras yang dimiliki sehingga menumbuhkan sikap pemalas",
-      "Kurangnya integritas diri dalam diri seseorang sehingga melakukan hal-hal yang bersifat menguntaungkan untuk diri sendiri tanpa memikirkan akibatnya ",
-      "Rasa tidak puas terhadap kemampuan yang dimiliki sehingga melakukan hal-hal yang tidak baik",
+      "Adopsi Kebijakan",
+      "Penyusunan Agenda",
+      "Implementasi Kebijakan",
+      "Evaluasi Kebijakan",
     ],
   },
   {
-    //0
+    //1 baru7
     id: 59,
     question:
-      "Bangsa Indonesia baru saja melewati pemilihan umum 2019 untuk memilik persiden dan legislatif. Dasar hukum penyelnggaraan terdapat dalam pokok pikiran ketiga pembukaan UUD 1945 Pasal 22E ayat 1 yang berbunyi bahwa pemilu dilaksanakan secara langsung, umum, bebas, rahasia, jujur, dan adil. Maksud dari pelaksanaan pemilu yang bebas adalah pemilih ... ",
-    options: [
-      "Bebas menentukan pilihanya tanpa paksaan dari pihak manapun",
-      "Harus menjaga kerahasiann yang dipilihnya",
-      "Bebas mau memilih atau tidak",
-      "Bebas menentukan peran dalam pemilu baik sebagai pemilih maupun kontestan dalam pesta demokrasi tersebut",
-    ],
+      "Media penyuluhan yang berbentuk gambar mati dalam urutan tertentu yang diproyeksikan disebut...",
+    options: ["Folder", "Slide/Film bingkai", "Leaflet", "Poster"],
   },
   {
-    //2
+    //1 baru7
     id: 60,
     question:
-      "Bela negara dapat dilakukan dengan berbagai cara yang sesuai dengan Ideologi Pancasila dan UUD 1945. Berikut merupakan upaya bela negara yang dapat kita lakukan, kecuali ...",
+      "Identifikasi Potensi Wilayah (IPW) dilakukan untuk mendapatkan data...",
     options: [
-      "Berjuang dengan mengangkat senjata ketika ada negara asing yang mengganggu kedaulatan negara",
-      "Menciptakan susasana rukun, damai dan harmonis dalam lingkungan keluarga",
-      "Memiliki komitmen yang teguh dan bertanggung jawab pada amanah yang diberikan",
-      "Menjaga keamanan tempat tinggal dengan ikut kegiatan ronda malam",
+      "Jumlah penduduk perkotaan",
+      "Keadaan sumber daya alam, SDM, dan kelembagaan",
+      "Data inventaris kantor dinas",
+      "Asset berharga daerah",
     ],
   },
   {
-    //2
+    //3 baru7
     id: 61,
-    question:
-      "Radikalisme merupakan salah satu ancaman serius terhadap nilai-nilai luhur pancasila. Ancaman radikalisme ini bisa diminimalisir salah satunya dalam bidang Pendidikan yaitu dengan cara ... ",
+    question: "Koperasi petani merupakan contoh dari...",
     options: [
-      "Penambahan jam pelajaran pendidikan pancasila",
-      "Pendidikan pancasila dijadikan tanggung jawab guru dan siswa",
-      "Pendidikan pancasila sebagai saran untuk membentuk wawasan bangsa dan karakter",
-      "Pendidikan pancasila dijadikan dasar dan sumber pembelajaran",
+      "Kelembagaan penyuluhan pemerintah",
+      " Unit pelaksana teknis dinas",
+      "Kelompok informal",
+      " Kelembagaan Ekonomi Petani",
     ],
   },
   {
-    //3
+    //0 baru7
     id: 62,
     question:
-      "Nasionalisme dalam beberapa dapat menjadi alat untuk mempersatukan orang-orang dari berbagai latar belakang budaya, agama, dan etnis dalam suatu negara. Hal ini terjadi ketika seseorang merasa bangga dengan negaranya, mereka cenderung berusaha untuk mempertahankan integritas dan keamanan negara tersebut. Namun, nasionalisme juga dapat memperburuk konflik dan perbedaan diantara orang-orang. Di bawah ini yang tidak termasuk bentuk yang memperburuk nasionalisme adalah ...",
+      "Dalam rantai pemasaran pertanian, pihak yang membeli produk dari petani dalam jumlah besar lalu menjualnya kembali ke pengecer disebut...",
     options: [
-      "Ketakutan atau kebencian terhadap orang asing atau orang yang berbeda latar belakang budaya dan etnisnya",
-      "Nasionalisme yang berlebihan dapat digunakan sebagai alat untuk membenarkan diskriminasi terhadap kelompok minoritas",
-      "Nasionalisme yang berlebihan dapat mendorong pemikiran bahwa negara atau kelompok tertentu lebih superior dibandingkan kelompok lainnya",
-      "Nasionalisme yang bersifat inklusif cenderung menghindarkan dari peluang untuk perpecahan",
+      "Pedagang besar (Grosir)",
+      "Konsumen akhir",
+      "Tengkulak",
+      " Eksportir",
     ],
   },
   {
-    //3
+    //1 baru7
     id: 63,
     question:
-      "Pasal 28 UUD 1945 ayat(2) yang berbunyi Negara menjamin kemerdekaaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadah  menurut agama dan kepercayaanya itu. Oleh karena itu, kebebasan beragama diartikan sebagai ...",
+      "Rencana Kerja Penyuluh Pertanian (RKPP) disusun oleh penyuluh dengan mengacu pada...",
     options: [
-      "Kebeasan untuk menentukan dan memilih agama yang dianut serta berpindah-pindah",
-      "Kebebasan dalam menjalankan ibadah kapan saja dan di mana saja",
-      "Kebebasan memeluk atau tidak memeluk salah satu agama resmi",
-      "Kebebasan yang bersumber pada martabat manusia sebagai mahluk ciptaan Tuhan",
+      "Visi Misi Kepala Desa",
+      "Programa Penyuluhan Pertanian",
+      "Rencana Pembangunan Jangka Menengah",
+      "Anggaran Pendapatan Belanja Daerah",
     ],
   },
   {
-    //1
+    //3 baru7
     id: 64,
     question:
-      "Sekarang ini perkembangan ilmu pengetahan dan teknologi berkembang pesat sehingga dapat mempengaruhi mentalitas bangasa Indonesia. Dalam hal ini yang harus dilakukan warga Negara Indonesia untuk mengembalikan kualitas mora bangsa Indonesia adalah ... ",
+      "Penyuluhan pertanian yang dilakukan melalui media internet atau aplikasi mobile merupakan penerapan teknologi...",
     options: [
-      "Meningkatkan hukum dan aturan yang di Indonesia",
-      "Menumbuhkan kesadaran berbangsa dan bernegara berdasarkan Pancasila",
-      "Mencari informasi perkembangan yang ada di Indonesia",
-      "Memperkenalkan budaya yang ada di Indonesia",
+      "Budidaya konvensional",
+      "Bioteknologi",
+      "Mekanisasi",
+      "Cyber Extension",
     ],
   },
   {
-    //2
+    //2 baru7
     id: 65,
     question:
-      "Nasionalisme tidak bisa kita artikan hanya sebatas rasa cinta kepada bangsa dan negara, tapi nasionalisme adalah kesadaran individu masyarakat suatu bangsa akan tanggung jawabnya dalam kemakmuran dan pertahanan yang dilandasi rasa cinta kepada tanah airnya. Senada dengan perkataan Bung Karno, bahwa nasionalisme ialah suatu itikad, keinsyafan rakyat, bahwa rakyat adalah satu golongan, satu bangsa. Rasa nasionalistis itu menimbulkan ketetapan hati dalam perjuangan menuju Indonesia merdeka. Artinya, nasionalisme itu dimulai dari adanya kesadaran, dari kesadaran itu tumbuhlah yang namanya cinta. Kesadaran akan tanggung jawab sebagai bagian dari masnyarakat diiringi cinta yang tumbuh kepada bangsa inilah yang membawa masyarakat kepada perjuangan yang tidak setengah-setengah. Perilaku yang dapat dilakukan para generasi muda yang memupuk jiwa nasionalisme yaitu ...",
+      "Sistem budidaya tanaman tanpa menggunakan tanah sebagai media tanam disebut...",
     options: [
-      "Aktif dalam mempromosikan budaya daerah masing-masing",
-      "Ikut serta dalam upacara adat kedaerahan",
-      "Aktif dalam mempromosikan kebudayaan Indonesia di sosial media",
-      "Mengikuti upacara bendera sebagai kewajiban agar tidak dihukum",
+      "Sistempertanian Berkelanjutan",
+      "Terasering",
+      "Hidroponik",
+      "Vertikultur",
     ],
   },
   {
-    //2
+    //0 baru7
     id: 66,
     question:
-      "Zayan adalah seorang pelayan publik. Suatu hari datang seorang ibu yang marah-marah kare pelayanan yang tidak sesuai. Sampai akhirnya ibu tersebut menyakiti perasaan Zayyan yang mana adalah rekan anda. Sikap anda ... ",
-    options: [
-      "Diam saja karena bukan urusan anda",
-      "Menenangkan ibu tersebut kemudian mengarahkanya kebagian pelayanan yang lain",
-      "Menenangi ibu tersebut",
-      "Menenangi ibu tersebut sambil memberitahu bahwa apa yang dia ucapkan telah menyakiti rekannya",
-    ],
+      "Penanganan pasca panen yang bertujuan untuk memisahkan kotoran dan benda asing dari hasil panen disebut...",
+    options: [" Cleaning", "Sorting", "Curing", "Grading"],
   },
   {
-    //2
+    // 3 baru7
     id: 67,
     question:
-      "Saya perawat. Ketika sedang melayani seorang pasien, tiba-tiba datang seorang keluaarga pasien lain dengan nada marah bahkan sampai mencaci saya. Ia menjelaskan bahwa pelayanan perawat dalam memasang infus pada keluarganya kurang hati-hati sehingga menyebabkan pasien kesakitan. Padahal infus tersebut bukan saya yang pasang melainkan oleh rekan kerja yang lain. Sikap saya ...",
+      "Unsur yang wajib ada dalam Programa Penyuluhan Pertanian tingkat desa adalah...",
     options: [
-      "Dengan tenang mendengarkan keluhannya",
-      "Menasehati agar tidak boleh berkata kasar",
-      "Meminta maaf dan mendengarkan keluhanya",
-      "Berusaha tidak marah meskipun dicaci dan tetap melayani keluhanya",
+      "Daftar gaji penyuluh",
+      "Laporan pajak tahunan",
+      "Struktur organisasi dinas provinsi",
+      "Keadaan, tujuan, masalah, dan rencana kegiatan",
     ],
   },
   {
-    //2
+    //2 baru7
     id: 68,
     question:
-      "Seorang penlanggan ingin mengurus sesuatu dengan waktu yang cepat, teman anda kelelahan dan butuh istirihat. Sementara anda masih ada tugas yang belum selesai dan harus segera diselesaikan, sikap anda ...",
+      "Kumpulan petani/peternak/pekebun yang dibentuk atas dasar kesamaan kepentingan, kesamaan kondisi lingkungan sosial, ekonomi, dan sumber daya disebut...",
     options: [
-      "Menggantikan teman anda, dengan mengurusi kepentingan pelanggan tersebut",
-      "Melanjutkan tugas teman yang kelelahan supaya kantor tidak terbengkalai",
-      "Melapor kepada atasan untuk meminta petunjuk",
-      "Menyelesaikan tugas anda sampai selesai baru membantu teman yang kelelahan",
+      "Gabungan Kelompok Tani",
+      "Koperasi Unit Desa",
+      "Kelompok Tani",
+      "Masyarakat Agribisnis",
     ],
   },
   {
-    //2
+    //3 baru7
     id: 69,
     question:
-      "Rini adalah seorang manajer di sebuah perusahaan teknologi yang sedang menghadapi tantangan dalam meningkatkan kolaborasi dan kerjasama antara tim. Untuk mengatasi masalah ini, Rini perlu memilih strategi dan alat yagn tepat untuk meningkatkan kolaborasi dalam jaringan kerja. Dalam konteks ini, tindakan yang sebaiknya dilakukan oleh Rini adalah ...",
+      "Rencana tertulis yang disusun secara sistematis untuk memberikan arah dan pedoman sebagai alat pengendali pencapaian tujuan penyuluhan disebut...",
     options: [
-      "Membentuk tim kerja lintas departemen yang terdiri dari anggota yang memiliki keahlian dan pengetahuan yang berbeda-beda, untuk mendorong kerjasama dan pertukanran ide yang lebih baik",
-      "Mengadakan pelatihan reguler tentang keterampilan kerjasama tim dan komunikasi efektig, sehingga tim dapat meningkatkan kemampuan kolaborasi mereka.",
-      "Mengimplementasikan platform online yang memungkinkan anggota tim berbagi file, berkomunikasi secara real time, dan berkolaborasi dalam proyek-proyek bersama",
-      "Menggunakan alat menejemen proyek yang terintegrasi dengan fitur seperti pemantauan kemajuan tugas, alokasi sumber daya, komunikasi yang efisien",
+      "Evaluasi Dampak",
+      "Identifikasi Potensi Wilayah",
+      "Rencana Definitif Kelompok",
+      "Programa Penyuluhan Pertanian",
     ],
   },
   {
-    //2
+    //2 baru7
     id: 70,
     question:
-      "Dalam sebuah proyek kolaborasi di tempat kerja, tim terdiri dari anggota yang memiliki latar belakang agaman suku, dan budaya yang beragam. Selama proses kerja, terjadi perbedaan pendapat dan kecernderungan untuk mengutamakan perpestif fan kepentingan kelompok masing-masing. Apa sikap terbaik yang seharusnya diambil oleh tim dalam menghaddapi perbedaan agama, suku, dan budaya untuk mencapai hasil kerja yang harmonis? ",
-    options: [
-      "Memilih ide dan pendapat yang mewakili mayoritas anggota tim tanpa mempertimbangkan pandanganyang berbeda",
-      "Mendiskrimainasi atau mengucilkan anggota tim yang memiliki perbedaan agama, suku, atau budaya",
-      "Membuka ruang dialog dan diskusi terbuka untuk memahami dan menghargai perbedaan agama, suku, dan budaya diantara anggota tim",
-      "Mengikuti kehendak dan dominasi anggota tim yang memiliki agama, suku, atau budaya meyoritas dalam pengambilan keputusan",
-    ],
+      "Unsur hara makro yang sangat dibutuhkan tanaman pada fase vegetatif untuk merangsang pertumbuhan daun dan batang adalah...",
+    options: [" Fosfor (P)", "Magnesium (Mg)", "Nitrogen (N)", "Kalium (K)"],
   },
   {
-    //2
+    //0 baru7
     id: 71,
     question:
-      "Rina adalah seorang profesional muda yang ingin mencari mentor yang dapat membimbingnya dalam pengembangan karier. Dia ingin mencari informasi dan sumber daya yang dapat membantu dalam membangun dan membina jejaringan kerja yang akan membawanya mendapatankan nasihat berharga dan arahan dari orang-orang yang telah berpengalaman. Dalam situasi ini, langkah apa yang sebaiknya diambil oleh Rina?  ",
-    options: [
-      "Mengikuti acara konferensi atau acara bisnis yang melibatkan pemimpin dan profesional berpengalaman di bidangnya",
-      "Menghubungi dan meminta bantuan dari kolega yang telah memilikai mentor dan meminta rekomendasi atau pengenalan",
-      "Menghubngi lembaga pendidikan, organisasi profesional, atau komunitaas industri yang mediakan program mentoring",
-      "Mengikuti grup diskusi atau forum online yang membahas topik seputar pengembangan karier dan mencari mentor melalui jaringan tersebut",
-    ],
+      "Unsur hara makro yang sangat dibutuhkan untuk memperbanyak akar pada tanaman adalah...",
+    options: [" Fosfor (P)", "Magnesium (Mg)", "Nitrogen (N)", "Kalium (K)"],
   },
   {
-    //2
+    //2 baru7
     id: 72,
     question:
-      "Di lingkungan kerja yang multikultural, konflik antara budaya dapat terjadi karena perbedaan norma, nilai, atau praktik dalam berbagai budaya yang beririntraksi. Konflik semacam ini dapat mengggangu kolaborasi dan produktifitas tim. Dalam situasi ini, sikap apa yang sebaiknya diambikl oleh individu dalam menghadapi konflik antarbudaya? ",
+      "Alat mesin pertanian yang digunakan untuk mengolah tanah pertama (primer) dengan tujuan membalikkan tanah disebut...",
     options: [
-      "Menghindari konflik dengan mengabaikan perbedaan budaya dan berfokus pada tugas-tugas kerja",
-      "Menggunakn pendekatan yang menghargai keberagaman dan mencari pemahaman bersama untuk menyelsaikan konflik",
-      "Mencoba mengubah budaya atau nilai anggota tim lain agar sesuai dengan budaya yang lebih dominan",
-      "Mengabaikan perbedaan budaya dan meminta bantuan dari menajemen untuk menylesaikan konflik antarbudaya",
+      "Cultivator",
+      "Power Weeder",
+      "Luku/Bajak (Plow)",
+      "Garu (Harrow)",
     ],
   },
   {
-    //3
+    //3 baru7
     id: 73,
     question:
-      "Sebuah perusahaan teknologi sedang mengembangkan aplikasi baru yang akan mengumpulkan data sensitif pelanggan. Mereak menyadari pentingnya menjaga keamanan data dan privasi pelanggan, namun juga ingin memastikan aplikasi tersebut berfungsi dengan baik dan memberikan pengalaman pengguna yang optimal. Dalam situasi ini, sikap apa yang sebaiknya diambil oleh perusahaaan teknologi?",
+      "Identifikasi Potensi Wilayah (IPW) dilakukan untuk mengumpulkan data primer dan sekunder. Metode partisipatif yang sering digunakan untuk mengkaji keadaan pedesaan disebut...",
     options: [
-      "Melakukan audit keamanan terkait aplikasi dan memastikan bahwa protokol keamanan yang tepat telah diterapkan untuk melindungi data pelanggang",
-      "Melibatkan tim ahli keamanan dalam setiap tahap pengembangan aplikasii untuk memastikan behwa aspek keamanan diintegrasikan dengan baik",
-      "Melakukan pengujian penetrasi untuk mengidentifikasi celah keamanan dalam aplikasi dan memperbaikinya sebelum peluncuran",
-      "Mengikuti standart dan regulasi keamanan data yang berlaku serta menjalin kemitraan dengan perusahaan keamanan data terpercaya untuk mendapatkan penilaian independen terhadap keamanan aplikasi mereka",
+      "Survei Ekonomi Nasional",
+      "Focus Group Discussion (FGD)",
+      "Monitoring dan Evaluasi",
+      "Participatory Rural Appraisal (PRA)",
     ],
   },
   {
-    //3
+    //3 baru7
     id: 74,
     question:
-      "Anda akan ditugaskan oleh atasan Anda untuk menjadi panitia pameran yang akan memperkenalkan produk-produk perusahaan, termasuk menjual beberapa produk untuk melihat respon pembeli. Pameran tersebut akan diikuti oleh banyak perusahaan yang juga memperkenalkan produk mereka ada yang setipe dengan Anda dan ada juga yang berbeda, untuk menarik pengunjung apa yang Anda lakukan...",
-    options: [
-      "Memperagakan produk yang berkualitas di etalase agar banyak yang tertarik",
-      "Membuat pengunjung nyaman dengan stand Anda dengan menyediakan fasilitas seperti kursi dan lainnya",
-      "Selalu bersikap ramah terhadap pengunjung yang lewat dan mempersilahkan untuk mampir",
-      "Membuat konsep stand pameran yang menarik",
-    ],
+      "Media penyuluhan yang berupa lembaran kertas berlipat yang berisi informasi singkat, padat, dan disertai gambar disebut...",
+    options: ["Brosur", "Poster", "Buklet", "Leaflet"],
   },
   {
-    //3
+    //1 baru7
     id: 75,
     question:
-      "Di dalam perusahaan tempat kamu bekerja diadakan pelatihan tentang teknologi yang baru rilis. Kamu mengetahui bahwa teknologi itu tidak ada hubungannya dengan pekerjaan yang kamu emban sedangkan atasanmu memerintahkanmu untuk ikut maka tindakanmu ...",
+      "Salah satu syarat kelembagaan penyuluhan di tingkat kecamatan menurut UU No. 16 Tahun 2006 adalah adanya...",
     options: [
-      "Menerimanya dengan senang hati dan ambisius mengikutinya karena atasan akan memuji",
-      "Menerima dan mengikuti pelatihan namun tidak mendengarkan apa materi pelatihan",
-      "Menerima dan menunjukkan kepada atasan bahwa diri Anda patuh dan taat kepada atasan",
-      "Menerima dan mengikuti pelatihan karena berfikir mungkin dapat berguna untuk kedepannya",
+      "Balai Pelatihan Pertanian",
+      "Balai Penyuluhan Pertanian (BPP)",
+      "Badan Pelaksana Penyuluhan",
+      "Sekretariat Penyuluhan",
     ],
   },
   {
-    //1
+    //3 baru7
     id: 76,
     question:
-      "Karena terjadinya beberapa permasalahan di perusahaan anda yang mengakibatkan terjadinya penurunan finansial. Hal ini tentu saja berdampak bagi kelangsungan seluruh komponen perusahaan termasuk karyawan, apa yang akan anda lakukan…",
+      "Kredit program dari pemerintah yang ditujukan untuk meningkatkan akses pembiayaan bagi petani dengan bunga rendah disebut...",
     options: [
-      "Tetap bekerja dengan baik seperti hari-hari sebelumnya",
-      "Membuat strategi baru untuk meningkatkan hasil kinerja",
-      "Mempelajari hal yang mungkin jadi penyebab penurunan tersebut",
-      "Sebagai karyawan saya akan mengikuti arahan dari atasan dan kebijakan perusahaan",
+      "Kredit Investasi",
+      "Kredit Modal Kerja",
+      "Simpan Pinjam Kelompok",
+      "Kredit Usaha Rakyat (KUR) Pertanian",
     ],
   },
   {
-    //1
+    //1 baru7
     id: 77,
     question:
-      "Darmayuda adalah seorang ASN.Tahun ini dia berkeinginan mengajukan diri sebagai caleg yang mewakili dapilnya …",
+      "Kegiatan mengamati secara sistematis perubahan perilaku sasaran (pengetahuan, sikap, dan keterampilan) setelah kegiatan penyuluhan disebut...",
     options: [
-      "Mengambil cuti di luar tanggungan negara sebagai ASN sampai terpilih menjadi anggota legislatif",
-      "Mengundurkan diri dari ASN dengan menerima risiko apabila tidak terpilih sebagai anggota legislatif",
-      "Tetap mengajukan diri sebagai caleg demi kebaikan yang lebih besar sesuai dengan pengamalan sila ke 4",
-      "Batal mengajukan diri sebagai caleg karena saya masih dalam masa ikatan dinas yang harus diselesaikan",
+      "Verifikasi",
+      "Evaluasi Penyuluhan",
+      "Identifikasi",
+      "Monitoring",
     ],
   },
   {
-    //3
+    //3 baru7
     id: 78,
     question:
-      "Sedekah Laut merupakan bentuk perwujudan rasa syukur para nelayan setempat kepada Tuhan Yang Maha Pemurah.upacara ini dilakukan biasanya di daerah pesisir pantai Jawa, tetapi bagi beberapa kelompok masyarakat ritual ini dianggap sebagai kesesatan atau menyimpang dari ajaran agama. Tanggapan anda terhadap kearifan budaya lokal yang bertentangan dengan pemahaman terhadap agama tertentu adalah...",
-    options: [
-      "Menganggap bahwa budaya ini harus dihentikan karena bertentangan dengan nilai-nilai agama tertentu",
-      "Ikut serta meramaikan kegiatan ritual sedekah Laut karena hal ini adalah kearifan lokal.",
-      "memberitahukan ke masyarakat disana untuk tidak melakukan ritual tersebut karena bertentangan dengan keyakinan saya",
-      "Menganggap bahwa kearifan lokal budaya masyarakat setempat dan agama dapat diharmonisasikan dengan baik sehingga budaya lokal dapat dilestarikan.",
-    ],
+      "Faktor internal dalam analisis SWOT yang menunjukkan kelebihan atau modal yang dimiliki oleh suatu wilayah pertanian disebut...",
+    options: ["Threats", "Strengths", "Weaknesses", "Strategy"],
   },
   {
-    //2
+    //3 baru7
     id: 79,
     question:
-      "Terhadap aliran keagamaan yang dituduh sesat oleh kelompok lain. Bagaimana seharusnya pemerintah Indonesia bersikap menurut anda…",
+      "Penyuluh yang diangkat dari petani yang berhasil dalam usahanya dan mau membantu penyuluh PNS dalam membimbing petani lain disebut...",
     options: [
-      "Pemerintah sebaiknya membiarkan keberadaan aliran keagamaan yang dianggap sesat, namun tidak perlu memberikan fasilitas",
-      "Pemerintah dapat memberikan perlindungan dan pelayanan kepada aliran keagamaan yang dianggap sesat, selama belum ada aturan yang melarang",
-      "Pemerintah tidak boleh mendiskriminasi aliran keagamaan yang diklaim sesat, karena setiap warga negara memiliki hak yang sama untuk memperoleh perlindungan dan pelayanan",
-      "Pemerintah seharusnya mengusir dan melarang warga negaranya berada di Indonesia yang menganut aliran keagamaan yang diklaim sesat",
+      "Penyuluh Pertanian Swasta",
+      "Penyuluh Pertanian PPPK",
+      "Kontak Tani Nelayan Andalan (KTNA)",
+      "Penyuluh Pertanian Swadaya",
     ],
   },
   {
-    //0
+    //1 baru7
     id: 80,
     question:
-      "Anda barusan mempunyai anak dan kemudian pindah rumah hal tersebut sangatlah merepotkan karena tidak ada yang membantu, Di lingkungan anda yang baru ada tradisi setiap tetanga baru harus membagikan makanan khas daerahnya. Apa yg akan anda lakukan…",
+      "Dokumen rencana kerja tahunan seorang penyuluh pertanian yang berisi jadwal dan rincian kegiatan operasional disebut...",
     options: [
-      "Membagikan makanan lain yang mudah untuk dipesan.",
-      "Tidak mengikuti tradisi itu",
-      "Memberi makanan hanya kepada tetangga dekat saja",
-      "Membagi-bagikan makanan khas daerahnya kepada seluruh anggota komplek tersebut",
+      "Programa Nasional",
+      "Rencana Kerja Tahunan Penyuluh (RKTP)",
+      "Buku Saku Penyuluh",
+      "Laporan Mingguan",
     ],
   },
   {
-    //0
+    //2 baru7
     id: 81,
     question:
-      "Atasan anda memanggil anda ke ruangannya, kemudian atasan anda menyampaikan pendapat yang sangat anda tidak setujui, apa yang anda lakukan…",
+      "Dalam menyusun progarama penyuluhan, seorang penyuluh harus mempertimbangkan berbagai faktor, termasuk potensi wilayah, kebutuhan petani, dan kebijakan pemerintah. Manakah dari faktor berikut yang paling penting dalam menentukan keberhasilan sebuah programa penyuluhan?",
     options: [
-      "Anda akan menyatakan pendapat anda dengan sejujurnya",
-      "Anda akan menyatakan pendapat anda secara tersirat",
-      "Anda jarang berani mengungkapkan opini yang bertentangan",
-      "Anda akan menyetujui walaupun bertentangan opini karena beliau adalah atasan yang harus anda hormati",
+      "Anggaran yang tersedian untuk pelaksaan programa",
+      "Ketersediaan sarana dan prasarana pendukung",
+      "Partisipasi aktif petani dalam perencanaan dan pelaksanaan",
+      "Dukungan dari pemerintah daerah",
     ],
   },
   {
-    //1
+    //3 baru7
     id: 82,
     question:
-      "Beberapa minggu yang lalu atasan anda pernah memberitahu anda bahwa dia mempunyai jadwal untuk bisa menandatangani kontrak dengan beberapa orang klien baru dalam beberapa minggu ke depan untuk pengembangan perusahaan, namun tampaknya atasan anda lupa akan hal tersebut karena terlalu sibuk mengurusi banyak hal dan sering tidak berada dikantor karena pergi ke luar kota, sebagai seorang asisten yang akan anda lakukan adalah…",
-    options: [
-      "Mengingatkan atasan bahwa bahwa punya rencana untuk bertemu klien",
-      "Membuat rencana pertemuan dan memberitahu atasan untuk disetujui",
-      "Membuat rencana pertemuan dengan klien atasan dan memberitahukannya",
-      "Memberitahu atasan bahwa dia harus bertemu klien untuk urusan bisnis",
-    ],
+      "Kriteria penilaian kelompok tani berdasarkan kelas kemampuan kelompok dimulai dari kelas pemula sampai ke kelas tertinggi yaitu...",
+    options: ["Madya", "Profesional", "Lanjut", "Utama"],
   },
   {
-    //1
+    //0 baru7
     id: 83,
     question:
-      "Perusahaan tempat saya bekerja melaksanakan lomba dalam rangka HUT dan melibatkan seluruh kolega karyawan, sikap saya sebagai peserta lomba...",
+      "Dalama menyusun rencana kerja penyuluh pertanian harus memperhatikan prinsip-prinsip penyuluhan yang efektif. Salah satu prinsip tersebut adalah partisipasi masyarkat. Jelaskan bagaimana prinsip partisipasi masyarakat dapat diterapkan dalam penyusunan rencana kerja penyuluhan?",
     options: [
-      "Tak cukup berpartisipasi saja, saya harus menjadi juara",
-      "Paling penting tingkatkan kebersamaan antara tim & kolega",
-      "Kompetisi menjadi juara itu utama, agar menjaga nama baik perusahaan",
-      "Apapun yang saya lakukan untuk menjaga nama baik perusahaan",
+      "Dengan melibatkan petani dalam identifikasi masalah dan perumusan solusi",
+      "Dengan memberikan pelatihan kepada petani tentang teknik budidaya modern",
+      "Dengan memberikan informasi tentang pasar yang potensial",
+      "Dengan memberikan bantuan bibit unggul kepada petani",
     ],
   },
   {
@@ -930,87 +898,80 @@ export const dataQues = [
     ],
   },
   {
-    //2
+    //0 baru7
     id: 85,
     question:
-      "Rekan kerja Anda dimarahi oleh atasan pada saat mengumpulkan tugas tim karena sudah telat beberapa jam mengumpulkan tugasnya. Hal ini disebabkan karena rekan Anda tersebut harus mengkompilasi pekerjaan tersebut terlebih dahulu sebelum dikumpulkan ditambah lagi semua rekan anggota tim mengumpulkan tugas pribadi mereka juga terlambat, sehingga rekan Anda yang bertugas untuk mengkompilasi setiap pekerjaan jadi tidak menyelesaikan pekerjaannya tepat waktu, sikap Anda ...",
+      "Untuk mencapai tujuan dari penyuluhan pertanian, perlu melibatkan komunikasi bersistem, artinya ...",
     options: [
-      "Mendengarkan rekan Anda dimarahi setelah itu memberikan semangat untuk tidak dimasukkan kehati ucapan atasan",
-      "Minta maaf kepada teman karena keterlambatan yang disebabkan oleh anggota tim yang lain",
-      "Mengakui kesalahan kepada atasan jika Anda juga turut berkontribusi pada masalah tersebut",
-      "Mengakui kesalahan kepada teman dan berjanji tidak akan mengulanginya lagi",
+      "mengikuti aturan-aturan tertentu agar berlangsung terarah dan objektif",
+      "lembaga bahasa berupa istilah harus digunakan untuk menyampaikan pendapat",
+      "adanya badan yang mengatur penyusunan program para penyuluh",
+      "komunikasi harus mampu mengubah perilaku petani dan keluarganya",
     ],
   },
   {
-    //2
+    //0 baru7
     id: 86,
     question:
-      "Anda bekerja di perusahaan jasa yang bergerak di bidang transportasi. Siang ini pimpinan perusahaan akan mengadakan diskusi singkat dengan karyawan dan meminta usulan terkait peningkatan kualitas pelayanan terhadap pelanggan kedepannya agar banyak dari customer yang memakai jasa perusahaan anda, sikap anda...",
+      "Peran tenaga penyuluh dalam mencapai tujuan penyuluhan pertanian adalah ...",
     options: [
-      "Memberikan usulan jika ingin meningkatkan pelayanan, perusahaan harus memenuhi semua hal yang diinginkan oleh pelanggan tanpa terkecuali",
-      "Mengusulkan adanya jalur khusus untuk ibu hamil dan menyusui dan para lansia",
-      "Memberikan usulan agar perusahaan menyediakan fasilitas khusus bagi ibu hamil, menyusui dan lansia",
-      "Mengusulkan agar alat transportasi yang digunakan selalu bersih dengan cara merekrut karyawan baru dengan gaji tinggi.",
+      "sebagai penerjemah hasil-hasil penelitian sehingga petani dapat melakukan penelitian tersebut",
+      "mengubah perlaku petani beserta keluargnya",
+      "memantapkan harga hasil pertanian dengan harga dasar yang memuaskan petani",
+      "memilih tujuan pertanian yang layak dan optimum",
     ],
   },
   {
-    //1
+    //2 baru7
     id: 87,
-    question:
-      "Anda ditugaskan menjadi ketua pelaksana sebuah acara yang menyangkut orang banyak. Para anggota panitia yang anda miliki bekerja sangat santai dan kurang bersemangat. Sikap anda…",
+    question: "Pertanian merupakan suatu ekosistem binaan, karena ...",
     options: [
-      "Meningkatkan ketertiban dan keteraturan dengan pengawasan yang ketat",
-      "Mengumpulkan anggota dan menanamkan pemahaman bahwa kesuksesan didapatkan dari kerja keras dan kesolidan anggota tim",
-      "Membuat rencana kerja dan mengharuskan anggota tim mematuhinya",
-      "Memberikan contoh sikap yang bertanggung jawab agar dapat dicontoh oleh anggota",
+      "terdiri atas komponen hayati",
+      "terdiri atas komponen tanhayati",
+      "diatur dan dikendalikan manusia",
+      "menggunakan tenaga mesin",
     ],
   },
   {
-    //2
+    //1 baru7
     id: 88,
     question:
-      "Dampak korupsi tidak hanya sekedar menimbulkan kerusakan-kerusakan jangka panjang. Dari pilihan di bawah manakah yang seharusnya menjadi pola pikir seorang ASN…",
-    options: [
-      "Mempelajari delik dan modus korupsi secara detail akan menjauhkan dari tindak pidana korupsi",
-      "Mendapatkan contoh nyata delik dan modus tindak pidana korupsi akan memudahkan menjauhkan diri dari korupsi",
-      "Memastikan kesadaran anti korupsi sehingga muncul niat memberantas lalu kemudian mempelajari delik dan modusnya",
-      "Mempelajari dampak tindak pidana korupsi akan meningkatkan pengetahuan dan menjauhkan diri dari praktik korupsi",
-    ],
+      "Reaksi dasr pembentukan zat-zat organik dari zat-zat mineral yang berlangsung dalam tanaman adalah ...",
+    options: ["asimilasi", "fotosintesis", "respirasi", "polimerisasi"],
   },
   {
-    //2
+    //2 baru7
     id: 89,
-    question:
-      "Yura bekerja di bagian marketing. Manajer menyarankan Yura untuk mempromosikan produk terbaru melalui aplikasi perluasan jejaring secara digital di kalangan anak muda. Akan tetapi, hingga kini ia belum pernah mencobanya. Hal yang harus dilakukan Yura adalah ...",
+    question: "Pertanian disebut industri primer karena ...",
     options: [
-      "Mendalami manfaat aplikasi tersebut agar efektivitas promosi meningkat dibandingkan sebelumnya",
-      "Mencoba satu per satu fitur aplikasi dimulai dari yang mudah pengoperasiannya terlebih dahulu",
-      "Memperdalam kegunaan aplikasi jejaring digital itu untuk mengembangkan relasi pada berbagai kesempatan",
-      "Mempelajari cara kerja aplikasi tersebut agar target promosi produk bisa segera tercapai",
+      "terdiri atas komponen hayati dan nonhayati",
+      "merupakan kegiatan menufaktur yang melibatkan tenaga manusia dan mesin",
+      "menggunakan faktor produksi alami secara langsung",
+      "memanfaatkan alam demi memenuhi kebutuhan manusia",
     ],
   },
   {
-    //3
+    //0 baru7
     id: 90,
     question:
-      "Saya terkenal sebagai karyawan yang sering memberikan bantuan terhadap sesama rekan kerja dalam berbagai permasalahan di kantor tempat saya bekerja. Sikap saya ketika ada teman membutuhkan bantuan adalah…",
+      "Undang-undang Nomor 16 tahun 2006 tentang Sistem Penyuluhan Pertanian, Perikanan, dan Kehutanan bertujuan untuk:",
     options: [
-      "Saya akan membantu mereka, tetapi biasanya saya menyelesaikan pekerjaan saya terlebih dahulu",
-      "Saya bertanya dahulu mengenai permasalahan yang mereka hadapi jika memungkinkan saya akan membantu",
-      "Saya akan membantu terlebih dahulu saya akan berfikir cukup lama untuk mencarikan solusi yang tepat atas permasalahan mereka",
-      "Saya bertanya dahulu jika saya mampu saya akan membantu tentunya setelah mengerjakan pekerjaan saya",
+      "Meningkatkan pengetahuan, keterampilan, dan sikap petani dalam mengelola usaha tani secara efektif",
+      "Mengoptimalkan sumber daya alam dengan metode yang sesuai untuk pengembangan wilayah pertanian",
+      "Memberikan pedoman penyuluhan dalam peningkatan kesejahteraan masyarakat pertanian secara berkelanjutan",
+      "Mengintegrasikan teknologi teknologi terbaru dalam sistem penyuluhan yang merata di semua wilayah",
     ],
   },
   {
-    //2
+    //1 baru7
     id: 91,
     question:
-      "Kadang saya bingung dengan perubahan perasaan yang terjadi di dalam diri saya… ",
+      "Dalam tahap evaluasi penyuluhan pertanian, faktor penting yang harus diperhatikan untuk menilai keberhasilan suatu program penyuluhan adalah:",
     options: [
-      "Dalam setiap kehidupan, seseorang sering mengalami perubahan emosi",
-      "Perubahan perasaan merupakan hal biasa",
-      "Setiap perubahan perasaan menuntut adanya pengelolaan",
-      "Emosi seseorang perlu dikelola",
+      "Peningkatan produksi hasil pertanian dari para peserta program",
+      "Tingkat adopsi teknologi pertnian baru oleh petania di daerah sasaran",
+      "Pengetahuan petani mengenai praktik penyuluhan yang sesuai dengan kondisi lokal",
+      "Penyesuaian metode penyuluhan yang sesuai dengan kondisi lokal",
     ],
   },
   {
@@ -1106,123 +1067,112 @@ export const dataQues = [
     options: ["Massal", "Produksi dalam negeri", "Satuan", "Terbatas"],
   },
   {
-    //1
+    //3 baru7
     id: 101,
     question:
-      "Karena suatu permasalahan, kantor saya mengalami keterlambatan pembayaran gaji karyawan. Padahal anak saya sangat membutuhkan uang untuk membayar biaya sekolah. Yang saya lakukan ... ",
+      "Salah satu tujuan penyusunan programa penyuluhan pertanian di tingkat wilayah adalah:",
     options: [
-      "Bekerja di luar kantor untuk mendapatkan uang itu",
-      "Meminta bantuan atasan",
-      "Mencari pinjaman kepada teman",
-      "Mendesak kantor untuk segera mengeluarkan gaji saya",
+      "Mewujudkan ketahanan pangan lokal dengan memanfaatkan potensi lahan secara optimal",
+      "Memberikan arahan bagi peningkatan kualitas produk pertanian untuk pasar golbal",
+      "Mengembangakan struktur kelembagaan yang dapat mendukung keberlanjutan penyuluhan",
+      "Meningkatkan efektivitas penyuluhan dengan memperhatikan karakteristik unik wilayah",
     ],
   },
   {
-    //1
+    //0 baru7
     id: 102,
     question:
-      "Ketika sedang melaksanakan presentasi, saya menrima kabar bahwa anak saya mengalami kecelekaan dan sekarang dirawat di rumah sakit. Saya akan ...",
+      "Dalam mengembangkan rencana kerja tahunan penyulluhan pertanian, penting untuk:",
     options: [
-      "Tetap melanjutkan presentasi",
-      "Mencari tahu kondisi anak saya dan kemudian memutuskan apakah tetap presentasi atau ke rumah sakit",
-      "Menghentikan presentasi dan langsung pergi ke rumah sakit",
-      "Menelfon istri menanyakan kondisi anak saya dan tetap melanjutkan presentasi",
+      "Menyelaraskan sasaran kerja dengan potensi pertanian dan kondisi geografis daerah",
+      "Mengadaptasi metode penyuluhan sesuai perubahan iklim dan lingkungan",
+      "Memfasilitasi petani dalam mendapatkan akses terhadap teknologi pertanian terbaru",
+      "Mendorong partisipasi aktif masyarkat tani dalam proses perencanaaan dan evaluasi",
     ],
   },
   {
-    //1
+    //1 baru7
     id: 103,
     question:
-      "Istri teman saya baru saja melahirkan. Saya ingin mengunjunginya, tetapi sedang tidak punya uang untuk membeli kado. Saya akan ... ",
+      "Keberhasilan penggunaan alat mesin pertanian (alsintan) dalam budidaya bergantung pada ...",
     options: [
-      "Mengunjunginya jika sudah punya uang untuk membeli kado",
-      "Tetap mengunjunginya tanpa membawa kado",
-      "Mengunjungi dan menyusulkan kadonya di lain waktu",
-      "Meminjam uang untuk membeli kado",
+      "Pemahaman petani terhadap pengoprasian dan perawatan mesin dengan benar",
+      "Kesesuaian alat dengan kondisi tanah dan jenis tanaman yang dibudidayakan",
+      "Dukungan daru penyuluhan dalam memberikan bimbingan teknis tentang alsintan",
+      "Kemampuan alat untuk meningkatkan efisiensi waktu dan tenaga dalam bertani",
     ],
   },
   {
-    //1
+    //0 baru7
     id: 104,
     question:
-      "Disebuah komonitas kecil, ada seorang tokoh yang sering kali menyampaikan pandangan yang intoleran terhadap kelopok minoritas. Banyak penduduk merasa khawatir bahwa pandangan ini bisa memicu ketegangan dan konflik di antara warga. Bupati setempat ingin mengambila langkah-langkah  yang tepat untuk mengatasi masalah ini dengan melakukan indentifikasi dini terhadap individu atau kelompok yang cenderung radikal. Apa tindakan yang sebaiknya diambil oleh bupati? ",
+      "Saat merancang materi penyuluhan pertanian untuk kelompok tani, sebaiknya mempertimbangkan ... ",
     options: [
-      "Mengundang tokoh tersebut untuk berbicara didepan publik dan meminta klarifikasi pandanganya",
-      "Membentuk tim dialog yang terdiri berbagai pemangku kepentingan",
-      "Menjalin hubungan dengan organisasi masyarakat sipil yang bergerak di bidang penylesaian konflik",
-      "Mengadakan pertemuan dengan tokoh agama setempat untuk membahas nilai-nilai toleransi",
+      "Kebutuhan sepsifik kelompok tani berdasrkan jenis komoditas utama mereka",
+      "Tingkat literasi dan keterampilan anggota kelompok dalam aspek teknis pertananian",
+      "Kesesuaian dengan musim tanam dan kondisi iklim di wilayah tersebut",
+      "Relevansi materi dengan teknologi pertanian terbaru yang tersedia",
     ],
   },
   {
-    //1
+    //3 baru7
     id: 105,
-    question:
-      "Atasan Anda melakukan rekayasa laporan keuangan kantor, maka anda ...",
+    question: "Kelembagaan ekonomi petani dapat diperkuat dengan cara?",
     options: [
-      "Dalam hati tidak menyetujui hal tersebut",
-      "Mengingatkan dan melaporkan kepada yang berwenang",
-      "Tidak ingin terlibat dengan proses rekayasa tersebut",
-      "Hal semacam itu sudah menjadi tradisi yang tidak baik di Indonesia",
+      "Meningkatkan keterampilan manajemen kelompok tani dalam pengelolaan keuangan",
+      "Mendorong kerjasama dalam pemasaran hasil untuk mencapai harga yang lebih stabil",
+      "Mengembangkan sistem simpan pinjam di tingkat kelompok untuk akses modal",
+      "Mendorong pembentukan asosiasi tani untuk memajukan kepentingan bersama",
     ],
   },
   {
-    //3
+    //1 baru7
     id: 106,
     question:
-      "Hampir semua pegawai di kantor instansi saya meminta uang tanda terimakasih atas pengurusan surat ijin tertentu. Namun menurut peraturan kantor, hal itu tidaklah diperbolehkan, maka saya ...",
+      "Dalam penyuluhan tentang pasca panen, penyuluh perlu memberikkan materi yang mencakup?",
     options: [
-      "Berusaha semampunya untuk tidak melakukanya",
-      "Melakukannya hanya jika terpaksa membutuhkan uang tambahan untuk keperluan keluarga, sebab gaji kantor memang kecil",
-      "Terkadang saja melakukan hal tersebut",
-      "Tidak ingin melakukannya sama sekali",
+      "Teknik penyimpanan hasil pertanian agar tahan lama dan berkulitas",
+      "Penerapan teknologi sederhana yang dapat menekan kerugian hasil panen",
+      "Pemilihan alat yang sesuai untuk proses pengolahan sesuai jenis produk",
+      "Metode pengemasan yang dapat menarik konsumen dan meningkatkan nilai jual",
     ],
   },
   {
-    //3
+    //1 baru7
     id: 107,
     question:
-      "Anda adalah seorang orang tua baru dengan seorang anak yang masih belia. Di tengah perkembanagan zaaman dimana aliran informasi menyebar dengan cepat melalui platform-platform media sosial, upaya Anda untuk membentengi anak dari paham-paham radikalisme sejak dini adalah ...",
-    options: [
-      "Menanamkan semangat kebangsaan dan toleransi",
-      "Selektif dalam memilih teman bermain kepada anak anda",
-      "Membatasi fitur smartphone anak Anda agar tidak mengakses konten radikalisme",
-      "Memberikan pemahaman agama yang terbaik dan benar secara moderat dan damai",
-    ],
+      "Keadaan dimana suatu pertqanaman tidak emnghasilakn karenan kerusakan yang disebabkan oleh organisme penggangu tumbuhan (OPT) dan/atau dampak perubahan iklim (DPI) disebut ...",
+    options: ["Bencana Pertanian", "Puso", "Areal OPT", "Kresek"],
   },
   {
-    //3
+    //1 baru7
     id: 108,
     question:
-      "Di era milenium ketiga ini perubahan dunia terjadi dengan cepet. Perubahan tersebut merambat dalam kehidupan sehari hari. Karena itu saya ...",
-    options: [
-      "Mengikuti perkembangan teknologi dari media masa",
-      "Mempelajari cara pengoprasian komputer",
-      "Berusaha mempelajari bukku pengetahuan yang terbaru",
-      "Berusaha menguasai keterampilan di bidang teknologi informasi mutakhir",
-    ],
+      "Tindakan pemusnahan terhadap tanaman yang terserang OPT dengan tujuan untuk mencegah penyebara serangan yang lebih luas atau untuk mencegah serangan pada musim tanam berikutnya disebut ...",
+    options: ["Eksplosi", "Eradikasi", "Mitigasi", "Eksplotiasi"],
   },
   {
-    //2
+    //1 baru7
     id: 109,
     question:
-      "Anda bekerja sebagai konsultan pendidikan, banyak siswa dan orang tua yang bingung untuk menentukan jurusan. Sebagai konsultan yang handal yang akan Anda lakukan ...",
+      "Yang bukan OPT utama pada komoditas Tanaman pangan (Padi) adalah ...",
     options: [
-      "Memberikan beberapa alternatife jurusan yang sangat dibutuhkan di dunia kerja",
-      "Menentukan jurusan yang akan memberikan keuntungan masa depan anak",
-      "Memberikan alternatif jurusan sesui dengan kemapuan siswan dan kemampuan finansial orang tua",
-      "Menyarankan agar melanjutkan pendidikan ke luar negeri",
+      "Penggerek batang",
+      "Ulat Grayak",
+      "Wereng batang coklat",
+      "Tungro",
     ],
   },
   {
-    //0
+    //0 baru7
     id: 110,
     question:
-      "Seorang teman Anda bertugas di loket pelayanan tiba-tiba pingsan karena kelelahan akibat menerima banyak masyarakat yang datang. Anda yang sedang bekerja diminta menggantikan di loket karena menurut penilaian atasan tugas yang anda kerjakan tengggang waktunya masih lama. Apa yang akan sebaiknya anda lakukan?",
+      "Pengamatan OPT pada tanaman pangan dilakukan dengan 2 cara, yaitu ...",
     options: [
-      "Menuju loket dan melayanu masyarakat",
-      "Melayanu di loket dan sambul juga menyelesaikan tugas sendiri",
-      "Mengerjaakan tugas secepat mungkin agar bisa bertugas di loket",
-      "Mencari teman lain yang bebanya lebih ringan untuk membantu",
+      "Pengamatan Tetap dan Pengamatan Keiling atau Patroli",
+      "Pengamatan Atas dan Pengamatan Bawah",
+      "Pengmatan Daun dan Pengamatan Akar",
+      "Pengamatan Samping dan Pengamatan Tengah",
     ],
   },
 ];

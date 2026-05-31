@@ -29,6 +29,18 @@ import ResultCpns1 from "../components/cpns1/ResultCpns1";
 import LoginCpns2 from "../components/cpns2/LoginCpns2";
 import RoomCpns2 from "../components/cpns2/RoomCpns2";
 import ResultCpns2 from "../components/cpns2/ResultCpns2";
+import LoginCpns6 from "../components/cpns6/LoginCpns6";
+import LoginCpns7 from "../components/cpns7/LoginCpns7";
+import LoginCpns8 from "../components/cpns8/LoginCpns8";
+import LoginCpns9 from "../components/cpns9/LoginCpns9";
+import RoomCpns6 from "../components/cpns6/RoomCpns6";
+import RoomCpns7 from "../components/cpns7/RoomCpns7";
+import RoomCpns8 from "../components/cpns8/RoomCpns8";
+import RoomCpns9 from "../components/cpns9/RoomCpns9";
+import ResultCpns6 from "../components/cpns6/ResultCpns6";
+import ResultCpns7 from "../components/cpns7/ResultCpns7";
+import ResultCpns8 from "../components/cpns8/ResultCpns8";
+import ResultCpns9 from "../components/cpns9/ResultCpns9";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -62,6 +74,22 @@ const router = createBrowserRouter(
       <Route path="/cpns2" element={<LoginCpns2 />} />
       <Route path="/roomcpns2" element={<RoomCpns2 />} />
       <Route path="/resultcpns2" element={<ResultCpns2 />} />
+
+      <Route path="/cpns6" element={<LoginCpns6 />} />
+      <Route path="/roomcpns6" element={<RoomCpns6 />} />
+      <Route path="/resultcpns6" element={<ResultCpns6 />} />
+
+      <Route path="/cpns7" element={<LoginCpns7 />} />
+      <Route path="/roomcpns7" element={<RoomCpns7 />} />
+      <Route path="/resultcpns7" element={<ResultCpns7 />} />
+
+      <Route path="/cpns8" element={<LoginCpns8 />} />
+      <Route path="/roomcpns8" element={<RoomCpns8 />} />
+      <Route path="/resultcpns8" element={<ResultCpns8 />} />
+
+      <Route path="/cpns9" element={<LoginCpns9 />} />
+      <Route path="/roomcpns9" element={<RoomCpns9 />} />
+      <Route path="/resultcpns9" element={<ResultCpns9 />} />
     </Route>,
   ),
 );

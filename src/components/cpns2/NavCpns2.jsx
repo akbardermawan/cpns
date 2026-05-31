@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { dataQues } from "../../database/cpns1/quest";
+import { dataQues } from "../../database/cpns2/quest";
 import { useNavigate } from "react-router-dom";
 
 const NavCpns2 = ({ answers, setTrace }) => {

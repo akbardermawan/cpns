@@ -60,7 +60,7 @@ export default function Twk3() {
         </div>
 
         {/* Answers */}
-        <div className="space-y-4">
+        <div className="space-y-4 pt-2 md:pt-5">
           {ques?.answer.map((a, index) => (
             <div
               key={index}

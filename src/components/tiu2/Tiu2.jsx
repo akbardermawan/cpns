@@ -1,5 +1,5 @@
 import React from "react";
-import "./tiu2.scss";
+
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom"; // Import useNavigate
 import { dataQues } from "../../database/tiu2";
@@ -42,7 +42,7 @@ export default function Tiu2() {
           setTimeout(() => {
             setSelectedAnswer(null);
             setClassName("");
-            navigate("/tiu");
+            navigate("/twk");
           }, 1500);
         }
       } else {
@@ -50,16 +50,28 @@ export default function Tiu2() {
       }
     });
   };
+
   return (
-    <div className="tiu2-container">
-      <div className="question-container">
-        <div className="question-text">{ques?.question}</div>
-        <div className="answers-container">
+    <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
+      <div className="w-full max-w-3xl bg-white rounded-xl shadow-lg p-6">
+        {/* Question */}
+        <div className="text-xl font-semibold text-gray-800 mb-6">
+          {ques?.question}
+        </div>
+
+        {/* Answers */}
+        <div className="space-y-4 pt-1 md:pt-5">
           {ques?.answer.map((a, index) => (
             <div
               key={index}
-              className={`answer ${className} ${selectedAnswer === a ? "active" : ""}`}
               onClick={() => handleClick(a)}
+              className={`cursor-pointer border rounded-lg p-4 transition 
+            hover:bg-blue-50 hover:border-blue-400
+            ${
+              selectedAnswer === a
+                ? "bg-blue-100 border-blue-500 font-medium"
+                : "bg-gray-50 border-gray-300"
+            }`}
             >
               {a.text}
             </div>

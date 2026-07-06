@@ -50,7 +50,7 @@ const RoomCpns1 = () => {
   }
 
   return (
-    <div className="flex flex-col md:flex-row justify-center items-center h-screen">
+    <div className="flex flex-col md:flex-row justify-center items-center h-screen pb-1">
       <div className="flex flex-col w-full h-full justify-center items-center">
         <div className="absolute top-5 right-5 m-2">
           <TimerCpns1 />

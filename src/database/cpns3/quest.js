@@ -113,52 +113,55 @@ export const dataQues = [
     options: ["2: 3", "4: 3", "1 : 2", "3: 2"],
   },
   {
-    //2 baru
+    //3 baru2
     id: 16,
-    question:
-      "Seekor ikan panjang kepala 10 cm. Panjang ekornya sama dengan panjang kepala ditambah setengah panjang tubuh. Panjang tubuh sama dengan panjang kepala ditambah panjang ekor. Berapakah panjang ikan seluruhnya?",
-    options: ["40 cm", "60 cm", "80 cm ", "100 cm"],
+    question: "14/20 dibagi ( 7/25 : 4/5 ) adalah ....",
+    options: ["3/20", "4/20", "7/20", "2"],
   },
   {
-    //2 baru
+    //2 baru2
     id: 17,
-    question: " A, D, H, M, S, ...",
-    options: ["X", "Y", "Z", "A"],
+    question: "Hasil operasi dari 15 : 13 + 0,25 x 225 - 0,5  adalah ...",
+    options: ["45,1", "46,1", "56,9", "56,1"],
   },
   {
-    //2 baru
+    //3 baru2
     id: 18,
-    question: "A, E, B, F, C, G, D, ..., ...",
-    options: ["J, I", "E, G", "H, E", "K, I"],
+    question: "3, 3, 5, 2, 8, 13, 7, ....",
+    options: ["14", "24", "28", "49"],
   },
   {
-    //3 baru
+    //2 baru2
     id: 19,
-    question: "B, D, C, F, D, ..., ..., ..., F, L, G",
-    options: ["E, G, I", "G, E, K", "L, J, M", "H, E, J"],
+    question: "113, 270, 104, 90, 95, 30, 86, ..., ...,",
+    options: ["8, 70", "10, 72", "10, 77", "12, 76"],
   },
   {
-    //3 baru
+    //1 baru2
     id: 20,
-    question:
-      "Delapan tahun yang lalu, usia Pak Eko empat kali usia anaknya. Jika saat ini usia anaknya 16 tahun, berapa usia pak Eko tahun depan?",
-    options: ["32", "33", "40", "41"],
+    question: "2, 4, 6, 8, 18, 16, 54, ..., ...",
+    options: ["30, 145", "32, 162", "32, 170", "34, 170"],
   },
   {
-    //2 baru
+    //2 baru2
     id: 21,
-    question: "Matahari : Terang = Api : ...",
-    options: ["Asap", "Bara", "Panas", "Cahaya"],
+    question: "Jika a/b < 0, maka ....",
+    options: [
+      "a lebih kecil dari b",
+      "a lebih besar dari b",
+      "jika a < 0 maka b bernilai positif",
+      "jika a > 0 maka b lebih besar dari pada a",
+    ],
   },
   {
-    //2 baru
+    //3 baru2
     id: 22,
-    question: "Wajah : Rona = ... : ...",
+    question: "GURU : SEKOLAH = ... : ...",
     options: [
-      "Jaket : Kulit",
-      "Kertas : Tulis",
-      "Bendera : Berkibar",
-      "Buku : Gambar",
+      "penebang pohon : pabrik",
+      "musisi : piano",
+      "pengacara : panggung",
+      "petani : ladang",
     ],
   },
   {
@@ -188,16 +191,22 @@ export const dataQues = [
     options: ["07.30", "07.35", "07.40", "07.45"],
   },
   {
-    //2 baru
+    //1 baru2
     id: 26,
-    question: "Domba : Taring = Burung : ...",
-    options: ["Sayap", "Paruh", "Sirip", "Kicau"],
+    question:
+      "... berhubungan dengan NASI, sebagaimana AIR berhubungan dengan ...",
+    options: [
+      "Sendok - botol",
+      "Piring - gelas",
+      "Beras - kopi",
+      "Makan - nasi",
+    ],
   },
   {
-    //1 baru
+    //1 baru2
     id: 27,
     question:
-      "Semua burung dapat terbang. Kapal terbang juga dapat terbang. Maka kesimpulannya adalah ...",
+      "Semua burung dapat terbang.\nKapal terbang juga dapat terbang.\nMaka kesimpulannya adalah ...",
     options: [
       "Kapal terbang adalah burung",
       "Tidak semua yang terbang adalah burung",
@@ -206,100 +215,85 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //3 baru2
     id: 28,
     question:
-      "Semua pemimpin memiliki pengikut. Semua pemimpin yang baik dicintai pengikutnya. Maka kesimpulannya adalah ...",
+      "Semua karyawan perusahaan X adalah lulusan sarjana.\nSemua lulusan sarjana memiliki kemampuan analisis yang baik.\nBudi adalah karyawan perusahaan X.\nSimpulan yang tepat adalah...",
     options: [
-      "Semua pemimpin pasti dicintai pengikutnya",
-      "Semua pemimpin pasti mencintai pengikutnya",
-      "Beberapa pemimpin bukan pemimpin yang baik",
-      "Tidak dapat diambil kesimpulan dari dua pernyataan di atas",
+      "Budi adalah lulusan sarjana.",
+      "Budi bisa saja memiliki kemampuan analisis yang baik.",
+      "Budi adalah karyawan yang hobi bekerja.",
+      "Budi memiliki kemampuan analisis yang baik.",
     ],
   },
   {
-    //2
+    //3 baru2
     id: 29,
     question:
-      "Agung mengerjakan soal SKD dengan teliti. Kalimat yang mempunyai pola sama dengan pola tersebut adalah ... ",
+      "Setiap rumah sakit mewajibkan penggunaan masker dan mewajibkan mencuci tangan.\nMasker dan cuci tangan diwajibkan untuk pencegahan penularan penyakit.\nDini tidak memakai masker dan tidak mencuci tangan.\nSimpulan yang tepat adalah...",
     options: [
-      "Maheksa menangis dengan keras",
-      "Krisan membaca komik yang lucu",
-      "Siswa kelas 12 meranykan kelulusan secara meriah",
-      "Yahya bekerja dengan giat",
+      "Semua rumah sakit memiliki aturan ketat.",
+      "Dini melanggar aturan",
+      "Ada rumah sakit yang tidak mewajibkan masker dan cuci tangan.",
+      "Dini berada di tempat yang bukan rumah sakit.",
     ],
   },
   {
-    //1 baru
+    //0 baru2
     id: 30,
     question:
-      "Tidak semua orang yang makan nasi minum air. Semua orang yang berolahraga minum air. Kesimpulan dari kedua premis tersebut adalah ...",
+      'Hubungan objek pada kalimat "Logam mulia adalah material yang berharga seperti emas." Setara dengan...',
     options: [
-      "Semua yang makan nasi pasti minum air",
-      "Sebagian orang yang makan nasi mungkin tidak berolahraga",
-      "Semua orang yang olahraga juga makan nasi",
-      "Beberapa orang yang makan nasi juga berolahraga",
+      "Planet dalam adalah benda langit yang panas seperti Merkurius.",
+      "Bumbu dapur adalah bahan yang aromatik seperti jahe.",
+      "Kendaraan niaga adalah alat transportasi yang besar seperti truk.",
+      "Serangga terbang adalah hewan yang berotot seperti lebah",
     ],
   },
   {
-    //2
+    //2 baru2
     id: 31,
     question:
-      "Jika hari panas, maka Nissa memakai topi. Nissa tidak memakai topi atau ia memakai payung. Nissa tidak memaki payung. Kesimpulan yang sah adalah ...",
+      "Sebagian peserta didik berada di laboratorium apabila asisten memberikan hukuman. Kondisi tersebut terjadi jika peserta didik tidak selesai mengerjakan laporan praktikum minggu lalu.\nManakah pernyataan berikut yang merupakan INGKARAN dari informasi tersebut?",
     options: [
-      "Hari panas",
-      "Nissa memakai topi",
-      "Hari tidak panas",
-      "Hari panas dan Nissa memakai topi",
+      "Sebagian peserta didik berada di laboratorium jika peserta didik tidak mengerjakan laporan praktikum minggu lalu.",
+      "Apabila semua peserta didik tidak berada di laboratorium, peserta didik mengerjakan laporan praktikum minggu lalu.",
+      "Peserta didik tidak mengerjakan hasil/laporan praktikum minggu lalu dan sebagian peserta didik tidak berada di laboratorium.",
+      "Semua peserta didik mengerjakan laporan praktikum dan di laboratorium.",
     ],
   },
   {
-    //2 baru
+    //3 baru2
     id: 32,
     question:
-      "Kasihan sekali orang itu. Hanya sendirian ia ketika mengalami kesusahan, tanpa ada saudara atau kerabatnya yang berusaha untuk membantunya. Pernaytaan tersebut dapat diperibahasakan dengan ...",
-    options: [
-      "Air lalu kubang tohor",
-      "Air mata jatuh ke perut",
-      "Air diminum rasa duri, nasi dimakan rasa sekam",
-      "Air susu dibalas air tuba",
-    ],
+      "(1) Jiwa kepahlawanan harus senantiasa ditanamkan dan dikembangkan dalam diri generasi muda. (2) Melalui jiwa kepahlawanan, pembangunan di suatu negara dapat berjalan sukses. (3) Jiwa kepahlawanan akan berkembang menjadi nilai-nilai dan sifat kepribadian yang luhur, berjiwa besar, bertanggung jawab, berdedikasi, loyal, dan tangguh. (4) Jiwa kepahlawanan dapat menumbuhkan kepekaan sosial, cinta terhadap sesama, bahkan dapat mengonstruksi daya pikir seseorang. (5) Sifat-sifat ini telah terbukti dimiliki oleh para patriot perjuangan dalam meraih kemerdekaan.\nKalimat fakta pada paragraf tersebut ditunjukkan pada nomor ....",
+    options: ["(1)", "(2)", "(4)", "(5)"],
   },
   {
-    //3 baru
+    //1 baru2
     id: 33,
     question:
-      "Di sebuah ruang kelas, Enam siswa duduk dalam dua baris kursi yang saling berhadapa. Informasi mengenai duduk mereka adalah siswa A duduk satu deret dengan siswa B. Siswa C duduk di depan siswa D dan satu deret dengan siswa F. Siswa E duduk disebelah siswa F. Berdasarkan informasi tersebut, tentukan siapa yang duduk berjejer atau sederet dengan siswa A ... ",
+      "Gadget adalah sebuah istilah dalam bahasa Inggris yang berarti perangkat elektronik kecil yang memiliki fungsi khusus. Sekarang gadget tidak hanya diartikan sebagai benda elektronik, [...] sudah berkembang artinya dalam bentuk software. Dalam perkembangan berikutnya, manfaat gadget pun makin beragam. Pengguna gadget juga makin meluas tidak hanya kalangan muda dan dewasa, [...] usia balita sudah dapat mengoperasikannya, [...] sekadar bermain games atau menonton video.\nKonjungsi yang tepat untuk melengkapi paragraf tersebut adalah ....",
     options: [
-      "Siswa B dan siswa C",
-      "Siswa E dan siswa D",
-      "Siswa F dan siswa E",
-      "Siswa B dan siswa D",
+      "bahkan, tetapi, karena",
+      "tetapi, bahkan, meskipun",
+      "disebabkan, padahal, meskipun",
+      "akan tetapi, sehingga, sebaliknya",
     ],
   },
   {
-    //0 baru
+    //2 baru2
     id: 34,
     question:
-      "Siswa sekolah membeli sepatu dan kaos kaki dipasar minggu. Hubungan kalimata yang setara dengan kalimat tersebut adalah",
-    options: [
-      "Banyak orang yang membeli meja dan kursi di toko furniture",
-      "Andi makan jagung dan molen di pasar malam",
-      "Anton membeli rujak dan buah di lapangan denggung",
-      "Dani terkenal anak yang rajin dan pandai saat belajar di kelas",
-    ],
+      "Berat sebuah truk beserta isinya 173 sak semen adalah 12,79 ton. Jika tiap 1 sak semen beratnya 52 kg, berapa berat truk kosong tersebut?",
+    options: ["2.764 kg", "2.894 kg", "3.794 kg", "3.894 kg"],
   },
   {
-    //2 baru
+    //2 baru2
     id: 35,
     question:
-      "Jika pantai di daerah X ramai dikunjungi wisatawan, perekonomian masyarakat daerah tersebut akan meningkat. Jika ekosistem di pantai daerah X tidak dijaga dengan baik, hasil tangkapan nelayan tersebut akan tercemar. Saat ini perekonomian masyarakat daerah X tidak mengalami peningkatan atau hasil tangkapan nelayan daerah X tidak tercemar. Simpulan yang tepat adalah ",
-    options: [
-      "Pantai daerah X belum ramai dikunjungi wisatawan, tetapi ekosistem pantai daerah tersebut dijaga dengan baik",
-      "Pantai daerah X ramai dikunjungi wisatawan, tetapi ekosistem pantai daerah tersebut dijaga dengan baik",
-      "Pantai daerah X belum ramai dikunjungi wisatawan atau ekosistem pantai daerah tersebut dijaga dengan baik",
-      "Pantai daerah X ramai dikunjungi wisatawan atau ekosistem pantai daerah tersebut dijaga dengan baik",
-    ],
+      "Pak Budi akan membuat 5 jenis kerajinan (A, B, C, D, E). Setiap kerajinan membutuhkan tepat dua jenis bahan yang berbeda. Semua kerajinan harus menggunakan Bahan Kayu. Kerajinan A dan B tidak boleh menggunakan Bahan Besi. Kerajinan D dan E harus menggunakan Bahan Plastik. Jika hari ini Pak Budi hanya memiliki stok Bahan Kayu dan Bahan Plastik, kerajinan manakah yang dapat dibuat?",
+    options: ["A dan B", "B dan C", "C dan D", "D dan E"],
   },
   {
     //2 baru2
@@ -326,55 +320,55 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //1 baru2
     id: 38,
     question:
-      "|Butet Manurung membrantas buta huruf dengan mendirikan SOKOLA RIMBA. Meskipun berat, Butet berhasil melululhkan hati suku anak dalam dan menggerakkan hati meraka untuk belajar membaca. Membaca adalah jendela dunia. Ketika masyarakat  bisa membaca mereka tidak akan ditipu oleh oknum yang menyodorkan proposal mengambil tanah mereka. Tindakan Butet Manurung apabila dilihat dari pengalaman nilai-nilai pancasila dapat digolaongkan dalam bentuk ... ",
+      "Belakangan ini, isu mengenai kebocoran data pribadi berskala nasional dan serangan siber (cyber attacks) terhadap infrastruktur digital milik pemerintah menjadi perhatian publik. Dalam perspektif nasionalisme modern, ancaman terhadap kedaulatan suatu negara tidak lagi hanya bersifat fisik (invasi militer), melainkan juga bersifat non-fisik (digital).Sebagai seorang Aparatur Sipil Negara (ASN) yang memiliki akses terhadap sistem data instansi, bentuk implementasi nilai nasionalisme yang paling tepat dalam menghadapi fenomena ini adalah...",
     options: [
-      "Bela Negara",
-      "Nasionalisme",
-      "Mengglang persatuan dan kesatuan",
-      "Patriotisme",
+      "Mengusulkan pembatasan integrasi sistem digital guna meminimalkan risiko efek domino jika salah satu peladen (server) nasional mengalami kebocorana.",
+      "Menerapkan cyber hygiene secara ketat pada perangkat kerja, mematuhi SOP enkripsi data instansi, serta aktif melaporkan setiap anomali sistem secara internal sesuai hierarki.",
+      "Mempelajari keamanan siber secara mandiri agar mampu memberikan evaluasi kritis dan rekomendasi perbaikan sistem kepada divisi teknologi informasi di instansi.",
+      "Menginisiasi forum diskusi antardivisi di instansi untuk merumuskan mitigasi risiko manual sebagai cadangan (backup plan) pelayanan publik saat sistem digital lumpuh.",
     ],
   },
   {
-    //2 baru
+    //3 baru2
     id: 39,
     question:
-      "Berikut ini yang bukan merupakan latar belakan adanya Wawasan Nusantara dilihat dari falsafah Pancasila adalah ...",
+      "Dalam negara demokratis, sikap kritis terhadap kebijakan pemerintah sering dianggap berlawanan dengan nasionalisme. Padahal, nasionalisme juga dapat diwujudkan melalui kritik yang membangun. Sikap yang paling tepat mencerminkan nasionalisme kritis dan konstruktif adalah ...",
     options: [
-      "Kemerdekaan sebagai hasil perjuangan seluruh rakyat Indonesia",
-      "Mengutmakan kepentingan umum dari pada individu atau golongan",
-      "Penerapan hak asasi manusia secara mutlak tanpa batas",
-      "Memberi kesempatan setiap pemeluk agama untuk beribadah",
+      "Menyampaikan penolakan kebijakan pemerintah secara terbuka",
+      "Mendukung kebijakan pemerintah demi menjaga stabilitas nasional",
+      "Menyebarkan kritik kebijakan di media sosial agar masyarakat sadar akan dampaknya",
+      "Mengkritisi kebijakan negara melalui jalur yang tepat disertai solusi",
     ],
   },
   {
-    //1 baru
+    //0 baru2
     id: 40,
     question:
-      "Mengapa penting bagi Presiden untuk memiliki menteri-menteri yang membantunya dalam menjalankan pemerintahan menurut Pasal 17 UUD 1945 hasil amandemen 2002?",
+      "Peran Muhammad Yamin, salah satu tokoh panitia sembilan, dalam perumusan gagasan kebangsaan menunjukkan nasionalisme yang kuat. Sikap yang paling tepat meneladani semangat nasionalisme beliau adalah ...",
     options: [
-      "Karena Persiden tidak mampu menjalankan pemerintahan sendiri",
-      "Karena menteri-menteri dapat membantu Persiden mengambil keputusan yang tepat",
-      "Karena menteri-menteri dapat membantu Persiden menghindari krittik dari publik",
-      "Karena menteri-mentri dapat menggantikan Presiden jika terjadi hal yang tidak diinginkan",
+      "Mengutamakan persatuan bangsa melalui gagasan yang melampaui kepentingan golongan",
+      "Menyampaikan gagasan kebangsaan secara aktif dalam forum intelektual.",
+      "Menjaga konsistensi sikap intelektual untuk mempertahankan kepercayaan publik",
+      "Mengembangkan pemikiran kritis agar mampu berkontribusi dalam diskusi kebangsaan",
     ],
   },
   {
-    //2 baru
+    //2 baru2
     id: 41,
     question:
-      "Salah satu kewajiban warga negara berdsarkan sila Ketuhanan Yang Maha Esa, adalah ...",
+      "Persaingan produk dalam negeri dan luar negeri menjadi tantangan bagi Indonesia. Apa yang terjadi jika kita tidak membeli produk dalam negeri...",
     options: [
-      "Mengundang pemeluk agama lain dalam segala hajatan",
-      "Saling mencintai sesama",
-      "Tidak memaksakan suatu agama dan kepercayaan kepada orang lain",
-      "Tidak memakasaan kehendak",
+      "Rasa cinta tanah air berkurang",
+      "Ketergantungan pada produk luar negeri",
+      "Produk dalam negeri akan kalah bersaing dengan produk luar",
+      "Perekonomian negara akan sulit bertumbuh",
     ],
   },
   {
-    //2 baru
+    //2 baru2
     id: 42,
     question:
       "Dalam menghadapi konflik sosial di masyarakat, penerapan untuk menjaga persatuan. Bagaiman penerapan Pancasila dapat membantu dalam masyarakat yang beragam?",
@@ -386,26 +380,31 @@ export const dataQues = [
     ],
   },
   {
-    //2 baru
+    //1 baru2
     id: 43,
     question:
-      "UUD 1945 telah mengalami beberapa kali perubahan untuk menyesuaikan dengan perkembangan zaman dan tututan reformasi. Beberapa kali amandemen UUD 1945 dilakukan sejak dimulainya era reformasi? ",
-    options: ["Dua kali", "Tiga kali", "Empat kali", "Lima kali"],
-  },
-  {
-    //2 baru
-    id: 44,
-    question:
-      'Sila ke lima Pancasila "Keadilan sosial bagi seluruh rakyat Indonesia" berperan sebagai pedoman bagi kesejahteraan. Dalam konteks ini, apa yang dimaksud dengan "keadilan sosial" bagi rakyat?',
+      "Seorang warga aktif melaporkan informasi hoaks yang berpotensi memecah persatuan bangsa di media sosial. Tindakan tersebut merupakan bentuk bela negara melalui... ",
     options: [
-      "Mengutamakan pemerataan kesejahteraan ekonomi yang merata bagi seluruh lapisan masyarakat Indonesia",
-      "Menghargai dan melindungi hak asasi setiap warga negara di dalam kehidupan bermasyarkat yang adil",
-      "Distribusi kekayaan dan sumber daya alam secara adil bagi kesejahteraan seluruh warga bangsa",
-      "Menjamin kebebasan seluruh rakyat untuk menentukan jalan hidup dan pekerjaaan yang mereka inginkan",
+      "Diplomasi dalam dunia digital",
+      "Menjaga persatuan dan ketahanan nasional",
+      "Penguasaan teknologi persenjataan",
+      "Kegiatan ekonomi kreatif",
     ],
   },
   {
-    //0 baru
+    //3 baru2
+    id: 44,
+    question:
+      "Mengikuti upacara bendera dengan tertib dan penuh khidmat merupakan perwujudan bela negara yang termasuk dalam bentuk...",
+    options: [
+      "Pengabdian warga negara melalui pengembangan kedisiplinan nasional.",
+      "Pengabdian warga negara melalui pelaksanaan tugas profesional",
+      "Pengabdian warga negara melalui penguatan identitas nasional.",
+      "Pengabdian warga negara melalui penghormatan terhadap simbol nasional.",
+    ],
+  },
+  {
+    //0 baru2
     id: 45,
     question:
       "Amandemen UUD 1945 perlu dilakukan karena beberapa pasal dalam UUD 1945 masih... ",
@@ -417,85 +416,85 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru
+    //2 baru2
     id: 46,
     question:
-      "Rela berkorban demi bangsa dan negar merupakan salah saut bentuk bela negara yang paling tinggi. Rela berkorban berati memberikan segala yang dimiliki untuk kepentingan bangsa dan negara, bahkan nyawa sekalipun, Berikut ini adalah contoh bentuk rela berkorban demi bangsa dan negara, kecuali ...",
+      "Seorang ASN memberikan pelayanan publik dengan penuh dedikasi tanpa membeda-bedakan latar belakang masyarakat untuk memastikan stabilitas dan ketentraman di wilayah kerjanya. Tindakan ASN tersebut merupakan wujud bela negara dalam bentuk...",
     options: [
-      "Seorang prajurit TNI yang gugur dalam pertempuran melawan Teroris",
-      "Seorang pelajar yang rela membatalkan liburanya untuk mengikuti kegiatan pramuka",
-      "Seorang pengusaha yang rela menyumbangkan sebagaian kekayaan untuk pembanguna di daerah tertinggal",
-      "Seorang mahasiswa yang rela mengorbankan waktunya untuk menjadii relawan bencana alam",
+      "Pengabdian warga negara melalui peningkatan kualitas pelayanan publik",
+      "Pengabdian warga negara melalui penguatan kerukunan antarwarga",
+      "Pengabdian warga negara melalui pelaksanaan tugas secara profesional",
+      "Pengabdian warga negara melalui perwujudan keadilan sosial",
     ],
   },
   {
-    //2 baru
+    //2 baru2
     id: 47,
     question:
-      "indonesia menganut sistem kedaulatan rakyat tapi juga mengakui kedaulatan lain, salah satunya adalah kedaulatan Negara. Pengakuan Kedaulatan Negara terdapat pada",
+      "Seorang pengusaha muda memilih menggunakan bahan baku lokal untuk produknya guna mengurangi ketergantungan pada barang impor. Tindakan tersebut adalah perwujudan bela negara dalam bentuk...",
     options: [
-      "Pancasila sila ketiga",
-      "Pancasila sila keempat",
-      "UUD 1945 pasal 1 ayat 3",
-      "Pembukaan UUD 1945 alinea 4",
+      "Pengabdian warga negara melalui perlindungan industri dalam negeri.",
+      "Pengabdian warga negara melalui optimalisasi daya saing nasional.",
+      "Pengabdian warga negara melalui penciptaan kemandirian ekonomi bangsa.",
+      "Pengabdian warga negara melalui pengelolaan sumber daya lokal",
     ],
   },
   {
-    //0 baru
+    //2 baru2
     id: 48,
     question:
-      "Persident dan wakil persiden memegang jabatan selama 5 tahun dan sesudahnya dapat dipilih kembali dalam jabatan yang sama hanya untuk satu kali masa jabat. Pasal yang mengatur hal ini telah mengalami amandemen pada tanggal...",
+      "Sebuah daerah terisolir menolak program vaksinasi massal pemerintah karena tokoh adat setempat meyakini ritual lokal sudah cukup untuk mengusir wabah. Pemaksaan vaksinasi berpotensi memicu konflik fisik berdarah. Pendekatan konstitusional yang menyeimbangkan Sila ke-2 (Kemanusiaan) dan Sila ke-3 (Persatuan) adalah...",
     options: [
-      "21 Oktober 1999",
-      "18 Agustus 2000",
-      "9 November 2001",
-      "11 Agustus 2002",
+      "Menghargai pilihan tokoh adat demi menjaga persatuan",
+      "Mengikuti pilihan daerah tersebut karena kebetulan tidak akan membahayakan masyarakat luas yang disebabkan daerahnya terisolir",
+      "Melakukan pendekatan persuasif melalui tokoh agama dan medis lokal, mengedukasi secara bertahap bahwa vaksinasi medis berjalan beriringan dengan doa dan ritual lokal tanpa mencederai tradisi mereka.",
+      "Membuat regulasi daerah khusus yang mengecualikan desa tersebut dari kewajiban vaksinasi dan memastikan tidak ada masyarakat yang keluar daerah tanpa pemeriksaan",
     ],
   },
   {
-    //1 baru
+    //1 baru2
     id: 49,
-    question:
-      "Pemberian nama pancasila pada lima dasar negara oleh Ir. Soekarno berdasarkan masukan dari,",
+    question: "apa dasar hukum pembentukan Mahkamah Konstitusi?",
     options: [
-      "Drs. Mohammad Hatta",
-      "M. Yamin",
-      "Radjiman Wedyonodiningrat",
-      "Ahmad Subarjo",
+      "UU Nomor 21 tahun 2003",
+      "UU Nomor 22 tahun 2003",
+      "UU Nomor 23 tahun 2003",
+      "UU Nomor 24 tahun 2003",
     ],
   },
   {
+    //1 baru2
     id: 50,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam hierarki hukum, Pancasila merupakan Staatsfundamentalnorm. Jika pemerintah daerah menerbitkan Peraturan Daerah (Perda) yang dinilai diskriminatif terhadap kelompok minoritas tertentu, maka secara konstitusional Perda tersebut batal demi hukum karena...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melanggar mekanisme tata urutan peraturan perundang-undangan yang berlaku.",
+      "Bertentangan dengan nilai dasar Pancasila sebagai sumber dari segala sumber hukum.",
+      "Mengabaikan prosedur persetujuan harmonisasi antara pemerintah pusat dan daerah.",
+      "Menimbulkan potensi ketidaktertiban dan kegaduhan di dalam kehidupan masyarakat.",
     ],
   },
   {
+    //3 baru2
     id: 51,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Di era globalisasi, muncul tren primordialisme di mana masyarakat suatu daerah hanya mau dipimpin oleh putra daerah asli. Bagaimana sikap yang paling mencerminkan pilar NKRI dalam menghadapi fenomena tersebut?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mendukung penuh sebagai bentuk penghormatan terhadap kedaulatan masyarakat lokal",
+      "Tidak ada masalah asalkan putra daerah tersebut kompeten.",
+      "Tidak sepakat karena kita semuanya adalah sama-sama WNI dan mempunyai kesempatan yang sama.",
+      "Mengedepankan aspek kompetensi dan integritas di atas asal-usul kedaerahan",
     ],
   },
   {
+    //1 baru2
     id: 52,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
-    options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
-    ],
+    question:
+      "Setiap orang berhak membentuk keluarga dan melanjutkan keturunan melalui perkawinan yang sah. Merupakan bunyi UUD 1945 pasal ...",
+    options: ["28A", "28B ayat 1", "28B ayat 2", "28C ayat 1"],
   },
   {
-    //1 baru
+    //1 baru2
     id: 53,
     question:
       "Pancasila yang tercantum dalam pembukaan UUD 1945 alinea keempat dilihat dari peroses teerjadinya perubahan...",
@@ -507,85 +506,82 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //0 baru2
     id: 54,
     question:
-      "Yayan melakukan korupsi di kantornya itu termasuk pelanggaran pancsaila sile ke?",
-    options: [
-      "Pancasila ke-1",
-      "Pancasila ke-2",
-      "Pancasila ke-3",
-      "Pancasila ke-5",
-    ],
+      "Setiap orang bebas memeluk agama dan beribadat menurut agamanya, memilih pendidikan dan pengajaran, memilih pekerjaan, memilih kewarganegaraan, memilih tempat tinggal di wilayah negara dan meninggalkannya, serta berhak kembali. Merupakan bunyi UUD 1945 pasal ...",
+    options: ["28E ayat 1", "28E ayat 2", "28E ayat 3", "28E ayat 4"],
   },
   {
+    //0 baru2
     id: 55,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang pelajar menolak bekerja sama dengan teman yang berbeda agama saat mengerjakan tugas kelompok. Sikap tersebut bertentangan dengan nilai Pancasila, terutama sila...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang Adil dan Beradab",
+      "Persatuan Indonesia",
+      "Keadilan Sosial bagi Seluruh Rakyat Indonesia",
     ],
   },
   {
-    //1 baru
+    //1 baru2
     id: 56,
     question:
-      "Agung memberikan bantuan makanan kepada orang miskin dan kaum duava, maka Agung telah melakukan pengamalan pancasila sila ke? ",
+      "Dalam Pasal 29 Ayat (2) UUD 1945, negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing. Namun, dalam praktiknya, sering terjadi provokasi yang memicu konflik terkait pendirian rumah ibadah. Sikap yang mencerminkan sila pertama dalam penyelesaian konflik tersebut adalah....",
     options: [
-      "Pancasila ke-1",
-      "Pancasila ke-2",
-      "Pancasila ke-3",
-      "Pancasila ke-5",
+      "Menyerahkan sepenuhnya konflik pendirian rumah ibadah kepada aparat yang bertanggung jawab/pemerintah.",
+      "Melakukan dialog lintas agama untuk menemukan solusi dalam menyelesaikan konflik.",
+      "Menutup rumah ibadah yang belum memiliki izin sah dari pemerintah demi menjaga ketertiban umum di lingkungan",
+      "Tidak terpancing provokasi pembangunan tempat ibadah agar konflik tidak meluas",
     ],
   },
   {
-    //0 baru
+    //2 baru2
     id: 57,
     question:
-      "Nilai-nilai dalam Pancasila merupakan filsafat bangsa bangsa Indonesia adalah ...",
+      'Pasal 34 Ayat (1) Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 menyatakan bahwa "Negara bertanggung jawab atas penyediaan kebutuhan hidup yang layak bagi setiap warga negara." Pasal ini menunjukkan komitmen negara dalam memastikan kesejahteraan warganya. Dalam konteks ini, pemerintah harus mengambil langkah-langkah konkret untuk memenuhi kebutuhan dasar bagi seluruh rakyat. Tanggung jawab ini menjadi sangat penting dalam membangun masyarakat yang adil dan makmur.\nDari narasi tentang Pasal 34 Ayat (1) UUD 1945 tersebut, sikap integritas yang bisa dicontohkan oleh generasi muda saat ini untuk mendukung implementasi pasal tersebut adalah...',
     options: [
-      "Menjadikan jati diri bangsa sumber nilai dan norma yang beralaku di masyarakat",
-      "Pandangan hidup disertai dengan cara-cara yang digunakan untuk tujuan yang diidam-idamkan",
-      "Dasar untuk menyelenggarakan negara",
-      "Merupakan bagian perjalanan negara Indonesia",
+      "Mendorong pemerintah untuk melakukan reformasi dalam sistem pemerintahan demi transparansi dan akuntabilitas dalam memenuhi kebutuhan dasar rakyat",
+      "Menjadi relawan di organisasi non-pemerintah yang fokus pada isu-isu kesejahteraan sosial dan hak asasi manusia",
+      "Terlibat dalam kegiatan sosial untuk membantu masyarakat kurang mampu dalam memenuhi kebutuhan hidup sehari-hari.",
+      "Mengedukasi diri sendiri tentang hak-hak sebagai warga negara agar dapat memperjuangkannya di tingkat kebijakan publik",
     ],
   },
   {
-    //2 baru
+    //2 baru2
     id: 58,
     question:
-      "Pendidikan bela negara bagi ASN menjadi hal yang penting, selain untuk membina pertahanan negara juga berguna untuk ...",
+      "Seorang mahasiswa sedang menghadapi ujian akhir yang menuntut pemahaman mendalam, namun ia merasa kurang siap yang disebabkan kurangnya persiapan akibat banyaknya kegiatan kampus akhir-akhir ini. Ia tergoda untuk mencontek tetapi menyadari bahwa tindakan tersebut melanggar nilai integritas. Bagaimana sebaiknya mahasiswa tersebut menyikapi situasi ini dengan tetap menjaga integritasnya?",
     options: [
-      "Meningkatkan sikap untuk setia kepada NKRI",
-      "Meningkatkan kualitas ASN sebagai abdi negara dan pelayanan masyarakat",
-      "Meningkatkan dan menanamkan sikap rela berkorban dan cinta tanah air",
-      "Meningkatkan semangat pengabdian bagi bangsa dan negara",
+      "Mengikuti ujian sesuai kemampuan dengan tetap menjunjung kejujuran walaupun hasilnya mungkin tidak maksimal.",
+      "Menyerahkan ujian tanpa mengerjakannya agar terhindar dari risiko ketahuan jika mencoba mencontek.",
+      "Mengajukan diri untuk ujian ulang agar lebih siap dan bisa mendapatkan hasil yang lebih baik.",
+      "Pasrah apa pun hasilnya karena kegagalan mengatur waktu untuk mempersiapkan ujian.",
     ],
   },
   {
-    // 3 baru
+    // 1 baru2
     id: 59,
     question:
-      "Seorang abdi negara harus memiliki jiwa integritas yang tinggi mereka akan melayani negara dan masyarakat nantinya. Bentuk integritas tersebut dicerminkan dari sumpah mereka sebagai abdi negara dan merupakan bentuk pendekatan religius bagi mereka. Bentuk pendekatan religius bagi seorang abdi negara sesuai dengan pancasila yang pasti dilakukan adalah ...",
+      'Muhammad Hatta adalah tokoh nasional yang dikenal dengan integritasnya. Hatta salah satu tokoh yang berjuang meraih kemerdekaan tanpa lelah. Bahkan dia berjanji tidak akan menikah sebelum Indonesia Merdeka. Benar saja, Hatta menikah dengan Rahmi Rachim pada 18 November 1945, tiga bulan setelah proklamasi kemerdekaan dengan mahar berupa buku "Alam Pikiran Yunani" yang ditulis selama masa pembuangan di Banda Neira.\nSikap integritas Hatta yang dapat diteladani adalah....',
     options: [
-      "Ikut serta dalam kegiatan keagamaan sesuai dengan ajaran yang di anutnya",
-      "Meyakini pancasila sebagai pedoman hidup berbangsa dan bernegara",
-      "Melaksanakan kegiatan keagamaan ketika luang seperti saat istirahat kerja",
-      "Sumpah jabatan sesuai dengan agama dan keyakinan masing-masing",
+      "Kerja keras dalam memperjuangkan kemerdekaan",
+      "Menepati janji",
+      "Keberanian dalam memperjuangkan kemerdekaan",
+      "Konsistensi menulis buku meski sedang di pembuangan",
     ],
   },
   {
-    // 3 baru
+    // 0 baru2
     id: 60,
     question:
-      "Pemberdayaaan kekayaan wilayah nusantara baik potansi maupun efektif untuk pemenuhan keperluan hidup sehari-hari harus tersedia merata di seluruh wilayah tanah air dengan tingkat perkembangan ekonomi harus serasi dan seimbang di seluruh daerah, tanpa meninggalkan ciri khas yang dimiliki oleh daerah dalam pengembangan kehidupan ekonominya. Tindakan di bawah ini yang berhubungan dengan bidang ekonomi khususnya dalam bidang SDM",
+      "Ki Hadjar Dewantara dikenal sebagai jurnalis dan penulis. Ia banyak mengkritik kebijakan-kebijakan Hindia Belanda yang menyengsarakan rakyat. Tulisannya yang terkenal berjudul Seandainya Aku Seorang Belanda berisi kritik keras terhadap pemerintah kolonial Belanda yang akan menyelenggarakan pesta 100 tahun terlepas dari penjajahan Prancis. Tulisannya tersebut membuat pemerintah Belanda tersinggung, dan pada 1913, Soewardi Soerjaningrat (nama asli Ki Hajar Dewantara) diasingkan ke Belanda bersama Cipto Mangunkusumo dan Douwes Dekker.\nSikap integritas yang ditunjukkan Ki Hajar Dewantara tercermin dalam perilaku:",
     options: [
-      "Mentransformasi skema subsidi secara bertahap menjadi bantuan tepat sasaran",
-      "Menyatukan semua subsidi dalam bentuk bantuan sosial",
-      "Mendistribusi lahan sebaagai modal masyarakat menengah ke bawah",
-      "Mereformasi Pendidikan dan pelatihan tenaga kerja menjadi Pendidikan dan pelatihan vokasis berbasis pekerjaan",
+      "Keteguhan dalam menyuarakan keadilan dan kebenaran tanpa takut dengan segala risiko yang ada",
+      "Kejujuran dalam menulis sebagai bentuk perlawanan terhadap penjajah",
+      "Konsistensi Ki Hajar Dewantara dalam memperjuangkan kemerdekaan",
+      "Sikap tegas Ki Hajar Dewantara terhadap ketidakadilan Belanda kepada rakyat pribumi",
     ],
   },
   {
@@ -601,7 +597,7 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //3 baru2
     id: 62,
     question:
       "Dalam sebuah negara terdapat berbagai aspek kehidupan baik itu ekonomi, sosial, politik, hukum, budaya dan lain-lain. Didalam setiap aspek tersebut, setiap warga negaa berhak dan wajib melakukan tindakan bela negara. Salah satu bentuk tindakan belanegara dalam aspek politik adalah ... ",
@@ -613,7 +609,7 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru
+    //1 baru2
     id: 63,
     question:
       "Pertahanan negara diselenggarakan pada falsafah dan pandangan hidup bangsa Indonesia, hal tersebut bertujuan untuk menjadi keutuhan dan tetap tegaknya NKRI yang berdasarkan Pancasila dan UUD 1945. Pandangan hidup bangsa Indonesia yang sudah ditentukan dalam Pembukaan dan Batang Tubuh UUD 1945 adalah sebagai berikut, kecuali ... ",
@@ -625,7 +621,7 @@ export const dataQues = [
     ],
   },
   {
-    //0 baru
+    //0 baru2
     id: 64,
     question:
       'Bunyi Pancasila sila ke 1 yaitu "Ketuhanan yang Maha Esa "yang mempunyai inti yaitu bangsa Indonesia menyatakan kepercayaan terhadap Tuhan Yang Maha Esa, saling menghormati untuk mewujudkan kerukunan hidup diantara semua agama. Implementasi yang sesuai pada inti isi butir Pancasila ke 1 adalah ...',
@@ -649,253 +645,303 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru2
     id: 66,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bertugas di loket pelayanan administrasi kependudukan. Siang itu, antrean sangat panjang. Tiba-tiba, seorang kakek yang terlihat kebingungan mendatangi loket Anda dan memotong antrean. Ia bertanya tentang prosedur pengurusan surat pindah karena ia tidak bisa membaca tulisan di papan informasi. Di sisi lain, warga yang mengantre mulai menggerutu karena kakek tersebut memotong jalur. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meminta kakek tersebut untuk mengambil nomor antrean terlebih dahulu dan menunggu gilirannya seperti warga yang lain.",
+      "Menjelaskan secara singkat prosedur yang ditanyakan agar kakek tersebut cepat pergi dan warga lain tidak marah.",
+      "Meminta maaf kepada antrean, lalu meminta tolong rekan kerja yang sedang tidak melayani di loket untuk mendampingi dan menjelaskan prosedur kepada kakek tersebut.",
+      "Mengarahkan kakek tersebut ke bagian pusat informasi (customer service) agar dijelaskan secara detail tanpa mengganggu antrean di loket.",
     ],
   },
   {
+    //1 baru2
     id: 67,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saat sistem pendaftaran online di instansi Anda mengalami gangguan secara mendadak, seorang ibu hamil datang dalam kondisi terlihat sangat kelelahan dan memohon untuk segera mengurus perpanjangan dokumen pentingnya. Apa tindakan paling tepat yang akan Anda lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menyarankan ibu tersebut untuk pulang dan kembali lagi besok pagi saat sistem sudah dipastikan berjalan lancar.",
+      "Meminta maaf atas gangguan tersebut dan berinisiatif mencatat datanya secara manual agar ia bisa segera pulang beristirahat",
+      "Segera menghubungi teknisi TI untuk memprioritaskan perbaikan sistem karena ada antrean ibu hamil di loket Anda.",
+      "Mempersilakannya duduk dan memberikan minum sembari mencoba memasukkan datanya perlahan jika sistem sesekali menyala.",
     ],
   },
   {
+    // 2 baru2
     id: 68,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang warga marah-marah di loket Anda dengan suara keras karena dokumen perizinan usahanya belum selesai padahal sudah melewati batas waktu (SLA). Setelah Anda periksa di sistem, ternyata dokumen tersebut masih tertahan di divisi verifikasi, bukan di divisi Anda. Bagaimana sikap Anda menampilkan keramahtamahan dan profesionalisme menghadapi warga tersebut?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menjelaskan secara jujur bahwa keterlambatan ada di divisi verifikasi sehingga ia seharusnya mengajukan komplain ke sana.",
+      "Meminta warga tersebut untuk tenang terlebih dahulu agar tidak mengganggu antrean warga lain di ruang pelayanan umum.",
+      "Mendengarkan keluhannya dengan tenang, meminta maaf mewakili instansi, dan segera membantu berkoordinasi dengan divisi verifikasi",
+      "Langsung mengambil alih dan memproses dokumennya sendiri agar warga tersebut cepat merasa puas dan segera pergi.",
     ],
   },
   {
+    // 1 baru2
     id: 69,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Instansi Anda baru saja menerapkan sistem pelayanan mandiri via anjungan digital (kiosk) di ruang tunggu untuk mempercepat antrean. Anda melihat seorang kakek kebingungan di depan mesin tersebut karena tidak terbiasa menggunakan teknologi layar sentuh. Apa yang akan Anda lakukan?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengambil alih mesin tersebut dan mengisikan semua datanya agar prosesnya cepat selesai dan antrean di belakangnya tidak menumpuk.",
+      "Menghampiri kakek tersebut, menyapa dengan ramah, lalu memandunya langkah demi langkah cara menggunakan mesin tersebut.",
+      "Menyarankan kakek tersebut untuk meminta bantuan petugas keamanan (satpam) yang sedang berjaga di dekat pintu masuk.",
+      "Memberikan formulir kertas cetak biasa kepada kakek tersebut karena ia terbukti kesulitan beradaptasi dengan teknologi digital.",
     ],
   },
   {
+    //2 baru2
     id: 70,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Seorang warga datang ke meja Anda dengan emosi yang memuncak. Ia mengeluhkan bahwa website instansi memberikan informasi persyaratan dokumen yang ambigu, sehingga ia membawa dokumen yang salah dan harus bolak-balik. Anda tahu bahwa website tersebut dikelola oleh divisi Humas, bukan divisi Anda. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meminta maaf atas kebingungan tersebut, menjelaskan dokumen yang benar secara rinci, dan memberikannya nomor antrean prioritas untuk kedatangannya besok.",
+      "Menjelaskan dengan ramah bahwa website tersebut dikelola divisi Humas, lalu memberikan brosur persyaratan yang benar kepadanya.",
+      "Mendengarkan keluhannya dengan sabar, meminta maaf, dan menuliskan daftar dokumen yang benar di secarik kertas agar ia bisa melengkapinya.",
+      "Menyarankannya untuk mengajukan komplain resmi melalui kotak saran agar divisi Humas segera memperbaiki website tersebut.",
     ],
   },
   {
+    //1 baru2
     id: 71,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sistem komputer dan jaringan di instansi Anda tiba-tiba mati total (down). Padahal, ada puluhan warga yang menunggu panggilan antrean. Beberapa warga mulai gelisah dan menggerutu karena harus kembali bekerja. Langkah Anda untuk menjaga kepuasan publik adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengumumkan matinya sistem dan meminta warga pulang untuk kembali keesokan harinya agar tidak membuang waktu.",
+      "Maju ke ruang tunggu, meminta maaf atas kendala teknis, dan mengedarkan formulir manual agar data tetap terdata dan warga bisa segera kembali bekerja.",
+      "Menenangkan warga dengan ramah, memberikan sedikit camilan kantor, dan meminta mereka bersabar menunggu perbaikan",
+      "Mencatat nama-nama warga yang antre di buku tulis, lalu menyuruh mereka pulang dan berjanji akan menelepon jika sistem sudah menyala.",
     ],
   },
   {
+    //1 baru2
     id: 72,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bertugas melayani konsultasi publik secara virtual (Zoom). Saat melayani seorang warga dari daerah pelosok, sinyalnya sangat buruk, suaranya putus-putus, dan ia terlihat sangat frustrasi di layar. Langkah Anda menampilkan pelayanan prima adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengeluarkan warga tersebut dari room Zoom agar ia mencari sinyal yang lebih baik terlebih dahulu.",
+      "Tersenyum, menggunakan fitur chat Zoom untuk menyapanya dengan ramah, dan menawarkan opsi konsultasi via telepon seluler biasa/WhatsApp call yang lebih hemat sinyal.",
+      "Mengetik di kolom chat agar ia mematikan kameranya supaya sinyal suaranya menjadi lebih lancar.",
+      "Meminta maaf dan langsung menutup sesi konsultasi tersebut karena dinilai tidak akan berjalan efektif.",
     ],
   },
   {
+    //1 baru2
     id: 73,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      'Seorang pemohon tidak terima karena berkasnya ditolak akibat tidak sesuai aturan perundangan terbaru. Ia langsung merekam Anda dengan ponselnya sambil marah-marah dan mengancam akan memviralkan Anda di TikTok sebagai "petugas arogan". Sikap Anda...',
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menutupi wajah, berdiri, dan segera meninggalkan meja pelayanan untuk menghindari konflik lebih lanjut.",
+      "Tersenyum tenang, tetap duduk, dan menjelaskan aturan perundangan tersebut dengan sopan ke arah kamera agar publik juga teredukasi.",
+      "Mengajaknya ke ruangan tertutup, menawarinya minum, dan menjelaskan aturannya secara persuasif agar ia tenang dan menghapus videonya",
+      "Mengabaikan rekamannya dan langsung memanggil nomor antrean berikutnya agar pelayanan warga lain tidak terhambat.",
     ],
   },
   {
+    //2 baru2
     id: 74,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      'Tim Anda terdiri dari pegawai senior dan seorang pegawai baru (Gen Z). Pegawai baru tersebut sering menggunakan tools AI (Kecerdasan Buatan) untuk menyusun draf laporan secara cepat. Pegawai senior merasa hal tersebut "instan", kurang akurat, dan enggan menggunakan draf tersebut, sehingga kerja sama tim terhambat. Sebagai ketua tim, langkah Anda...',
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membuat aturan tertulis mengenai bagian laporan mana yang boleh menggunakan AI dan mana yang harus manual.",
+      "Membiarkan pegawai baru menggunakan AI, lalu Anda sendiri yang mengedit hasilnya sebelum diberikan kepada pegawai senior",
+      "Memfasilitasi sesi sharing, di mana pegawai baru mengajarkan cara prompting AI yang efisien, dan senior mengajarkan cara memverifikasi akurasi konteksnya.",
+      "Menasihati pegawai senior secara tertutup agar mereka mau beradaptasi dengan teknologi baru.",
     ],
   },
   {
+    //2 baru2
     id: 75,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Tim Anda menyewa jasa seorang freelancer (pekerja lepas) desainer grafis untuk kampanye digital yang mendesak. Ia memiliki gaya kerja yang sangat fleksibel (sering membalas pesan di tengah malam dan sulit dihubungi pagi hari). Hal ini memicu kekesalan anggota tim Anda yang terbiasa dengan jam kerja birokrasi (08.00-16.00). Sikap Anda untuk menyatukan kerja sama...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menegur freelancer tersebut agar mematuhi jam kerja kantor instansi pemerintah.",
+      "Membiarkannya bekerja dengan gayanya sendiri asalkan hasil desainnya bagus dan selesai tepat waktu, sambil menyuruh tim Anda untuk maklum.",
+      "Mengadakan pertemuan awal (kick-off) dengan freelancer dan tim untuk menyepakati alur kerja, tenggat waktu (milestone), dan jam komunikasi responsif yang disetujui bersama.",
+      "Menunjuk satu anggota tim Anda yang paling fleksibel jam tidurnya untuk menjadi satu-satunya narahubung dengan desainer tersebut.",
     ],
   },
   {
+    //3 baru2
     id: 76,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda sedang mengerjakan laporan akhir tahun dengan tenggat waktu sore ini. Tiba-tiba, seorang pegawai baru dari divisi lain menghampiri meja Anda dan meminta diajari cara menggunakan sistem database untuk menarik data mendadak. Tindakan Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meminta maaf dan memintanya kembali lagi setelah batas waktu penyelesaian laporan saya berakhir.",
+      "Memberikan tautan modul panduan aplikasi agar ia bisa segera belajar secara mandiri di mejanya.",
+      "Menunda pekerjaan saya sejenak untuk memastikan ia paham cara menarik data tanpa ada kesalahan.",
+      "Menunjukkan langkah dasarnya secara singkat, lalu memintanya mencoba sendiri sementara saya bekerja.",
     ],
   },
   {
+    // 2 baru2
     id: 77,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Tim Anda dan divisi lain ditugaskan berkolaborasi untuk proyek inovasi layanan. Terjadi kebuntuan (deadlock) karena kepala divisi lain bersikeras menggunakan metode konvensional, sementara tim Anda yakin metode digitalisasi lebih efisien. Batas waktu proyek semakin dekat. Sikap Anda sebagai perwakilan tim adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menghubungi atasan masing-masing agar mereka yang mengambil keputusan final atas kelanjutan proyek ini.",
+      "Menerima metode konvensional demi menjaga hubungan baik antar divisi dan mengejar tenggat waktu.",
+      "Mengusulkan forum evaluasi bersama untuk menggabungkan keunggulan dari kedua metode tersebut",
+      "Tetap memperjuangkan metode digitalisasi melalui adu argumen yang logis dan berdasarkan data.",
     ],
   },
   {
+    //3 baru2
     id: 78,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Instansi Anda mengadakan kompetisi internal antar-bidang. Bidang Anda memiliki peluang besar untuk menang. Suatu hari, rekan dari bidang kompetitor meminta sejumlah data statistik umum yang Anda kelola. Data itu tidak rahasia, namun sangat berpotensi menyempurnakan inovasi mereka. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menyembunyikan beberapa data krusial agar inovasi bidang saya tetap menjadi yang paling unggul.",
+      "Menyarankan mereka untuk mencari sumber data alternatif agar kompetisi berjalan secara sportif.",
+      "Melaporkan permintaan ini kepada ketua tim saya untuk mendapatkan persetujuan sebelum membagikannya.",
+      "Membagikan data yang diminta karena pada akhirnya inovasi tersebut ditujukan untuk kemajuan instansi.",
     ],
   },
   {
+    //1 baru2
     id: 79,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda ditunjuk sebagai ketua tim gugus tugas lintas instansi. Sebagian besar anggota belum saling mengenal dan membawa gaya kerja instansinya masing-masing. Saat rapat perdana, suasana sangat kaku dan mereka cenderung pasif. Langkah Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Langsung membacakan rincian pembagian tugas agar setiap anggota memahami perannya masing-masing.",
+      "Mencairkan suasana dengan perkenalan interaktif dan mendiskusikan harapan bersama terhadap tim ini.",
+      "Mengusulkan agar rapat ditunda sejenak sambil menunggu anggota tim berbaur secara alamiah.",
+      "Meminta setiap perwakilan instansi untuk memaparkan keunggulan yang bisa mereka kontribusikan.",
     ],
   },
   {
+    //0 baru2
     id: 80,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda diundang bergabung ke sebuah grup asosiasi profesi nasional di luar jam kerja. Grup ini sering berdiskusi tentang studi kasus pekerjaan lintas daerah. Sikap Anda terhadap undangan tersebut...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Berpartisipasi aktif karena forum tersebut membuka peluang pertukaran informasi dan perluasan relasi.",
+      "Memantau obrolan di grup secara berkala tanpa harus ikut campur dalam setiap diskusi yang diadakan.",
+      "Mengikuti kegiatan tersebut hanya jika topik yang dibahas memberikan solusi langsung pada tugas saya.",
+      "Menerima undangan tersebut asalkan tidak ada kewajiban mengikat yang membebani pekerjaan utama saya.",
     ],
   },
   {
+    //3 baru2
     id: 81,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam sebuah kepanitiaan acara nasional di kantor, satu anggota tim Anda sering absen karena beban tugas utamanya di divisi sedang sangat padat. Hal ini membuat pekerjaannya di kepanitiaan terbengkalai. Sikap Anda sebagai rekan satu tim...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melaporkan situasinya kepada atasan agar atasannya dapat memberikan keringanan beban tugas utamanya.",
+      "Menegurnya secara profesional agar ia tetap memprioritaskan komitmen kepanitiaan yang disepakatinya.",
+      "Mengambil alih bagian pekerjaannya untuk sementara waktu agar persiapan acara tetap berjalan sesuai jadwal.",
+      "Mengajaknya berdiskusi untuk merevisi tenggat waktu atau menyesuaikan ulang porsi tugas di kepanitiaan.",
     ],
   },
   {
+    //1 baru2
     id: 82,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda baru saja dimutasi ke kantor cabang di daerah pedalaman yang masyarakatnya masih sangat menjunjung tinggi tradisi dan hukum adat. Anda mendapati bahwa beberapa prosedur pelayanan standar (SOP) dari pusat sering kali berbenturan dengan pantangan adat setempat, sehingga warga enggan menggunakan layanan instansi Anda. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Tetap menerapkan SOP dari pusat secara tegas karena aturan negara harus berada di atas aturan adat setempat.",
+      "Melakukan pendekatan kepada tokoh adat untuk mencari titik temu antara SOP layanan dan nilai-nilai lokal.",
+      "Meminta staf asli daerah tersebut untuk mengambil alih tugas pelayanan agar warga merasa lebih nyaman.",
+      "Menjalankan SOP secara fleksibel secara diam-diam meskipun berisiko mendapat teguran dari pimpinan pusat.",
     ],
   },
   {
+    //1 baru2
     id: 83,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda sedang memimpin rapat divisi yang sangat krusial karena tenggat waktu penyerahan berkas ke kementerian adalah sore ini. Tiba saatnya waktu ibadah wajib bagi mayoritas anggota tim Anda. Namun, jika rapat dihentikan, Anda berisiko besar tidak dapat menyelesaikan berkas tepat waktu. Keputusan Anda sebagai pimpinan rapat...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menghentikan rapat sepenuhnya hingga semua orang selesai beribadah dan bersiap menerima sanksi keterlambatan.",
+      "Memberikan waktu istirahat singkat secara bergantian bagi yang beribadah, sementara sisanya tetap menyusun berkas.",
+      "Menunda waktu ibadah dan meminta seluruh tim untuk mengutamakan tugas negara hingga berkas ini benar-benar selesai.",
+      "Meminta anggota tim yang beribadah untuk melakukannya di ruangan rapat saja agar bisa langsung kembali bekerja.",
     ],
   },
   {
+    //1 baru2
     id: 84,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bertugas di bagian front office. Suatu hari, datang seorang warga dari pedesaan yang mengenakan pakaian adat sederhana dan berbicara dengan dialek daerah yang sangat kental. Rekan kerja Anda yang lebih senior tampak enggan melayani warga tersebut dan justru melayani warga lain yang penampilannya lebih modern. Tindakan Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melaporkan sikap rekan senior tersebut kepada atasan agar ia segera diberikan sanksi peringatan pembinaan.",
+      "Segera mengambil alih pelayanan warga tersebut dengan ramah tanpa mempermasalahkan penampilan maupun dialeknya.",
+      "Menyapa warga tersebut lalu memintanya untuk menunggu sampai rekan senior saya menyelesaikan urusannya.",
+      "Meminta warga tersebut secara halus untuk menggunakan bahasa Indonesia yang baik agar mudah dipahami.",
     ],
   },
   {
+    //1 baru2
     id: 85,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Dalam satu ruangan, Anda ditempatkan dengan rekan-rekan kerja yang mayoritas berasal dari satu suku tertentu. Mereka memiliki kebiasaan menggunakan bahasa daerah mereka saat berdiskusi tentang pekerjaan sehari-hari. Sebagai pegawai yang berasal dari suku berbeda dan tidak mengerti bahasa tersebut, Anda merasa kesulitan berkoordinasi. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Memilih diam dan mengamati saja karena saya adalah minoritas dan harus bisa menyesuaikan diri dengan lingkungan.",
+      "Mengusulkan secara sopan dalam forum rapat ruangan agar menggunakan bahasa Indonesia demi kelancaran koordinasi.",
+      "Secara bertahap mulai belajar bahasa daerah tersebut di waktu luang agar saya bisa diterima dan ikut berbaur.",
+      "Menginterupsi setiap kali mereka berbicara bahasa daerah dan langsung meminta mereka untuk menerjemahkannya.",
     ],
   },
   {
+    //1 baru2
     id: 86,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Saat jam istirahat di ruang santai, beberapa rekan kerja Anda sedang berbincang dan mulai melontarkan lelucon (candaan) yang membawa-bawa stereotip negatif mengenai agama dan suku tertentu. Anda menyadari bahwa perbincangan tersebut sudah mengarah pada ujaran SARA yang sensitif. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meninggalkan ruangan tersebut secara diam-diam karena saya tidak ingin terlibat dalam perbincangan berbau SARA",
+      "Mengingatkan mereka dengan nada santai namun tegas bahwa lelucon semacam itu tidak pantas dibahas di lingkungan kantor.",
+      "Melaporkan nama-nama rekan kerja tersebut ke bagian kepegawaian agar mereka segera ditindak secara tegas.",
+      "Berdebat keras dengan mereka untuk membuktikan bahwa stereotip suku dan agama yang mereka bicarakan itu salah besar.",
     ],
   },
   {
+    //2 baru2
     id: 87,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda adalah seorang analis data yang ditugaskan dalam tim penanggulangan bencana daerah. Tim ini terdiri dari ASN pusat, relawan lokal, dan tokoh agama setempat. Saat menyusun rencana evakuasi kelompok rentan, tokoh agama menyarankan rute yang memutar jauh karena rute tercepat melewati area makam yang dianggap sangat sakral. Respons Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menolak saran tersebut secara tegas dengan memaparkan data kalkulasi waktu efisiensi demi menyelamatkan lebih banyak nyawa.",
+      "Menyetujui saran rute memutar tersebut tanpa bantahan agar tidak memicu konflik dengan masyarakat dan tokoh agama setempat.",
+      "Menjelaskan urgensi kecepatan evakuasi secara logis, dan mengajak tokoh agama mencari rute kompromi yang aman namun tidak menodai area sakral.",
+      "Mengembalikan wewenang pengambilan keputusan rute evakuasi ini sepenuhnya kepada pimpinan tim penanggulangan bencana.",
     ],
   },
   {
+    //1 baru2
     id: 88,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pemerintah sedang melaksanakan program pembagian bantuan sosial secara merata. Saat bertugas di lapangan, seorang ketua adat meminta Anda untuk memprioritaskan warganya (sukunya) terlebih dahulu dan memberikan kuota ekstra, dengan alasan mereka adalah penduduk asli yang membuka lahan desa tersebut. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengakomodasi permintaan tersebut sekadarnya demi menjaga keamanan diri saya dan tim selama bertugas di wilayah tersebut.",
+      "Menolak secara halus sambil menjelaskan standar aturan pembagian pemerintah yang berbasis keadilan tanpa membedakan suku.",
+      "Melaporkan tindakan ketua adat tersebut kepada aparat keamanan karena berpotensi memicu ketimpangan sosial di masyarakat.",
+      "Meminta ketua adat untuk langsung mendiskusikan permintaannya kepada atasan saya di dinas sosial yang berwenang memutuskan.",
     ],
   },
   {
+    //2 baru2
     id: 89,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Instansi Anda mulai menerapkan aplikasi absensi dan pelaporan kerja berbasis digital yang terintegrasi langsung dengan sistem penilaian kinerja pegawai. Sebagian pegawai di unit Anda masih sering terlambat mengunggah laporan karena belum terbiasa menggunakan sistem tersebut. Akibatnya, rekap kinerja unit menjadi terhambat. Sikap Anda adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Mengusulkan kepada admin IT untuk membuka sesi konsultasi singkat bagi pegawai yang mengalami kendala teknis.",
+      "Membantu rekan kerja yang mengalami kesulitan ketika mereka meminta bantuan agar pekerjaan unit tetap berjalan.",
+      "Mengusulkan masa transisi penggunaan sistem digital sambil memberikan pendampingan kepada pegawai yang belum terbiasa.",
+      "Membuat panduan singkat penggunaan aplikasi dan membantu rekan kerja memahami fitur utama agar adaptasi berlangsung lebih cepat.",
     ],
   },
   {
+    //1 baru2
     id: 90,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda bertugas di loket pendaftaran instansi yang baru saja beralih ke sistem antrean dan input data 100% digital. Pada jam sibuk, server pusat tiba-tiba mengalami down (gangguan). Warga di ruang tunggu mulai gelisah karena antrean tidak bergerak selama lebih dari 30 menit. Sikap Anda menghadapi situasi ini adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menghubungi tim IT pusat untuk meminta percepatan perbaikan, lalu membagikan minuman kepada warga agar mereka tetap tenang menunggu.",
+      "Berkoordinasi dengan atasan untuk mengaktifkan SOP darurat berupa pencatatan manual sementara, yang nantinya akan diinput segera setelah sistem pulih.",
+      "Membuat inisiatif formulir pendaftaran darurat menggunakan tautan Google Forms dari akun dinas Anda agar warga bisa mendaftar lewat ponsel masing-masing.",
+      "Memberikan pengumuman resmi mengenai estimasi waktu perbaikan dari tim IT, dan mendata nomor kontak warga agar mereka bisa dihubungi saat sistem normal.",
     ],
   },
   {
@@ -911,33 +957,39 @@ export const dataQues = [
     ],
   },
   {
+    //2 baru2
     id: 92,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Kementerian Anda meluncurkan aplikasi e-Kinerja baru yang cukup kompleks. Dua orang rekan kerja senior di ruangan Anda mengeluh tidak memahami cara kerjanya dan meminta Anda membantu menginputkan data mereka agar laporan harian tidak terlambat. Sikap Anda adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membantu mengisikan data mereka sambil menjelaskan langkah-langkahnya di layar secara perlahan agar mereka terbiasa",
+      "Mengusulkan kepada biro kepegawaian untuk membuat video tutorial singkat yang mudah dipahami lalu membagikannya di grup WhatsApp unit kerja.",
+      "Membuatkan panduan cetak bergambar ( screenshot ) dari fitur-fitur utama, lalu mendampingi mereka mempraktikkannya sendiri selama beberapa hari pertama.",
+      "Membantu menginputkan data mereka sementara waktu agar nilai kinerja instansi tidak turun, sambil menunggu jadwal Bimbingan Teknis (Bimtek) resmi.",
     ],
   },
   {
+    //3 baru2
     id: 93,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda sedang mengambil cuti tahunan di luar kota. Tiba-tiba atasan menelepon meminta draf dokumen penting untuk rapat mendadak 30 menit lagi. Dokumen itu hanya ada di PC kantor Anda yang terkunci sandi (password) pribadi. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meminta atasan menghubungi admin IT instansi agar melakukan bypass ke PC Anda secara resmi untuk mengambil dokumen tersebut.",
+      "Segera mengakses jaringan PC kantor secara remote menggunakan Virtual Private Network (VPN) resmi instansi dari laptop Anda, lalu mengunggahnya ke cloud divisi.",
+      "Berkoordinasi dengan rekan satu meja Anda lewat video call, memandunya memasukkan password, mencari file, lalu Anda memastikan password segera diganti.",
+      "Mengingat kembali substansi dokumen tersebut dan membuatkan ringkasannya via pesan instan agar rapat atasan bisa tetap berjalan dengan bahan dasar tersebut.",
     ],
   },
   {
+    //1 baru2
     id: 94,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Tim Anda ditugaskan mengelola mega-project pendataan berskala nasional. Anda menyadari software manajemen proyek berbayar akan sangat mempermudah kerja kolaborasi. Namun, Rencana Anggaran Biaya (RAB) tahun ini sudah diketok dan tidak ada alokasi untuk software tersebut. Tindakan Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meriset dan mengimplementasikan aplikasi open-source (gratis) yang memiliki fitur keamanan dan manajemen tugas setara aplikasi premium.",
+      "Mengoptimalkan kolaborasi menggunakan ekosistem Cloud Workspace (seperti Docs/Sheets/Drive) bawaan kantor yang sudah tersedia gratis dan menyusun workflow yang ketat.",
+      "Mengajukan revisi RAB atau proposal pengadaan darurat kepada pimpinan dengan melampirkan analisis efisiensi waktu yang akan didapat.",
+      "Mencari vendor software yang bersedia memberikan masa uji coba gratis (trial) selama beberapa bulan hingga proyek utama selesai.",
     ],
   },
   {
@@ -953,23 +1005,27 @@ export const dataQues = [
     ],
   },
   {
+    //0 baru2
     id: 96,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pemerintah menerapkan kebijakan pendaftaran Bantuan Sosial wajib melalui portal web untuk mencegah pungli. Seorang bapak lansia datang ke kantor Anda membawa berkas fisik. Beliau tidak memiliki ponsel pintar dan kesulitan secara ekonomi. Aturan melarang penerimaan berkas fisik secara manual. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menjelaskan kebijakan pemerintah secara perlahan, lalu meminta staf pusat informasi untuk memandu bapak tersebut mendaftar menggunakan fasilitas PC Public kantor.",
+      "Mempersilakan bapak tersebut duduk, meminjam berkasnya, dan Anda sendiri yang menginputkan datanya langsung ke portal web melalui komputer layanan helpdesk. ",
+      "Menerima berkas fisik tersebut dengan menerbitkan tanda terima manual, lalu Anda menyerahkannya ke tim IT back-office untuk diinputkan secara massal nanti sore.",
+      "Meminjamkan ponsel pintar pribadi Anda kepada bapak tersebut dan memandunya menekan tombol-tombol yang diperlukan agar beliau belajar mandiri.",
     ],
   },
   {
+    //0 baru2
     id: 97,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Pukul 20.00 WIB, kementerian pusat mendadak meminta pengiriman data kompilasi daerah yang diwajibkan masuk ke sistem maksimal besok pukul 07.00 WIB. Anggota tim Anda sudah berada di rumah masing-masing. Pekerjaan ini memerlukan kontribusi spesifik dari 4 anggota tim Anda. Sikap Anda sebagai ketua tim...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Membuat file kerja kolaboratif di cloud, membagi rincian porsi di halaman pertama, dan menginformasikan di grup WhatsApp mengenai urgensi tugas malam ini dengan pembagian yang jelas.",
+      "Menghubungi setiap anggota tim secara personal via telepon, menanyakan kondisi mereka, lalu meminta mereka fokus mengerjakan bagian masing-masing malam ini juga.",
+      "Mengelola waktu dengan mengerjakan bagian yang paling berat sendirian agar tim tidak terbebani, lalu meminta mereka melengkapi sisanya besok subuh pukul 05.00 WIB.",
+      "Membuka tautan video conference (Zoom/Meet) saat itu juga untuk briefing kilat selama 10 menit, agar semua anggota tim sinkron, lalu mulai bekerja secara desentralisasi.",
     ],
   },
   {
@@ -985,33 +1041,39 @@ export const dataQues = [
     ],
   },
   {
+    //1 baru2
     id: 99,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sebuah video yang menarasikan buruknya pelayanan di instansi Anda viral di platform media sosial. Setelah Anda periksa silang (cross-check), narasi tersebut keliru (disinformasi), karena warga dalam video tersebut marah akibat menolak memenuhi persyaratan dokumen yang sah secara hukum. Sebagai bagian dari tim komunikasi digital, tindakan Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Menyematkan (pin) aturan hukum tentang persyaratan layanan tersebut di seluruh profil media sosial instansi agar publik bisa membacanya sendiri.",
+      "Membuat konten infografis edukatif yang menjelaskan alur dan syarat layanan dengan bahasa yang empatik, lalu dipublikasikan serentak di semua platform instansi.",
+      "Menyusun siaran pers (press release) berisi klarifikasi faktual yang sangat rinci dan kronologis, lalu mempublikasikannya di halaman utama website instansi.",
+      "Menghubungi akun penyebar video melalui Direct Message (DM), memberikan edukasi aturan, dan memintanya merevisi caption demi menghindari delik UU ITE.",
     ],
   },
   {
+    //2 baru2
     id: 100,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda adalah staf keuangan yang sedang menyusun laporan serapan anggaran triwulanan. Tenggat waktu pengiriman laporan ke pusat tersisa 3 jam lagi dan laporan tersebut sangat penting untuk pencairan dana tahap berikutnya. Tiba-tiba, sistem database keuangan nasional mengalami down total dan diperkirakan baru pulih besok pagi. Atasan Anda mulai panik karena khawatir instansi terkena penalti. Tindakan profesional Anda adalah...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Meminta tim IT untuk memprioritaskan perbaikan jaringan kantor Anda secara eksklusif agar laporan bisa diunggah sesegera mungkin.",
+      "Segera melapor ke narahubung kementerian pusat terkait kendala sistem nasional tersebut dan mengajukan surat permohonan perpanjangan waktu pengumpulan.",
+      "Menyusun rekapitulasi data secara manual menggunakan spreadsheet lokal (offline), merampungkan laporannya, lalu mengirimkan softcopy-nya via email resmi ke pusat sebagai bukti komitmen waktu.",
+      "Menyarankan kepada atasan agar seluruh tim keuangan bersiap lembur nanti malam hingga sistem kembali pulih agar langsung dapat diinput.",
     ],
   },
   {
+    //1 baru2
     id: 101,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Anda baru saja menyadari bahwa Anda melakukan kesalahan rumus kalkulasi pada laporan evaluasi program yang kemarin sudah disahkan oleh pimpinan dan dikirimkan ke Badan Pemeriksa Keuangan (BPK). Secara nominal, kesalahan tersebut tidak menyebabkan kerugian negara yang fatal, namun membuat persentase keberhasilan program tampak 5% lebih tinggi dari kenyataannya. Laporan tersebut dijadwalkan akan diaudit minggu depan. Sikap Anda...",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Melaporkan kelalaian tersebut secara lisan kepada pimpinan dan menyerahkan sepenuhnya keputusan perbaikan atau pembiaran kepada atasan.",
+      "Segera menyusun nota dinas yang berisi kronologi kesalahan, melampirkan draf revisi yang benar, lalu menghadap pimpinan untuk meminta izin pengiriman ulang (ralat).",
+      "Mengubah data pada database internal instansi (di komputer kantor) terlebih dahulu agar jika ada kroscek dari tim audit, datanya sudah benar.",
+      "Menunggu hingga tim audit BPK menemukan temuan tersebut secara langsung, lalu Anda akan menjelaskan kelalaian teknis tersebut secara ksatria.",
     ],
   },
   {
@@ -1027,13 +1089,15 @@ export const dataQues = [
     ],
   },
   {
+    //3 baru2
     id: 103,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      'Anda ditunjuk sebagai Ketua Gugus Tugas inovasi pelayanan instansi. Di dalam tim, terdapat seorang anggota yang merupakan pegawai sangat senior. Dalam setiap rapat, beliau sering kali memotong pembicaraan, memaksakan gagasan konvensionalnya, dan menolak mentah-mentah ide digitalisasi dari anggota tim yang lebih muda dengan alasan "kurang paham lapangan". Dinamika ini membuat tim menjadi pasif dan progres terhambat. Cara Anda mengatasinya adalah...',
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Secara asertif mengambil alih kendali setiap rapat dan menugaskan pengumpulan ide melalui format tertulis agar senior tidak bisa mendominasi pembicaraan lisan.",
+      "Mengakomodasi sebagian ide dari pegawai senior tersebut di awal rapat untuk menjaga wibawanya, baru kemudian mengkombinasikannya dengan ide digital secara perlahan.",
+      "Memberlakukan tata tertib ketat terkait batas waktu bicara (timer) dalam rapat sehingga semua anggota mendapat porsi mengemukakan pendapat yang sama.",
+      "Mengajak pegawai senior tersebut berdiskusi empat mata di luar forum formal untuk mengapresiasi pengalamannya sekaligus menyelaraskan pemahaman mengenai tujuan digitalisasi tim.",
     ],
   },
   {
@@ -1048,7 +1112,7 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //3 baru2
     id: 105,
     question:
       "Organisai sedang mengalami permasalahn internal seputar manajeman keuangan [kerugian atau defesit yang cukup besar]. Pendapat saya terhadap kondisi ini adalah ...",
@@ -1060,15 +1124,15 @@ export const dataQues = [
     ],
   },
   {
-    //3 baru
+    //1 baru2
     id: 106,
     question:
-      "Saya mendapt teguran dari pemimpin atas kesalahan yang bukan hanya saya seorang diri sebagai pelakunya. Reaksi saya ...",
+      "Di lingkungan kantor Anda, beredar pesan berantai di grup internal yang berisi narasi menolak dasar negara dan mengajak pegawai untuk “kembali pada sistem selain Pancasila”. Pesan tersebut dikirim oleh seorang pegawai lama yang selama ini dikenal berprestasi.",
     options: [
-      "Diam saja, kerena membantah hanya akan menambah rumit permasalahan",
-      "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga, tetapi tetap mengadukan pegawai lain yang turut bersalah agar saya tidak menjadi korban seorang diri",
-      "Membantah dan mengadukan pegawai lain yang juga bersalah agar mereka juga bisa belajar dari kejadian ini",
-      "Menerima teguran tersebut dan mencoba menjadikannya sebagai pelajaran berharga tanpa perlu mengadukan pegawai lain yang turut bersalah",
+      "Mengingatkan pengirim secara pribadi agar lebih berhati-hati dalam menyebarkan konten yang berpotensi melanggar etika ASN.",
+      "Melaporkan percakapan tersebut kepada atasan untuk ditindaklanjuti sesuai mekanisme pembinaan pegawai.",
+      "Menyampaikan keberatan di grup dengan bahasa yang tegas agar anggota lain tidak terpengaruh.",
+      "Mengajak pengirim berdiskusi informal untuk memahami maksud penyampaian pesan tersebut.",
     ],
   },
   {
@@ -1084,15 +1148,15 @@ export const dataQues = [
     ],
   },
   {
-    //1
+    //1 baru2
     id: 108,
     question:
-      "Saya akan menghadiri pernikahan seorang kerabat dari luar kota, bersamaan dengan itu ada tugas ulangan sedangkan minggu lalu saya sudah membolos. Yang akan saya lakukan ...",
+      "Seorang rekan kerja mengirimkan artikel di grup kantor yang berisi narasi bahwa sistem pemerintahan saat ini “tidak sesuai nilai moral tertentu” dan menyarankan perubahan sistem secara radikal.",
     options: [
-      "Mempersiapkan diri sejak awal dan membicarakannya dengan guru untuk mengikuti ulangan di hari lain",
-      "Belajar sungguh-sungguh dan inilah kesempatan untuk memperbaiki nilai",
-      "Belajar sungguh-sungguh sambil berdoa mudah-mudahan ada perubahan jadwal",
-      "Memilih pergi dan berusaha sebaik mungkin pada ulangan berikutnya",
+      "Mengajak rekan tersebut berdiskusi secara pribadi untuk memahami sudut pandangnya.",
+      "Mengingatkan di grup bahwa diskusi di lingkungan kerja harus tetap netral dan profesional.",
+      "Menyampaikan kepada atasan agar dilakukan pembinaan internal terhadap pola komunikasi pegawai.",
+      "Menghapus pesan tersebut jika Anda adalah admin grup.",
     ],
   },
   {

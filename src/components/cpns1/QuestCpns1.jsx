@@ -8,11 +8,12 @@ const QuestCpns1 = ({ question, onChecked, check }) => {
 
   return (
     <div className="w-full h-full max-w-xl  bg-white p-6 rounded-xl shadow flex flex-col justify-center">
-      <h2 className="text-sm md:text-xl font-semibold mb-4">
-        {question.id}. {question.question}
+      <h2 className="text-sm md:text-xl font-semibold pb-2 pt-5 md:pt-0">
+        <span className="pr-2">{question.id}.</span>
+        {question.question}
       </h2>
 
-      <div className="flex flex-col gap-3">
+      <div className="flex flex-col gap-3 pb-2">
         {question.options.map((option, index) => (
           <label
             key={index}

@@ -79,352 +79,397 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 9,
-    question: "Tahap Akhir dari Penyusunan Programa Penyuluhan adalah ...",
-    options: [
-      "Penetapan Rencana Kegiatan",
-      "Pengesahan Programa",
-      "Penjilidan Berkas Programa",
-      "Evaluasi",
-    ],
-  },
-  {
-    //2 baru9
-    id: 10,
-    question: "bunga KUR di Tahun 2023 sebesar ...%",
-    options: ["4%", "5%", "6%", "7%"],
-  },
-  {
-    //3 baru9
-    id: 11,
-    question: "Platfon KUR Mikro tanpa aguan diaas 10 juta hingga ... Juta",
-    options: ["50", "70", "90", "100"],
-  },
-  {
-    //1 baru9
-    id: 12,
-    question: "UPBS adalah ...",
-    options: [
-      "Unit Prasaran Benih Tanaman",
-      "Unit Pengelola Benih Tanaman",
-      "Unit Pengelola Bibit Tanaman",
-      "Unit Prasaran Benih Tumbuhan",
-    ],
-  },
-  {
-    //1 baru9
-    id: 13,
     question:
-      "Mempunyai sifat menganjurkan, melarang, memberitahu dan menghibur merupakan bagian dari ...",
+      "Hal yang dapat menjadi hambatan dalam komunikasi pada saat penyuluhan antaraq lain ...",
     options: [
-      "Bahan Penyuluhan",
-      "Materi Penyuluhan",
-      "Media Penyuluhan",
-      "Poster",
+      "Prasangka dan curiga",
+      "Gangguan mekanik",
+      "Semua benar",
+      "Ganguan bahasa",
     ],
   },
   {
-    //0 baru9
-    id: 14,
-    question: "Sasaran penedukung penyuluh peratanian adalah, Kecuali ...",
+    //1 baru10
+    id: 10,
+    question:
+      "Penyuluh Pertanian menurut UU No. 16 tahun 2006, terdiri dari ...",
     options: [
-      "Petani, Kelompok Tani dan Keluarganya",
-      "Konsumen Hasil Pertanian",
-      "Pekerja Sosial",
-      "Biro Iklan",
+      "Penyuluh PNS, Swasta, swadaya, Teladan dan Berprestasi",
+      "Penyuluh PNS, Swasta, dan Swadaya",
+      "Penyuluh PNS dan Non PNS",
+      "Pelaku Utama dan pelaku Usaha",
     ],
   },
   {
-    //3 baru9
-    id: 15,
-    question: "Tempat penyuluhan pertanian sebaiknya dilakukan di ...",
+    //0 baru10
+    id: 11,
+    question: "Pneyuluhan Pertanian adalah ...",
+    options: [
+      "Perorangan WNI yang melakukan kegiatan Penyuluhan di bidang pertanian",
+      "Seseorang yang melakukan kegiatan Penyuluhan Pertanian",
+      "WNI yang melakukan Kegiatan Penyuluhan",
+      "Semua Benar",
+    ],
+  },
+  {
+    //2 baru10
+    id: 12,
+    question: "Tempat penyuluhan pertanian sebaiknya dilakukan di...",
     options: [
       "Kantor Dinas Pertanian",
-      "Kantor Kelurahan",
-      "Rumah Ketua RT/RW",
-      "Lahan Usahatani",
+      "Rumah Petani",
+      "Lahan Petani",
+      "Tempat Keramaian",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
+    id: 13,
+    question: "Pedoman dalam menyusun programa penyuluhan pertanian adalah ...",
+    options: [
+      "PermenPAN no 67 Tahun 2016",
+      "PermenTAN no 67 Tahun 2016",
+      "PermenPAN no 47 Tahun 2016",
+      "PermenTAN no 67 Tahun 2016",
+    ],
+  },
+  {
+    //2 baru10
+    id: 14,
+    question:
+      "Dengan menerapkan sapta usaha tani jagung, hasil panen menunjukan hasil panen di suatu wilayah memungkinkan dapat mencapai 5 ton/ha. Pernyataan ini disebut ...",
+    options: [
+      "Data Aktual",
+      "Data Analisis",
+      "Data Potensial",
+      "Data Kuantitatif",
+    ],
+  },
+  {
+    //2 baru10
+    id: 15,
+    question:
+      "Cara-cara seorang penyuluh pertanian dalam menyampaikan materi penyuluhan termasuk dalam pengertian ...",
+    options: ["Media", "Materi", "Metode", "Pengetahuan"],
+  },
+  {
+    //1 baru10
     id: 16,
     question:
-      "Pisau analisis yang digunakan untuk menentukan peringkat permasalahan dalam penyusunan programa adalah ...",
-    options: ["PRA", "Impact Poin", "GPM dan Swot", "Peringkat Masalah"],
+      "Pihak yang bertanggung jawab dalam memfasilitasi dan memberdayakan kelembagaan petani agar tumbuh dan berkembang sebagai organisasi yang kuat dan mandiri adalah ...",
+    options: [
+      "Tengkulak",
+      "Pemerintah Pusat dan Daerah",
+      "Pengusaha Besar",
+      "Koprasi Tani",
+    ],
   },
   {
-    //2 baru9
+    //1 baru10
     id: 17,
     question:
-      "Yang tidak termasuk dalam pelaku utama kegiatan pertanian adalah ...",
-    options: ["Pekebun", "Peternak", "Nelayan", "Keluarga Inti Petani"],
+      "Pemilihan dan penyusunan anggota Kepengurusan dalam kelembagaaan petani sebaiknya dilakukan dengan cara ...",
+    options: ["Demokrasi", "Musyawarah Mufakat", "Aklamasi", "Bebas"],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 18,
     question:
-      "Jenis-jenis komoditas pangan yang potensial dikembangkan di daerah-daerah tertentu sesuai dengan kondisi agroekosistem setempat adalah...",
-    options: [
-      "Komoditas andalan",
-      "Komoditas Unggulan",
-      "Komoditas Strategis",
-      "Komoditas Holtikultura",
-    ],
+      "Evaluasi yang dilakukan saat sedang melakukan penyuluhan pertanian disebut evaluasi ...",
+    options: ["Awal", "On Going/Proses", "Dampak", "Pre Test"],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 19,
     question:
-      "Pendanaan yang berkaitan dengan penyusunan programa penyuluhan pertanian tingkat Provinsi dan Kab/Kota bersumber dari ...",
-    options: ["Swadaya", "APBN dan APBD", "BUMN", "Dana Desa"],
+      "Evaluasi kognitif dalam penyuluhan adalah wvaluasi yang bertujuan untuk mengetahui ...",
+    options: [
+      "kemajuan berlatih",
+      "sikap, minat, nilai, menanggapi, menilai/tata nilai dan menghayati",
+      "kekuatan, kecepatan, kecermatan, ketepatan, ketahanan dan keharmonisan",
+      "kemampuan mengembangkan intelegensia (pengetahuan, pengertian, penerepan, analisis, sintesis)",
+    ],
   },
   {
-    //3 baru9
+    //0 baru10
     id: 20,
     question:
-      "Kegiatan-kegiatan untuk mengoptimalkan pemanfaatan prasaran dan sarana pendukung kegiatan pertanian antara lain, kecuali ...",
-    options: ["JITUT", "Jalan Usaha Tani", "JIDES", "Penyusunan Programa"],
-  },
-  {
-    //1 baru9
-    id: 21,
-    question: "POSKO adalah ...",
+      "Dalam menyusun karya tulis ilmiah, secara umum karya ilmiah terdiri atas bagian ... Yaitu.",
     options: [
-      "Posko Olahan Kakao",
-      "Pos Simpul Koordinasi",
-      "Program Simpul Koordinasi",
-      "Pos Sistem Koordinasi",
+      "Bagian pembukaan, tubuh tulisan dan bagian akhir",
+      "Hlaman sampul, abstrak dan kesimpulan",
+      "Bagian pembuakaan, Abstrak dan kesimpulan",
+      "Halaman sampul, tubuh tulisan dan kesimpulan",
     ],
   },
   {
-    //2 baru9
+    //2 baru10
+    id: 21,
+    question:
+      "Identifikasi Potensi Wilayah yang berorentasi agroekosistem dengan tujuan untuk ...",
+    options: [
+      "Penkajian suatu wilayah yang dapat dilakukan secara individu",
+      "Mencari data-data penting di desa yang dilakukan oleh para penyuluh dan kepala desa",
+      "Mencari kenal tentang potensi dan masalah di desa secara partisipatif",
+      "Mencari kenal keadaan suatu wilayah yang dilakukan oleh tokoh masyarakat",
+    ],
+  },
+  {
+    //0 baru10
     id: 22,
     question:
-      "Yang tidak Termasuk dalam program kementrian pertanian tahun 2023 adalah ...",
+      "Tahapan penyusunan Rencana Kerja Tahunan Penyuluh Pertanian salah satunya menetapkan tujuan RKTP yang maksudnya adalah ...",
     options: [
-      "Ketersediaan, Akses dan Konsumsi Pangan Berkualitas",
-      "Nilai tambah dan daya saing Industri",
-      "Peningkatan kapasitas penyuluh pertanian",
-      "Pnedidikan dan Pelatihan Vokasi",
+      "Perumusan keadaan yang hendak dicapai dalam waktu satu tahun",
+      "Perumusan waktu pencapaian tujuan penyuluhan",
+      "Perumusan materi penyuluhan yang akan disampaikan",
+      "Perumusan kedalam dan rencana kegiatan yang hendak dicapai",
     ],
   },
   {
-    //0 baru9
+    //1 baru10
     id: 23,
     question:
-      "Dalam arti luas, kegiatan administrasi mencakup kegiatan/oprasi tentang ...",
+      "Kegiatan pra panen meliputi: pola tanam, teknik bertanam, pemupukan, pemanfaatan air, perlindungan tanaman secara terpadu, penggunaan varietas unggul sedangkan kegiatan pasca panen meliputi: panen, perontokan, pengangkutan, pengeringan, pengolahan dan penyimpanan merupakan ...",
     options: [
-      "Merencanakan, melaksanakan, dan mengorganisir",
-      "Monitoring, merencanakan, dan melaksanakan",
-      "Monitoring, mengorganisir, dan merencanakan",
-      "Mengorganisir, monitoring, dan melaksanakan",
+      "Ilmu Ekonomi Pertanian",
+      "Ilmu Teknik Pertanian",
+      "Ilmu Analisis Usahatani",
+      "Ilmu Pasca Panen",
     ],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 24,
-    question: "FAO (Food and Agricultural Organization) berdiri pada ...",
+    question:
+      "Berikut yang merupakan pelaksanaan penyuluh pertanain sebagai indikator penilaian kinerja yaitu ...",
     options: [
-      "1 Januari 1995",
-      "4 April 1994",
-      "16 Januari 1996",
-      "27 Agustus 1998",
+      "Merencanakan penerapan metode penyuluhan pertanian diwilayah binaan",
+      "Menumbuhkan kelembagaan petani dari aspek kuantitas",
+      "Meningkatkan peroduktifitas (dibandingkan produktifitas sebelumnya yang berlaku untuk semua sub sektor)",
+      "Melakukan peningkatan kapasitas petani",
     ],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 25,
     question:
-      "Tanaman transgenic yang paling banyak dikembangkan di dunia adalah ...",
+      "Yang bukan merupakan tugas kelembagaan penyuluhan swasta dan atau swadaya yaitu ...",
     options: [
-      "Kedelai & Jagung",
-      "Kedelai & Gandum",
-      "Gandum & Padi",
-      "Tebu & Kapas",
+      "Menyampaikan informasi dan teknologi usaha kepada sesama pelaku dan pelaku usaha",
+      "Melaksanakan pertemuan dengana penyuluh dan pelaku utama sesuai dengna keinginan",
+      "Melakukan pemantauan pelaksanaan penyuluhan yang difasilitasi  oleh pelaku utama dan pelaku usaha",
+      "Penumbuhankembangkan kepemimpinan, kewirausahaan, serta kelembagaan pelaku utama dan pelaku usaha",
     ],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 26,
-    question:
-      "Mendatangkan bahan tanaman dari tempat lain yang berbeda, disebut dengan istilah ...",
-    options: ["Invitro", "Introduksi", "Impor gen", "Transfer gen"],
+    question: "Yang bukan merupakan strategi penyuluh pertanian yaitu ...",
+    options: [
+      "Penumbuhkembangan dinamika organisasi dan kepemimpinan",
+      "Peningkatan kapasitas pelaku usaha yang prokontra",
+      "Metode pendidikan oragn dewasa",
+      "Penyuluhan sebagai gerakan masyarakat",
+    ],
   },
   {
-    //2 baru9
+    //2 baru10
     id: 27,
     question:
-      "Yang bukan bagian dari wawancara semi terstruktur dalam pencarian data Identifikasi Potensi Wilayah adalah ...",
+      "Berikut yang merupakan pelaksanaan penyuluhan pertanian sebagai indikator penilaian kinerja yaitu ...",
     options: [
-      "Wawancara Individu",
-      "Wawancara keluarga/rumah tangga petani",
-      "Wawancara ketua RT",
-      "wawancara ketua Poktan",
+      "Merencanakan penerapan metode penyuluhan pertanian di wilayah binaan",
+      "Menumbuhkan kelembagaan petani dari aspek kuantitas",
+      "Meningkatkan produktivitas (dibandingkan produktivitas sebelumnya yang berlaku untuk semua sub sektor)",
+      "Melakukan peningkatan kapasitas petani",
     ],
   },
   {
-    //0 baru9
+    //1 baru10
     id: 28,
     question:
-      "Untu mencapai perubahan perilaku dari petani, maka kegiatan penyuluhan harus disesuaikan dengan ...",
+      "yang bukan merupakan tugas kelembagaan penyuluhan swasta dan/atau swadaya yaitu...",
     options: [
-      "Kebutuhan petani dalam mengatasi masalah yang dihadapi",
-      "Anggaran kegiatan penyuluhan",
-      "Keinginan Petani dan Keluarganya",
-      "Keinginan Penyuluh",
+      "Menyampaikan informasi dan teknologi usaha kepada sesama pelaku utama dan pelaku usaha",
+      "Melaksanakan pertemuan dengan penyuluh dan pelaku utama sesuai dengan keinginan",
+      "Melakukan pemantauan pelaksanaan penyuluhan yang difasilitasi oleh pelaku utama dan pelaku usaha",
+      "Penumbuhkembangkan kepemimpinan, kewira usahaan, serta kelembagaan pelaku utama dan pelaku usaha",
     ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 29,
-    question: "Secara umum, kebutuhan petani terbagi ataas 2, yaitu ...",
+    question: "Yang bukan merupakan strategi penyuluhan yaitu ...",
     options: [
-      "Kebutuhan modal dan keubutuhan biaya",
-      "Kebutuhan nyata dan kebutuhan yang disarankan",
-      "Kebutuhan budidaya dan kebuthan pasca panen",
-      "Kebutuhan materi dan Kebuthan non materi",
+      "Penumbuhkembangan dinamika organisasi dan kepemimpinan",
+      "Metode pendidikan orang dewasa",
+      "Peningkatan kapasitas pelaku usaha yang prokontra",
+      "Penyuluhan sebagai gerakan masyarakat",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
     id: 30,
     question:
-      "Salah satu bagian dari persnyaratan KUR adalah Persyaratan Legalitas (Perjanjian Usaha) Minimal surat keterangan usaha (SHU) dari ...",
+      "Yang merupakan ruang lingkup kegiatan supervisi dan pendampingan program dan kegiatan utama Kementrian Pertanian yaitu...",
     options: [
-      "Desa",
-      "Ketua Kelompok Usaha",
-      "Kelurahan/Kecamatan",
-      "Pihak BANK",
+      "Peningkatan produksi komoditas unggulan Nasional dan lokal",
+      "Peningkatan Sumber Daya Manusia Pertanian",
+      "Fasilitas pembiyayaan pertanian tanpa batas",
+      "Pengawalan/pendampingan dalam upaya pencapaian target pembangunan pertanian di prov kab/kota, & kec",
     ],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 31,
-    question: "Sumbar pupuk N yang disubsidi adalah ...",
-    options: ["N saja", "N dan ZA", "ZA saja", "NA4"],
+    question:
+      "balai Penyuluhan Pertanian (BPP) merupakan unit kerja non struktural yang menyelenggarakan fungsi penyuluhan pertanian di kabupaten/kota yang melaksanakan tugas dibawah ini, kecuali...",
+    options: [
+      "Pengembangan metode penyuluhan sesuai dengan kebutuhan dan kondisi pelaku utama dan pelaku usaha",
+      "Koordianasi dan singkronisasi setiap pelaksanaan pembangunan pertanian di pusat",
+      "Peningkatan kapasitas penyuluhan PNS, PPPK, THL-TB, swadaya dan swasta melalui pembelajaran berkelanjutan",
+      "Melaksanakan penyuluhan berdasarkan programa penyuluhan pertanian",
+    ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 32,
     question:
-      "Bahan-bahan sintesis atau alami, organik atau mineral berbentuk padat atau cair mampu memperbaiki sifat fisik, kimia atau biologi tanah adalah ...",
-    options: [
-      "Bahan Organik",
-      "Pembenah Tanah",
-      "Penutup Tanah",
-      "Bahan Alami",
-    ],
+      "Satuan unit kerja penyuluhan pertanian di tingkat kecamatan adalah...",
+    options: ["Kantor Camat", "Posluhdes", "BPP", "UPTD"],
   },
   {
-    //3 baru9
+    //1 baru10
     id: 33,
     question:
-      "Produk biologi aktif terdiri atas mikroba yang telah teridentifikasi sampai minimal tingkat genus dan berfungsi memfasilitasi penyediaan hara secara langsung atau tidak langsung, merombak bahan organik, meningkatkan efisiensi pemupukan, kesubuan dan kesehatan tanaman adalah ...",
-    options: ["Biofertilizer", "Biokima", "Pupuk Organik", "Pupuk hayati"],
-  },
-  {
-    //1 baru9
-    id: 34,
-    question: "Jenis pupuk hayati berdasarkan formulanya, terbagi atas ...",
+      "Balai Penyuluhan Pertanian (BPP) merupakan unit kerja non struktur yang menyelenggarakan fungsi penyuluhan pertanian di Kabupaten/kota yang melaksanakan tugas dibawah ini, kecuali...",
     options: [
-      "Tunggal dan Majemuk",
-      "Padat dan Cair",
-      "Organik dan An-organik",
-      "Biologi dan kimiawi",
+      "Pengembangan metode penyuluhan sesuai dengan kebutuhan dan kondisi pelaku utama dan pelaku usaha",
+      "Koordinasi dan sinkronasasi setiap pelaksanaan pembangunan pertanian di pusat",
+      "Peningkatan kapasitas penyuluh PNS, PPPK, THL-TB, swadaya dan swasta melalui pembelajaran berkelanjutan",
+      "Melaksanakan penyuluh berdasarkan programa penyuluhan pertanian",
     ],
   },
   {
-    //3 baru9
+    //0 baru10
+    id: 34,
+    question:
+      "Balai Penyuluhan Pertanian merupakan unit kerja non structural yang menylenggarakan fungsi penyuluhan pertanian di Kabupaten/kota. Dalam melaksanakan tugas dan fungsinya, BPP berperan sebagai ...kecuali",
+    options: [
+      "Pusat peningkatan kapasitas modal penyuluh pertanian",
+      "Pusat konsultasi agribisnis",
+      "Pusat data dan informasi pertanian",
+      "Pusat pembelajaran pertanian",
+    ],
+  },
+  {
+    //3 baru10
     id: 35,
     question:
-      "Pembuatan karya tulis ilmiah di bidang pertainian merupakan sub unsur kegiatan penyuluhan pertanian dari ...",
+      "BPP sebagai pusat pengembangan kemitraan usaha pelaku utama dan pelaku usaha dengan melibatkan sumber permodalan, bulog, dinas koperasi, perdagangan dan industri, ekspotir, dinas perizinan dan lainya merupakan peran BPP sebagai ...",
     options: [
-      "Kegiatan Pelaksanaan",
-      "Kegiatan Perencanaan",
-      "Kegiatan Evaluasi dan Pelaporan",
-      "Pengembangan Profesi",
+      "Pusat konsultasi agribisnis",
+      "Pusat data dan informasi pertanian",
+      "Pusat pembelajaran pertanian",
+      "Pusat pengembangan jejaringan kemitraaan pertanian",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
     id: 36,
     question:
-      "Unsur kegiatan yang dinilai dalam pemberian angka kredit, terdiri dari ...",
+      "Melakukan kegiatan penyuluhan pertanian kepada pelaku utama dan pelaku usaha sesuai dengan rencana kerja penyuluh pertanian yang disusun berdasarkan programa penyuluhan pertanian diwilayah kerjanya merupakan tugas pokok ...",
     options: [
-      "Unsur pendidikan dan non formal",
-      "Unsur Utama dan Pelakasana",
-      "Unsur Utama dan Penunjang",
-      "Unsur Pengembangan Profesi",
+      "Penyuluh PPPK",
+      "Penyuluh THL-TBPP",
+      "Penyuluh PNS",
+      "Penyuluh Swadaya dan Swasta",
     ],
   },
   {
-    //2 baru9
+    //1 baru10
     id: 37,
-    question:
-      "Masa jabatan Anggota Tim Penilai angka kredit adalah ... tahun dan dapat diangkat kembali untuk masa jabatan berikutnya",
-    options: ["1 Tahun", "2 Tahun", "3 Tahun", "5 Tahun"],
+    question: "Kelembagaan penyuluhan daerah provinsi berbentuk ...",
+    options: [
+      "Badan Pembina Penyuluhan",
+      "Badan Koordinasi Penyuluhan",
+      "Badan Pelaksana Penyuluhan",
+      "Badan Kordinator Penyuluhan",
+    ],
   },
   {
-    //0 baru9
+    //1 baru10
     id: 38,
     question:
-      "Peraturan Menteri Negara Pendayagunaan Aparatur Negara nomor: per/02/menpan/2/2008, Mengatur tentang ...",
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 49 Tahun 2019 Mengatur Tentang ...",
     options: [
-      "Jabatan fungsional penyuluh pertanian dan angka kredtinya",
-      "Pedoman penyusunan program penyuluhan pertanian",
-      "Penyuluhan pertanian swadaya",
-      "Petunjuk teknis pelaksanaan Jabatan fungsional penyuluh pertanian",
+      "Pedoman Penyusunan Programa Penyuluhan Pertanian",
+      "Komando Strategis Pembangunan Pertanian",
+      "Metode Penyuluhan Pertanian",
+      "Kelembagaan Penyuluhan Pertanian",
     ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 39,
     question:
-      "Warga Negara Indonesia yang memenuhi syarat tertentu, yang diangkat berdasarkan perjanjian kerja untuk jangka waktu tertentu dalam rangka melaksanakan tugas pemerintahan adalah ...",
-    options: ["PPNPN", "PPPK", "CPNS", "Jabatan Pelaksana"],
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 52/Permentan/OT.140/12/2009 Mengatur Tentang ...",
+    options: [
+      "Pedoman Penyusunan Programa Penyuluhan Pertanian",
+      "Komando Strategis Pembanguna Pertanian",
+      "Metode Penyuluhan Pertanian",
+      "Kelembagaan Penyuluhan Pertanian",
+    ],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 40,
     question:
-      "Indikator Rencana Belajar untuk Kriteria kelas kemampuan kelompok tani bagi kelas Pemula adalah ...",
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 61/Permentan/OT.140/11/2008 Mengatur Tentang ...",
     options: [
-      "Ada rencana belajar, tidak tertulis",
-      "Ada rencana usaha, tidak tertulis",
-      "Ada rencana belajar tertulis, melibatkan unsur dalam poktan",
-      "Ada rencana belajar tertulis, melibatkan petani dan poktan lain",
+      "Pedoman Evaluasi Kinerja Penyuluhan Pertanian",
+      "Pedoman Penyelengaraan Penyuluhan Pertanian",
+      "Pedoman Pembinaan Penyuluhan Pertanian Swadaya dan Penyuluhan Pertanian Swasta",
+      "Kelembagaan Penyuluhan Pertanian",
     ],
   },
   {
-    //1 baru9
+    //0 baru10
     id: 41,
     question:
-      "Suatu sistim pengelolaan sumberdaya hayati yang mencakup tanaman, ternak, dan/atau ikan secara terpadu pada suatu area atau kawasan pertanian tertentu, yang didasarkan pada prinsip penggunaan input eksternal yang rendah melalui daur ulang biologis (biological recycling) antara usahatani tanaman, ternak dan atau ikan adalah ...",
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 91/Permentan/OT.140/9/2013 Mengatur Tentang ...",
     options: [
-      "Sistem Pertanian Berkelanjutan",
-      "Sistem Pertanian Terpadu",
-      "Revolusi Hijau",
-      "Sistem Pertanian Organik",
+      "Pedoman Evaluasi Kinerja Penyuluhan Pertanian",
+      "Pedoman Penyelengaraan Penyuluhan Pertanian",
+      "Pedoman Pembinaan Penyuluhan Pertanian Swadaya dan Penyuluhan Pertanian Swasta",
+      "Kelembagaan Penyuluhan Pertanian",
     ],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 42,
     question:
-      "Seorang penyuluh akan melakukan Penilaian Kelas Kemampuan Kelompoktani. Poktan Ngudi Makmur pada tahun 2022 memperoleh hasil penilaian sebesar 390. Setelah dilakukan penilaian ditahun 2023, mendapat nilai sebesar 450 (naik 60), maka poktan Ngudi Makmur sekarang berada pada kelas ...",
-    options: ["Pemula", "Lanjut", "Madya", "Utama"],
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 67/Permentan/Sm.050/12/2016 Mengatur Tentang ...",
+    options: [
+      "Pedoman Evaluasi Kinerja Penyuluhan Pertanian",
+      "Pedoman Penyelengaraan Penyuluhan Pertanian",
+      "Pedoman Pembinaan Penyuluhan Pertanian Swadaya dan Penyuluhan Pertanian Swasta",
+      "Pembinaan Kelembagaan Petani",
+    ],
   },
   {
-    //3 baru9
+    //0 baru10
     id: 43,
     question:
-      "Undang-Undang Republik Indonesia Nomor 19 Tahun 2013 Mengatur tentang ...",
+      "Peraturan Menteri Pertanian Republik Indonesia Nomor 09 Tahun 2023 Mengatur Tentang ...",
     options: [
-      "Sistem Penyuluh Pertanian, Periakanan dan Kehutanan",
-      "Pembinaan Kelembagaan Petani",
-      "Hortikultura",
-      "Perlindungan dan Pemberdayaan Petani",
+      "Petunjuk teknis jabatan fungsional penyuluh pertanian",
+      "Jabatan fungsional penyuluh pertanian",
+      "Jabatan fungsional",
+      "Jabatan fungsional penyuluh pertanian dan angka kreditnya",
     ],
   },
   {
@@ -440,618 +485,709 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru9
+    //0 baru10
     id: 45,
     question:
-      "Salah satu prinsip dalam melakukan penilaian kelompoktani yaitu Relevan, yang artinya ...",
+      'Pengertian "Petani" menurut Undang-Undang nomor 16 tahun 2006 yang benar adalah?',
     options: [
-      "Diukur secara transparan dan dapat dipertanggung jawabkan",
-      "Penilaian harus terkait dengan fungsi kelompok tani",
-      "Kemampuan yang diukur harus sesui dengan pelaksanaan fungsi kelompoktani",
-      "Siapapun, kapanpun, dimanapun dilakukan penilaian akan memberikan hasil yang sama",
+      "Perorangan warga negara Indonesia beserta keluarganya aatau korporasi yang mengelola usaha dibidang pertanian, wanatani, agropasture, penangkaran satwa dan tumbuhan, di dalam dan di sekitar hutan, yang meliputi usaha hulu, usaha tani, agroindustri, pemasaran, dan jasa penunjang",
+      "Warga negara Indonesia perseorangan dan/atau beserta keluarganya yang melakukan Usaha Tani di bidang tanaman pangan, hortikultura, perkebunan, dan/atau peternakan",
+      "Perorangan warga negara Indonesia yang melakukan kegiatan Penyuluhan Pertanian, baik penyuluh Pegawai Negeri Sipil, penyuluh swasta, maupun penyuluh swadaya",
+      "Perorangan warga negara Indonesia atau koprasi yang melakukan usaha perkebunan",
     ],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 46,
-    question:
-      "Kesatuan masyarakat hukum yang memiliki batas-batas wilayah yang berwenang untuk mengatur dan mengurus kepentingan masyarakat setempat, berdasarkan asal-usul dan adat istiadat setempat yang diakui dan dihormati dalam sistem Pemerintahan Negara Kesatuhan Republik Indonesia adalah ...",
-    options: ["Pemerintahan", "Perkampungan", "Kecamatan", "Desa"],
-  },
-  {
-    //0 baru9
-    id: 47,
-    question:
-      "Yang bukan bagian daru fungsi sistem penyuluhan pertanian adalah ...",
+    question: "Undang - Undang nomor 16 tahun 2006 mengatur tentang?",
     options: [
-      "Membiayai proses pembelajaran pelaku utama dan pelaku usaha",
-      "Melembagakan nilai-nilai budaya pembangunan pertanian, perikanan, dan kehutanan yang maju dan modern bagi pelaku utama secara berkelanjutan",
-      "Menumbuhkan kesadaran pelaku utama dan pelaku usaha terhadap kelestarian fungsi lingkungan",
-      "Meningkatkan kemampuan kepemimpinan, manajerial, dan kewira usahaan pelaku utama dan pelaku usaha",
+      "Sistem Penyuluh Pertanian, Perkebunan, dan Kehutanan",
+      "Sistem Penyuluh Pertanian, Perkebunan, dan Kelautan",
+      "Sistem Penyuluh Perijkana, Pertanian, dan Kehutanan",
+      "Sistem Penyuluh Pertanian, Perikanan, dan Kehutanan",
     ],
   },
   {
-    //3 baru9
+    //2 baru10
+    id: 47,
+    question: "Yang bukan Program kementrian pertanian Tahun 2024 adalah ...",
+    options: [
+      "Program Ketersediaan, Akses dan Konsumsi Pangan Yang Berkualitas",
+      "Program Nilai Tambah dan Daya Saing Industri",
+      "Program Pelatihan Sejuta Petani",
+      "Program Pendidikan dan Pelatihan Vokasi",
+    ],
+  },
+  {
+    //3 baru10
     id: 48,
     question:
-      "Yang bukan bagian dari tugas Balai Penyuluhan Pertanian adalah ...",
-    options: [
-      "Memfasilitasi peningkatan kapasitas penyuluh PNS, penyuluh swadaya, dan penyuluh swasta melalui proses pembelajaran secara berkelanjutan",
-      "Memfasilitasi pengembangan kelembagaan dan kemitraan pelaku utama dan pelaku usaha",
-      "Menyediakan dan menyebarkan informasi teknologi sarana produksi, pembiayaan dan pasar",
-      "Menyusun programa penyuluhan pada tingkat kecamatan sejalan dengan programa penyuluhan provinsi",
-    ],
+      "Alat pertnaina modern yang memiliki fungsi untuk membajak sawah, yang berfungsi mengelola tanah sekunder adalah...",
+    options: ["Power Threster", "Rotary Plow", "Bajak Singkal", "Cultivator"],
   },
   {
-    //2 baru9
+    //2 baru10
     id: 49,
     question:
-      "Beranggotakan petani, pekebun, peternak, nelayan, pembudi daya ikan, pengelola ikan, serta masyarakat di dalam dan disekitar hutan yang dibentuk oleh pelaku utama, baik formal maupun nonformal merupakan bagian dari ...",
+      "Alat pengolahaln tanah yang digunakan untuk membalikan, menghancurkan, dan membongkar tanah. Salah satu alat pengolahan tanah primer yang paling tua dan paling serign digunakn oleh petania di Indonesia. Cara penggunaanya biasa dapat ditarik oleh hewan atau tenaga mekanis",
+    options: ["Subsoil Plow", "Rotary Plow", "Bajak Singkal", "Bajak Piringan"],
+  },
+  {
+    //3 baru10
+    id: 50,
+    question:
+      "Kegiatan musrebang tingkat kecamatan untuk penyusunan programa penyuluhan pertanian dilakukan di bulan...",
+    options: ["Mei", "April", "Maret", "Februari"],
+  },
+  {
+    //2 baru10
+    id: 51,
+    question:
+      "Apa yang dimaksud dengan Transparan dalam Prinsip penyusunan Programa penyuluhan pertanian ...",
     options: [
-      "Kelambagaanb Kelompoktani",
-      "Kelembagaan Pelaku Usaha",
-      "Kelembagaan Pelaku Utama",
-      "BUMDES",
+      "Memperhatikan program pembangunan pertnian strategi nesional dan daerah, dengan berdasarkan kebutuhan Pelaku Utama dan Pelaku Usaha",
+      "Mempunyai hubungan yang bersifat selaras dan saling memperkuat",
+      "Dilakukan dengan prinsip keterbukaan, sehingga dapat menjamin akses dan keterlibatan semua pihak yang berkepentingan",
+      "Dilaksanakan dengan melibatkan secara aktif Pelaku Utama, Pelaku Usaha dan Penyuluh pertanian mulai perencanaan, pelaksanaan, pemantauan dan evaluasi",
     ],
   },
   {
-    //3 baru9
-    id: 50,
-    question: "Syzygium aromaticum adalah nama latin dari ...",
-    options: ["Tomat", "Padi", "Jagung", "Cengkeh"],
-  },
-  {
-    //1 baru9
-    id: 51,
-    question: "Orza sativa adalah nama latin dari ...",
-    options: ["Tomat", "Padi", "Jagung", "Cengkeh"],
-  },
-  {
-    //2 baru9
+    //2 baru10
     id: 52,
-    question: "Zea mays adalah nama latin dari ...",
-    options: ["Tomat", "Padi", "Jagung", "Cengkeh"],
+    question:
+      "Kumpulan beberapa Kelompok Tani yang bergabung dan bekerjasama untuk meningkatkan skala ekonomi dan efisiensi usaha adalah ...",
+    options: [
+      "Kelompok Tani",
+      "Gabungan Petani",
+      "Gabungan Kelompok Tani",
+      "Asosiasi Komoditas Pertanian",
+    ],
   },
   {
-    //0 baru9
+    //3 baru10
     id: 53,
-    question: "Triticum aestivum adalah nama latin dari ...",
-    options: ["Gandum", "Kopi", "Kedelai", "cabai"],
+    question:
+      "Hasil dari Usahatani yang dapat diperdagangkan, disimpan, dan/atau dipertukarkan disebut ...",
+    options: [
+      "Produksi Pertanian",
+      "Hasil Pertanian",
+      "Produk Pertanian",
+      "Komoditas Pertanian",
+    ],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 54,
-    question: "Capsicum frutescens L adalah nama latin dari ...",
-    options: ["Gandum", "Kopi", "Kedelai", "cabai"],
+    question: "Yang bukan bagian dari kelembagaan petani adalah ...",
+    options: [
+      "Kelompok Tani",
+      "Gabungan Kelompok Tani",
+      "Asosiasi Komoditas Pertanian",
+      "Asosiasi Kelompok Tani",
+    ],
   },
   {
-    //0 baru9
+    //0 baru10
     id: 55,
     question:
-      "Phytophthora Palmivora adalah nama penyakit dari tanaman kakao, yaitu ...",
-    options: ["Busuk Buah", "Kanker Batang", "Antraknosa", "Tunas bengkak"],
+      "Menurut Peraturan Menteri Pertanian Nomor 09 Tahun 2023 penyuluhh pertanian memiliki tugas ...kecuali",
+    options: [
+      "Identifikasi potensi wilayah Penyuluhan",
+      "Melaksanakan kegiatan Penyuluhan",
+      "Evaluasi kegiatan Penyuluhan",
+      "Pengembangan Metode Penyuluhan",
+    ],
   },
   {
-    //3 baru9
+    //2 baru10
     id: 56,
     question:
-      "Inovasi pola bertanam dengan berselangseling antara dua atau lebih baris tanaman padi dan diselingi satu baris kosong adalah salah satu teknik budidaya padai yaitu ...",
-    options: ["PPT", "SRI", "SALIBU", "Jarwo"],
+      "Jadwal kegiatan yang disusun oleh penyuluh berdasarkan programa penyuluh setempat yang dilengkapi dengan hal-hal yang dianggap perluu berinteraksi dengan pelaku utama dan pelaku usaha adalah pengertian dari ...",
+    options: [
+      "Program penyuluh pertanian",
+      "Programa penyuluh pertanian",
+      "Rencana kerja tahunan penyuluh",
+      "Jadwal kunjungan/anjangsana penyuluh",
+    ],
   },
   {
-    //2 baru9
+    //1 baru10
     id: 57,
     question:
-      "Menteri penyuluhan dalam bentuk teknologi tertentu yang akan disampaikan kepada pelaku utama dan pelaku usaha harus mendapat rekomendasi dari lembaga pemerintah, kecuali...",
-    options: [
-      "Menggunakan Teknologi tinggi",
-      "Teknologi tertentu yang bersumber dari hasil riset",
-      "Teknologi tertentu yang bersumber dari pengetahuan tradisional",
-      "Materi dari jurnal penelitian",
-    ],
+      "Kelembagaan penyuluhan di tingkat desa/kelurahan yang meruppakan unit kerja nonstruktural yang dibentuk dan dilelola secara partisipatig oleh Pelakuk  Utama adalah...",
+    options: ["Kelompok tani", "Posluhdes", "BUMD", "Balai Penyuluh Pertanian"],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 58,
     question:
-      "Suatu sistim pengelolaan sumber daya hayati yang mencakup tanaman, ternak, dan/atau ikan secara terpadu pada suatu area atau kawasan pertanian tertentu, yang didasarkan pada prinsip penggunaan (biological recycling) antara usaha tani tanaman, ternak  dan atau ikan adalah ...",
+      "Forum antarpelaku dalam rangka menyusun rencana pembangunan nasional dan rencana pembangunan daerah adalah...",
     options: [
-      "Pertanian Berkelanjutan",
-      "Sistem Pertanian Terpadu",
-      "Revolusi Hijau",
-      "Sistem Pertanian Organik",
+      "Rembungtani Desa",
+      "Musrenbang",
+      "Mimbar Sarasehan",
+      "Rembung Utama",
     ],
   },
   {
-    //2 baru9
+    //2 baru10
     id: 59,
     question:
-      "Organisasi profesi yang bersifat sosial ekonomi sebagai lembaga masyarakat yang tumbuh dari bawah dan bersifat independen adalah ...",
-    options: [
-      "Ahli Andalan",
-      "Kontak Tani Nelayan",
-      "Kelompok KTNA",
-      "Kontak Tani",
-    ],
+      "Kumpulan petani/peternak/pekebun yang dibentuk atas dasar kesamaan depentingan; kesamaan kondisi lingkungan sosial, ekonomi, sumber daya: kesamaan komoditas dan keakraban untuk meningkatkan serta mengembangkan usaha anggota disebut...",
+    options: ["Pertanian", "Petani", "Gabungan Kelompok tani", "Kelompok Tani"],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 60,
-    question: "Kelompok KTNA didirikan pada tanggal ...",
-    options: [
-      "12 September 1971",
-      "13 September 1971",
-      "14 September 1971",
-      "15 September 1971",
-    ],
-  },
-  {
-    //3 baru9
-    id: 61,
-    question: "Keuangan organisasi KTNA bersumber dari ... Kecuali",
-    options: [
-      "Dana abadi yang bersumber dari anggota",
-      "Sumbangan yang tidak mengikat",
-      "Kegiatan lain yang syah menurut hukum",
-      "Perbankan",
-    ],
-  },
-  {
-    //3 baru9
-    id: 62,
     question:
-      "Rembung Kelompok KTNA (Rembung Paripurna Nasional) diadakan selama ... tahun sekali",
-    options: ["2 Tahun", "3 Tahun", "4 Tahun", "5 Tahun"],
+      "Peningkatan kapasitas Kelembagaan Petani dilakukan dengan cara ...",
+    options: [
+      "Pelatihan",
+      "Pengawalan dan pendampingan",
+      "Pembinaan",
+      "Evaluasi",
+    ],
   },
   {
-    //3 baru9
+    //3 baru10
+    id: 61,
+    question:
+      "Lembaga yang melaksanakan kegiatan usahatani yang dibentuk oleh, dari dan untuk petani, guan meningkatkan produktivitas dan efisiensi usahatani baik yang berbadan hukum maupun yang belum berbadan hukum disebut...",
+    options: [
+      "Koprasi Petani",
+      "Kelembagaan Usaha Petani",
+      "Kelembagaan Petani",
+      "Kelembagaan Ekonomi Petani",
+    ],
+  },
+  {
+    //1 baru10
+    id: 62,
+    question: "Undang-Undang Nomor 19 Tahun 2013 mengatur tentang ...",
+    options: [
+      "Sistem Penyuluhan Pertanian, Perikanan dan Kehutanan",
+      "Perlindungan dan Pemberdanyaan Petani",
+      "Sistem budidaya pertanian berkelanjutan",
+      "Perlindungan pangan pertanian berkelanjutan",
+    ],
+  },
+  {
+    //3 baru10
     id: 63,
     question:
-      "Susunan Pengurus Kelompok KTNA Kecamatan, Kelurahan/Desa terdiri dari ...Kecuali",
-    options: ["Ketua", "Wakil Ketua", "Sekertaris", "Bendahara"],
+      "Lingkungn pengaturan Perlindungan dan Pemberdayaan Petani meliputi ...",
+    options: [
+      "Perancangan, Perlindungan petani, pemberdayaan petani, pembiyaan dan pendanaan, penelitian, peran dan serta masyarakat",
+      "Perancangan, Perlindungan petani, pemberdayaan petani, pembiyaan dan pendanaan, pelatiahan, peran dan serta masyarakat",
+      "Perlindungan petani, pemberdayaan petani, pembiyaan dan pendanaan, pengawasan, peran dan serta masyarakat",
+      "Perancangan, Perlindungan petani, pemberdayaan petani, pembiyaan dan pendanaan, pengawasan, peran dan serta masyarakat",
+    ],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 64,
     question:
-      "Melaksanakan kaji terap dan percontohan usaha tani melalui penerapan teknologi spesifik lokasi yang direkomendasikan oleh Balaik Pengkajian Teknologi spesifik lokasi yang direkomendasikan oleh Balai Pengkajian Teknologi Pertanian (BPTP) merupakan Balai Pengkajian Teknologi Pertanian (BPTP) merupakan pembinaan dan pengembangan kelembagaan petani di tingkat ...",
-    options: ["Desa", "Kecamatan", "Kabupaten ", "Propinsi"],
+      "Pelaku utama yang berhasil dalam usahanya dan warga masyarakat lainya yang dengan kesadarannya sendiri mau dan mampu menjadi penyuluh disebut ...",
+    options: ["Pelaku Usaha", "Petani", "Penyuluh Swasta", "Penyuluh Swadaya"],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 65,
     question:
-      "Dibawah ini yang bukan merupakan penyebutan Poktan yang dapat digunakan selaras dengan budaya, kearifan lokal, dan tidak menyimpang dari karakteristik yaitu ...",
-    options: ["Himpunan", "Serikat", "Paaguyuban", "Ikatan"],
+      'Yang dimaksud dengan "terdesentralisasi" dalam penyuluhan pertanian yaitu...',
+    options: [
+      "Bahwa penyelenggaraan penyuluhan dilakukan berdasarkan atas kesetaraan kedudukan antara penyuluh, pelaku utama, dan pelaku usaha",
+      "Bahwa penyelengaraaan penyuluhan dilakukan dengan prinsip transparansi sehingga dapat diketahui oleh semua unsur yang terlibat",
+      "bahwa penyelenggaraan penyuluhan melibatkan pelaku utama mulai dari perencanaan, pelaksanaan, sampai dengan evaluasi",
+      "Bahwa penyelenggaraan penyuluhan  merupakan urusan rumah tangga desa atau unit kerja lapang, kabupaten/kota, dan provinsi",
+    ],
   },
   {
-    //0 baru8
+    //0 baru10
     id: 66,
     question:
-      "Melakukan penjelasan kepada tokoh-tokoh petani dan aparat desa merupakan salah satu proses persiapan penumbuhan Poktan dalam pelaksanaan penumbuhan Poktan. Dibawah ini yang bukan merupakan penjelasan yang perlu disampaikan yaitu ...",
+      "Lembaga pemerintahan dan/atau masyarakat yang mempunyai tugas dan fungsi menyelenggarakan penyuluhan adalah...",
     options: [
-      "Proses Penumbuhan",
-      "Manfaat Pembentukan Poktan",
-      "Penyusunan Rancana Kerja",
-      "Proses Evaluasi",
+      "Kelembagaan Penyuluhan",
+      "Kelembagaaan Petani",
+      "Kelembagaan BPP",
+      "Posluhdes",
     ],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 67,
     question:
-      "Kelembagaan Ekonomin Petani adalah lembaga yang melaksanakan kegiatan usaha tani yang dibentuk oleh, dari, dan untuk petani baik yang berbadan hukum maupun yang belum bebadan hukum untuk meningkatkan ...",
+      "Yang bukan bagian dari Strategi penyuluhan yang disusun dan ditetapkan oleh pemerintah dan pemerintah daerah sesui dengan kewenangan adalah...",
     options: [
-      "Produktivitas",
-      "Efisiensi Usaha tani dan Produktivitas",
-      "Skala Usaha Tani",
-      "Skala Ekonomi dan Produktivitas",
+      "Metode pendidikan orang dewasa",
+      "Penyuluhan sebagai gerakan masyarakat serta keadilan dan kesetaraan gender",
+      "Penumbuh kembangan dinamika organisasi dan kepemimpinan",
+      "Pelatihan dan Pelatihan",
     ],
   },
   {
-    //0 baru9
+    //3 baru10
     id: 68,
-    question:
-      "Dibawah ini yang bukan merupakan unsur pengikat dari Poktan yaitu ...",
-    options: [
-      "Hak sesama anggota berdasarkan kesepakatan bersama",
-      "Notivasi dari tokoh masyarakat dalam menunjang progaram yang telah ditetapkan",
-      "Kegiatan yang memanfaatnya dapat dirasakan oleh sebagian besar anggota",
-      "Kader yang mampu menggerakan petani dengan kepemimpinan yang diterima oleh anggota",
-    ],
+    question: "Pos Penyuluhan Desa/Posluhdes bersifat ...",
+    options: ["Formal", "Informal", "Structural", "Non-Structural"],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 69,
     question:
-      "Salah satu fungsi gapoktan adalah sebagai unit usaha penyedia sarana dan prasarana produksi untuk memenuhi kebutuhan sarana produksi.Dibawah ini bukan kebutuhan yang dimaksud adalah...",
-    options: ["Pupuk", "Alsintan", "Benih", "Bahan Dokumentasi"],
+      "Sebagai tempat pertemuan para penyuluh, pelaku utama, dan pelaku usaha untuk membahas seputar kegiatan penyuluhan merupakan fungsi dari ...",
+    options: [
+      "Badan Pelaksana Penyuluhan",
+      "Badan Koordinasi Penyuluhan",
+      "Saung Tani",
+      "Pos Penyuluhan Desa dan Balai Penyuluhan Pertanian",
+    ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 70,
     question:
-      "Proses penumbuhan poktan dimulai dari sosialisasi tentang penumbuhan poktan kemudian pertemuan atau musayawarah petani dan penyepakatan pembentukan poktan yang dituangkan dalam ...",
+      "Kelembagaan independen yang dibentuk pada tingkat pusat, provinsi, dan kabupaten/kota yang terdiri atas para pakar dan/atau praktisi yang mempunyai keahlian dan kepedulian dalam bidang penyuluhan atau pembangunan pedesaan",
     options: [
-      "Surat Permohonan",
-      "Surat Pernyataan",
-      "MoU",
-      "Surat Persetujuan",
+      "Asosiasi komodistas pertanian",
+      "Dewan komoditas pertanian",
+      "Komisi penyuluh pertanian",
+      "Gabungan kelompok tani",
     ],
   },
   {
-    //2 baru9
+    //2 baru10
     id: 71,
-    question: "Susunan kertas yang tidak dilipat 2 atau 3 disebut ... ",
-    options: ["Folder", "Brosur", "Leaflet", "Peta Singkap"],
-  },
-  {
-    //1 baru9
-    id: 72,
-    question: "Termasuk dalam programa penyuluhan pertanian, kecuali ...",
+    question:
+      "Materi penyuluhan dalam bentuk teknologi tertentu yang akan disampaikan kepada pelaku utama dan pelaku usaha harus mendapat rekomendasi dari lembaga pemerintah, kecuali ...",
     options: [
-      "Peningkatan dukungan prasarana dan sarana Penyuluhan Pertanian berbasis teknologi kekinian",
-      "Pemberdayaan tokoh masyarakat dalam upaya peningkatan peran serta generasi muda di bidang pertanian",
-      "Pemberdayaan Kelembagaan Petani, yaitu kelompok tani, gabungan kelompok tani (gapoktan), dan KEP",
-      "Pemberdayaan Kelembagaan Penyuluh Pertanian Swadaya, dan Swasta",
+      "Teknologi yang bersumber dari luar negeri",
+      "Teknologi yang bersumber dari hasil rekayasa genetik",
+      "Teknologi yang bersumber dari pengetahuan tradisional",
+      "Teknologi yang bersumber dari pengetahuan modern",
     ],
   },
   {
-    //2 baru9
+    //1 baru10
+    id: 72,
+    question:
+      "Seluruh rangkaian pengembangan kemampuan, pengetahuan, keterampilan, serta sikap pelaku utama dan pelaku usaha melalui penyuluhan disebut...",
+    options: [
+      "Sistem penyuluh pertanian",
+      "Sistem penyuluhan pertanian",
+      "Sistem administrasi penyuluh",
+      "penyuluhan pertanian",
+    ],
+  },
+  {
+    //3 baru10
     id: 73,
     question:
-      "Pekan Nasional (Penas) Kontak Tani Nelayan Andalan (KTNA) merupakan ajang pertemuan para petani dan nelayan yang digagas tokoh tani nelayan sejak tahun ...",
-    options: ["1969", "1970", "1971", "1972"],
+      "Programa penyuluhan desa atau unit kerja lapangan disusun oleh ...",
+    options: [
+      "Penyuluh",
+      "Pelaku Utama dan Pelaku Usaha",
+      "Pelaku Utama dan Pelaku Usaha yang difasilitasi oleh pemerintah",
+      "Pelaku utama dan Pelaku Usaha yang difasilitasi oleh penyuluh",
+    ],
   },
   {
-    //0 baru9
+    //1 baru10
     id: 74,
     question:
-      "Data yang diperoleh secara langsung dari sumbernya dan bukan data tambahan disebut ...",
-    options: ["Data Primer", "Data Sekunder", "Data Tersier", "Data Kuarter"],
-  },
-  {
-    //2 baru9
-    id: 75,
-    question:
-      "Respon petani berupa pernyataan setuju atau tidak setuju terhadap objek tertentu disebut ...",
-    options: ["Pengetahuan", "Minat", "Sikap", "Objektif"],
-  },
-  {
-    //3 baru9
-    id: 76,
-    question: "Sumber Utama data Primer ...",
+      "Perorangan warga negara Indonesia atau korporasi yang dibentuk menurut hukum Indonesia yang mengelola usaha pertanian, perikanan, dan Kehutanan adalah ...",
     options: [
-      "Internet",
-      "Surat Kabar",
-      "Jurnal/Hasil Kajian",
-      "Wawancara secar langsung",
+      "Lembaga usaha",
+      "Pelaku Usaha",
+      "Pelaku Utama",
+      "Kelembagan ekonomi petani",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
+    id: 75,
+    question: "Perhiptani merupakan singkatan dari ...",
+    options: [
+      "Perhimpunan Penyuluh Pertanian dan Petania Indonesia",
+      "Peersekutaun Petani Indonesai",
+      "Perhimpunan Petani Indonesia",
+      "Perhimpunan Penyuluh Pertanian Indonesia",
+    ],
+  },
+  {
+    //3 baru10
+    id: 76,
+    question:
+      "Pihak yang paling berhak memperoleh manfaat penyuluhan meliputi ...",
+    options: [
+      "Masyarakat",
+      "Petani",
+      "Pelaku Usaha",
+      "Sasaran utama dan sasaran antara",
+    ],
+  },
+  {
+    //1 baru10
     id: 77,
     question:
-      "Peralatan yang dioprasikan tanpa atau dengan motor penggerak untuk kegiatan budidaya, pemeliharaan, panen, pasca panen, pengolahan hasil tanaman, peternakan dan kesehatan hewan ...",
+      "Kelembagaan penyuluh pemerintah pada tingkat kecamatan berbentuk....",
     options: [
-      "Sarana Pertanian",
-      "Prasaran Pertanian",
-      "Alsintan",
-      "Traktor Roda Dua",
+      "Balai Pelatihan Penyuluh",
+      "Balai Penyuluhan",
+      "Badan Pelaksana Penyuluhan",
+      "Badan Penyuluhan",
     ],
   },
   {
-    //2 baru9
+    //2 baru10
     id: 78,
-    question: "Actionary pada SMART adalah ...",
+    question:
+      "Kelembagaan penyuluh pemerintah pada tingkat Kab/Kota berbentuk....",
     options: [
-      "Sesuai kemampuan",
-      "Kriteria khas",
-      "dapat dikerjakan/dapat dilakukan",
-      "Memiliki batasan waktu untuk mencapai tujuan",
+      "Balai Pelatihan Penyuluh",
+      "Balai Penyuluhan",
+      "Badan Pelaksana Penyuluhan",
+      "Badan Penyuluhan",
     ],
   },
   {
-    //0 baru9
+    //0 baru10
     id: 79,
     question:
-      "Bukuk dengan jumlah 8-20 halaman yang berisi uraian tentang suatu topik gagasan atau konsep pembangunan pertanian yang disajikan dalam bentuk tulisan yang dilengkapi gambar, foto, tabel, dan ilustrasi lainya adalah ...",
-    options: ["Brosur", "Poster", "Leaflet", "Lipatan"],
+      "Penyelengaraan penyuluhan pertanian melibatkan pelaku utama mulai dari perencanaan, pelaksanaan, sampai dengan evaluasi yaitu merupakan maksud dari asas ...",
+    options: [
+      "Partisipatif",
+      "Keswadayaan",
+      "Kemitrasejajaran",
+      "Bertangggung gugat",
+    ],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 80,
     question:
-      "Ukuran peta singkap untuk jumlah peserta sebanyak 10 orang adalah ...",
+      "Penyelenggaraan penyuluhan dilakukan berdasarkan atas kesetaraan kedudukan antara penyuluh, pelaku utama, dan pelaku usaha yaitu merupakan maksud dari asas ...",
     options: [
-      "30 x 50 atau 40 x 60",
-      "40 x 50 atau 50 x 60",
-      "30 x 40 atau 40 x 50",
-      "40 x 70 atau 50 x 70",
+      "Partisipatif",
+      "Keswadayaan",
+      "Kemitrasejajaran",
+      "Bertangggung gugat",
     ],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 81,
-    question: "Secar umum media penuluhan juga disebut sebagai ...",
-    options: ["Penghubung", "Perantara", "Pembawa", "Pengantar"],
-  },
-  {
-    //3 baru9
-    id: 82,
-    question: "Syarat-syarat media penyuluhan yang baik, kecuali ...",
+    question:
+      "Pelaku utama yang berhasil dalam usahanya dan warga masyarakat lainya yang dengan kesadarannya sendiri mau dan mampu menjadi penyuluh disebut ...",
     options: [
-      "Menarik perhatian",
-      "Mengesankan ketelitian",
-      "Mengemukakan ide baru",
-      "Menggukan bahasa yang sulit dimengerti)",
+      "Penyuluh swasta",
+      "Penyuluh swadaya",
+      "Petani swadaya",
+      "Petani swasta",
     ],
   },
   {
-    //0 baru9
-    id: 83,
-    question: "Lembar pertama peta singkap harus memuat ...",
-    options: ["Judul", "Gambar", "Isi", "Identitas Pemateri"],
+    //3 baru10
+    id: 82,
+    question:
+      "Penetapan Dinas sebagai pengelola satuan administrasi pangkal (satminkal) Penyuluh Pertanian bedasarkan ...",
+    options: [
+      "Potensi Sumber/Ketersediaan Air dan Kemudahan akses transportasi",
+      "Potensi Lahan pertaniannya",
+      "Potensi SDM Pertaniannya yang dominan",
+      "Potensi komoditas pertaniannya yang dominan",
+    ],
   },
   {
-    //0 baru9
+    //0 baru10
+    id: 83,
+    question:
+      "Kelembagaan Penyuluhan Pertanian Pemerintah terdiri atas ... Kecuali",
+    options: [
+      "Kementrian Pertanian",
+      "BPPSDMP",
+      "Dinas yang menyelenggarakan fungsi Penyuluhan Perttanian di daerah Provinsi",
+      "Dinas yang menyelenggarakan fungsi Penyuluhan Perttanian di daerah Kabupaten/Kota",
+    ],
+  },
+  {
+    //3 baru10
     id: 84,
     question:
-      "Hal-hal yang perlu dipertimbangkan dalam menetapkan metode penyuluhan dari aspek sumber daya penyuluhan antara lain kecuali ...",
+      "Yang memiliki fungsi sebagai penyelenggara Penyuluh Pertanian dan pengelola satuan administrasi pangkal (satminkal) Penyuluh Pertanian di daerah provinsi adalalah ...",
     options: [
-      "Keadaan Lapangan",
-      "Materi Penyuluhan",
-      "Sarana Dan Biaya",
-      "Kemampuan Penyuluh",
+      "Kementrian Pertanian",
+      "BPPSDMP",
+      "Balai Pelatiahan",
+      "Dinas yang menyelenggarakan fungsi Penyuluhan Pertanian di daerah provinsi",
     ],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 85,
     question:
-      "Deskripsi pengetahuan, keterampilan, dan perilaku yang diperlukan seorang paratur sipil negara dalam melaksanakan tugaas Jabatan Fungsional Penyuluh Pertanian disebut ...",
-    options: [
-      "Standar keterampilan Jabatan Fungsional Penyuluhan Pertanian",
-      "Standar Kompetensi Jabatan Funsional Penyuluh Pertanian",
-      "Standar Tugas Jabatan Fungsional Penyuluh Pertanian",
-      "Standar Kinerja Jabatan Fungsional Penyuluh Pertanian",
-    ],
+      "Balai Penyuluhan Pertanian merupakan bagian dari kelembagaan penyuluh pertanian pemerintah dengan status ...",
+    options: ["Struktural", "Non-Struktural", "Teknis", "Fungsional"],
   },
   {
-    //3 baru9
+    //2 baru10
     id: 86,
     question:
-      "Apabila metode kursus tani diikuti dengan dilakasanakan  karya wisata, perlombaan dan metode lainnya. Penetapan metode penyuluhan tersebut masuk kedalam pelaksanaan ...",
-    options: ["Kombinasi", "anjangsana Kelompok", "Acak", "Beruntun"],
+      "Pernyataan berikkut yang benar tentang Balai Penyuluhan Pertanian adalah ...",
+    options: [
+      "Sebagai Pos simpul koordinasi (posko) pembangunan Pertanian",
+      "Berfungsi sebagai tempat pertemuan para penyuluh",
+      "Berfungsi sebagai tempat pertemuan para penyuluh, Pelaku Utama dan Pelaku Usaha",
+      "Merupakan unit kerja struktural dinas yang menyelenggarakan fungsi Penyuluhan Pertanian kabupaten/kota",
+    ],
   },
   {
-    //3 baru9
+    //2 baru10
     id: 87,
     question:
-      "Yang termasuk kedalam tujuh komoditas unggulan perkebunan pada kegiatan Grasida adalah ...",
+      "Pernyataan berikut yang benar tentang Balai Penyuluh Pertanaian adalah ...",
     options: [
-      "Kokao, kopi, tebu",
-      "Kakao, sawit, lada",
-      "kelapa, pala, karet",
-      "Kopi, jambu mate, vanili",
+      "Sebagai Pos simpul koordinasi (posko) pembangunan Pertanian",
+      "Berfungsi sebagai tempat pertemuan para penyuluh",
+      "Berfungsi sebagai tempat pertemuan para penyuluh, Pelaku Utama, dan Pelaku Usaha",
+      "Merupakan unit kerja struktural dinas yang menyelenggarakan fungsi Penyulahan Pertanian Kabupaten/kota",
     ],
   },
   {
-    //2 baru9
+    //1 baru10
     id: 88,
     question:
-      "Dibawah ini merupakan Metode penyuluhan yang bertujuan untuk mengembangkan kepemimpinan adalah...",
-    options: ["Temu Lapang", "Kursus Tani", "Mimbar Sarasehan", "Kaji Terap"],
-  },
-  {
-    //1 baru9
-    id: 89,
-    question:
-      "Permetan nomor 52 tahun 2009 Tantang Metode Penyuluhan Pertanian diundangkan di jakarta pada ...",
+      "Kelembagaan penyuluhan desa/kelurahan yang bersifat non struktural yang dibentuk dan dikelola secara partispatif oleh Pelaku Utama, baik perorangan maupun kelompok disebut ...",
     options: [
-      "5 Februari 2009",
-      "11 Desember 2009",
-      "1 Mei 2009",
-      "5 Desember 2009",
+      "Kelembagaan Ekonomi Petani",
+      "Kelembagaan Penyuluhan Swadaya",
+      "Kelembagaan Petani",
+      "Kelembagaan Penyuluh Swasta",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
+    id: 89,
+    question: "Undang-Undang Nomor 19 Tahun 2013 mengatur tentang...",
+    options: [
+      "Kelembagaan Penyuluhan Pertanian, Perikanan, dan Kehutanan",
+      "Pembiyaan, Pembinaan, dan Pengawasan Penyuluhan Pertanian, Perikanan, dan Kehutanan",
+      "Sistem Penyuluhan Pertanian, Perikanan dan Kehutanan",
+      "Perlindungan dan Pemberdayaan Petani",
+    ],
+  },
+  {
+    //3 baru10
     id: 90,
     question:
-      "Pusat dari gerakan kostratani berada di kelembagaan penyuluhan ...",
+      "Strategi penguatan Sistem Penyuluhan Pertanian yang terpadu, berbasis kawasan Pertanian dan berkelanjutan, meliputi ... Kecuali",
     options: [
-      "Pos Penyuluhan Desa (POSLUHDES)",
-      "Badan Penyuluhan Pertaian",
-      "Balai Penyuluhan Pertanian",
-      "Badan Koordinasi Penyuluhan",
+      "Penguatan Kelembagaan Penyuh Pertanian Pemerintah, Swadaya, dan Swasta",
+      "Penguatan ketenagaan Penyuluh Pertanian Pemerintah, Swadaya, dan Swasta",
+      "Pengutan peran perintah daerah dan swasta dalam penyediaan prasarana dan saran Penyuluhan Pertanian",
+      "Pengembangan Penyuh Pertanian melalui kerja sama kemitraaan dengan pihak asing",
     ],
   },
   {
-    //2 baru9
+    //3 baru10
     id: 91,
     question:
-      "Rasa saling menghargai setiap petani untuk berkelompok sesuai keinginan dan kepentingan bersama merupakan prinsip penumbuhan poktan ...",
-    options: ["Kesetaraan", "Keterbukaan", "Kebebasan", "Demokratis"],
-  },
-  {
-    //0 baru9
-    id: 92,
-    question: "SLPTT adalah ...",
+      "Kelembagaan penyuluhan yang dibentuk oleh Pelaku Usaha dengan memperhatikan kepentingan Pelaku Utama serta pembangunan Pertanian setempat disebut ...",
     options: [
-      "Sekolah Lapang Pengelolahan Tanaman Terpadu",
-      "Sekolah Lapang Percepatan Tanaman Terpadu",
-      "Sekolah Lapang Pengembangan Tanaman Terpadu",
-      "Sekolah Lapang Penyuluhan Tanaman Terpadu",
+      "Kelembagaan Ekonomi Petani",
+      "Kelembagaan Penyuluhan Swadaya",
+      "Kelembagaan  Petani",
+      "Kelembagaan Pneyuluh Swasta",
     ],
   },
   {
-    //2 baru9
-    id: 93,
+    //2 baru10
+    id: 92,
     question:
-      "Proses belajar-mengajar yang diperuntukakn bagi para pelaku utama beserta keluarganya yang diselenggarakan secara sistematis, teratur dan dalam jangka waktu tertentu disebut ...",
-    options: ["Anjangsana", "Demonstrasi", "Kursus Tani", "Temu Petani"],
+      "banyaknya anggota kelompoktani menurut Permentan no 67 tahun 2016 adalah ...",
+    options: ["20 - 25 org", "15 - 20 org", "20 - 30 org", "25 - 30 org"],
   },
   {
-    //0 baru9
+    //0 baru10
+    id: 93,
+    question: "Berikut merupakan bagian dari kelembagaan petani, kecuali ...",
+    options: [
+      "Posluhdes",
+      "Kelompok tani",
+      "Gabungan kelompok tani",
+      "Asosiasi komoditas pertanian",
+    ],
+  },
+  {
+    //0 baru10
     id: 94,
     question:
-      "Metode dengan pendekatan kelompok biasanya dipergunakan untuk dapat memberikan informasi yang lebih rinci tentang suatu ...",
-    options: ["Teknologi", "Pengetahuan", "Peragaan ", "Demonstrasi"],
+      "Kegiatan penyuluhan kepada kelompok tani di wilayah kerjanya yang dilakukan secara teratur, terarah, dan berkelanjutan disebut ...",
+    options: ["Kunjungan", "Demonstrasi", "Anjangsana", "Temu Lapang"],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 95,
     question:
-      "Pendidikan yang dilakukan untuk orang dewasa salah satunya dilakukan pada kegiatan kelompok seperti sekolah lapang adalah ...",
-    options: ["Kursus Tani", "Andragogi", "Pedragogi", "Demonstrasi"],
+      "Unsur-unsur dari Organisasi Dewan Komoditas Pertanian Nasional antara lain ... kecuali",
+    options: [
+      "Tokoh masyarakat, Petani dan pelaku usaha",
+      "Asosiasi komoditas pertanian",
+      "Pakar dan akademis",
+      "Penyuluh pertanian",
+    ],
   },
   {
-    //1 baru9
+    //2 baru10
     id: 96,
     question:
-      "Pengendalian OPT pada jagung dilakukan dengan cara pengendalian hama terpadu (PHT) salah satunya adalah dengan (penggunaan benih bermutu, pemangkasan dan pemupukan berimbang). Dalam hal ini PHT yang dilakukan adalah secara ...",
-    options: ["Organik", "Kultur Teknis", "Fisik", "Kimiawi"],
+      "Kegiatan dalam bidang pertanian, mulai dari produksi/budidaya, penanganan pascapanen, pengelolahan, sarana produksi, pemasaran hasil, dan/atau jasa penunjang disebut ...",
+    options: ["Pertanian", "Koprasi Usaha pertanain", "Usahatani", "Budidaya"],
   },
   {
-    //0 baru9
+    //0 baru10
     id: 97,
     question:
-      "Suatu kegiatan yang dilakukan untuk mengetahui dan menilai proses, efektivitas dan efisiensi kinerja serta dampak penylenggaraan penyuluh pertanian yaitu ...",
+      "Lembaga yang melaksanakan kegiataan usahatani yang dibentuk oleh dari dan untuk petani, guna meningkatkan  produktivitas dan efisiensi usahatani baik yang berbadan hukum maupun yang belum bebadan hukum adalah...",
     options: [
-      "Evaluasi penyelenggaraan penyuluhan pertanian",
-      "Pembinaan penyelenggaraan penyuluhan pertanian",
-      "Pemantuan penyelenggaraan penyuluh pertaian",
-      "Pelaporan penyelenggaraan penyuluh pertanian",
+      "Kelembagaaan Ekonomi Petani",
+      "Kelembagaan Penyuluh Swadaya",
+      "Kelembagaan Petani",
+      "Kelembagaan Penyuluhan Swasta",
     ],
   },
   {
-    //3 baru9
+    //1 baru10
     id: 98,
-    question:
-      "Metode penyuluhan pertanian yang dibuat berdasarkan kombinasi indera penerima dibawah ini, kecuali ...",
+    question: "Fungsi kelompok ada 3 yaitu ...",
     options: [
-      "Pemutaran Video",
-      "Siaran Televisi",
-      "Pemutaran Film",
-      "Pemutaran Slide",
+      "Kelas Belajar, Wahana Usaha dan Unit Produksi",
+      "Kelas Belajar, Wahana Kerjasama dan Unit Produksi",
+      "Unit Usaha, Wahana Kerjasama dan Unit Produksi",
+      "Kelas Belajar, Wahana Kerjasama dan Unit Pengolahan",
     ],
   },
   {
-    //2 baru9
+    //0 baru10
     id: 99,
-    question:
-      "Hasil akhir dari kerangka pikir penyusunan programa penyuluhan pertanian yaitu ...",
-    options: ["Matriks Penyuluhan", "IPW", "RKTPP", "Musrembangtan"],
+    question: "Fungsi Gabungan Kelompok ada 5 yaitu ...",
+    options: [
+      "Unit Usaha Penyedia Sarana dan Prasarana Produksi, Unit Usahatani/Produksi, Unit Usaha Pengolahan, Unit Usaha Pemasaran, Unit Usaha Keuangan Mikro (simpan-pinjam)",
+      "Unit Usaha Penyedia Sarana dan Prasarana Produksi, Unit Usahatani/Produksi, Unit Usaha Pengolahan, Unit Usaha Pemasaran, Unit  Kerjasama",
+      "Unit Usaha Penyedia Sarana dan Prasarana Produksi, Kelas Belajar, Usaha Pemasaran, Unit Usaha Pemasaran, Unit Usaha Keuangan Mikro (simpan-pinjam)",
+      "Unit Usaha Penyedia Sarana dan Prasarana Produksi, Unit Usahatani/Produksi, Unit Usaha Pengolahan, Unit Belajar, Unit Usaha Keuangan Mikro (simpan-pinjam)",
+    ],
   },
   {
-    //1 baru9
+    //1 baru10
     id: 100,
     question:
-      "Rekapitulasi Rencana Definitif Kebutuhan Kelompok (RDKK) pupuk bersubsidi di tingkat kecamatan paling lambat selesai pada ...",
-    options: ["Akhir Februari", "Akhir Maret", "Akhir April", "Akhir Mei"],
+      "Dalam tim penyusunan programa penyuluhan tingkat provinsi, yang menjabat sebagai sekertaris adalah ...",
+    options: [
+      "Kepala Bidang Penyuluhan Provinsi",
+      "Kordinator Penyuluhan Pertanian Provinsi",
+      "Kepala Dinas Provinsi",
+      "Kepala Sub Bagian Kepegawaian",
+    ],
   },
   {
-    //1 baru9
+    //3 baru10
     id: 101,
     question:
-      "Pengurus Gapoktan membuat rekapitulasi RDKK setiap Poktan dalam satu Desa/Kelurahan dan ditandangani oleh ...",
-    options: [
-      "Ketua Kelompok Tani",
-      "Ketua Gapoktan",
-      "Kepala Desa",
-      "Penyuluh di wilayah Binaan tersebut",
-    ],
+      "Rembungtani desa dan Musrembangg Desa dalam rangkaian penyusunan programa penyuluhan di Tingkat Desa dilakukan pada bulan ...",
+    options: ["Mei", "Februari", "Maret", "Januari"],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 102,
     question:
-      "Pada Tahun 1995, Bank Dunia melakukan evaluasi kelemahan penyuluhan di Indonesia yaitu ... Kecuali.",
+      "Yang dijadikan sebagai bahan diskusi dalam pelaksanaan mimbar sarasehan dan musrebang sebelum penyusunan programa penyuluhan adalah...",
     options: [
-      "Kurang Partisipasi dan Mekanisme Top Down",
-      "Kesalahan menempatkan fokus penyuluhan",
-      "Kurang koordinasi antar sektor",
-      "Kurangnya Sarana Prasarana",
+      "Hasil mimbar sarasehan dan musrembang tahun sebelumnya",
+      "RPJMD tahun yang sedang berjalan",
+      "Hasil analisis keadaan dan hasil evaluasi programa Penyuluhan Pertanian ditingkat pusat",
+      "Hasil analisis keadaan dan hasil evaluasi programa Penyuluh Pertanian tahun sebelumnya",
     ],
   },
   {
-    //1 baru9
+    //0 baru10
     id: 103,
-    question: "Penyuluh berasal dari kata 'suluh' yang berarti ...",
+    question:
+      "Berdasarkan hasil Musrebang, maka disusun programa Penyuluh Pertanian di setiap tingkat pemerintahan yang dibiayai oleh anggaran Pemerintah dan pemerintah daerah, selanjutnya disahkan dan dijabarkan ke dalam ...",
     options: [
-      "Pemberi pengetahuan di tengah masyarakat",
-      "Pemberi terang di tengah kegelapan",
-      "Pemberi dorongan untuk rakyat",
-      "Pemberi motifasi di tenah keputus asaan",
+      "Rencana Kerja Tahunan Penyuluh Pertanian (RKTPP)",
+      "Rencan Kerja Janka Menengah (RKTPP)",
+      "Rencana Kerja Pemerintah Daerah (RKPD)",
+      "Matriks Kerja Penyuluh Pertania",
     ],
   },
   {
-    //0 baru9
+    //2 baru10
     id: 104,
     question:
-      "Penyuluh dapat diartikan sebagai proses penyebarluas informasi yang berkaitan dengan upaya perbaikan cara-cara berusaha tani demi tercapainya peningkatan pendapatan dan perbaikan kesejahteraan keluarganya adalah pengertian penyuluhan menurut ...",
+      "Ketua tim penyusunan programa penyuluhan di tingkat kecamatan adalah ...",
     options: [
-      "Mardikanto (1993)",
-      "UU no 16 tahun 2006",
-      "Deptan (2022)",
-      "PermenPAN RB no 1 tahun 2023",
+      "Camat",
+      "Kepala Desa",
+      "Pemimpin Unit Kerja yang melaksanakan tugas Penyuluhan Pertanian di Kecamatan",
+      "Penyuluh Urusan Programa",
     ],
   },
   {
-    //2 baru9
+    //1 baru10
     id: 105,
     question:
-      "Arti behwa tujuan penyuluhan yang ingin dicapai harus masuk akal, dan tidak berlebihan, sehingga sesuai dengan kemampuan yang dimiliki peserta/petani merupakan syarat penyuluhan yang berarti ...",
-    options: ["Specific", "Measurable", "Realistic", "Achieveable"],
+      "Ada 7 Tugas dari tim Penyusun Programa. Yang bukan bagian dari Tugas tim Penyusun Programa adalah ...",
+    options: [
+      "Melakukan analisis keadaan pada masing-masing wilayah kerja",
+      "Membiayai seleruh kegiatan penyusunan programa sampai selasai",
+      "Menyiapkan Rembungtani Desa atau Mimbar Sarasehan kecamatan, kabupaten/kota, provinsi dan nasional",
+      "Melaksakan penyusunan programa Penyuluh Pertanian",
+    ],
   },
   {
-    //0 baru9
+    //0 baru10
     id: 106,
     question:
-      "Penyelenggaraan penyuluhan harus diselengarakan secara sinergis dalam kegiatan pembangunan pertanian, perikanan, dan kehutanan serta sektor lain yang merupakan tujuan bersama antara pemerintah dan masyarakat merupakan asas penyuluhan berdasrkan asas ...",
-    options: ["Kerja sama", "Partisipatif", "Komunikatif", "Sinergisitas"],
-  },
-  {
-    //1 baru8
-    id: 107,
-    question: "PRA adalah...",
+      "Penyusunan programa Penyuluh Pertanian harus memperhatrikan unsur, tahapan, dan proses penyusunan programa. Urutan Penyusunan Programa adalah...",
     options: [
-      "Participan Rural Appraisal",
-      "Participatory Rural Appraisal",
-      "Participcy Rural Appraisal",
-      "Participan Rural Aplication",
+      "Keadaan - Tujuan - Permasalahan - Rencana kegiatan",
+      "Permasalahan - Keadaan - Tujuan - Rencana kegiatan",
+      "Keadaan - Tujuan - Rencana kegiatan - Permasalahan",
+      "Permasalahan - Tujuan - Keadaan - Rencana kegiatan",
     ],
   },
   {
-    //1 baru9
+    //1 baru10
+    id: 107,
+    question:
+      "Kondisi yang mempengaruhi keberhasilan usaha tani pelaku utama dan pelaku usaha, berkaitan dengan ketersediaan prasarana dan sarana pendukung usaha tai merupakan definisi dari ...",
+    options: ["Perilaku", "Non Perilaku", "Permasalahan", "Kondisi"],
+  },
+  {
+    //2 baru10
     id: 108,
     question:
-      "Pemangku kepentingan lainnya yang meliputi kelompok atau lembaga pemerhati pertanian, perikanan, dan kehutunan serta generasi muda dan tokoh masyarakat merupakan ...",
-    options: [
-      "Sasaran Utama Penyuluhan",
-      "Sasaran Antara Penyuluhan",
-      "Sasaran Pembangunan Penyuluhan",
-      "Sasaran Pemberdayaan Penyuluhan",
-    ],
+      "Proses penyusunan programa Penyuluhan Pertanian dilaksanakan dengan memperhatikan programa pembangunan pertanian strategis nasional dan daerah, dengan berdsarkan kebutuhan Pelaku Utama dan Pelaku Usaha.\n Uraian diatas merupakan definisi dari salah satu prinsip penyusunan programa penyuluhan yaitu ...",
+    options: ["Partisipatif", "Bermanfaat", "Terpadu", "Sinergi"],
   },
   {
-    //0 baru9
+    //3 baru10
     id: 109,
-    question:
-      "Menarik menggugah hati dan perasaan, meyakinkan, memotivasi sasaran agar mau melakukan tindakan merupakan tujuan dari ...",
+    question: "Ketua Tim Penyusun Programa Desa/Kelurahan adalah ...",
     options: [
-      "Komunikasi dalam penyuluhan",
-      "Desiminasi informasi",
-      "Anjangsana Penyuluhan",
-      "Difusi inovasi",
+      "Penyuluh Pertanian yang bertugas di desa/kelurahan",
+      "Kepal Urusan Pembanguan Desa/Kelurahan",
+      "Kepala Desa",
+      "Ketua Pos Penyuluhan Desa (Posludes)",
     ],
   },
   {
-    //3 baru9
+    //3 baru10
     id: 110,
     question:
-      "Proses penyampaian dan penerimaan pesan-pesan dari seseorang (sumber, penyuluh) kepada orang lain (penerima, sasaran, pelaku utama/pelaku usaha) secara timbal balik (two way traffic communication) adalah ...",
-    options: ["Diseminator", "Komunikator", "desiminasi", "Komunikasi"],
+      "Sesuatu berkaitan dengan Perilaku dan Non Perilaku yang menyebabkan tidak tercapainya tujuan atau terjadinya perbedaan antara kondisi saat ini (faktual) dengan kondisi yang akan dicapai disebut ...",
+    options: ["Keadaaan", "Kondisi", "Desiminasi", "Permasalahan"],
   },
 ];

@@ -42,7 +42,13 @@ export default function Home() {
         </ul>
       </div>
       <div className=" text-center">
-        <span className="span text-black">akbardermawan27@gmail.com</span>
+        <a
+          href="https://akbardermawanmac.netlify.app/"
+          className="cursor-pointer"
+          target="_blank"
+        >
+          <span className="span text-black">akbardermawan27@gmail.com</span>
+        </a>
       </div>
     </div>
   );

@@ -102,11 +102,11 @@ export const dataQues = [
       },
       {
         text: "ideologi bangsa",
-        correct: true,
+        correct: false,
       },
       {
         text: "cita-cita negara",
-        correct: false,
+        correct: true,
       },
       {
         text: "Instrument bangsa",
@@ -125,7 +125,7 @@ export const dataQues = [
       },
       {
         text: "Tiga",
-        correct: false,
+        correct: true,
       },
       {
         text: "Empat",
@@ -133,7 +133,7 @@ export const dataQues = [
       },
       {
         text: "Lima",
-        correct: true,
+        correct: false,
       },
     ],
   },
@@ -481,7 +481,7 @@ export const dataQues = [
     answer: [
       {
         text: "Piagam Jakarta",
-        correct: true,
+        correct: false,
       },
       {
         text: "Bangsa Indonesia",
@@ -489,7 +489,7 @@ export const dataQues = [
       },
       {
         text: "BPUPKI",
-        correct: false,
+        correct: true,
       },
       {
         text: "PPKI",
@@ -658,47 +658,45 @@ export const dataQues = [
   },
   {
     id: 29,
-    question:
-      "Contoh pelaksanaan politik luar negeri yang bebas dan aktif berdasarkan pancasila adalah...",
+    question: "Yang menjadi causal Efisien dari Pancasila adalah",
     answer: [
       {
-        text: "Mengirim pasukan perdamaian ke wilayah konflik",
+        text: "Piagam Jakarta",
+        correct: false,
+      },
+      {
+        text: "Bangsa Indonesia",
+        correct: false,
+      },
+      {
+        text: "BPUPKI",
+        correct: false,
+      },
+      {
+        text: "PPKI",
         correct: true,
-      },
-      {
-        text: "Ikut campur dan memihak salah satu blok",
-        correct: false,
-      },
-      {
-        text: "Organisasi yang eropa sentris",
-        correct: false,
-      },
-      {
-        text: "Menghimpun negara sepaham dan seideologi",
-        correct: false,
       },
     ],
   },
   {
     id: 30,
-    question:
-      "Sila dalam pancasila yang tidak mendasari, meliputi, dan menjiwai sila lainya adalah sila...",
+    question: "Yang menjadi causal Materialis dari Pancasila adalah",
     answer: [
       {
-        text: "Pertama",
+        text: "Piagam Jakarta",
         correct: false,
       },
       {
-        text: "Ketiga",
-        correct: false,
-      },
-      {
-        text: "Keempat",
-        correct: false,
-      },
-      {
-        text: "Kelima",
+        text: "Bangsa Indonesia",
         correct: true,
+      },
+      {
+        text: "BPUPKI",
+        correct: false,
+      },
+      {
+        text: "PPKI",
+        correct: false,
       },
     ],
   },

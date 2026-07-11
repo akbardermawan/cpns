@@ -8,10 +8,15 @@ const QuestCpns7 = ({ question, onChecked, check }) => {
 
   return (
     <div className="w-full h-full  max-w-xl bg-white p-6 rounded-xl shadow flex flex-col justify-center">
-      <h2 className="text-sm md:text-xl font-semibold pb-2 pt-5 md:pt-0">
-        <span className="pr-2">{question.id}.</span>
-        {question.question}
-      </h2>
+      <div className="flex items-start">
+        <span className="pr-2 text-sm md:text-xl font-semibold">
+          {question.id}.
+        </span>
+
+        <h2 className="flex-1 text-sm md:text-xl font-semibold pb-2 pt-0 whitespace-pre-line leading-relaxed">
+          {question.question}
+        </h2>
+      </div>
 
       <div className="flex flex-col gap-3">
         {question.options.map((option, index) => (

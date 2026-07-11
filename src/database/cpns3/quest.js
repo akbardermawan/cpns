@@ -8,7 +8,7 @@ export const dataQues = [
   {
     //0 baru2
     id: 2,
-    question: "y + 34y = 42y - 21. Berapakah nilai y?",
+    question: "5y + 34y = 42y - 21. Berapakah nilai y?",
     options: ["7", "8", "9", "10"],
   },
   {
@@ -50,7 +50,7 @@ export const dataQues = [
     //3 baru2
     id: 8,
     question:
-      "Budi meminjam uang di bank sebesar Rp10.000.000,00 dengan bunga 12% per tahun (bunga efektif).Pinjaman tersebut akan dilunasi dalam waktu 1 tahun (12 bulan). Berapa total uang yang dibayarkan budi pada bank?",
+      "Budi meminjam uang di bank sebesar Rp10.000.000,00 dengan bunga 12% per tahun (bunga efektif).Pinjaman tersebut akan dilunasi dalam waktu 1 tahun (12 bulan). Berapa total uang pinjaman diangsur dengan angsuran tetap (anuitas) yang dibayarkan budi pada bank?",
     options: [
       "Rp12.750.000,00",
       "Rp11.200.000,00",
@@ -127,8 +127,8 @@ export const dataQues = [
   {
     //3 baru2
     id: 18,
-    question: "3, 3, 5, 2, 8, 13, 7, ....",
-    options: ["14", "24", "28", "49"],
+    question: " 3, 5, 2, 8, 13, 21, ....",
+    options: ["24", "28", "34", "49"],
   },
   {
     //2 baru2
@@ -168,7 +168,7 @@ export const dataQues = [
     //0 baru2
     id: 23,
     question:
-      "Sekelompok siswa mempunyai hobi olahraga renang, badminton dan tenis. Olahraga renang diikuti 15 siswa, badminton 17 siswa dan tenis 20 siswa. Olahraga renang dan badminton di ikuti 17 orang. badminton dan tenis diikuti oleh 12 orang. Siswa yang  mempunyai hobi renang dan tenis berjumlah 5 orang. Banyak siswa dalam kelompok tersebut adalah ...",
+      "Sekelompok siswa mempunyai hobi olahraga renang, badminton dan tenis. Olahraga renang diikuti 25 siswa, badminton 17 siswa dan tenis 20 siswa. Olahraga renang dan badminton di ikuti 17 orang. badminton dan tenis diikuti oleh 12 orang. Siswa yang  mempunyai hobi renang dan tenis berjumlah 5 orang. Siswa dengan hobi renang, tenis, dan badminton berjumlah 3 orang. Banyak siswa dalam kelompok tersebut adalah ...",
     options: ["31 siswa", "32 siswa", "37 siswa", "40 siswa"],
   },
   {
@@ -203,7 +203,7 @@ export const dataQues = [
     ],
   },
   {
-    //1 baru2
+    //3 baru2
     id: 27,
     question:
       "Semua burung dapat terbang.\nKapal terbang juga dapat terbang.\nMaka kesimpulannya adalah ...",
@@ -239,12 +239,12 @@ export const dataQues = [
     ],
   },
   {
-    //0 baru2
+    //1 baru2
     id: 30,
     question:
       'Hubungan objek pada kalimat "Logam mulia adalah material yang berharga seperti emas." Setara dengan...',
     options: [
-      "Planet dalam adalah benda langit yang panas seperti Merkurius.",
+      "Planet adalah benda langit yang panas seperti Merkurius.",
       "Bumbu dapur adalah bahan yang aromatik seperti jahe.",
       "Kendaraan niaga adalah alat transportasi yang besar seperti truk.",
       "Serangga terbang adalah hewan yang berotot seperti lebah",

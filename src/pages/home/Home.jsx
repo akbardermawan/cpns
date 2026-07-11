@@ -31,12 +31,19 @@ export default function Home() {
           </li>
           <li className="list">
             <Link to="/pp" className="link">
-              <h2 className="text-2xl font-bold">SKD Penyuluh Pertanian</h2>
+              <h2 className="text-2xl font-bold">SKB Penyuluh Pertanian</h2>
             </Link>
           </li>
           <li className="list">
             <Link to="/cpns" className="link">
               <h2 className="text-2xl font-bold">Simulasi CPNS</h2>
+            </Link>
+          </li>
+          <li className="list">
+            <Link to="/cpns+vip" className="link">
+              <h2 className="text-2xl font-bold">
+                CPNS vIP Soal + Pembahasan{" "}
+              </h2>
             </Link>
           </li>
         </ul>

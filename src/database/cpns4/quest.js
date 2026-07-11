@@ -6,10 +6,11 @@ export const dataQues = [
     options: ["120", "130", "150", "170"],
   },
   {
-    //2
+    //0 baru4
     id: 2,
-    question: "1/3 dari (0,125 + 0,043 + 0,021) adalah",
-    options: ["0,620", "0,530", "0,063", "0,056"],
+    question:
+      "Di dalam kotak terdapat 8 bola merah dan 12 bola putih. Diambil satu bola, maka peluang mengambil bola merah adalah ..",
+    options: ["2/5", "3/5", "4/5", "8/12"],
   },
   {
     //2 baru4
@@ -19,28 +20,17 @@ export const dataQues = [
     options: ["Rp 11.000,00", "Rp 26.000,00", "Rp 46.000,00", "Rp 52.000,00"],
   },
   {
-    //2
+    //0 baru4
     id: 4,
     question:
-      "Apabila suatu pekerjaan diselesaikan oleh 15 orang dalam waktu 10 hari. Nilai X = 20 dan Y = banyak orang yang dibutuhkan untuk menyelesaikan pekerjaan tersebut dalam waktu 5 hari. Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
-    options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
-    ],
+      "Di dalam kotak terdapat 5 bola merah, 4 bola biru dan 3 bola hijau. Diambil dua bola, maka peluang kedua bola yang terambil sama-sama merah adalah ...",
+    options: ["5/33", "10/77", "4/132", "1/9"],
   },
   {
-    //1
+    //2 baru4
     id: 5,
-    question:
-      " Nilai X = 555/666 dan Y = 444/555 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
-    options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
-    ],
+    question: "4/7 - 3/2 + 3 x 4/7 = ...",
+    options: ["5/14", "7/14", "11/14", "13/14"],
   },
   {
     //0 baru4
@@ -54,16 +44,16 @@ export const dataQues = [
     ],
   },
   {
-    //2
+    //0 baru4
     id: 7,
-    question: "1/2, 2/8, 3/26, 4/80, ...",
-    options: ["5/241", "5/242", "5/243", "5/244"],
+    question: "1.778² - 1.223² = ...",
+    options: ["1.665.555", "1.245.255", "3.645.235", "2.364.525"],
   },
   {
-    //3
+    //1 baru4
     id: 8,
-    question: "1/2, 2/3, 5/6, 1, ...",
-    options: ["7/3", "9/6", "5/3", "7/6"],
+    question: "21² + 22² + 23² + 24² + 25² = ...",
+    options: ["1275", "2655", "2465", "2975"],
   },
   {
     //1 baru4
@@ -73,96 +63,82 @@ export const dataQues = [
     options: ["8,0", "9,2", "11,8", "14,4"],
   },
   {
-    //2
+    //0 baru4
     id: 10,
     question:
-      "Maheksa dan Yahya berangkat dari Jakarta ke Bekasi. Maheksa berangkat pukul 05.00 WIB dengan kecepatan 75 km/jam, sampai di Bekasi pukul 09.00 WIB. Yahya berangkat pukul 05.30 WIB dengan kecepatan 50 km/jam, pukul berapakah Yahya sampai di Bekasi? ",
-    options: ["10.30 WIB", "11.10 WIB", "11.30 WIB", "11.50 WIB"],
+      "Angga dan Anggun merupakan kakak beradik dengan rumah yang sama dan sekolah yang sama. Anggun berangkat sekolah pukul 06.00 naik sepedah dengan kecepatan 6 km/jam, sedangkan angga berangkat sekolah pukul 06.15 naik sepeda dengan kecepatan 12 km/jam. Jika jarak rumah mereka dengan sekolah 8 km maka pada jarak berapa angga akan menyalip anggun?",
+    options: [
+      "3 km dari rumah",
+      "4 km dari rumah",
+      "6 km dari rumah",
+      "Angga tidak pernah menyalip Anggun",
+    ],
   },
   {
-    //1
+    //2 baru4
     id: 11,
     question:
-      "Agung ingin liburan di Kediri melalui Sidoarjo, Rumah Agung ada di Jember. Jika rute Jember ke Sidoarjo sebanyak 5 rute, sedangkan Sidoarjo ke Kediri ada 6 rute, maka banyaknya pilihan dari Jember ke Kediri pergi pulang dengan tidak boleh melalui rute yang sama adalah ",
-    options: ["30", "300", "600", "900"],
+      "Dalam sebuah rapat dihadiri oleh 20 peserta. Pada akhir acara rapat terjadi jabat tangan antara peserta rapat. Setaip orang akan bersalaman sekali dengan orang yang berbeda. Banyak jabatan tangan yang terjadi adalah...",
+    options: ["150", "180", "190", "210"],
   },
   {
-    //2
+    //3 baru4
     id: 12,
     question:
-      "Gedung bank bergaya arsitecture abad pertengahan itu dibangun pada masa penjajahan belanda. Kalimat yang polanya sama dengan kalimat tersebut adalah ...",
-    options: [
-      "candi borobudur dibangun oleh dinasti Syailendra dari Kerajaan Mataram Kuno.",
-      "Gizi yang berasal dari makanan memberikan energi untuk tubuh.",
-      "Calon Mahaasiswa baru dikumpulkan di Balairung UGM.",
-      "Pada masa penjajahan Belanda, bayak orang Jawa dikirim ke Suriname.",
-    ],
+      "Untuk menyelesaikan sebuah proyek pembuatan film animasi, saya mempekerjakan 9 tim animator, Dalam perhitungan saya, dengan 9 animator seharusnya film animasi akan selesai dalam 250 hari. Namun sebelum proyek dimulai 3 tim animator mengundurkan diri. Dengan jumlah animator yang tersisa, berapa waktu yang dibutuhkan untuk menyelesaikan film ini;",
+    options: ["290 hari", "187 hari", "356 hari", "375 hari"],
   },
   {
-    //3
+    //1 baru4
     id: 13,
     question:
-      "Para alumni SMA Sukasaya akan mengadakan perlombaan secara meriah. Kalimat berikut yang sepola dengan kalimat tersebut adalah, kecuali ...",
+      "Sebanyak 40% dari berat hidup sapi umumnya adalah bagian bukan daging. Seperti tulang, darah hingga organ dalam. Bagian-bagian ini tidak termasuk dalam karkas sapi. Apabila harga jual daging sapi per kg adalah Rp 150.000,-, berapa sebaiknya saya, sebagai penjual daging, membeli sapi hidup yang beratnya 300 kg jika menginginkan keuntungan 20%.",
     options: [
-      "Masyarakat membawa hadiah dengan hati-hati",
-      "Siswi TK itu memakan nasi dengan lambat",
-      "Pegawai itu membuka toko terburu-buru",
-      "Semua berita diberikan secara aktual dan terpercaya",
+      "Rp.21.000.000",
+      "Rp 22.500.000",
+      "Rp 23.400.000",
+      "Rp 24.400.000",
     ],
   },
   {
-    //2
+    //3 baru4
     id: 14,
     question:
-      "Delapan Mahasasiswa dari Universitas Jember Melakukan rapat kegiatan bakti sosial kampus. Mahasiswa tersebut adalah Agung, Maheksa, Ulum, Yahya, Krisna, Aldi, Rizal, Angga. Mereka duduk melingkar dengan situasi sebagai berikut. Yahya duduk tepat bersebrangan dengan Agung. Krisna duduk di samping kiri Yahya. Maheksa duduk diantara Aldi dan Ulum. Angga duduk di antara Agung dan Rizal. Rizal duduk berhadapan dengan Maheksa. Ulum duduk di sisi kiri Agung. Apabila Yahya dan Maheksa bertukar tempat, siapakah yang duduk diantara Maheksa dan Rizal? ",
-    options: ["Aldi", "Angga", "Krisna", "Ulum"],
+      "Sekarung beras dijual dengan mendapat untung 10 persen. Jika untung yang diperoleh sebesar Rp25.000, maka harga jual barang tersebut adalah...",
+    options: ["Rp285.000", "Rp295.000", "Rp265.000", "Rp275.000"],
   },
   {
-    //2
+    //1 baru4
     id: 15,
     question:
-      "Suatu meja bundar dikelilingi empat buah kursi. Agung, Maheksa, Ulum dan Yahya menempati kursi tersebut. Meheksa dan Yahya duduk saling berhadapan. Jika Agung duduk di sebelah kiri Maheksa, maka pernyataan yang salah adalah ...",
-    options: [
-      "Maheksa duduk di sebelah kanan Agung",
-      "Yahya duduk di sebelah kanan Ulum",
-      "Ulum duduk di sebelah kiri Agung",
-      "Agugn duduk di sebelah kanan Yahya",
-    ],
+      "Pak Satya membeli 2 keranjang pepaya dan dijual kembali dengan harga Rp532.000. Jika mendapat untung 50%, berapa rupiah kah harga pembelian dua keranjang pepaya tersebut?",
+    options: ["Rp.190.000", "Rp.354.000", "Rp.380.000", "Rp.385.000"],
   },
   {
-    //2
+    //2 baru4
     id: 16,
     question:
-      " Nilai X = 240 x 236 - 238 x 238 dan Y = 348 x 348 - 349 x 347 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
-    options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
-    ],
+      " Seorang padagang ikan eceran membeli ikan dari nelayan seharga Rp2.100.000. Karena sedang musim hujan, maka dagangannya cenderung sepi. Ia hanya mampu jual 3/4 dari total barang dagangannya. Jika awalnya ia ingin mendapatkan untung 25% dari total modal. Berapa kerugian yang ditanggung pedagang tersebut?",
+    options: ["Rp. 91.250", "Rp.111.250", "Rp.131.250", "Rp.151.250"],
   },
   {
-    //1
+    //0 baru4
     id: 17,
     question:
-      " Diketahui sebuah pesawat terbang membutuhkan 12 detik untuk menempuh jarak 4 km. Nilai X = Kecepatan pesawat tersebut dalam satuan km/jam dan Y = 720 km/jam. Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ... ",
+      "Viera sedang mengalami masalah keuangan. Akhirnya ia menggadaikan motornya di pegadaian dengan mendapatkan pinjaman uang di Bank sebesar 7 juta rupiah dengan bunga yang harus dibayarkan sebesar 15% per tahun. Besar bunga yang harus dibayar Viera selama satu tahun adalah...",
     options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
+      "Rp. 1.050.000",
+      "Rp. 1.300.000",
+      "Rp. 1.600.000",
+      "Rp. 1.750.000",
     ],
   },
   {
-    //0
+    //1 baru4
     id: 18,
-    question: "..., ..., ..., 422, 1.266, 1.280, 3.840",
-    options: [
-      "122, 136, 408",
-      "164, 178, 412",
-      "120, 138, 408",
-      "128, 140, 406",
-    ],
+    question:
+      "Proyek pembangunan direncanakan selesai dalam 40 hari dengan 30 pekerja. Setelah 20 hari bekerja, proyek dihentikan selama 5 hari karena cuaca buruk. Agar proyek tetap selesai tepat waktu, berapakah tambahan pekerja yang diperlukan?",
+    options: ["5 orang", "10 orang", "15 orang", "20 orang"],
   },
   {
     //1
@@ -171,15 +147,15 @@ export const dataQues = [
     options: ["2, 6, 14", "3, 3, 6", "2, 4, 8", "3, 7, 12"],
   },
   {
-    //3
+    //3 baru4
     id: 20,
     question:
-      "Bu Lili akan melakukan diskusi dengan enam siswanya dengan menempati delapan kursi yang tersusun melingkar. Bu Lili duduk berhadapan dengan Faiz. Bagus terpisah satu kursi di kiri Bu Lili dan menghadap Amanda. Calista duduk tepat di kanan Faiz dana menghadap  Eksanti. Jika Daniel duduk di kiri Faiz maka pernyataan yang benar adalah ... ",
+      "Tujuh orang murid peserta studi tur harus menginap dalam dua kamar. Kamar pertama dapat memuat empat orang. Amel tidak mau sekamar dengan Gita. Dita merasa tertekan jika ada Cici dan Dina. Cici ingin sekamar dengan Dina. Effy tidak ingin sekamar dengan Fitri jika Dina sekamar dengan Amel. Berdasarkan kondisi tersebut, bagaimanakah pembagian kamar yang paling memungkinkan?",
     options: [
-      "Amanda terpisah satu kursi dengan kursi kosong",
-      "Daniel menempati kursi tepat di sebelah kiri Amanda",
-      "Bagus dan Faiz dipisahkan oleh dua kursi",
-      "Kursi kosong ada diantara Bu Lili dan Bagus",
+      "Kamar 1: Gita, Fitri, Effy, Cici; Kamar 2: Dina, Dita, Amel",
+      "Kamar 1: Amel, Fitri, Dina, Effy; Kamar 2: Gita, Cici, Dita",
+      "Kamar 1: Gita, Fitri, Dita, Amel; Kamar 2: Cici, Dina, Effy",
+      "Kamar 1: Amel, Effy, Cici, Dina; Kamar 2: Gita, Fitri, Dita",
     ],
   },
   {
@@ -195,22 +171,27 @@ export const dataQues = [
     ],
   },
   {
-    //1
+    //0 baru4
     id: 22,
-    question: "Pikiran : Otak = ... : ...",
+    question: "Tembakau : Rokok : Isap = ... : ... : ...",
     options: [
-      "Buku : Printer",
-      "Kata-kata : Lisan",
-      "Komputer : Ketikan",
-      "Awan : Langit",
+      "Gandum : Roti : Makan",
+      "Kulit : Sepatu : Kaki",
+      "Plastik : Sisir : Rambut",
+      "Beras : Nasi : Jemur",
     ],
   },
   {
-    //2
+    //3 baru4
     id: 23,
     question:
-      "Tiga kesenian negara A akan melakukan pertunjukan di negara F dan mereka pergi menggunakan pesawat. Terdapat penerbangan langsung dari negara A ke negara F. Namun, ada alternatif jalur lain yang lebih murah. Terdapat penerbangan dari negara A ke negara B atau negara C. Dari negara B ada penerbangan ke negara D. Dari negara C ada penerbangan ke negara E. Sementara itu dari negara D ada penerbangan langsung ke negara F, betu pula dari negara E ke negara F. Berapa alternatif jalur yang bisa ditempuh oleh tim kesenian negara A tersebut untuk melakukan perjalanan ke negera F?",
-    options: ["1 jalur", "2 jalur", "3 jalur", "4 jalur"],
+      "Premis 1: Semua unsur kimia berada di alam.\nPremis 2: Sebagian penyusun tubuh manusia adalah unsur kimia.\nKesimpulan dari pernyataan tersebut adalah...",
+    options: [
+      "Semua unsur kimia adalah penyusun tubuh manusia.",
+      "Semua penyusun tubuh manusia berada di alam.",
+      "Sebagian yang berada di alam tidak menyusun tubuh manusia.",
+      "Sebagian penyusun tubuh manusia berada di alam",
+    ],
   },
   {
     //3
@@ -414,15 +395,15 @@ export const dataQues = [
     ],
   },
   {
-    //3
+    //2 baru4
     id: 43,
     question:
-      "Salah satu perlunya transparansi kinerja yaitu agar terhindar dari konflik kepentingan dan terhindar dari tindakan penyuapan. Hal ini perlu dilakukan untuk membentuk ... ",
+      "Fungsi integritas terbagi menjadi dua, yaitu cognitive functions of integrity dan affective functions of integrity. Affective functions of integrity tersebut meliputi …",
     options: [
-      "Sistem Antikorupsi",
-      "Pengelolahan Sumberdaya Manusia",
-      "Karakter Pengawas Instansi",
-      "Budaya Organisasi",
+      "conscience dan self insight",
+      "self insight dan self regard",
+      "conscience dan self regard",
+      "kecerdasan moral dan self insight",
     ],
   },
   {

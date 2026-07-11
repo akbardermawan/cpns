@@ -74,10 +74,10 @@ export const dataQues = [
     //2
     id: 9,
     question:
-      "Diketahui jarak kota A dan B adalah 100 km. Aldi berangkat dari kota A ke kota B dengan kecepatan 40 km/jam, disaat beersamaan slatem berangkat dari kota B ke kota A dengan kecepatan 50 km/jam. kira kira Aldi dan Slatem akan bertemu di mana?",
+      "Diketahui jarak kota A dan B adalah 100 km. Aldi berangkat dari kota A ke kota B dengan kecepatan 40 km/jam, disaat beersamaan slatem berangkat dari kota B ke kota A dengan kecepatan 60 km/jam. kira kira Aldi dan Slatem akan bertemu di mana?",
     options: [
       "60 km dari kota A",
-      "60 km dari kota B",
+      "50 km dari kota B",
       "40 km dari kota A",
       "40 km dari kota B",
     ],
@@ -100,7 +100,7 @@ export const dataQues = [
     //2
     id: 12,
     question:
-      "Gedung bank bergaya arsitecture abad pertengahan itu dibangun pada masa penjajahan belanda. Kalimat yang polanya sama dengan kalimat tersebut adalah ...",
+      "Gedung bank bergaya arsitecture abad pertengahan itu dibangun pada masa penjajahan belanda.\nKalimat yang polanya sama dengan kalimat tersebut adalah ...",
     options: [
       "candi borobudur dibangun oleh dinasti Syailendra dari Kerajaan Mataram Kuno.",
       "Gizi yang berasal dari makanan memberikan energi untuk tubuh.",

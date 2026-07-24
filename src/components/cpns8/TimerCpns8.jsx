@@ -7,7 +7,7 @@ const TimerCpns8 = () => {
   // ambil waktu dari localStorage jika ada
   const [time, setTime] = useState(() => {
     const savedTime = localStorage.getItem("quizTimer");
-    return savedTime ? parseInt(savedTime) : 60 * 60;
+    return savedTime ? parseInt(savedTime) : 90 * 60;
   });
 
   useEffect(() => {

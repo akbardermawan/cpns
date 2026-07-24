@@ -51,26 +51,23 @@ const RoomCpns3 = () => {
 
   return (
     <div className="flex flex-col md:flex-row justify-center items-center h-screen">
-      <div className="flex flex-col w-full h-[70%] md:w-[70%] md:h-[65%] justify-center items-center">
+      <div className="flex flex-col w-full h-screen md:w-[70%] md:h-[65%] justify-center items-center">
         <div className="absolute top-5 right-5 m-2">
           <TimerCpns3 />
         </div>
 
-        <h1 className="text-black m-5 text-xl md:text-4xl font-semibold">
-          Quiz Application
-        </h1>
-
         {/* kirim data soal */}
         <QuestCpns3
+          className="w-full h-full"
           question={dataQues[trace]}
           onChecked={onChecked}
           check={answers[trace]} // ambil jawaban dari state
         />
 
-        <div className="flex w-full max-w-4xl justify-between md:justify-center px-5 pt-2 ">
+        <div className="flex w-full max-w-4xl justify-between md:justify-center px-5  transform translate-y-12">
           <div className="px-5 flex w-[50%] justify-around">
             <button
-              className="m-10 cursor-pointer bg-amber-300 rounded-2xl p-2"
+              className="m-10 cursor-pointer bg-amber-300 rounded-2xl p-2 "
               onClick={onPrev}
             >
               Prev
@@ -103,7 +100,7 @@ const RoomCpns3 = () => {
         </div>
       </div>
 
-      <div className="w-full h-[30%] md:w-[30%] md:h-[90%] py-2 px-8">
+      <div className="w-full h-[30%] md:w-[30%] md:h-[90%] py-2 px-8 pt-20 md:pt-1">
         <NavCpns3 answers={answers} setTrace={setTrace} />
       </div>
     </div>

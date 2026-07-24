@@ -55,12 +55,12 @@ export default function Twk2() {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
       <div className="w-full max-w-3xl bg-white rounded-xl shadow-lg p-6">
         {/* Question */}
-        <div className="text-xl font-semibold text-gray-800 mb-6">
+        <div className="text-xl md:text-2xl xl:text-3xl font-semibold text-gray-800 mb-6">
           {ques?.question}
         </div>
 
         {/* Answers */}
-        <div className="space-y-4">
+        <div className="space-y-4 md:text-xl">
           {ques?.answer.map((a, index) => (
             <div
               key={index}

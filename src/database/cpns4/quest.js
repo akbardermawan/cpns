@@ -141,10 +141,11 @@ export const dataQues = [
     options: ["5 orang", "10 orang", "15 orang", "20 orang"],
   },
   {
-    //1
+    //2 baru4
     id: 19,
-    question: "..., ..., ..., 18, 72, 360, 2.160",
-    options: ["2, 6, 14", "3, 3, 6", "2, 4, 8", "3, 7, 12"],
+    question:
+      "Perbandingan uang Rina dan Siska adalah 7 : 9. Jika jumlah uang mereka Rp4.800.000, selisih uang keduanya adalah ....",
+    options: ["Rp400.000", "Rp500.000", "Rp600.000", "Rp700.000"],
   },
   {
     //3 baru4
@@ -159,16 +160,10 @@ export const dataQues = [
     ],
   },
   {
-    //3
+    //2 baru4
     id: 21,
-    question:
-      "Berikut hasil suvei tempat wisata di Jember. Pantai Payangan dan Pantai Watu Ulo dinyatakan bernilai sama, namun msah lebih kecil dibandingkan dengan Pantai Puger. Pantai Papuma lebih disukai dari Pantai Puger. Pantai Puger lebih disukai dari Pantai Paseban Berdasarkan survei tersebut, jika urutan Pantai Payangan berada tepat setelah Pantai Puger maka wisata yang paling sedikit diminati adalah",
-    options: [
-      "Pantai Papuma",
-      "Pantai Puger",
-      "Pantai Payangan",
-      "Pantai Paseban",
-    ],
+    question: "Marah : Murka = Perselisihan : ...",
+    options: ["Perdebatan", "Konflik", "Peperangan", "Diskusi"],
   },
   {
     //0 baru4
@@ -194,96 +189,80 @@ export const dataQues = [
     ],
   },
   {
-    //3
+    //0 baru4
     id: 24,
     question:
-      "Seorang politisi ingin berkampanye pada suatu daerah, yang akan dia kunjungi hanya ada 4 tempat dari kota G ke kota A pada deerah itu. Kota A hanya dapat ditempuh dari kota B, C, dan D. kota B dapat ditempuh dari E dan F. C hanya dapat ditempuh dari E, F hanya bisa ke B, sedangkan D, E, dan F bisa ditempuh dari G. Kota manakah yang urutan ketiga dia berkampanye jika salah satu saja yang dipilih ...",
-    options: ["F", "E", "D", "C"],
+      "Seorang mitra kurir di ekspedisi X tidak mendapatkan gaji pokok, namun setiap hari dia mendapat tunjangan transportasi sebesar Rp 50.000 per hari. Di tambah dengan upah Rp1.500,- untuk setiap paket yang dikirimkan. Jika dalam sebulan kurir tersebut bekerja selama 15 hari, berapa rata-rata paket yang harus dia antarkan setiap hari agar penghasilannya dalam 1 bulan mencapai Rp. 3.000.000,-",
+    options: ["100 paket", "95 paket", "90 paket", "80 paket"],
   },
   {
-    //0
+    //2 baru4
     id: 25,
     question:
-      "Dalam sebuah pertandingan sepak bola, Grace harus mengoper bola ke beberapa pemain agar dapat menyarangkan bola ke gawang lawan. Di dekat gawang ada Marco, Grace bisa mengoper ke Haris dan Iwan. Haris bisa mengoper ke Karni dan Jaka, sedangkan Iwan bisa mengoper ke Jaka dan Luki. Jaka bisa mengoper ke Luki, tetapi tidak ke karni. Luki tidak bisa mengoper ke Marco, sedangkan Karni bisa mengoper ke Marco sehinggg Marco dapat menendang ke arah gawang lawan. Ada beberapa alternatif jalur yang bisa ditempuh agara boal dapat sampai dari Grace ke Marco?",
-    options: ["1 cara", "2 cara", "3 cara", "4 cara"],
+      "Gajah memiliki belalai dan gading.\nHubungan ini sama dangan ...",
+    options: [
+      "Harimau memiliki kuku dan taring",
+      "Lebah memiliki sayap dan antena",
+      "Semut tentara memiliki rahang dan antena",
+      "Ikan piranha memiliki gigi runcing dan ekor",
+    ],
   },
   {
-    //3
+    //1 baru4
     id: 26,
-    question: "Hasil dari 6 + 0,75 - 5/2 adalah ...",
-    options: ["14/4", "15/4", "16/4", "17/4"],
+    question: "Kemarau : Panas = Gunung : ...",
+    options: ["Lava", "sejuk", "Hutan", "Tebing"],
   },
   {
-    //1
+    //3 baru4
     id: 27,
     question:
-      "Pada saat menjelang liburan, Santi berencana pergi ke luar kota. Jika Santi pergi ke Yogyakarta. Ia akan mengajak adiknya. Jika Santi pergi ke Bali, ia akan mengajak temannya. Pada saat liburan, ia tidak mengajak adik atau temananya. Simpulan yang paling tepat adalah ...",
+      "Ayam itu belum makan.\nKalimat yaang berpola sama dengan pola tersebut adalah...",
     options: [
-      "Santi tidak pergi ke Yogyakarta, tetapi ke Bali",
-      "Santi tidak pergi ke Bali atau ke Yogyakarta",
-      "Santi memutuskan libuaran ke kota lain",
-      "Santi pergi ke Bali atau Yogyakarta",
+      "Anak perempuan itu sedang membaca sebuah buku novel",
+      "Bibi sedang merajut kain",
+      "Tubuh Doni telah bermandikan cahaya matahari",
+      "Para santri sedang mengaji",
     ],
   },
   {
-    //1
+    //0 baru4
     id: 28,
     question:
-      "Kegiatan ekstrakurikuler di luar ruangan jika diadakan pada hari Minggu. Jika kegiatanekstrakulikuler dilakukan di luar ruangan, siswa mengenakan pakaian dinas lapangan. Simpulan yang tepat adalah ...",
-    options: [
-      "Jika kegiatan tidak diadakan pada hari Minggu, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa tidak mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler tidak diadakan pada hari Minggu",
-      "Jika kegiatan ekstrakurikuler tidak dilakukan di luar ruangan, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler diadakan pada hari Minggu",
-    ],
+      "David menabung di bank selama 9 bulan dengan besar tabungan awal senilai 11 juta rupiah. Saat mengambil uangnya, besar tabungan David menjadi Rp 11.371.250. Bunga yang diberikan oleh bank sebanyak … per tahun",
+    options: ["4,5%", "6%", "7,5%", "8%"],
   },
   {
-    //2
+    //3 baru4
     id: 29,
-    question:
-      "Agung mengerjakan soal SKD dengan teliti. Kalimat yang mempunyai pola sama dengan pola tersebut adalah ... ",
-    options: [
-      "Maheksa menangis dengan keras",
-      "Krisan membaca komik yang lucu",
-      "Siswa kelas 12 meranyakan kelulusan secara meriah",
-      "Yahya bekerja dengan giat",
-    ],
+    question: "Panas : Terik = Cair : ...",
+    options: ["Padat", "Meleleh", "Dingin", "Encer"],
   },
   {
-    //3
+    //2 baru4
     id: 30,
     question:
-      "Kucing-kucing itu bertengger di atas dahan-dahan pohon. Kalimat yang mempunyai pola yang sama dengan pola tersebut adalah ",
-    options: [
-      "Mereka berdua saling berpeganagan tangan",
-      "Karya seni itu bertemakan nasionalisme",
-      "Ibu membeli sayur di pasar",
-      "Anak-anak sedang bermain di stadion",
-    ],
+      "Uang Doni dan Eko berbanding 5 : 8. Doni menerima tambahan uang sebesar Rp120.000, sedangkan Eko mengeluarkan uang sebesar Rp90.000 sehingga perbandingan uang mereka menjadi 7 : 9. Besar uang Eko sebelum perubahan adalah ....",
+    options: ["Rp720.000", "Rp840.000", "Rp960.000", "Rp1.080.000"],
   },
   {
-    //2
+    //3 baru4
     id: 31,
     question:
-      "Jika hari panas, maka Nissa memakai topi. Nissa tidak memakai topi atau ia memakai payung. Nissa tidak memaki payung. Kesimpulan yang sah adalah ...",
+      "Semua lapangan futsal digunakan saat lapangan banjir.\nLapangan futsal hari ini tidak digunakan.",
     options: [
-      "Hari panas",
-      "Nissa memakai topi",
-      "Hari tidak panas",
-      "Hari panas dan Nissa memakai topi",
+      "Hari ini tidak hujan sehingga lapangan tidak banjir",
+      "Hari ini panas sehingga kegiatan olahraga dilaksanakan di lapangan",
+      "Hari ini olahraga di lapangan",
+      "Tidak dapat disimpulkan",
     ],
   },
   {
-    //2
+    //1 baru4
     id: 32,
     question:
-      "Kita mengetahui bahwa mobil memiliki kursi penumpang dan bagasi. Hubungan ini sama dengan ... ",
-    options: [
-      "Pohon memerlukan air dan cahaya",
-      "Dalam pesawat ada pilot dan pramugari",
-      "Sepeda memiliki pedal dan roda",
-      "CPU memerlukan listrik dan monitor",
-    ],
+      "Uang Doni dan Eko berbanding 5 : 8. Setelah Doni memberikan 20% dari uangnya kepada Eko, perbandingan uang mereka menjadi 2 : 5. Jumlah uang Doni dan Eko mula-mula adalah ....",
+    options: ["Rp1.820.000", "Rp2.340.000", "Rp2.600.000", "Rp3.120.000"],
   },
   {
     //3
@@ -371,27 +350,27 @@ export const dataQues = [
     ],
   },
   {
-    //0
+    //1 baru4
     id: 41,
     question:
-      "Presiden Soeharto memegang jabatan lebih dari 30 tahun melalui pemilihan presiden yang dilakukan oleh MPRl. Setelah amandemen UUD 1945, MPR tidak lagi melakukan pemilihan presiden sejak tahun 2004 dan pada tahun itu Indonesia pertama kali memiliki presiden berdasarkan pilihan rakyat. Perubahan kewenangan MPR disebabkan karena ...",
+      "Kemenangan tanpa syarat Jepang atas sekutu berakhir dengan adanya perjanjian Linggar Jati yang diadakan di subang, Jawa Barat. Isi perjanjian tersebut adalah penyerahan hak atas tanah penjajahan Belanda di Indonesia kepada pemerintahan pendudukan Jepang. meskipun kedatangan jepang tersebut sama halnya dengan Belanda mempunyai tujuan untuk menjajah, namun Jepang pada awalnya diterima dan disambut baik oleh bangsa Indonesia. Di bawah ini yang bukan merupakan alasan diterimanya Jepang oleh bangsa Indonesia adalah ….",
     options: [
-      "Kedaulatan berada di tangan rakyat",
-      "Kedaulatan sepenuhnya dilakkukan melalui pilpres langsung",
-      "Kedaulatan berada di ditangan legisatif dan presiden/wapres yang dilakukan melalui mekanisme pemilihan langsung",
-      "Kedaulatan dilaksanakan oleh presiden sebagai Mandate MPR",
+      "Semboyan Hakko ichiu, yakni dunia dalam satu keluarga dan Jepang adalah pemimpin keluarga tersebut yang berusaha menciptakan kemakmuran bersama",
+      "Perlakuan Jepang yang lebih baik dan humanis dibandingkan dengan penjajahan Belanda",
+      "Pernyataan Jepang bahwa kedatangannya bukan untuk menjajah, naun membebaskan dari penjajahan Belanda",
+      "Propaganda 3A Jepang cahaya asia, Jepang pelindung Asia dan Jepang pemimpin Asia",
     ],
   },
   {
-    //0
+    //3 baru4
     id: 42,
     question:
-      "Indonesia sebagai sebuah negara kesatuan yang berbentuk republik memiliki landasan konstitusional yang kuat, yang dijelaskan dalam Pasal 1 Ayat (1) UUD 1945. Dalam konteks ini, Negara Indonesia yang merupakan bentuk kesatuan memiliki arti sebagai ... ",
+      "Perubahan Undang Undang Dasar Negara Republik Indonesia dalam ilmu hukum disebut dengan istilah Amandemen Undang-Undang Dasar yang telah dilakukan sebanyak empat kali telah mempengaruhi secara substansial dan telah mengubah sistem ketatanegaraan Indonesia secara mendasar. Setelah Indonesia merdeka pada tahun 1945, sistem hukum yang berlaku tidak segera mengalami perubahan. Pada tahun 1950 sampai dengan tahun 1959, Indonesia menggunakan Undang-Undang Dasar Sementara 1950 sebagai dasar negaranya. UUDS tersebut dimulai pada 17 Agustus 1950 sampai dengan lahirnya dekrit Presiden pada 5 Juli 1959 yang dikeluarkan Presiden Soekarno. Pelaksanaan pada masa berlakunya Undang-undang Dasar Sementara ini berjalan kacau dan tidak menemukan jalan yang tepat dalam merancang konstitusi yang utuh. Hal yang menyebabkan demikian terjadi dipengaruhi beberapa kondisi, kecuali…",
     options: [
-      "Indonesia memiliki suatu pemerintahan pusat yang mengatur seluruh wilayahnya",
-      "Indonesia terdiri dari beberapa negara bagian yang saling berdiri sendiri",
-      "Indonesia memiliki beberapa pemerintahan pusat yang saling bekerja sama",
-      "Indonesia terdiri dari beberapa wilayah yang memiliki otonomi khusus",
+      "Banyaknya intervensi dan konsep dari partai politik yang garis idea nya berbeda",
+      "Kabinet pemerintahan yang sering berganti",
+      "Badan konstituante yang bekerja dengan ego masing-masing dalam membawa kepentingan ideologi partai",
+      "Negara dengan partai politiknya yang terlalu stabil dalam politik",
     ],
   },
   {
@@ -407,113 +386,122 @@ export const dataQues = [
     ],
   },
   {
-    //0
+    //2 baru4
     id: 44,
     question:
-      "Makna yang terkandung Pancasila sebagai philsophie grondslag adalah ",
+      "Setelah kemerdekaan Indonesia pada 17 Agustus 1945, pada 12 September 1945 dibentuklah pemerintahan pertama di Indonesia, dengan dibentuknya Kabinet Presidensial, yang dipimpin oleh Presiden Soekarno dan Wakil Presiden Mohammad Hatta. Pemerintahan Indonesia saat ini berbentuk pemerintahan Sistem Presidensial, dimana menteri pada Kabinet ditunjuk oleh Presiden dan dengan kekuasaan besar di Presiden Sukarno. Situasi ini ditentang oleh kalangan Sosialis di KNIP (Komite Nasional Indonesia Pusat), yang dipimpin oleh Sutan Syahrir. Maka dilakukan perubahan sistem pemerintahan yang pertama di negara Indonesia, sistem pemerintahan presidensial diubah menjadi sistem pemerintahan parlementer. Apa yang melatar belakangi secara yuridis dalam sejarah bangsa atas terjadinya perubahan tersebut ….",
     options: [
-      "Pancasila sebagai dasar filsafat negara",
-      "Pancasila sebagai alat pemersatu",
-      "Pancasila sebagai ideologi bangsa indonesia",
-      "Pancasila sebagai perjanjian luhur bangsa indonesia",
+      "Perubahan ini dilatar belakangi adanya tentangan dari beberapa anggota KNIP, yang dipimpin Sutan Syahrir",
+      "Adanya anggapan sistem ini mengarah ke autokrasi dan diktatorisme oleh kekuasaan Presiden",
+      "Dikeluarkannya Maklumat Wakil Presiden tanggal 16 Oktober 1945 dan Maklumat Pemerintah tanggal 14 November 1945",
+      "Adanya petisi tentang perubahan sistem pemerintahan dari KNIP sebelum diubahnya menjadi badan legislatif pada masa itu. Dan menyerahkan petisi itu yang disetujui oleh 50 anggota KNIP kepada Ir.Soekarno sebagai presiden",
     ],
   },
   {
-    //1
+    //2 baru4
     id: 45,
     question:
-      "Seorang karyawan yang bekerja di sebauh perusahaan selalu menyelesaikan pekerjaanya tepat waktu dan dengan kualitas yang sangat baik. Namun, suatu saat dia mengalami masalah pribadi yang membuatnya tidak bisa fokus pada pekerjaannya. Apa yang seharusnya dilakukan karyawan tersebut untuk mempertahankan komitmen dan integritasnya di tempat kerja?",
+      "Identitas nasional merupakan suatu karakteristik atau jati diri suatu bangsa yang dapat membedakan ciri khasnya dengan bangsa lain, karena suatu ciri khas bangsa terletak pada konsep bangsa itu sendiri. Kedudukan Identitas nasional sebagai karakter bangsa, Ada beberapa fungsi Identitas nasional yaitu, sebagai alat pemersatu bangsa dan sebagai jati diri bangsayang membedakan dengan bangsa lain. Dalam memahami Identitas nasional sebagai alat pemersatu bangsa, kita perlu mengetahui perangkat apa yang dimaksud sebagai Identitas nasional sebagai alat pemersatu bangsa, dibawah ini adalah ….",
     options: [
-      "Menyelesaikan pekerjaannya setelah masalah pribadinya selesai, tanpa memberi tahu rekan kerjanya tentang masalah tersebut",
-      "Meminta cuti atau izin untuk menyelesaikan masalah pribadinya agar bisa fokus pada pekerjaanya di kemudian hari",
-      "Menyelesaikan pekerjaan dengan kualitas yang kurang baik karena dia tidak bisa fokus pada pekerjaannya",
-      "Menyelesaikan pekerjaannya dengan bantuan rekan kerjanya agar bisa memenuhi standar kualitas yang diharapkan",
+      "Lambang negara Indonesia",
+      "Bentuk pemerintahan negara Republik",
+      "Pancasila sebagai weltanschauung",
+      "Adat istiadat daerah",
     ],
   },
   {
-    //2
+    //2 baru4
     id: 46,
-    question:
-      "Mahkamah Agung berwenang mengadili pada tingkat kasasi, menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang, dan mempunyai wewenang lainnya yang diberikan oleh undang-undang. Merupakan bunyi UUD 1945 pasal ...",
-    options: ["24 ayat 1", "24 ayat 2", "24A ayat 1", "24A ayat 2"],
+    question: "Wujud bela negara di lingkungan masyarakat, kecuali …",
+    options: [
+      "Berhati-hati dan bersikap selektif terhadap budaya asing",
+      "Melaksanakan ronda malam dan siskamling",
+      "Belajar dengan rajin dan giat",
+      "Menjaga kebersihan lingkungan dengan prinsip gotong royong",
+    ],
   },
   {
-    //0
+    //1 baru4
     id: 47,
     question:
-      "Dalam suatu organisasi, terdapat seorang karyawan yang menemukan adanya kecurangan dalam pengelolaan keuangan. Apa yang seharusnya dilakukan oleh karyawan tersebut? ",
+      "Seorang pejabat pengadaan barang menerima kiriman parsel mewah dari rekanan setelah proyek selesai tanpa kesepakatan sebelumnya. Ia merasa tidak enak menolak karena rekanan tersebut adalah teman lamanya. Tindakan paling tepat berdasarkan prinsip integritas adalah...",
     options: [
-      "Melaporakan kecurangan tersebut kepada atasan langsunya",
-      "Menutup mata dan tidak melaporkan kecurangan tersebut",
-      "Mencoba mengatasi sendiri tanpa melaporkan kepada siapa pun",
-      "Meminta saran dari teman sejawat sebelum melaporkan kecurangan tersebut",
+      "Menerima parsel tersebut sebagai bentuk menjaga hubungan pertemanan profesional.",
+      "Melaporkan penerimaan gratifikasi tersebut kepada Unit Pengendalian Gratifikasi instansi.",
+      "Menyumbangkan parsel tersebut ke panti asuhan agar lebih bermanfaat bagi sesama.",
+      "Mengembalikan parsel secara langsung disertai surat teguran keras kepada rekanan tersebut.",
     ],
   },
   {
-    //2
+    //2 baru4
     id: 48,
     question:
-      "Apabila Dewan Perwakilan Rakyat tidak menyetujui rancangan anggaran pendapatan dan belanja negara yang diusulkan oleh Presiden, Pemerintah menjalankan Anggaran Pendapatan dan Belanja Negara tahun yang lalu. Merupakan bunyi UUD 1945 pasal ...",
-    options: ["23 ayat 1", "23 ayat 2", "23 ayat 3", "23 ayat 4"],
+      "Anda melihat rekan kerja senior memanipulasi laporan perjalanan dinas untuk mendapatkan uang saku lebih. Ia meminta Anda merahasiakannya demi kekompakan tim kerja. Sikap integritas yang harus Anda tunjukkan adalah...",
+    options: [
+      "Menasihatinya secara pribadi dan membiarkannya jika ia menolak untuk berubah.",
+      "Menolak ikut campur karena hal tersebut bukan merupakan tanggung jawab kerja Anda.",
+      "Melaporkan tindakan tersebut ke atasan langsung atau melalui sistem whistleblowing.",
+      "Mengikuti sarannya demi menjaga keharmonisan dan solidaritas internal tim kerja.",
+    ],
   },
   {
-    //3
+    //1 baru4
     id: 49,
     question:
-      "Seorang menager di sebuah perusahaan memiliki reputasi yang baik derena selalu memenuhi janji-janjinya. Namun, suatu saat dia berjanji memberikan kenaikan gaji salah satu karyawanya yang telah bekerja keras, tetapi kemudian dia memutuskan untuk tidak memberikan kenaikan gaji tersebut. Apa yang seharusnya dilakukan oleh menajer tersebut untuk mempertahankan konsistensi dan integritasnya? ",
+      "Saat Yogyakarta jatuh ke tangan Belanda pada Agresi Militer II, Syafruddin Prawiranegara membentuk Pemerintah Darurat Republik Indonesia (PDRI) di Sumatra. Aksi penyelamatan eksistensi negara ini merupakan wujud bela negara karena...",
     options: [
-      "Memberikan kenaikan gaji pada karyawan tersebut agar tidak kehilangan reputasi baik yang telah dibangunnya",
-      "Menjelaskan kepada karyawan tersebut bahwa kebijakan perusahaan berubah dan kenaikan gaji tidak lagi bisa diberikan",
-      "Mengalihkan perhatian karyawan dengan memberikan bonus lain, seperti tunjangan kesehatan atau cuti tambahan",
-      "Meminta maaf kepada karyawan tersebut dan berjanji untuk memberikan kompensasi di masa depan jika ada kesempatan",
+      "Menunjukkan kekuatan militer taktis yang sanggup menghancurkan seluruh basis pertahanan musuh.",
+      "Mengisi kekosongan kepemimpinan negara guna menyelamatkan kedaulatan NKRI di mata internasional.",
+      "Keharusan mematuhi piagam perserikatan bangsa-bangsa mengenai hak menentukan nasib sendiri.",
+      "Dukungan penuh dari negara-negara Asia tetangga terhadap perjuangan kemerdekaan Indonesia.",
     ],
   },
   {
-    //0
+    //1 baru4
     id: 50,
     question:
-      "Menurut Undang-Undang Dasar 1945 pasal 13 President memiliki hak sebagai berikut ... ",
+      "Dalam rapat desa, ketua RT memutuskan pembangunan jembatan dilakukan secara voting karena musyawarah mufakat tidak mencapai kesepakatan setelah berdiskusi lama. Keputusan voting ini tetap sesuai dengan sila keempat Pancasila karena...",
     options: [
-      "Mengangkat duta dan konsul dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Memberi grasi dan rehabilitasi dengan memperhatikan Mahkamah Agung",
-      "Memberi amnesti dan abolisi dengan memperhatikan pertimbangan Dewan Perwakilan Rakyat (DPR)",
-      "Menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain",
+      "Menunjukkan kepatuhan mutlak warga desa terhadap instruksi sepihak ketua RT setempat.",
+      "Dilakukan setelah proses musyawarah dijalankan maksimal demi kepentingan bersama warga.",
+      "Menghindari tanggung jawab ketua RT dalam mengambil keputusan penting pembangunan desa.",
+      "Membatasi ruang penyampaian pendapat bagi kelompok minoritas yang tidak setuju pembangunan.",
     ],
   },
   {
-    //1
+    //0 baru4
     id: 51,
     question:
-      "Cinta tanah air adalah bangga dan juga memiliki sebuah wilayah tertentu. Rasa cinta tanah air sangat penting untuk dimiliki sejak kecil, oleh karena itu banyak diadakan kegiatan dalam menunjang persatuan. Kegiatan yang dapat diselenggarakan untuk mempertemukan beberapa kebudayaan daerah yang ada di Indonesia melauli bentuk pentas dan seni adalah dengan ...",
+      "Seorang petani muda sukses mengembangkan varietas bibit unggul lokal yang tahan hama sehingga meningkatkan hasil panen daerah tanpa pupuk impor. Kontribusi petani ini dikategorikan sebagai aksi bela negara karena...",
     options: [
-      "Mengadakan konser musik secar rutin untuk dapat dinikmati oleh masyarakat",
-      "Mengadakan kegiatan festifal kebudayaan yang melibatkan elemen masyarakat",
-      "Melakukan pameran fotografi dari berbagai daerah yang ada di Indonesia",
-      "Menggiatkan pameran edukasi di berbagai daerah untuk kemajuan daerah",
+      "Meningkatkan kedaulatan dan ketahanan pangan nasional dari ketergantungan pasokan impor asing.",
+      "Memenuhi instruksi kementerian pertanian dalam rangka menyukseskan program kerja swasembada nasional.",
+      "Mencari keuntungan pribadi dari penjualan lisensi bibit unggul ke perusahaan multinasional.",
+      "Membuktikan keunggulan kebudayaan agraris Indonesia sebagai kebudayaan pertanian terhebat di dunia.",
     ],
   },
   {
-    //3
+    //0 baru4
     id: 52,
     question:
-      "Menurut Undang-Undang Dasar 1945 pasal 24A ayat 3, calon Hakim Agung diusulkan ..... kepada ... ",
+      "Deklarasi Djuanda tahun 1957 berhasil menyatukan wilayah laut pedalaman di antara pulau-pulau Indonesia sebagai satu kesatuan wilayah NKRI. Dampak geopolitik utama dari deklarasi bersejarah ini bagi integritas wilayah NKRI adalah...",
     options: [
-      "Mahkamah Konstitusi kepada Dewan Perwakilan Rakyat",
-      "Kehakiman kepada Dewan Perwakilan Rakyat",
-      "Dewan Perwakilan Rakyat kepada Majelis Permusyawaratan Rakyat",
-      "Komisi Yudisial kepada Dewan Perwakilan Rakyat",
+      "Laut di antara pulau tidak lagi menjadi wilayah bebas internasional melainkan wilayah kedaulatan RI.",
+      "Indonesia diperbolehkan mengklaim wilayah daratan negara tetangga yang berbatasan langsung secara hukum.",
+      "Pihak militer asing berhak memetakan seluruh kekayaan sumber daya laut dalam Indonesia.",
+      "Menghilangkan hak lintas damai bagi seluruh kapal komersial asing di perairan nusantara.",
     ],
   },
   {
-    //2
+    //3 baru4
     id: 53,
     question:
-      "Pancasila berfungsi sebagai dasar negara dan landasan dalam penyelnggaraan kehidupan berbangsa. Salah satu peran utamanya adalah memperkuat persatuan bangsa yang multikultural. Dalam konteks ini bagaimana Pancasila sebagai dasar negara mewujudkan persatuan dalam keberagaman? ",
+      "Alinea keempat Pembukaan UUD NRI 1945 merumuskan tujuan negara, salah satunya adalah ikut melaksanakan ketertiban dunia yang berdasarkan kemerdekaan, perdamaian abadi, dan keadilan sosial. Implementasi tujuan negara ini diwujudkan melalui...",
     options: [
-      "Membangun kesadaran tentang pengtingnya toleransi melalui nilai-nilai luhur kebangsaan",
-      "Memberikan pedoman bagi perilaku masyarakat untuk menghormati perbedaan",
-      "Menjadi acuan dalam pembentukan kebijakan yang mengatur kehidupan bernegara berdasarkan nilai keadilan dan persatuan",
-      "Menanamkan nilai moral dalam perilaku warga negara untuk menciptakan harmoni sosial",
+      "Pembentukan pakta pertahanan militer bersama negara tetangga untuk menyerang negara agresor.",
+      "Pemberian pinjaman dana utang luar negeri massal kepada negara-negara berkembang lainnya.",
+      "Pembatasan arus migrasi warga negara asing yang masuk ke dalam wilayah kedaulatan RI.",
+      "Keaktifan diplomasi Indonesia dalam forum PBB dan penyelesaian konflik global secara damai.",
     ],
   },
   {
@@ -1151,48 +1139,48 @@ export const dataQues = [
     //3
     id: 107,
     question:
-      "Anda adalah seorang orang tua baru dengan seorang anak yang masih belia. Di tengah perkembanagan zaaman dimana aliran informasi menyebar dengan cepat melalui platform-platform media sosial, upaya Anda untuk membentengi anak dari paham-paham radikalisme sejak dini adalah ...",
+      "Menjelang pilkada, seorang ASN didekati oleh salah satu tim sukses calon kepala daerah yang menjanjikan promosi jabatan jika membantu kampanye terselubung. Sikap berintegritas yang wajib diambil ASN tersebut adalah...",
     options: [
-      "Menanamkan semangat kebangsaan dan toleransi",
-      "Selektif dalam memilih teman bermain kepada anak anda",
-      "Membatasi fitur smartphone anak Anda agar tidak mengakses konten radikalisme",
-      "Memberikan pemahaman agama yang terbaik dan benar secara moderat dan damai",
+      "Menolak tawaran secara tegas dan tetap menjaga netralitasnya sebagai abdi negara.",
+      "Menolak promosi jabatan tetapi tetap membantu kampanye secara pasif di media sosial.",
+      "Melaporkan tim sukses tersebut kepada polisi atas tuduhan pencemaran nama baik profesi.",
+      "Menerima tawaran tersebut namun tidak melaksanakan kampanye setelah janji jabatan terpenuhi.",
     ],
   },
   {
-    //3
+    //1 baru4
     id: 108,
     question:
-      "Di era milenium ketiga ini perubahan dunia terjadi dengan cepet. Perubahan tersebut merambat dalam kehidupan sehari hari. Karena itu saya ...",
+      "Seorang sekretaris dinas sering membawa laptop dinas pulang untuk digunakan anaknya bermain game online setiap akhir pekan. Tindakan ini dianggap lumrah oleh rekan sejawatnya. Dari sudut pandang integritas, penilaian terhadap hal ini adalah...",
     options: [
-      "Mengikuti perkembangan teknologi dari media masa",
-      "Mempelajari cara pengoprasian komputer",
-      "Berusaha mempelajari bukku pengetahuan yang terbaru",
-      "Berusaha menguasai keterampilan di bidang teknologi informasi mutakhir",
+      "Diperbolehkan selama laptop tersebut tidak mengalami kerusakan fisik akibat pemakaian luar.",
+      "Merupakan bentuk pelanggaran integritas karena menggunakan fasilitas negara untuk kepentingan pribadi.",
+      "Dapat ditoleransi jika anak sekretaris dinas juga membantu mengerjakan tugas dinas.",
+      "Sah-sah saja asalkan biaya listrik pengisian daya ditanggung sendiri secara pribadi di rumah.",
     ],
   },
   {
-    //2
+    //3 baru4
     id: 109,
     question:
-      "Anda bekerja sebagai konsultan pendidikan, banyak siswa dan orang tua yang bingung untuk menentukan jurusan. Sebagai konsultan yang handal yang akan Anda lakukan ...",
+      "Dalam rapat internal yang pertama kali membahas sisa dana proyek, mayoritas anggota tim tiba-tiba sepakat menyembunyikannya sebagai dana kas informal tanpa proses musyawarah lebih lanjut. Sebagai anggota baru yang hadir dalam rapat tersebut, Anda merasa hal ini melanggar aturan anggaran negara. Langkah yang paling tepat adalah...",
     options: [
-      "Memberikan beberapa alternatife jurusan yang sangat dibutuhkan di dunia kerja",
-      "Menentukan jurusan yang akan memberikan keuntungan masa depan anak",
-      "Memberikan alternatif jurusan sesui dengan kemapuan siswan dan kemampuan finansial orang tua",
-      "Menyarankan agar melanjutkan pendidikan ke luar negeri",
+      "Mengikuti kesepakatan mayoritas demi menjaga kelancaran hubungan kerja dengan tim baru.",
+      "Diam saat rapat berlangsung, lalu langsung melaporkan tim ke inspektorat tanpa menyampaikan keberatan terlebih dahulu.",
+      "Menerima keputusan rapat namun mendokumentasikannya sebagai bukti cadangan untuk masa depan.",
+      "Menyuarakan keberatan secara terbuka dalam rapat dan mengusulkan pengembalian sisa dana.",
     ],
   },
   {
-    //0
+    //0 baru4
     id: 110,
     question:
-      "Seorang teman Anda bertugas di loket pelayanan tiba-tiba pingsan karena kelelahan akibat menerima banyak masyarakat yang datang. Anda yang sedang bekerja diminta menggantikan di loket karena menurut penilaian atasan tugas yang anda kerjakan tengggang waktunya masih lama. Apa yang akan sebaiknya anda lakukan?",
+      "Seorang ASN ditawari sejumlah uang oleh warga agar memprioritaskan berkas perizinan usahanya yang terlambat dikumpulkan. Warga tersebut berdalih uang itu adalah biaya administrasi tambahan yang sukarela. Sikap ASN tersebut seharusnya...",
     options: [
-      "Menuju loket dan melayanu masyarakat",
-      "Melayanu di loket dan sambul juga menyelesaikan tugas sendiri",
-      "Mengerjaakan tugas secepat mungkin agar bisa bertugas di loket",
-      "Mencari teman lain yang bebanya lebih ringan untuk membantu",
+      "Menolak uang tersebut dan memproses berkas sesuai dengan nomor antrean reguler.",
+      "Menerima uang tersebut lalu melaporkannya kepada bendahara instansi sebagai pendapatan daerah.",
+      "Memarahi warga tersebut di depan umum agar menjadi pelajaran bagi warga lainnya.",
+      "Menolak berkas warga tersebut secara permanen karena telah mencoba melakukan penyuapan.",
     ],
   },
 ];

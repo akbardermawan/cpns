@@ -42,7 +42,7 @@ export default function Home() {
           <li className="list">
             <Link to="/cpns+vip" className="link">
               <h2 className="text-2xl font-bold">
-                CPNS vIP Soal + Pembahasan{" "}
+                CPNS VIP Soal + Pembahasan{" "}
               </h2>
             </Link>
           </li>

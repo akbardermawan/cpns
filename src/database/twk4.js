@@ -770,23 +770,24 @@ export const dataQues = [
   },
   {
     id: 34,
-    question: "Istilah Pancasila menurut sejarahnya diambil dari, ",
+    question:
+      "Negara menjamin kemerdekaan tiap-tiap penduduk untuk memeluk agamanya masing-masing dan beribadat menurut agamanya dan kepercayaannya itu. Jaminan konstitusional ini mencerminkan sila pertama Pancasila yang bermakna...",
     answer: [
       {
-        text: "Pembukaan UUD 1945",
+        text: "Negara mewajibkan seluruh warga negara memeluk satu agama resmi pilihan pemerintah pusat.",
         correct: false,
       },
       {
-        text: "Batang tubuh UUD 1945",
-        correct: false,
-      },
-      {
-        text: "Kitab Sotasoma",
-        correct: false,
-      },
-      {
-        text: "Kitab Negara Kertagama",
+        text: "Negara aktif melindungi kebebasan beragama dan mencegah tindakan pemaksaan keyakinan antar-penduduk.",
         correct: true,
+      },
+      {
+        text: "Negara memberikan hak istimewa kepada agama dengan jumlah penganut terbanyak di Indonesia.",
+        correct: false,
+      },
+      {
+        text: "Negara membebaskan warga negara untuk tidak memeluk agama apa pun di masyarakat.",
+        correct: false,
       },
     ],
   },
@@ -839,7 +840,7 @@ export const dataQues = [
   {
     id: 37,
     question:
-      "Adanya pelanggaran HAM yang dilakukan oleh sekelompok orang merupakan penyimpangan dari pancasila, sila...",
+      "Indonesia secara aktif mengirimkan bantuan kemanusiaan dan pasukan perdamaian PBB ke wilayah konflik di Timur Tengah. Peran aktif dalam politik luar negeri bebas aktif ini mencerminkan pengamalan Pancasila sila...",
     answer: [
       {
         text: "2",

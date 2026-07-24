@@ -7,9 +7,9 @@ const QuestCpns3 = ({ question, onChecked, check }) => {
   if (!question) return <div>No Question</div>;
 
   return (
-    <div className="w-full h-full  max-w-xl bg-white p-6 rounded-xl shadow flex flex-col justify-center">
-      <div className="flex items-start">
-        <span className="pr-2 text-sm md:text-xl font-semibold">
+    <div className="w-full h-full  max-w-xl bg-white px-3 pt-10 rounded-xl shadow flex flex-col justify-center">
+      <div className="flex items-start pt-60 md:pt-0  h-full w-full">
+        <span className="md:pr-1 text-sm md:text-xl font-semibold">
           {question.id}.
         </span>
 

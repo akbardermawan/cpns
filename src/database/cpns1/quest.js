@@ -685,7 +685,7 @@ export const dataQues = [
     ],
   },
   {
-    //2
+    //1
     id: 66,
     question:
       "Zayan adalah seorang pelayan publik. Suatu hari datang seorang ibu yang marah-marah kare pelayanan yang tidak sesuai. Sampai akhirnya ibu tersebut menyakiti perasaan Zayyan yang mana adalah rekan anda. Sikap anda ... ",

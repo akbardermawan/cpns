@@ -7,8 +7,8 @@ const QuestCpnsVip1 = ({ question, onChecked, check }) => {
   if (!question) return <div>No Question</div>;
 
   return (
-    <div className="w-full h-full max-w-xl  bg-white p-6 rounded-xl shadow flex flex-col justify-center">
-      <div className="flex items-start">
+    <div className="w-full h-full max-w-2xl px-2 pt-1 md:pl-5 bg-white  rounded-xl shadow flex flex-col justify-center">
+      <div className="flex items-start ">
         <span className="pr-2 text-sm md:text-xl font-semibold">
           {question.id}.
         </span>

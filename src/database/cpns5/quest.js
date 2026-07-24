@@ -1,31 +1,26 @@
 export const dataQues = [
   {
-    //1
+    //0 baru5
     id: 1,
-    question: "21, 42, 126, 504, 2520, 15120, 105840, ..., ...",
-    options: [
-      "740880, 6828804",
-      "846720, 7620480",
-      "864720, 7782480",
-      "886420, 7620480",
-    ],
+    question: "-4, 32, 36 -3, 16, 36 -2, 8, 18, ..., …",
+    options: ["-1, 4", "1, -4", "-1, -4", "1, 4"],
   },
   {
-    //2
+    //2 baru5
     id: 2,
-    question: "1/3 dari (0,125 + 0,043 + 0,021) adalah",
-    options: ["0,620", "0,530", "0,063", "0,056"],
+    question: "2, ..., 5 ..., 8, 56, 11, 72, ..., 90, 17",
+    options: ["14, 26, 42", "28, 40, 14", "30, 42, 14", "28, 42, 13"],
   },
   {
-    //0
+    //2 baru5
     id: 3,
     question:
-      "Diketahui X = 19,95 % dari 77  dan Y =  77 % dari 19,95 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
+      "Diketahui X = 1/43 - 1/47 dan Y =  1/41 - 1/46 , manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
     options: [
       "X dan Y nilainya sama",
       "Y > X",
+      "Y < X",
       "X - Y = bilangan negatife",
-      "X/Y = 1/77",
     ],
   },
   {
@@ -177,32 +172,22 @@ export const dataQues = [
   {
     //1
     id: 19,
-    question: "..., ..., ..., 18, 72, 360, 2.160",
+    question: "-4, 32, 36 -3, 16, 36 -2, 8, 18, ..., …",
     options: ["2, 6, 14", "3, 3, 6", "2, 4, 8", "3, 7, 12"],
   },
   {
-    //3
+    //2 baru5
     id: 20,
     question:
-      "Bu Lili akan melakukan diskusi dengan enam siswanya dengan menempati delapan kursi yang tersusun melingkar. Bu Lili duduk berhadapan dengan Faiz. Bagus terpisah satu kursi di kiri Bu Lili dan menghadap Amanda. Calista duduk tepat di kanan Faiz dana menghadap  Eksanti. Jika Daniel duduk di kiri Faiz maka pernyataan yang benar adalah ... ",
-    options: [
-      "Amanda terpisah satu kursi dengan kursi kosong",
-      "Daniel menempati kursi tepat di sebelah kiri Amanda",
-      "Bagus dan Faiz dipisahkan oleh dua kursi",
-      "Kursi kosong ada diantara Bu Lili dan Bagus",
-    ],
+      "Miki berjalan santai dari titik A menuju titik B yang jaraknya 22 km. Dari arah yang berlawanan, Tomi menggunakan sepeda dan mengendarainya dari titik B menuju titik A. Keduanya bertemu setelah Miki menempuh jarak 8 km. Jika Tomi meninggalkan titik B di waktu yang sama dengan Miki dan bertemu setelah 2 jam perjalanan, berapa kecepatan Tomi?",
+    options: ["5 km/jam", "6 km/jam", "7 km/jam", "8 km/jam"],
   },
   {
-    //3
+    //3 baru5
     id: 21,
     question:
-      "Berikut hasil suvei tempat wisata di Jember. Pantai Payangan dan Pantai Watu Ulo dinyatakan bernilai sama, namun msah lebih kecil dibandingkan dengan Pantai Puger. Pantai Papuma lebih disukai dari Pantai Puger. Pantai Puger lebih disukai dari Pantai Paseban Berdasarkan survei tersebut, jika urutan Pantai Payangan berada tepat setelah Pantai Puger maka wisata yang paling sedikit diminati adalah",
-    options: [
-      "Pantai Papuma",
-      "Pantai Puger",
-      "Pantai Payangan",
-      "Pantai Paseban",
-    ],
+      "Bobi dan Arya mudik dari kota dan dengan tujuan kampung halaman yang sama. Jarak kota dan kampung halaman adalah 350 km. Setelah perjalanan 2 jam, Bobi memutuskan beristirahat di rest area selama 1 jam sementara Arya lebih memilih tidak beristirahat. Keduanya berangkat dan sampai secara bersamaan, berapa selisih kecepatan Bobi dan Arya jika perjalanan keduanya memakan waktu 5 jam.",
+    options: ["10 km/jam", "12,5 km/jam", "15 km/jam", "17,5 km/jam"],
   },
   {
     //1
@@ -230,40 +215,33 @@ export const dataQues = [
     options: ["F", "E", "D", "C"],
   },
   {
-    //0
+    //2 baru5
     id: 25,
-    question:
-      "Dalam sebuah pertandingan sepak bola, Grace harus mengoper bola ke beberapa pemain agar dapat menyarangkan bola ke gawang lawan. Di dekat gawang ada Marco, Grace bisa mengoper ke Haris dan Iwan. Haris bisa mengoper ke Karni dan Jaka, sedangkan Iwan bisa mengoper ke Jaka dan Luki. Jaka bisa mengoper ke Luki, tetapi tidak ke karni. Luki tidak bisa mengoper ke Marco, sedangkan Karni bisa mengoper ke Marco sehinggg Marco dapat menendang ke arah gawang lawan. Ada beberapa alternatif jalur yang bisa ditempuh agara boal dapat sampai dari Grace ke Marco?",
-    options: ["1 cara", "2 cara", "3 cara", "4 cara"],
+    question: "Menarik : Merenggut = Memegang : ...",
+    options: ["Mengambil", "Menggenggam", "Mencengkram", "Menyentuh"],
   },
   {
-    //3
+    //3 baru5
     id: 26,
-    question: "Hasil dari 6 + 0,75 - 5/2 adalah ...",
-    options: ["14/4", "15/4", "16/4", "17/4"],
+    question: "Pasar : Ramai = Gunung : ...",
+    options: ["Tinggi", "Indah", "Hijau", "Sepi"],
   },
   {
-    //1
+    //2 baru5
     id: 27,
-    question:
-      "Pada saat menjelang liburan, Santi berencana pergi ke luar kota. Jika Santi pergi ke Yogyakarta. Ia akan mengajak adiknya. Jika Santi pergi ke Bali, ia akan mengajak temannya. Pada saat liburan, ia tidak mengajak adik atau temananya. Simpulan yang paling tepat adalah ...",
-    options: [
-      "Santi tidak pergi ke Yogyakarta, tetapi ke Bali",
-      "Santi tidak pergi ke Bali atau ke Yogyakarta",
-      "Santi memutuskan libuaran ke kota lain",
-      "Santi pergi ke Bali atau Yogyakarta",
-    ],
+    question: "Bayi : Mandiri = Pelari : ...",
+    options: ["Cepat", "Kuat", "Lambat", "Laju"],
   },
   {
-    //1
+    //3 baru5
     id: 28,
     question:
-      "Kegiatan ekstrakurikuler di luar ruangan jika diadakan pada hari Minggu. Jika kegiatanekstrakulikuler dilakukan di luar ruangan, siswa mengenakan pakaian dinas lapangan. Simpulan yang tepat adalah ...",
+      "Paman masih menanyakan aku soal tawaran kerja saat itu kami bertemu dirumahku.\nKalimat yaang berpola sama dengan pola tersebut adalah...",
     options: [
-      "Jika kegiatan tidak diadakan pada hari Minggu, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa tidak mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler tidak diadakan pada hari Minggu",
-      "Jika kegiatan ekstrakurikuler tidak dilakukan di luar ruangan, siswa tidak mengenakan pakaian dinas lapangan",
-      "Jika siswa mengenakan pakaian dinas lapangan, kegiatan ekstrakurikuler diadakan pada hari Minggu",
+      "Nathan mentraktir kami semangkuk bakso pada hari minggu kemarin",
+      "Laras memberikan Dina oleh-oleh dari Negeri Sakura",
+      "Anindya membleikan kucing peliharaan sebungkus makanan kucing dengan uang sakunya sendiri",
+      "Pihak perusahaan telah memecat Pak Dhira karena kinerjanya sudah tidak sesuai dengan keinginan perusahaan",
     ],
   },
   {
@@ -341,14 +319,15 @@ export const dataQues = [
     options: ["2", "4", "6", "8"],
   },
   {
-    //1
+    //0 baru5
     id: 36,
-    question: "Kapan terjadinya peristiwa bom Hirosima di Jepang? ",
+    question:
+      "Sebagian pohon di Taman X bukan berasal dari Hutan Y.\nSemua pohon di Taman X memiliki batang dengan ukuran medium.\nBerdasarkan informasi tersebut, manakah simpulan berikut yang PALING BENAR?",
     options: [
-      "6 Agustus 1945",
-      "9 Agustus 1945",
-      "17 Agustus 1945",
-      "27 Agustus 1945",
+      "Sebagian batang pohon dengan ukuran medium bukan berasal dari Hutan Y",
+      "Sebagian yang berasal dari Hutan Y adalah pohon yang memiliki batang dengan ukuran medium.",
+      "Semua batang pohon dengan ukuran yang tidak besar berasal dari Hutan Y.",
+      "Sebagian dari Hutan Y tidak memiliki ukuran batang medium.",
     ],
   },
   {
@@ -391,7 +370,7 @@ export const dataQues = [
     //3
     id: 40,
     question:
-      "Berikut ini merupakan pengamalan praktis dari Pancasila sila ke-4 dan HAM yang dapat dilakukan oleh setiap warga negara Indonesia dalam kehidupan bertetangga adalah ...",
+      "Pembebasan Irian Barat telah melalui proses yang panjang. Ada Konferensi Meja Bundar (KMB) pada 1949 yang dilaksanakan di Den Haag, Belanda yang bertujuan mempertemukan pihak Indonesia dan Belanda untuk menyelesaikan persengketaan di antara kedua belah pihak, untuk mencapai kesepakatan tentang pengakuan kedaulatan Indonesia, salah satunya persengketaan mengenai wilayah Irian Barat. Delegasi Belanda memandang Papua Barat tidak memiliki hubungan dengan Indonesia, sehingga pihak Belanda berkeinginan untuk memberikan status khusus. Namun, delegasi Indonesia berpendapat bahwa Irian Barat merupakan bagian dari Indonesia Timur dan termasuk ke dalam wilayah Republik Indonesia Serikat (RIS). Negosiasi telah dilakukan oleh kedua belah pihak, namun tak kunjung mencapai kesepakatan. Akhirnya, Indonesia memilih untuk melakukan konfrontasi politik dan ekonomi. Tindakan tersebut memicu Belanda untuk memperkuat pasukan militernya di Irian Barat. Ketegangan di antara hubungan kedua negara ini menyebabkan Indonesia memutuskan hubungan diplomatik dengan Belanda.Selain itu, Belanda juga mengingkari hasil KMB yang menyepakati bahwa Irian Barat akan ditentukan selambat-lambatnya satu tahun setelah pengakuan kedaulatan. Faktor utama yang menyebabkan pihak Belanda enggan menyerahkan Irian Barat kepada Indonesia adalah....",
     options: [
       "Mengutamakan kepentingan negara dan masyarakat",
       "Mengutamakan suara mayoritas dalam mengambil keputusan",
@@ -400,63 +379,63 @@ export const dataQues = [
     ],
   },
   {
-    //0
+    //0 baru5
     id: 41,
     question:
-      "Presiden Soeharto memegang jabatan lebih dari 30 tahun melalui pemilihan presiden yang dilakukan oleh MPRl. Setelah amandemen UUD 1945, MPR tidak lagi melakukan pemilihan presiden sejak tahun 2004 dan pada tahun itu Indonesia pertama kali memiliki presiden berdasarkan pilihan rakyat. Perubahan kewenangan MPR disebabkan karena ...",
+      "Pembebasan Irian Barat telah melalui proses yang panjang. Ada Konferensi Meja Bundar (KMB) pada 1949 yang dilaksanakan di Den Haag, Belanda yang bertujuan mempertemukan pihak Indonesia dan Belanda untuk menyelesaikan persengketaan di antara kedua belah pihak, untuk mencapai kesepakatan tentang pengakuan kedaulatan Indonesia, salah satunya persengketaan mengenai wilayah Irian Barat. Delegasi Belanda memandang Papua Barat tidak memiliki hubungan dengan Indonesia, sehingga pihak Belanda berkeinginan untuk memberikan status khusus. Namun, delegasi Indonesia berpendapat bahwa Irian Barat merupakan bagian dari Indonesia Timur dan termasuk ke dalam wilayah Republik Indonesia Serikat (RIS). Negosiasi telah dilakukan oleh kedua belah pihak, namun tak kunjung mencapai kesepakatan. Akhirnya, Indonesia memilih untuk melakukan konfrontasi politik dan ekonomi. Tindakan tersebut memicu Belanda untuk memperkuat pasukan militernya di Irian Barat. Ketegangan di antara hubungan kedua negara ini menyebabkan Indonesia memutuskan hubungan diplomatik dengan Belanda.Selain itu, Belanda juga mengingkari hasil KMB yang menyepakati bahwa Irian Barat akan ditentukan selambat-lambatnya satu tahun setelah pengakuan kedaulatan. Faktor utama yang menyebabkan pihak Belanda enggan menyerahkan Irian Barat kepada Indonesia adalah....",
     options: [
-      "Kedaulatan berada di tangan rakyat",
-      "Kedaulatan sepenuhnya dilakkukan melalui pilpres langsung",
-      "Kedaulatan berada di ditangan legisatif dan presiden/wapres yang dilakukan melalui mekanisme pemilihan langsung",
-      "Kedaulatan dilaksanakan oleh presiden sebagai Mandate MPR",
+      "Belanda masih mempunyai niatan untuk memperluas pengaruhnya di Indonesia",
+      "Belanda ingin memastikan proses pelaksanaan hasil perundingan KMB di Irian Barat berjalan lancar",
+      "Belanda masih meragukan kemampuan Indonesia dalam mengelola Irian Barat sepenuhnya",
+      "Belanda menunggu perintah dari Ratu Juliana untuk meninggalkan wilayah Indonesia sembari mempertahankan pasukannya di Irian Barat",
     ],
   },
   {
-    //0
+    //3 baru5
     id: 42,
     question:
-      "Indonesia sebagai sebuah negara kesatuan yang berbentuk republik memiliki landasan konstitusional yang kuat, yang dijelaskan dalam Pasal 1 Ayat (1) UUD 1945. Dalam konteks ini, Negara Indonesia yang merupakan bentuk kesatuan memiliki arti sebagai ... ",
+      "G30S/PKI, Kahar Muzakar, Permesta, PRRI, DI/TII, dan Gerakan Aceh Merdeka (GAM) merupakan contoh dari ancaman militer yaitu…",
     options: [
-      "Indonesia memiliki suatu pemerintahan pusat yang mengatur seluruh wilayahnya",
-      "Indonesia terdiri dari beberapa negara bagian yang saling berdiri sendiri",
-      "Indonesia memiliki beberapa pemerintahan pusat yang saling bekerja sama",
-      "Indonesia terdiri dari beberapa wilayah yang memiliki otonomi khusus",
+      "Sabotase",
+      "Agresi Militer",
+      "Konflik komunal",
+      "Gerakan separatis",
     ],
   },
   {
-    //3
+    //0 baru5
     id: 43,
     question:
-      "Salah satu perlunya transparansi kinerja yaitu agar terhindar dari konflik kepentingan dan terhindar dari tindakan penyuapan. Hal ini perlu dilakukan untuk membentuk ... ",
+      "Kemiskinan, korupsi, masalah sosial budaya, narkoba, dan penyebaran berita hoax adalah bentuk dari …",
     options: [
-      "Sistem Antikorupsi",
-      "Pengelolahan Sumberdaya Manusia",
-      "Karakter Pengawas Instansi",
-      "Budaya Organisasi",
+      "Ancaman nirmiliter",
+      "Ancaman tradisional",
+      "Globalisasi",
+      "Invasi",
     ],
   },
   {
-    //0
+    //0 baru5
     id: 44,
     question:
-      "Makna yang terkandung Pancasila sebagai philsophie grondslag adalah ",
+      "Dalam menghadapi ancaman militer, TNI biasanya ditempatkan sebagai komponen utama dan didukung oleh kekuatan lain sebagai komponen cadangan dan pendukung. Komponen cadangan yang dimaksud adalah…",
     options: [
-      "Pancasila sebagai dasar filsafat negara",
-      "Pancasila sebagai alat pemersatu",
-      "Pancasila sebagai ideologi bangsa indonesia",
-      "Pancasila sebagai perjanjian luhur bangsa indonesia",
+      "warga negara, sumber daya alam, sumber daya buatan, sarana dan prasarana",
+      "penduduk, wilayah, pemerintahan, dan pengakuan dari negara lain",
+      "sumber daya alam, sumber daya manusia, dan sumber daya buatan",
+      "penduduk, wilayah, dan pemerintah yang berdaulat",
     ],
   },
   {
-    //1
+    //2 baru5
     id: 45,
     question:
-      "Seorang karyawan yang bekerja di sebauh perusahaan selalu menyelesaikan pekerjaanya tepat waktu dan dengan kualitas yang sangat baik. Namun, suatu saat dia mengalami masalah pribadi yang membuatnya tidak bisa fokus pada pekerjaannya. Apa yang seharusnya dilakukan karyawan tersebut untuk mempertahankan komitmen dan integritasnya di tempat kerja?",
+      "Fungsi integritas terbagi menjadi dua, yaitu cognitive functions of integrity dan affective functions of integrity. Affective functions of integrity tersebut meliputi …",
     options: [
-      "Menyelesaikan pekerjaannya setelah masalah pribadinya selesai, tanpa memberi tahu rekan kerjanya tentang masalah tersebut",
-      "Meminta cuti atau izin untuk menyelesaikan masalah pribadinya agar bisa fokus pada pekerjaanya di kemudian hari",
-      "Menyelesaikan pekerjaan dengan kualitas yang kurang baik karena dia tidak bisa fokus pada pekerjaannya",
-      "Menyelesaikan pekerjaannya dengan bantuan rekan kerjanya agar bisa memenuhi standar kualitas yang diharapkan",
+      "conscience dan self insight",
+      "self insight dan self regard",
+      "conscience dan self regard",
+      "kecerdasan moral dan self insight",
     ],
   },
   {

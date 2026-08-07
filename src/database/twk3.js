@@ -8,7 +8,7 @@ export const dataQues = [
         correct: false,
       },
       {
-        text: "12 kali",
+        text: "2 kali",
         correct: false,
       },
       {
@@ -112,7 +112,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 5,
+    id: 6,
     question:
       "Lembaga negara yang berwenang menyampaikan laporan draf akhir RUU untuk dimintai persetujuan bersama pada Pembicaraan Tingkat II adalah...",
     answer: [
@@ -289,6 +289,371 @@ export const dataQues = [
       {
         text: "Melindungi segenap bangsa dan tumpah darah Indonesia, memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa dan menetapkan Pancasila sebagai dasar negara",
         correct: true,
+      },
+    ],
+  },
+  {
+    id: 14,
+    question:
+      "Negara Indonesia adalah negara hukum. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 1 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 1 ayat 3",
+        correct: true,
+      },
+      {
+        text: "Pasal 2 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 3 ayat 2",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 15,
+    question:
+      "Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undangundang. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 1 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 1 ayat 3",
+        correct: false,
+      },
+      {
+        text: "Pasal 2 ayat 1",
+        correct: true,
+      },
+      {
+        text: "Pasal 3 ayat 2",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 16,
+    question:
+      'Bab berapa pada UUD 1945 yang membahas tentang "Bentuk dan Kedaulatan Negara"?',
+    answer: [
+      {
+        text: "Bab 1",
+        correct: true,
+      },
+      {
+        text: "Bab 2",
+        correct: false,
+      },
+      {
+        text: "Bab 3",
+        correct: false,
+      },
+      {
+        text: "Bab 4",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 17,
+    question:
+      "Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibukota negara. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 2 ayat 2",
+        correct: true,
+      },
+      {
+        text: "Pasal 2 ayat 3",
+        correct: false,
+      },
+      {
+        text: "Pasal 3 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 4 ayat 2",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 18,
+    question:
+      "Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 1 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 1 ayat 3",
+        correct: false,
+      },
+      {
+        text: "Pasal 2 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 3 ayat 2",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 19,
+    question: "Apa isi bahasan Bab II pada UUD 1945 yang sudah diamandemen?",
+    answer: [
+      {
+        text: "BENTUK DAN KEDAULATAN",
+        correct: false,
+      },
+      {
+        text: "MAJELIS PERMUSYAWARATAN RAKYAT",
+        correct: true,
+      },
+      {
+        text: "KEKUASAAN PEMERINTAH",
+        correct: false,
+      },
+      {
+        text: "DEWAN PERTIMBANGAN AGUNG",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 20,
+    question: "Apa isi UUD 1945 pasal 6A ayat 1 yang sudah diamandemen?",
+    answer: [
+      {
+        text: "Syarat-syarat untuk menjadi Presiden dan Wakil Presiden diatur lebih lanjut dengan undang-undang.",
+        correct: false,
+      },
+      {
+        text: "Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.",
+        correct: true,
+      },
+      {
+        text: "Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum.",
+        correct: false,
+      },
+      {
+        text: "•	Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 21,
+    question:
+      'Bab berapa pada UUD 1945 yang membahas tentang "Kekuasaan Pemerintah"?',
+    answer: [
+      {
+        text: "Bab 1",
+        correct: false,
+      },
+      {
+        text: "Bab 2",
+        correct: false,
+      },
+      {
+        text: "Bab 3",
+        correct: false,
+      },
+      {
+        text: "Bab 4",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 22,
+    question:
+      'Bab berapa pada UUD 1945 yang membahas tentang "Pemerintah Daerah"?',
+    answer: [
+      {
+        text: "Bab 5",
+        correct: false,
+      },
+      {
+        text: "Bab 6",
+        correct: true,
+      },
+      {
+        text: "Bab 7",
+        correct: false,
+      },
+      {
+        text: "Bab 8",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 23,
+    question:
+      'Bab berapa pada UUD 1945 yang membahas tentang "Kementrian Negara"?',
+    answer: [
+      {
+        text: "Bab 5",
+        correct: true,
+      },
+      {
+        text: "Bab 6",
+        correct: false,
+      },
+      {
+        text: "Bab 7",
+        correct: false,
+      },
+      {
+        text: "Bab 8",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 24,
+    question:
+      'Bab berapa pada UUD 1945 yang membahas tentang "Dewan Perwakilan Rakyat"?',
+    answer: [
+      {
+        text: "Bab 5",
+        correct: false,
+      },
+      {
+        text: "Bab 6",
+        correct: false,
+      },
+      {
+        text: "Bab 7",
+        correct: true,
+      },
+      {
+        text: "Bab 8",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 25,
+    question:
+      "Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  4 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 4 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 2 ",
+        correct: true,
+      },
+    ],
+  },
+  {
+    id: 26,
+    question:
+      "Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-undang Dasar. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  4 ayat 1",
+        correct: true,
+      },
+      {
+        text: "Pasal 4 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 2 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 27,
+    question:
+      "Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  4 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 4 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 1",
+        correct: true,
+      },
+      {
+        text: "Pasal 5 ayat 2 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 28,
+    question:
+      "Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden.. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  4 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 4 ayat 2",
+        correct: true,
+      },
+      {
+        text: "Pasal 5 ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 5 ayat 2 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 29,
+    question: "Apa isi UUD 1945 pasal 6 ayat 2 yang sudah diamandemen?",
+    answer: [
+      {
+        text: "Syarat-syarat untuk menjadi Presiden dan Wakil Presiden diatur lebih lanjut dengan undang-undang.",
+        correct: true,
+      },
+      {
+        text: "Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat.",
+        correct: true,
+      },
+      {
+        text: "Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum.",
+        correct: false,
+      },
+      {
+        text: "•	Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan.",
+        correct: false,
       },
     ],
   },

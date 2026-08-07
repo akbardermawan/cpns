@@ -1627,11 +1627,11 @@ export const dataQues = [
       },
       {
         text: "2",
-        correct: false,
+        correct: true,
       },
       {
         text: "3",
-        correct: true,
+        correct: false,
       },
       {
         text: "4",
@@ -2090,7 +2090,7 @@ export const dataQues = [
         correct: false,
       },
       {
-        text: "pasal 12",
+        text: "pasal 13",
         correct: false,
       },
       {

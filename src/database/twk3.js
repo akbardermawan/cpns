@@ -158,6 +158,29 @@ export const dataQues = [
   },
   {
     id: 8,
+    question:
+      "Siapa yang berhak untuk mentapkan Undang-Undang yang telah disetujui dalam sidang ?",
+    answer: [
+      {
+        text: "DPR",
+        correct: false,
+      },
+      {
+        text: "Persiden",
+        correct: false,
+      },
+      {
+        text: "MPR",
+        correct: true,
+      },
+      {
+        text: "DPD",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 9,
     question: "Siapa yang berwenang memberikan persetujuan terhadap RAPBN?",
     answer: [
       {
@@ -179,7 +202,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 9,
+    id: 10,
     question: "Siapa yang berwenang Mengajukan terhadap RAPBN kepada DPR?",
     answer: [
       {
@@ -201,7 +224,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 10,
+    id: 11,
     question:
       "Teks Pembukaan UUD 1945 terdiri atas empat alinea yang memiliki makna tersendiri. Salah satu makna yang terkandung dalam alenia kesatu adalah...",
     answer: [
@@ -224,7 +247,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 11,
+    id: 12,
     question:
       "Teks Pembukaan UUD 1945 terdiri atas empat alinea yang memiliki makna tersendiri. Salah satu makna yang terkandung dalam alenia kedua adalah...",
     answer: [
@@ -247,7 +270,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 12,
+    id: 13,
     question:
       "Teks Pembukaan UUD 1945 terdiri atas empat alinea yang memiliki makna tersendiri. Salah satu makna yang terkandung dalam alenia ketiga adalah...",
     answer: [
@@ -270,7 +293,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 13,
+    id: 14,
     question:
       "Teks Pembukaan UUD 1945 terdiri atas empat alinea yang memiliki makna tersendiri. Salah satu makna yang terkandung dalam alenia keempat adalah...",
     answer: [
@@ -293,7 +316,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 14,
+    id: 15,
     question:
       "Negara Indonesia adalah negara hukum. merupakan UUD 1945 pasal ...",
     answer: [
@@ -316,7 +339,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 15,
+    id: 16,
     question:
       "Majelis Permusyawaratan Rakyat terdiri atas anggota Dewan Perwakilan Rakyat dan anggota Dewan Perwakilan Daerah yang dipilih melalui pemilihan umum dan diatur lebih lanjut dengan undangundang. merupakan UUD 1945 pasal ...",
     answer: [
@@ -339,7 +362,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 16,
+    id: 17,
     question:
       'Bab berapa pada UUD 1945 yang membahas tentang "Bentuk dan Kedaulatan Negara"?',
     answer: [
@@ -362,7 +385,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 17,
+    id: 18,
     question:
       "Majelis Permusyawaratan Rakyat bersidang sedikitnya sekali dalam lima tahun di ibukota negara. merupakan UUD 1945 pasal ...",
     answer: [
@@ -385,7 +408,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 18,
+    id: 19,
     question:
       "Majelis Permusyawaratan Rakyat melantik Presiden dan/atau Wakil Presiden. merupakan UUD 1945 pasal ...",
     answer: [
@@ -408,7 +431,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 19,
+    id: 20,
     question: "Apa isi bahasan Bab II pada UUD 1945 yang sudah diamandemen?",
     answer: [
       {
@@ -430,7 +453,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 20,
+    id: 21,
     question: "Apa isi UUD 1945 pasal 6A ayat 1 yang sudah diamandemen?",
     answer: [
       {
@@ -452,7 +475,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 21,
+    id: 22,
     question:
       'Bab berapa pada UUD 1945 yang membahas tentang "Kekuasaan Pemerintah"?',
     answer: [
@@ -475,7 +498,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 22,
+    id: 23,
     question:
       'Bab berapa pada UUD 1945 yang membahas tentang "Pemerintah Daerah"?',
     answer: [
@@ -498,7 +521,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 23,
+    id: 24,
     question:
       'Bab berapa pada UUD 1945 yang membahas tentang "Kementrian Negara"?',
     answer: [
@@ -521,7 +544,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 24,
+    id: 25,
     question:
       'Bab berapa pada UUD 1945 yang membahas tentang "Dewan Perwakilan Rakyat"?',
     answer: [
@@ -544,7 +567,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 25,
+    id: 26,
     question:
       "Presiden menetapkan peraturan pemerintah untuk menjalankan undang-undang sebagaimana mestinya. merupakan UUD 1945 pasal ...",
     answer: [
@@ -567,7 +590,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 26,
+    id: 27,
     question:
       "Presiden Republik Indonesia memegang kekuasaan pemerintahan menurut Undang-undang Dasar. merupakan UUD 1945 pasal ...",
     answer: [
@@ -590,7 +613,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 27,
+    id: 28,
     question:
       "Presiden berhak mengajukan rancangan undang-undang kepada Dewan Perwakilan Rakyat. merupakan UUD 1945 pasal ...",
     answer: [
@@ -613,7 +636,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 28,
+    id: 29,
     question:
       "Dalam melakukan kewajibannya Presiden dibantu oleh satu orang Wakil Presiden.. merupakan UUD 1945 pasal ...",
     answer: [
@@ -636,7 +659,30 @@ export const dataQues = [
     ],
   },
   {
-    id: 29,
+    id: 30,
+    question:
+      "Calon Presiden dan calon Wakil Presiden harus seorang warga negara Indonesia sejak kelahirannya dan tidak pernah menerima kewarganegaraan lain karena kehendaknya sendiri, tidak pernah mengkhianati negara, serta mampu secara rohani dan jasmani untuk melaksanakan tugas dan kewajiban sebagai Presiden dan Wakil Presiden. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  6 ayat 1",
+        correct: true,
+      },
+      {
+        text: "Pasal 6 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 6A ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 6A ayat 2 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 31,
     question: "Apa isi UUD 1945 pasal 6 ayat 2 yang sudah diamandemen?",
     answer: [
       {
@@ -658,7 +704,30 @@ export const dataQues = [
     ],
   },
   {
-    id: 147,
+    id: 32,
+    question:
+      "Bab 1 pada UUD 1945 membahas tentang Bentuk dan Kedaulatan Negara, sebutkan pasal-pasal yang membahas tentang hal tersebut...",
+    answer: [
+      {
+        text: "Pasal  1 ayat 1, pasal 1 ayat 2, dan pasal 1 ayat 3",
+        correct: true,
+      },
+      {
+        text: "Pasal 1 ayat 1 dan pasal 2 ayat 3",
+        correct: false,
+      },
+      {
+        text: "Pasal 2 ayat2, pasal 3 ayat 1, dan pasal 3 ayat 2",
+        correct: false,
+      },
+      {
+        text: "Pasal 2 ayat 1, pasal 2 ayat 2,  dan pasal 2 ayat 3",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 33,
     question:
       "Presiden dan Wakil Presiden dipilih dalam satu pasangan secara langsung oleh rakyat. merupakan UUD 1945 pasal ...",
     answer: [
@@ -681,7 +750,53 @@ export const dataQues = [
     ],
   },
   {
-    id: 147,
+    id: 34,
+    question:
+      "Pasangan calon Presiden dan Wakil Presiden diusulkan oleh partai politik atau gabungan partai politik peserta pemilihan umum sebelum pelaksanaan pemilihan umum. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal  6",
+        correct: false,
+      },
+      {
+        text: "Pasal 6A ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 6A ayat 2",
+        correct: true,
+      },
+      {
+        text: "Pasal 7 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 35,
+    question:
+      "Tata cara pelaksanaan pemilihan Presiden dan Wakil Presiden lebih lanjut diatur dalam undang-undang. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 6A ayat 3",
+        correct: false,
+      },
+      {
+        text: "Pasal 6A ayat 5 ",
+        correct: true,
+      },
+      {
+        text: "Pasal 7 ",
+        correct: false,
+      },
+      {
+        text: "Pasal 7A ayat 1",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 36,
     question:
       "Presiden dan Wakil Presiden memegang jabatan selama lima tahun, dan sesudahnya dapat dipilih kembali dalam jabatan yang sama, hanya untuk satu kali masa jabatan. merupakan UUD 1945 pasal ...",
     answer: [
@@ -690,7 +805,7 @@ export const dataQues = [
         correct: false,
       },
       {
-        text: "Pasal 7B",
+        text: "Pasal 7B ayat 1",
         correct: false,
       },
       {
@@ -704,7 +819,30 @@ export const dataQues = [
     ],
   },
   {
-    id: 147,
+    id: 37,
+    question:
+      "•	Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat, baik apabila terbukti telah melakukan pelanggaran hukum berupa pengkhianatan terhadap negara, korupsi, penyuapan, tindak pidana berat lainnya, atau perbuatan tercela maupun apabila terbukti tidak lagi memenuhi syarat sebagai Presiden dan/atau Wakil Presiden. merupakan UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "Pasal 7A",
+        correct: true,
+      },
+      {
+        text: "Pasal 7B ayat 1",
+        correct: false,
+      },
+      {
+        text: "Pasal 7C",
+        correct: false,
+      },
+      {
+        text: "Pasal 7 ",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 38,
     question:
       "Presiden dan/atau Wakil Presiden dapat diberhentikan dalam masa jabatannya oleh Majelis Permusyawaratan Rakyat atas usul Dewan Perwakilan Rakyat. merupakan UUD 1945 pasal ...",
     answer: [
@@ -727,7 +865,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 148,
+    id: 39,
     question:
       "Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat. merupakan UUD 1945 pasal ...",
     answer: [
@@ -750,7 +888,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 149,
+    id: 40,
     question:
       "Presiden tidak dapat membekukan dan/atau membubarkan Dewan Perwakilan Rakyat. merupakan UUD 1945 hasil amandemen ke...",
     answer: [
@@ -773,7 +911,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 150,
+    id: 41,
     question:
       "Jika Presiden mangkat, berhenti, diberhentikan, atau tidak dapat melakukan kewajibannya dalam masa jabatannya, ia digantikan oleh Wakil Presiden sampai habis masa jabatannya. merupakan bunyi UUD 1945 pasal ...",
     answer: [
@@ -796,7 +934,30 @@ export const dataQues = [
     ],
   },
   {
-    id: 151,
+    id: 42,
+    question:
+      "Dalam hal terjadi kekosongan Wakil Presiden, selambat lambatnya dalam waktu enam puluh hari, Majelis Permusyawaratan Rakyat menyelenggarakan sidang untuk memilih Wakil Presiden dari dua calon yang diusulkan oleh Presiden. merupakan bunyi UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "7 ",
+        correct: false,
+      },
+      {
+        text: "8 ayat 1",
+        correct: true,
+      },
+      {
+        text: "8 ayat 2",
+        correct: false,
+      },
+      {
+        text: "9 ayat 1",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 43,
     question:
       "Sebelum memangku jabatannya, Presiden dan Wakil Presiden bersumpah menurut agama, atau berjanji dengan sungguh-sungguh di hadapan Majelis Permusyawaratan Rakyat atau Dewan Perwakilan Rakyat sebagai berikut. merupakan bunyi UUD 1945 pasal ...",
     answer: [
@@ -819,7 +980,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 152,
+    id: 44,
     question:
       "Presiden memegang kekuasaan yang tertinggi atas Angkatan Darat, Angkatan Laut dan Angkatan Udara. merupakan bunyi UUD 1945 pasal ...",
     answer: [
@@ -842,7 +1003,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 152,
+    id: 45,
     question:
       "Indonesia mempunyai berbagai macam kekayaan budaya nasional. Bentuk nyata pengaturan kebebasan untuk mengembangkan nilai kebudayaan adalah",
     answer: [
@@ -865,7 +1026,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 153,
+    id: 46,
     question:
       "Pengkuan dan penghormatan terhadap hukum adat tercantum pada UUD 1945 pasal,",
     answer: [
@@ -888,7 +1049,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 154,
+    id: 47,
     question:
       "Pada pasal 24A menjelaskan bahwa ketua dan wakil ketua Mahkamah Agung dipilih dari dan oleh",
     answer: [
@@ -911,7 +1072,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 155,
+    id: 48,
     question:
       "UUD 1945 Pasal 24A Ayat (3), yang menyatakan bahwa calon Hakim Agung diusulkan oleh ",
     answer: [
@@ -934,7 +1095,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 156,
+    id: 49,
     question:
       "UUD 1945 Pasal 24A Ayat (3), yang menyatakan bahwa calon Hakim Agung mendapat persetujuan oleh ",
     answer: [
@@ -957,7 +1118,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 157,
+    id: 50,
     question:
       "UUD 1945 Pasal 24A Ayat (3), yang menyatakan bahwa calon Hakim Agung dilantik oleh ",
     answer: [
@@ -980,14 +1141,10 @@ export const dataQues = [
     ],
   },
   {
-    id: 158,
+    id: 51,
     question:
       "Presiden dengan persetujuan Dewan Perwakilan Rakyat menyatakan perang, membuat perdamaian dan perjanjian dengan negara lain. Merupakan bunyi UUD 1945 pasal ...",
     answer: [
-      {
-        text: "10",
-        correct: false,
-      },
       {
         text: "11 ayat 1",
         correct: true,
@@ -997,13 +1154,63 @@ export const dataQues = [
         correct: false,
       },
       {
+        text: "11 ayat 3",
+        correct: false,
+      },
+      {
         text: "12",
         correct: false,
       },
     ],
   },
   {
-    id: 158,
+    id: 52,
+    question:
+      "Ketentuan lebih lanjut tentang perjanjian internasional diatur dengan undangundang. Merupakan bunyi UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "11 ayat 1",
+        correct: false,
+      },
+      {
+        text: "11 ayat 2",
+        correct: false,
+      },
+      {
+        text: "11 ayat 3",
+        correct: true,
+      },
+      {
+        text: "12",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 53,
+    question:
+      "Presiden dalam membuat perjanjian internasional lainnya yang menimbulkan akibat yang luas dan mendasar bagi kehidupan rakyat yang terkait dengan beban keuangan negara, dan/atau mengharuskan perubahan atau pembentukan undangundang harus dengan persetujuan Dewan Perwakilan Rakyat. Merupakan bunyi UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "11 ayat 1",
+        correct: false,
+      },
+      {
+        text: "11 ayat 2",
+        correct: true,
+      },
+      {
+        text: "11 ayat 3",
+        correct: false,
+      },
+      {
+        text: "12",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 54,
     question:
       "Presiden menyatakan keadaan bahaya. Syarat-syarat dan akibatnya keadaan bahaya ditetapkan dengan undang undang. Merupakan bunyi UUD 1945 pasal ...",
     answer: [
@@ -1026,7 +1233,7 @@ export const dataQues = [
     ],
   },
   {
-    id: 159,
+    id: 55,
     question:
       " Presiden mengangkat duta dan konsul. Merupakan bunyi UUD 1945 pasal ...",
     answer: [

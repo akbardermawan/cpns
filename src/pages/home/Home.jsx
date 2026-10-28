@@ -1,16 +1,42 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 import "./home.scss";
 
+const AD_SCRIPT_ID = "native-banner-script";
+
 export default function Home() {
+  useEffect(() => {
+    // Hindari memasang script yang sama berulang kali
+    if (document.getElementById(AD_SCRIPT_ID)) return;
+
+    const script = document.createElement("script");
+    script.id = AD_SCRIPT_ID;
+    script.async = true;
+    script.dataset.cfasync = "false";
+    script.src = "https://bauval.org/21/3e6a8b566d88898a7b592eb0a7c4242a";
+
+    document.body.appendChild(script);
+  }, []);
+
   return (
     <div className="container-home">
       <div className="header">
         <img src="/images/logo.png" alt="logo" className="img" />
         <span className="span"> ADM </span>
       </div>
-      <div className="intro">
-        <p className="p text-white">Mohon do'anya terimaksih......</p>
+      {/* Tempat Native Banner */}
+      <div>
+        <p className="text-gray-400 p-4">iklan</p>
+        <div
+          id="container-3e6a8b566d88898a7b592eb0a7c4242a"
+          style={{ minHeight: "100px" }}
+        />
+      </div>
+
+      <div className="intro flex flex-col">
+        <p className="text-gray-600 text-2xl">
+          Disarankan untuk mengerjakan soal di PC atau Laptop
+        </p>
       </div>
       <div className="container-main">
         <ul className="ques-list">

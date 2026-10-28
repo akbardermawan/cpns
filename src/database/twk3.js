@@ -489,11 +489,11 @@ export const dataQues = [
       },
       {
         text: "Bab 3",
-        correct: false,
+        correct: true,
       },
       {
         text: "Bab 4",
-        correct: true,
+        correct: false,
       },
     ],
   },
@@ -1251,6 +1251,29 @@ export const dataQues = [
       },
       {
         text: "13 ayat 4",
+        correct: false,
+      },
+    ],
+  },
+  {
+    id: 56,
+    question:
+      "Negara Indonesia ialah Negara Kesatuan, yang berbentuk Republik. Merupakan bunyi UUD 1945 pasal ...",
+    answer: [
+      {
+        text: "1 ayat 1",
+        correct: true,
+      },
+      {
+        text: "1 ayat 2",
+        correct: false,
+      },
+      {
+        text: "1 ayat 3",
+        correct: false,
+      },
+      {
+        text: "2 ayat 1",
         correct: false,
       },
     ],

@@ -1,7 +1,20 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 
+const AD_SCRIPT_ID = "native-banner-script";
 export default function Tiu() {
+  useEffect(() => {
+    // Hindari memasang script yang sama berulang kali
+    if (document.getElementById(AD_SCRIPT_ID)) return;
+
+    const script = document.createElement("script");
+    script.id = AD_SCRIPT_ID;
+    script.async = true;
+    script.dataset.cfasync = "false";
+    script.src = "https://bauval.org/21/3e6a8b566d88898a7b592eb0a7c4242a";
+
+    document.body.appendChild(script);
+  }, []);
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <div className=" mx-auto">
@@ -97,6 +110,21 @@ export default function Tiu() {
               <h4 className="mt-3 text-lg font-semibold">TPA 1</h4>
             </Link>
           </div>
+        </div>
+      </div>
+      {/* Tempat Native Banner */}
+      <div className="w-full flex justify-center">
+        <div className="w-full max-w-[600px] overflow-hidden">
+          <p className="text-gray-400 text-xs px-2 py-1">Iklan</p>
+
+          <div
+            id="container-3e6a8b566d88898a7b592eb0a7c4242a"
+            style={{
+              width: "100%",
+              minHeight: "100px",
+              overflow: "hidden",
+            }}
+          />
         </div>
       </div>
     </div>

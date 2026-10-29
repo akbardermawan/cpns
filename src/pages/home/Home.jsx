@@ -20,17 +20,16 @@ export default function Home() {
 
   return (
     <div className="container-home">
-      <div className="header">
+      <div className="header flex justify-between">
         <img src="/images/logo.png" alt="logo" className="img" />
-        <span className="span"> ADM </span>
-      </div>
-      {/* Tempat Native Banner */}
-      <div>
-        <p className="text-gray-400 p-4">iklan</p>
-        <div
-          id="container-3e6a8b566d88898a7b592eb0a7c4242a"
-          style={{ minHeight: "100px" }}
-        />
+
+        <a
+          href="https://akbardermawanmac.netlify.app/"
+          className="cursor-pointer"
+          target="_blank"
+        >
+          <span className="span"> ADM </span>
+        </a>
       </div>
 
       <div className="intro flex flex-col">
@@ -74,14 +73,21 @@ export default function Home() {
           </li>
         </ul>
       </div>
-      <div className=" text-center">
-        <a
-          href="https://akbardermawanmac.netlify.app/"
-          className="cursor-pointer"
-          target="_blank"
-        >
-          <span className="span text-black">akbardermawan27@gmail.com</span>
-        </a>
+
+      {/* Tempat Native Banner */}
+      <div className="w-full flex justify-center mt-4">
+        <div className="w-full max-w-5xl  overflow-hidden">
+          <p className="text-gray-400 text-xs px-2 py-1">Iklan</p>
+
+          <div
+            id="container-3e6a8b566d88898a7b592eb0a7c4242a"
+            style={{
+              width: "100%",
+              minHeight: "100px",
+              overflow: "hidden",
+            }}
+          />
+        </div>
       </div>
     </div>
   );

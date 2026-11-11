@@ -14,7 +14,7 @@ export const dataQues = [
   {
     //1 baruvip1
     id: 3,
-    question: "5, 15, ..., 0, -20, -60, -85",
+    question: "5, 15, ..., -5, -35, -25, -55",
     options: ["-30", "-15", "-3", "0"],
   },
   {
@@ -50,7 +50,7 @@ export const dataQues = [
   {
     //2 baruvip1
     id: 7,
-    question: "128, 64, ..., 27, 512, ..., 1024,",
+    question: "128, 64, ..., 27, 512, ..., 1024, 1",
     options: ["216, 9", "144, 8", "256, 8", "54, 9"],
   },
   {

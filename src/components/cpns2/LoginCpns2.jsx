@@ -3,6 +3,8 @@ import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { toast } from "react-toastify";
 
+const AD_SCRIPT_ID = "native-banner-script";
+
 const LoginCpns2 = () => {
   const [userName, setUserName] = useState("");
 
@@ -35,6 +37,20 @@ const LoginCpns2 = () => {
       toast.error("Error login Please try again.");
     }
   }
+
+  //Iklan
+  useEffect(() => {
+    // Hindari memasang script yang sama berulang kali
+    if (document.getElementById(AD_SCRIPT_ID)) return;
+
+    const script = document.createElement("script");
+    script.id = AD_SCRIPT_ID;
+    script.async = true;
+    script.dataset.cfasync = "false";
+    script.src = "https://bauval.org/21/3e6a8b566d88898a7b592eb0a7c4242a";
+
+    document.body.appendChild(script);
+  }, []);
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen bg-white text-black">
@@ -70,6 +86,22 @@ const LoginCpns2 = () => {
             </button>
           </div>
         </form>
+      </div>
+
+      {/* Tempat Native Banner */}
+      <div className="w-full flex justify-center mt-4">
+        <div className="w-full max-w-5xl  overflow-hidden">
+          <p className="text-gray-400 text-xs px-2 py-1">Iklan</p>
+
+          <div
+            id="container-3e6a8b566d88898a7b592eb0a7c4242a"
+            style={{
+              width: "100%",
+              minHeight: "100px",
+              overflow: "hidden",
+            }}
+          />
+        </div>
       </div>
     </div>
   );

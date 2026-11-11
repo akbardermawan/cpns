@@ -3,6 +3,8 @@ import { correctAnswer } from "../../database/cpns2/correctAnswer";
 import { Link } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 
+const AD_SCRIPT_ID = "native-banner-script";
+
 const ResultCpns2 = () => {
   const [userName, setUserName] = useState("");
   const [quizAnswer, setQuizAnswer] = useState([]);
@@ -51,6 +53,20 @@ const ResultCpns2 = () => {
     navigate("/cpns");
   }
 
+  //Iklan
+  useEffect(() => {
+    // Hindari memasang script yang sama berulang kali
+    if (document.getElementById(AD_SCRIPT_ID)) return;
+
+    const script = document.createElement("script");
+    script.id = AD_SCRIPT_ID;
+    script.async = true;
+    script.dataset.cfasync = "false";
+    script.src = "https://bauval.org/21/3e6a8b566d88898a7b592eb0a7c4242a";
+
+    document.body.appendChild(script);
+  }, []);
+
   return (
     <div className="min-h-screen flex flex-col items-center justify-start p-8 bg-gray-100">
       <h1 className="text-2xl md:text-5xl font-bold text-gray-800 mb-8 text-center">
@@ -89,6 +105,22 @@ const ResultCpns2 = () => {
         >
           Return CPNS
         </button>
+      </div>
+
+      {/* Tempat Native Banner */}
+      <div className="w-full flex justify-center mt-4">
+        <div className="w-full max-w-5xl  overflow-hidden">
+          <p className="text-gray-400 text-xs px-2 py-1">Iklan</p>
+
+          <div
+            id="container-3e6a8b566d88898a7b592eb0a7c4242a"
+            style={{
+              width: "100%",
+              minHeight: "100px",
+              overflow: "hidden",
+            }}
+          />
+        </div>
       </div>
     </div>
   );

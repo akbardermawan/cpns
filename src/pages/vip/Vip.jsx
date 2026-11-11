@@ -2,7 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 const AD_SCRIPT_ID = "native-banner-script";
-const AD_SCRIPT_ID2 = "banner-script";
+const AD_SCRIPT_ID2 = "native-banner-script";
 
 const Vip = () => {
   useEffect(() => {
@@ -35,7 +35,7 @@ const Vip = () => {
       secondScript.async = true;
       secondScript.dataset.cfasync = "false";
       secondScript.src =
-        "https://bauval.org/22/bb09e520a6a01af54f3d191c766c0794";
+        "https://bauval.org/21/37022fdab199af4b334488eeae4d8fac";
 
       document.body.appendChild(secondScript);
     }
@@ -115,6 +115,24 @@ const Vip = () => {
           </main>
         </div>
       </div>
+
+      {/* Iklan bawah tengah */}
+      <aside className="w-full flex flex-col items-center justify-center mx-auto py-4">
+        <div className="w-full text-center mb-2">
+          <p className="text-xs text-gray-400 py-1">Iklan</p>
+          <p className="text-sm text-gray-400">
+            maaf ngiklan admin pingen beli cilok
+          </p>
+        </div>
+
+        {/* Iklan pertama native banner */}
+        <div className="w-full flex justify-center items-center">
+          <div
+            id="container-37022fdab199af4b334488eeae4d8fac"
+            className="w-full max-w-[728px] min-h-[100px] flex justify-center items-center"
+          />
+        </div>
+      </aside>
     </div>
   );
 };

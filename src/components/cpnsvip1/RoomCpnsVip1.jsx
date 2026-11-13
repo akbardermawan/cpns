@@ -51,7 +51,7 @@ const RoomCpnsVip1 = () => {
 
   return (
     <div className="min-h-screen w-full bg-gray-100 p-3 md:p-6">
-      <div className="mx-auto flex w-full max-w-7xl flex-col gap-5 md:flex-row md:items-start">
+      <div className="mx-auto flex w-full flex-col gap-5 md:flex-row md:items-start">
         {/* Area Utama Soal */}
         <div className="flex min-w-0 flex-1 flex-col gap-5">
           {/* Header Timer */}
@@ -130,7 +130,7 @@ const RoomCpnsVip1 = () => {
         </div>
 
         {/* Sidebar Navigasi Soal */}
-        <aside className="w-full md:sticky md:top-6 md:w-72 md:shrink-0 lg:w-80">
+        <aside className="w-full md:sticky md:top-6 md:w-72 md:shrink-0 lg:w-96">
           <div className="overflow-hidden rounded-2xl border border-gray-200 bg-white shadow-sm">
             <div className="border-b border-gray-100 bg-gray-50 px-5 py-4">
               <h3 className="font-bold text-gray-800">Navigasi Soal</h3>

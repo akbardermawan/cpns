@@ -97,7 +97,20 @@ const Vip = () => {
                 </h2>
 
                 <p className="mt-2 text-sm text-gray-500">
-                  Akses materi dan latihan soal SKD.
+                  latihan soal SKD dan Pembahasan.
+                </p>
+              </Link>
+
+              <Link
+                to="/cpns+vip2"
+                className="block rounded-xl border border-gray-100 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:bg-blue-50 hover:shadow-lg"
+              >
+                <h2 className="text-xl font-bold text-gray-800 sm:text-2xl">
+                  VIP SKD 2
+                </h2>
+
+                <p className="mt-2 text-sm text-gray-500">
+                  Latihan soal SKD dan Pembahsan.
                 </p>
               </Link>
 
@@ -106,7 +119,7 @@ const Vip = () => {
                 aria-disabled="true"
               >
                 <h2 className="text-xl font-bold text-gray-400 sm:text-2xl">
-                  VIP SKD 2
+                  VIP SKD 3
                 </h2>
 
                 <p className="mt-2 text-sm text-gray-400">Segera hadir</p>

@@ -51,6 +51,9 @@ import Vip from "../pages/vip/Vip";
 import LoginCpnsVip1 from "../components/cpnsvip1/LoginCpnsVip1";
 import RoomCpnsVip1 from "../components/cpnsvip1/RoomCpnsVip1";
 import ResultCpnsVip1 from "../components/cpnsvip1/ResultCpnsVip1";
+import LoginCpnsVip2 from "../components/cpnsvip2/LoginCpnsVip2";
+import RoomCpnsVip2 from "../components/cpnsvip2/RoomCpnsVip2";
+import ResultCpnsVip2 from "../components/cpnsvip2/ResultCpnsVip2";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -114,6 +117,10 @@ const router = createBrowserRouter(
       <Route path="/cpns+vip1" element={<LoginCpnsVip1 />} />
       <Route path="/roomcpnsvip1" element={<RoomCpnsVip1 />} />
       <Route path="/resultcpnsvip1" element={<ResultCpnsVip1 />} />
+
+      <Route path="/cpns+vip2" element={<LoginCpnsVip2 />} />
+      <Route path="/roomcpnsvip2" element={<RoomCpnsVip2 />} />
+      <Route path="/resultcpnsvip2" element={<ResultCpnsVip2 />} />
     </Route>,
   ),
 );

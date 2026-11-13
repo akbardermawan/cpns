@@ -1,84 +1,118 @@
 export const dataQues = [
   {
-    //0 baruvip1
+    //1 baruvip2
     id: 1,
-    question: " 2.026² - 2.020² = ...",
-    options: ["24.276", "42.462", "64.386", "82.684"],
+    question:
+      "Undang-Undang yang mengatur tentang usaha pembelaan dan pertahanan negara diatur dalam ...",
+    options: [
+      "UU No. 32 Tahun 2004",
+      "UU No. 3 Tahun 2002",
+      "UU No. 3 Tahun 2004",
+      "UU No. 32 Tahun 2002",
+    ],
   },
   {
-    //3 baruvip1
+    //1 baruvip2
     id: 2,
-    question: "3/4 + 63/5 x 7 + 2 = ...",
-    options: ["88,50", "89,95", "90,55", "90,95"],
+    question:
+      "Integritas selalu berkaitan dengan kredibilitas. Dimana kredibilitas menyangkut tentang keterampilan atau kemampuan, sedangkan integritas berkaitan dengan ...",
+    options: ["Kepribadian", "Hati", "Prilaku", "Pengetahuan"],
   },
   {
-    //1 baruvip1
+    //0 baruvip2
     id: 3,
-    question: "5, 15, ..., -5, -35, -25, -55",
-    options: ["-30", "-15", "-3", "0"],
+    question: "Maksud dari etika penegakan hukum berkeadilan adalah...",
+    options: [
+      "Menumbuhkan tertib sosial, ketenangan, dan peraturan hidup bersama",
+      "Meningkatkan kesadaran hukum bagi sesama tanpa pandang bulu",
+      "Persamaan di muka hukum",
+      "Kepastian hukum bagi seluruh warga negara",
+    ],
   },
   {
-    //2 baruvip1
+    //2 baruvip2
     id: 4,
     question:
-      "Suatu proyek dapat diselesaikan oleh 40 orang dalam waktu 30 hari. Setelah 12 hari bekerja, 25% pekerjaan seluruh proyek ternyata harus diulang sehingga total beban pekerjaan bertambah. Pada saat yang sama, jumlah pekerja dikurangi menjadi 32 orang.\nNilai X = 40 dan Y = banyak hari total yang diperlukan sejak awal hingga proyek selesai.\nManakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan?",
-    options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
-    ],
+      "Konsep integritas nasional yang dikonsepkan oleh KPK terdiri atas ...",
+    options: ["5 nilai", "7 nilai", "9 nilai", "13 nilai"],
   },
   {
-    //0 baruvip1
+    //1 baruvip2
     id: 5,
     question:
-      " Nilai X = 2222/3333 dan Y = 444/666 . Manakah hubungan yang benar antara kuantitas X dan Y berikut berdasarkan informasi yang diberikan ...  ",
+      "Bentuk ketahanan nasional Indonesia yang memperhatikan kondisi geografis disebut sebagai ...",
     options: [
-      "X = Y ",
-      "X > Y",
-      "X < Y ",
-      "Hubungan X dan Y tidak dapat ditentukan",
+      "Island state",
+      "Archipelagic state",
+      "Common state",
+      "Nation state",
     ],
   },
   {
-    //3 baruvip1
+    //2 baruvip2
     id: 6,
-    question: "224658, 224672, 224688, 224706, 224726, ...",
-    options: ["224740", "224736", "224746", "224748"],
+    question:
+      "Kondisi tingginya tingkat penganguran dalam suatu negara dapat mengancam ...",
+    options: [
+      "Pertahanan dan keamanan",
+      "Rekrutmen politik",
+      "Stabilitas politik",
+      "Sikap kemandirian bangsa",
+    ],
   },
   {
-    //2 baruvip1
+    //0 baruvip2
     id: 7,
-    question: "128, 64, ..., 27, 512, ..., 1024,",
-    options: ["216, 9", "144, 8", "256, 8", "54, 9"],
+    question: "Hakikat penyelenggaraan pertahanan negara didasarkan pada ...",
+    options: [
+      "Kesadaran atas hak dan kewajiban warga negara",
+      "Kemampuan aparatur negara (militer) dan sumber daya nasional",
+      "Pelaksanan UUD 1945 sebagai kewajiban dasar warga negara",
+      "Ideologi Pancasila yang menjadi sumber kekuatan bangsa",
+    ],
   },
   {
-    //0 baruvip1
+    //3 baruvip2
     id: 8,
-    question: "1/4, 1/2, 3/4, 1, 5/4, ...",
-    options: ["3/2", "7/4", "2", "9/4"],
+    question:
+      "Berikut ini yang bukan termasuk landasan hukum kewajiban bela negara adalah ...",
+    options: [
+      "UUD 1945 Pasal 27 ayat 3",
+      "UUD 1945 Pasal 30 ayat 1",
+      "UU No. 3 Tahun 2022",
+      "UU No. 21 Tahun 2003",
+    ],
   },
   {
-    //3 baruvip1
+    //0 baruvip2
     id: 9,
     question:
-      "Aji jalan santai melalui lintasan memutar dengan kecepatan 4 km/jam. Sementara Dono melakukan jogging ringan di lintasan yang sama. Baik Aji dan Dono mulai di waktu yang bersamaan. Berapa kecepatan jogging Dono jika saat Aji menyelesaikan putaran ke 2 bersamaan dengan Dono yang menyelesaikan putaran ke 5.",
-    options: ["5 km/jam", "6 km/jam", "9 km/jam", "10 km/jam"],
+      "Polemik empat pilar kebangsaan yang digagas Taufik  Kiemas mengalami problematika terhadap kedudukan ...",
+    options: ["Pancasila", "UUD 1945", "NKRI", "Bineka Tunggal Ika"],
   },
   {
-    //3 baruvip1
+    //3 baruvip2
     id: 10,
     question:
-      "A sedang dalam perjalanan menuju kota X dengan kecepatan 80 km/jam. Satu jam setelah keberangkatan A, B berangkat menyusul. B akhirnya berhasil menyusul A setelah 4 jam perjalanan. Berapa kecepatan B?",
-    options: ["85 km/jam", "90 km/jam", "95 km/jam", "100 km/jam"],
+      "Memupuk rasa nasionalisme kebangsaan bagi masyarakat Indonesia berdasarkan keberagaman suku, agama ras, dan antar golongan agar ...",
+    options: [
+      "Moralitas bangsa terjaga",
+      "Terciptanya kedaulatan bangsa",
+      "Identitas nasional terjaga",
+      "Tidak kehilangan kepribadian bangsa",
+    ],
   },
   {
-    //0 baruvip1
+    //0 baruvip2
     id: 11,
     question:
-      "Seorang penjual buah menambah stok 180 buah apel di tokonya yang terdiri dari 80 apel hijau dan 100 apel merah. Dengan penambahan ini maka jumlah apel merah menjadi 80 buah lebih banyak dari apel hijau. Berapa jumlah apel merah sebelum penambahan jika sekarang jumlah seluruh apel adalah 500 buah.",
-    options: ["190 buah", "210 buah", "240 buah", "260 buah"],
+      "Integritas bedasarkan kompetensi KPK memiliki pengertian bahwa ...",
+    options: [
+      "Bertindak sesuai perkataan dan tindakan sesuai dengan nilai secara konsisten",
+      "Patuh pada kode etik dalam perkataan dan perbuatan",
+      "Berkepribadian utuh yang menunjukan nilai moral dan etika",
+      "Kepribadian yang membawa marwah bangsa dan negara sebagai identitas nasional",
+    ],
   },
   {
     //1 baruvip1
@@ -241,39 +275,37 @@ export const dataQues = [
     ],
   },
   {
-    //2 baruvip1
+    //0 baruvip2
     id: 30,
-    question:
-      "Tanah longsor terjadi bila gaya pendorong pada lereng lebih besar daripada gaya penahan. Gaya penahan umumnya dipengaruhi oleh kekuatan batuan dan kepadatan tanah. Akan tetapi gaya pendorong dipengaruhi oleh besarnya sudut kemiringan lereng, air, beban dan berat jenis tanah batuan. Lemahnya gaya penahan dan kuatnya gaya pendorong akan menimbulkan terjadinya tanah longsor. Ancaman tanah longsor biasanya terjadi pada musim penghujan karena intensitas curah hujan meningkat.\nPerbaikan penggunaan tanda baca pada kalimat dalam paragraf tersebut adalah ...",
+    question: "BAJAU : Memukul = ... : ...",
     options: [
-      "Tanah longsor terjadi, bila gaya pendorong pada lereng lebih besar daripada gaya penahan",
-      "Gaya penahan umumnya, dipengaruhi oleh kekuatan batuan dan kepadatan tanah.",
-      "Akan tetapi, gaya pendorong dipengaruhi oleh besarnya sudut kemiringan lereng, air, beban, dan berat jenis tanah batuan.",
-      "Lemahnya gaya penahan, dan kuatnya gaya pendorong, akan menimbulkan terjadinya tanah longsor.",
+      "Provokasi : Gangguan",
+      "Marka : Garis",
+      "Berangkat : Tiba",
+      "Baju : Kain",
     ],
   },
   {
-    //2 baruvip1
+    //0 baruvip2
     id: 31,
-    question:
-      'Hubungan objek pada kalimat "Dokter memeriksa pasien, memberikan resep dan menasihati keluarga pasien."\nSetara dengan...',
+    question: "TIRANA : ALBANIA = ... : ...",
     options: [
-      "Nelayan menjaring ikan, menyortir kepiting dan menjual hasil tangkapan di pasar.",
-      "Penulis mengetik naskah, mencetak dokumen dan mengedit hasil tulisan.",
-      "Polisi menilang pengendara, mencatat pelanggaran dan mengamankan barang bukti.",
-      "Koki memotong daging, menyiapkan bumbu dan menghidangkan masakan lezat.",
+      "Manat : Azerbaijan",
+      "Bostwana : Gaborone",
+      "Yuan : China",
+      "Santiago : Brazil",
     ],
   },
   {
-    //2 baruvip1
+    //3 baruvip2
     id: 32,
     question:
-      "Tidak ada warga desa A yang memiliki sepeda warna kuning.\nSepeda bewarna merah terpakir di depan kantor kecamatan X.Kesimpulan dari kedua premis tersebut adalah... ",
+      'Konvers pernyataan "Jika saya mengantuk maka saya akan tidur" adalah...',
     options: [
-      "Sepeda berwarna merah yang terparkir di depan kantor kecapamatan X berasal dari Desa A",
-      "Semua berwarna merah yang terparkir di depan kantor kecamatan X berasl dari Desa A",
-      "Sepeda berwarna merah yang terparkir di depan kantor kecamatan X mungkin berasal dari Desa A",
-      "Sepeda berwarna kuning terparkir di depan kantor kecamatan X",
+      "Jika saya mengantuk, saya tidak tidur",
+      "Saya tidak mengantuk dan saya tidak tidur",
+      "Jika saya tidur maka saya mengantuk",
+      "Jika saya tidak tidur maka saya tidak mengantuk",
     ],
   },
   {

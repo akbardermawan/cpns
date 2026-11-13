@@ -1,5 +1,6 @@
 import { ToastContainer } from "react-toastify";
 import { Outlet } from "react-router-dom";
+import MonetagAd from "./components/monetag/MonetagAd";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       </section>
       <ToastContainer />
       <main className="">
+        <MonetagAd />
         <Outlet />
       </main>
     </>
